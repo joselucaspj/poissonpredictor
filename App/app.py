@@ -14,4 +14,4 @@ import joblib
 import warnings
 
 st.title('Poisson com aprendizado de máquina')
-st.subTitle('Jogos do dia')
+st.subheader('Jogos do dia')
