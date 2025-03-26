@@ -1,0 +1,12 @@
+streamlit
+requests
+StringIO
+pandas
+train_test_split
+LinearRegression
+mean_squared_error
+numpy
+pdb
+poisson
+joblib
+warnings
