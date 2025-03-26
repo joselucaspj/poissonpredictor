@@ -10,4 +10,4 @@ pdb
 poisson
 joblib
 warnings
-sklearn
+scikit-learn
