@@ -289,7 +289,7 @@ def top_results_df(simulated_results, top_n):
 def media_gols_marcados_HA_ultimos_n_jogos(df, equipe,liga,data_filtro,gols, n):
 
     df_equipe = df[((df['Home_Team_ID'] == equipe) | (df['Away_Team_ID'] == equipe)) & (df['League_ID'] == liga) & (df['Date'] < data_filtro)].tail(n)
-    #display(df_equipe)
+    
     if df_equipe.shape[0] == 0:
       resultado_media_gm_h_ha = gols
     else:
@@ -395,7 +395,7 @@ jogos_do_dia['Away_Team_ID'] = jogos_do_dia['AwayTeam'].map(times_dicionario.set
 base['League_ID'] = base['League'].map(ligas_dicionario.set_index('League')['League_ID'])
 base['Home_Team_ID'] = base['HomeTeam'].map(times_dicionario.set_index('Team')['Team_ID'])
 base['Away_Team_ID'] = base['AwayTeam'].map(times_dicionario.set_index('Team')['Team_ID'])
-display(jogos_do_dia)
+
 jogos_do_dia = drop_reset_index(jogos_do_dia)
 base = drop_reset_index(base)
 jogos_do_dia['Media_GM_H_HA'] = jogos_do_dia.apply(lambda row: media_gols_marcados_HA_ultimos_n_jogos(base, row['Home_Team_ID'], row['League_ID'],row['Date'],0, 5), axis=1)
@@ -479,7 +479,7 @@ X_test = jogos_do_dia[features]
 predicted = model.predict(X_test)
 jogos_do_dia['Predicted_Goals_H'] = predicted[:, 0]
 jogos_do_dia['Predicted_Goals_A'] = predicted[:, 1]
-display(jogos_do_dia['Predicted_Goals_H'])
+
 num_simulations = 10000
 for indice, row in jogos_do_dia.iterrows():
         home_goals = row['Predicted_Goals_H']
