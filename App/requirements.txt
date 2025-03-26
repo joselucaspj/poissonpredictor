@@ -1,11 +1,8 @@
 streamlit
-requests
-StringIO
-os
 pandas
-sklearn
-numpy
-pdb
-poisson
+scikit-learn
+gdown
 joblib
-warnings
+requests
+numpy
+scipy
