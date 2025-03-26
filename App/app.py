@@ -20,23 +20,17 @@ urls = {
     "Inglaterra - Premiere League": [
         "https://www.football-data.co.uk/mmz4281/2425/E0.csv",
         "https://www.football-data.co.uk/mmz4281/2324/E0.csv",
-        "https://www.football-data.co.uk/mmz4281/2223/E0.csv",
-        "https://www.football-data.co.uk/mmz4281/2122/E0.csv",
-        "https://www.football-data.co.uk/mmz4281/2021/E0.csv"
+        
     ],
     "Escócia - Premiere League": [
         "https://www.football-data.co.uk/mmz4281/2425/SC0.csv",
         "https://www.football-data.co.uk/mmz4281/2324/SC0.csv",
-        "https://www.football-data.co.uk/mmz4281/2223/SC0.csv",
-        "https://www.football-data.co.uk/mmz4281/2122/SC0.csv",
-        "https://www.football-data.co.uk/mmz4281/2021/SC0.csv"
+        
     ],
     "Alemanha - Bundesliga 1": [
         "https://www.football-data.co.uk/mmz4281/2425/D1.csv",
         "https://www.football-data.co.uk/mmz4281/2324/D1.csv",
-        "https://www.football-data.co.uk/mmz4281/2223/D1.csv",
-        "https://www.football-data.co.uk/mmz4281/2122/D1.csv",
-        "https://www.football-data.co.uk/mmz4281/2021/D1.csv"
+        
     ],
     "Itália - Serie A": [
         "https://www.football-data.co.uk/mmz4281/2425/I1.csv",
@@ -48,51 +42,34 @@ urls = {
     "Espanha - La Liga": [
         "https://www.football-data.co.uk/mmz4281/2425/SP1.csv",
         "https://www.football-data.co.uk/mmz4281/2324/SP1.csv",
-        "https://www.football-data.co.uk/mmz4281/2223/SP1.csv",
-        "https://www.football-data.co.uk/mmz4281/2122/SP1.csv",
-        "https://www.football-data.co.uk/mmz4281/2021/SP1.csv"
+        
     ],
     "França - Primeira divisão": [
         "https://www.football-data.co.uk/mmz4281/2425/F1.csv",
         "https://www.football-data.co.uk/mmz4281/2324/F1.csv",
-        "https://www.football-data.co.uk/mmz4281/2223/F1.csv",
-        "https://www.football-data.co.uk/mmz4281/2122/F1.csv",
-        "https://www.football-data.co.uk/mmz4281/2021/F1.csv"
+        
     ],
     "Holanda": [
         "https://www.football-data.co.uk/mmz4281/2425/N1.csv",
         "https://www.football-data.co.uk/mmz4281/2324/N1.csv",
-        "https://www.football-data.co.uk/mmz4281/2223/N1.csv",
-        "https://www.football-data.co.uk/mmz4281/2122/N1.csv",
-        "https://www.football-data.co.uk/mmz4281/2021/N1.csv"
+        
     ],
     "Bélgica": [
         "https://www.football-data.co.uk/mmz4281/2425/B1.csv",
         "https://www.football-data.co.uk/mmz4281/2324/B1.csv",
-        "https://www.football-data.co.uk/mmz4281/2223/B1.csv",
-        "https://www.football-data.co.uk/mmz4281/2122/B1.csv",
-        "https://www.football-data.co.uk/mmz4281/2021/B1.csv"
     ],
     "Portugal - Liga 1": [
         "https://www.football-data.co.uk/mmz4281/2425/P1.csv",
         "https://www.football-data.co.uk/mmz4281/2324/P1.csv",
-        "https://www.football-data.co.uk/mmz4281/2223/P1.csv",
-        "https://www.football-data.co.uk/mmz4281/2122/P1.csv",
-        "https://www.football-data.co.uk/mmz4281/2021/P1.csv"
     ],
     "Turquia - Liga 1": [
         "https://www.football-data.co.uk/mmz4281/2425/T1.csv",
         "https://www.football-data.co.uk/mmz4281/2324/T1.csv",
-        "https://www.football-data.co.uk/mmz4281/2223/T1.csv",
-        "https://www.football-data.co.uk/mmz4281/2122/T1.csv",
-        "https://www.football-data.co.uk/mmz4281/2021/T1.csv"
     ],
     "Grecia": [
         "https://www.football-data.co.uk/mmz4281/2425/G1.csv",
         "https://www.football-data.co.uk/mmz4281/2324/G1.csv",
-        "https://www.football-data.co.uk/mmz4281/2223/G1.csv",
-        "https://www.football-data.co.uk/mmz4281/2122/G1.csv",
-        "https://www.football-data.co.uk/mmz4281/2021/G1.csv"
+        
     ],
     "Argentina": ["https://www.football-data.co.uk/new/ARG.csv"],
     "Austria": ["https://www.football-data.co.uk/new/AUT.csv"],
@@ -162,6 +139,7 @@ for league_name, league_urls in urls.items():
 if all_leagues:
     compiled_data = pd.concat(all_leagues, ignore_index=True)
 
+url = "https://www.football-data.co.uk/fixtures.csv"
 league_mapping = {
     'E0': 'Inglaterra - Premiere League',
     'SC0': 'Escócia - Premiere League',
@@ -542,4 +520,4 @@ pridict_winner = modelo_winner.predict(jogos_do_dia[classification_features])
 jogos_do_dia['Predict_winner']= pridict_winner
 jogos_do_dia = jogos_do_dia[['League', 'Date', 'TIME', 'HomeTeam', 'AwayTeam','Predict_winner']]
 jogos_do_dia.columns = ['League', 'Date', 'TIME', 'HomeTeam', 'AwayTeam','Predict_winner']
-st.dataframe(compiled_data)
+st.dataframe(jogos_do_dia)
