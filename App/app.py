@@ -13,5 +13,5 @@ from scipy.stats import poisson
 import joblib
 import warnings
 
-st.title("Poisson com aprendizado de máquina)
-st.subTitle("Jogos do dia")
+st.title('Poisson com aprendizado de máquina')
+st.subTitle('Jogos do dia')
