@@ -408,8 +408,8 @@ base = compiled_data
 model_gols, model_winner = load_models()
 base['Date'] = pd.to_datetime(base['Date'], dayfirst=True)
 base = base[(base['Date'].dt.year >= 2020)]
-ligas_dicionario = pd.read_csv('ligas_dicionario.csv')
-times_dicionario = pd.read_csv('times_dicionario.csv')
+ligas_dicionario = pd.read_csv('https://raw.githubusercontent.com/joselucaspj/poissonpredictor/refs/heads/main/App/assets/ligas_dicionario.csv')
+times_dicionario = pd.read_csv('https://github.com/joselucaspj/poissonpredictor/raw/refs/heads/main/App/assets/times_dicionario.csv')
 
 jogos_do_dia['League_ID'] = jogos_do_dia['League'].map(ligas_dicionario.set_index('League')['League_ID'])
 jogos_do_dia['Home_Team_ID'] = jogos_do_dia['HomeTeam'].map(times_dicionario.set_index('Team')['Team_ID'])
