@@ -160,7 +160,5 @@ for league_name, league_urls in urls.items():
 # Concatenar todos os dados em um único DataFrame
 if all_leagues:
     compiled_data = pd.concat(all_leagues, ignore_index=True)
-    
-    # Salvar os dados compilados em um arquivo CSV
-    print(f"Dados compilados salvos em {compiled_filename}.")
+   
 st.dataframe(compiled_data)
