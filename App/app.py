@@ -529,11 +529,11 @@ def main():
     # Aplicar filtros
     if len(date_range) == 2:
          mask = (
-                (df['League'].isin(ligas)) &
-                (df['Date'] >= date_range[0]) &
-                (df['Date'] <= date_range[1]) &
-                (df['prediction_confidence'] >= conf_range)
-            )
+                    (df['League'].isin(ligas)) &
+                    (df['Date'] >= date_range[0]) &
+                    (df['Date'] <= date_range[1]) &
+                    (df['prediction_confidence'] >= conf_range)
+                )
         filtered_df = df[mask]
     else:
         filtered_df = df
