@@ -530,7 +530,7 @@ jogos_do_dia['Tip'] = np.where(jogos_do_dia['Predict_winner'] == 1, "Home",
                                 np.where(jogos_do_dia['Predict_winner'] == 2, "Away", "Draw"))
 jogos_do_dia = jogos_do_dia[['League', 'Date', 'TIME', 'HomeTeam', 'AwayTeam','Tip','prediction_confidence']]
 jogos_do_dia.columns = ['League', 'Date', 'TIME', 'HomeTeam', 'AwayTeam','Tip','prediction_confidence']
-st.dataframe(jogos_do_dia)
+#st.dataframe(jogos_do_dia)
 jogos_do_dia['Date'] = pd.to_datetime(jogos_do_dia['Date'])
 @st.cache_data
 def load_data():
@@ -542,7 +542,7 @@ df = load_data()
 
 # 2. Pré-processamento (executa uma vez)
 if 'df_processed' not in st.session_state:
-    df['Date'] = pd.to_datetime(df['Date'])
+    df['Date'] = pd.to_datetime(df['Date']).dt.date  # Convertendo para date (sem hora)
     st.session_state.df_processed = df.copy()
 
 # 3. Filtros na sidebar
@@ -552,21 +552,36 @@ with st.sidebar:
     # Widgets filtram o session_state, não recarregam dados
     ligas = st.multiselect('Ligas', options=df['League'].unique(), default=df['League'].unique())
     
-    date_range = st.date_input(
-        'Datas',
-        value=[df['Date'].min(), df['Date'].max()],
-        min_value=df['Date'].min(),
-        max_value=df['Date'].max()
-    )
+    # Corrigindo o date_input para lidar com range
+    try:
+        date_range = st.date_input(
+            'Intervalo de Datas',
+            value=[df['Date'].min(), df['Date'].max()],
+            min_value=df['Date'].min(),
+            max_value=df['Date'].max()
+        )
+        
+        # Garantir que temos duas datas selecionadas
+        if len(date_range) != 2:
+            st.warning("Por favor, selecione um intervalo de datas (duas datas)")
+            date_range = [df['Date'].min(), df['Date'].max()]
+    except Exception as e:
+        st.error(f"Erro ao processar datas: {e}")
+        date_range = [df['Date'].min(), df['Date'].max()]
     
-    conf_range = st.slider('Confiança', 0.0, 1.0, (0.7, 1.0))
+    conf_range = st.slider('Confiança Mínima', 0.0, 1.0, 0.7)
 
 # 4. Aplicar filtros no DataFrame em memória
-filtered_df = st.session_state.df_processed[
-    (st.session_state.df_processed['League'].isin(ligas)) &
-    (st.session_state.df_processed['Date'].between(*date_range)) &
-    (st.session_state.df_processed['prediction_confidence'].between(*conf_range))
-]
+try:
+    filtered_df = st.session_state.df_processed[
+        (st.session_state.df_processed['League'].isin(ligas)) &
+        (st.session_state.df_processed['Date'] >= date_range[0]) &
+        (st.session_state.df_processed['Date'] <= date_range[1]) &
+        (st.session_state.df_processed['prediction_confidence'] >= conf_range)
+    ]
+except Exception as e:
+    st.error(f"Erro ao filtrar dados: {e}")
+    filtered_df = st.session_state.df_processed
 
 # 5. Exibição (não recarrega dados)
 st.dataframe(filtered_df)
