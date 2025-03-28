@@ -507,7 +507,7 @@ def main():
     times_dicionario = load_team_mapping()
     
     # Processa os dados principais
-    df = process_main_data(model_gols, model_winner)
+    df = process_main_data(model_gols, model_winner,ligas_dicionario,times_dicionario)
     
     # Garante que a coluna Date está no formato datetime
     df['Date'] = pd.to_datetime(df['Date']).dt.date  # Convertendo para date (sem hora)
