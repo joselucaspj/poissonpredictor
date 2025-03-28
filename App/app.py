@@ -163,7 +163,7 @@ def get_compiled_data():
         compiled_data = pd.concat(all_leagues, ignore_index=True)
     return complied_data
 
-def get_todays_matches()
+def get_todays_matches():
     url = "https://www.football-data.co.uk/fixtures.csv"
     league_mapping = {
         'E0': 'Inglaterra - Premiere League',
