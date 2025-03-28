@@ -507,15 +507,18 @@ def main():
     times_dicionario = load_team_mapping()
     
     # Processa os dados principais
-    df = process_main_data(model_gols, model_winner, ligas_dicionario, times_dicionario)
+    df = process_main_data(model_gols, model_winner)
+    
+    # Garante que a coluna Date está no formato datetime
     df['Date'] = pd.to_datetime(df['Date']).dt.date  # Convertendo para date (sem hora)
+    
     # Filtros na sidebar
     with st.sidebar:
         st.header('⚙️ Filtros')
         ligas = st.multiselect('Ligas', options=df['League'].unique(), default=df['League'].unique())
         
-        date_col = pd.to_datetime(df['Date'])
-        min_date, max_date = date_col.min(), date_col.max()
+        # Obtém min e max date do DataFrame já convertido
+        min_date, max_date = df['Date'].min(), df['Date'].max()
         
         date_range = st.date_input(
             'Intervalo de Datas',
@@ -526,19 +529,22 @@ def main():
         
         conf_range = st.slider('Confiança Mínima', 0.0, 1.0, 0.7, 0.05)
     
-    # Aplicar filtros
-    if len(date_range) == 2:
-        mask = (
-            (df['League'].isin(ligas)) &
-            (pd.to_datetime(df['Date']).between(*date_range)) &
-            (df['prediction_confidence'] >= conf_range)
-        )
-        filtered_df = df[mask]
-    else:
+    # Aplicar filtros - agora comparando date com date
+    try:
+        if len(date_range) == 2:
+            mask = (
+                (df['League'].isin(ligas)) &
+                (df['Date'] >= date_range[0]) &
+                (df['Date'] <= date_range[1]) &
+                (df['prediction_confidence'] >= conf_range)
+            )
+            filtered_df = df[mask]
+        else:
+            st.warning("Selecione um intervalo de datas válido")
+            filtered_df = df
+    except Exception as e:
+        st.error(f"Erro ao filtrar: {str(e)}")
         filtered_df = df
     
     # Exibir resultados
     st.dataframe(filtered_df)
-
-if __name__ == "__main__":
-    main()
