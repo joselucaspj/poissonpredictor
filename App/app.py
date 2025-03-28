@@ -524,11 +524,8 @@ classification_features = features + ['Placar 0_H', 'Placar 0_A','Probabilidade 
 modelo_winner = model_winner
 pridict_winner = modelo_winner.predict(jogos_do_dia[classification_features])
 jogos_do_dia['Predict_winner']= pridict_winner
-if hasattr(modelo_winner, "predict_proba"):
-    probabilities = modelo_winner.predict_proba(jogos_do_dia[classification_features])
-    jogos_do_dia['prediction_confidence'] = np.max(probabilities, axis=1)
 jogos_do_dia['Tip'] = np.where(jogos_do_dia['Predict_winner'] == 1, "Home",
                                 np.where(jogos_do_dia['Predict_winner'] == 2, "Away", "Draw"))
-jogos_do_dia = jogos_do_dia[['League', 'Date', 'TIME', 'HomeTeam', 'AwayTeam','Tip','prediction_confidence']]
-jogos_do_dia.columns = ['League', 'Date', 'TIME', 'HomeTeam', 'AwayTeam','Tip','prediction_confidence']
+jogos_do_dia = jogos_do_dia[['League', 'Date', 'TIME', 'HomeTeam', 'AwayTeam','Tip']]
+jogos_do_dia.columns = ['League', 'Date', 'TIME', 'HomeTeam', 'AwayTeam','Tip']
 st.dataframe(jogos_do_dia)
