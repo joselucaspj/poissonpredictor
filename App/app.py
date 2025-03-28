@@ -531,7 +531,7 @@ jogos_do_dia['Tip'] = np.where(jogos_do_dia['Predict_winner'] == 1, "Home",
 jogos_do_dia = jogos_do_dia[['League', 'Date', 'TIME', 'HomeTeam', 'AwayTeam','Tip','prediction_confidence']]
 jogos_do_dia.columns = ['League', 'Date', 'TIME', 'HomeTeam', 'AwayTeam','Tip','prediction_confidence']
 #st.dataframe(jogos_do_dia)
-
+jogos_do_dia['Date'] = pd.to_datetime(jogos_do_dia['Date'])
 @st.cache_data
 def load_data():
     # Seu código de carregamento aqui
