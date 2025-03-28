@@ -79,7 +79,7 @@ def top_results_df(simulated_results, top_n):
 def media_gols_marcados_HA_ultimos_n_jogos(df, equipe,liga,data_filtro,gols, n):
 
     df_equipe = df[((df['Home_Team_ID'] == equipe) | (df['Away_Team_ID'] == equipe)) & (df['League_ID'] == liga) & (df['Date'] < data_filtro)].tail(n)
-    display(df_equipe)
+    #display(df_equipe)
     if df_equipe.shape[0] == 0:
       resultado_media_gm_h_ha = gols
     else:
@@ -99,7 +99,6 @@ def media_gols_sofridos_HA_ultimos_n_jogos(df, equipe,liga,data_filtro,gols, n):
 
 def media_gols_Marcados_vs_media_gols_Sofridos(df, equipe,liga,data_filtro,media_gols, n):
     df_equipe = df[((df['Home'] == equipe) | (df['Away'] == equipe)) & (df['League'] == liga) & (df['Date'] < data_filtro)]
-    #display(df_equipe)
     if df_equipe.shape[0] == 0:
       resultado_media_gs_h_ha = 0
     else:
