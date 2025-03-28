@@ -530,61 +530,43 @@ jogos_do_dia['Tip'] = np.where(jogos_do_dia['Predict_winner'] == 1, "Home",
                                 np.where(jogos_do_dia['Predict_winner'] == 2, "Away", "Draw"))
 jogos_do_dia = jogos_do_dia[['League', 'Date', 'TIME', 'HomeTeam', 'AwayTeam','Tip','prediction_confidence']]
 jogos_do_dia.columns = ['League', 'Date', 'TIME', 'HomeTeam', 'AwayTeam','Tip','prediction_confidence']
-st.dataframe(jogos_do_dia)
-import streamlit as st
-import pandas as pd
+#st.dataframe(jogos_do_dia)
 
-# 1. Pré-processamento (garantir que a data está no formato correto)
-jogos_do_dia['Date'] = pd.to_datetime(jogos_do_dia['Date'])
+@st.cache_data
+def load_data():
+    # Seu código de carregamento aqui
+    return jogos_do_dia  # DataFrame original
 
-# 2. Sidebar com filtros
-st.sidebar.header('⚙️ Filtros')
+# Carrega os dados (usando cache)
+df = load_data()
 
-# Filtro por Liga
-ligas = jogos_do_dia['League'].unique()
-selected_league = st.sidebar.multiselect(
-    'Selecione as Ligas',
-    options=ligas,
-    default=ligas
-)
+# 2. Pré-processamento (executa uma vez)
+if 'df_processed' not in st.session_state:
+    df['Date'] = pd.to_datetime(df['Date'])
+    st.session_state.df_processed = df.copy()
 
-# Filtro por Data (corrigido)
-min_date = jogos_do_dia['Date'].min().date()
-max_date = jogos_do_dia['Date'].max().date()
-
-selected_dates = st.sidebar.date_input(
-    'Selecione o intervalo de datas',
-    value=[min_date, max_date],
-    min_value=min_date,
-    max_value=max_date
-)
-
-# Filtro por Confiança
-min_conf, max_conf = st.sidebar.slider(
-    'Nível de Confiança',
-    min_value=0.0,
-    max_value=1.0,
-    value=(0.7, 1.0),
-    step=0.05
-)
-
-# 3. Aplicar filtros (com tratamento de datas)
-if len(selected_dates) == 2:
-    start_date = pd.to_datetime(selected_dates[0])
-    end_date = pd.to_datetime(selected_dates[1])
+# 3. Filtros na sidebar
+with st.sidebar:
+    st.header('⚙️ Filtros')
     
-    filtered_df = jogos_do_dia[
-        (jogos_do_dia['League'].isin(selected_league)) &
-        (jogos_do_dia['Date'].between(start_date, end_date)) &
-        (jogos_do_dia['prediction_confidence'].between(min_conf, max_conf))
-    ]
-else:
-    st.warning("Selecione um intervalo de datas válido")
-    filtered_df = jogos_do_dia.copy()
+    # Widgets filtram o session_state, não recarregam dados
+    ligas = st.multiselect('Ligas', options=df['League'].unique(), default=df['League'].unique())
+    
+    date_range = st.date_input(
+        'Datas',
+        value=[df['Date'].min(), df['Date'].max()],
+        min_value=df['Date'].min(),
+        max_value=df['Date'].max()
+    )
+    
+    conf_range = st.slider('Confiança', 0.0, 1.0, (0.7, 1.0))
 
-# 4. Exibir resultados
-st.dataframe(
-    filtered_df.sort_values(['prediction_confidence', 'Date'], ascending=[False, True]),
-    use_container_width=True,
-    height=600
-)
+# 4. Aplicar filtros no DataFrame em memória
+filtered_df = st.session_state.df_processed[
+    (st.session_state.df_processed['League'].isin(ligas)) &
+    (st.session_state.df_processed['Date'].between(*date_range)) &
+    (st.session_state.df_processed['prediction_confidence'].between(*conf_range))
+]
+
+# 5. Exibição (não recarrega dados)
+st.dataframe(filtered_df)
