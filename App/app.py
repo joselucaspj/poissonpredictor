@@ -205,7 +205,11 @@ def download_todays_matches():
         
         # Converter e ordenar por data e hora
         df['datetime'] = pd.to_datetime(df['Date'] + ' ' + df['TIME'], dayfirst=True)
-        df = df.sort_values('datetime').drop('datetime', axis=1)
+        origin_tz = timezone('Europe/London')  # Considera horário de verão automaticamente
+        df['datetime'] = df['datetime'].dt.tz_localize(origin_tz, ambiguous='NaT')
+        df['TIME_BRASIL'] = df['datetime'].dt.tz_convert(timezone('America/Sao_Paulo')).dt.strftime('%H:%M')
+        df['TIME'] =  df['TIME_BRASIL']
+        df = df.sort_values('datetime')
         
         # Resetar índice
         df = df.reset_index(drop=True)
@@ -386,6 +390,7 @@ base = compiled_data
 model_gols, model_winner = load_models()
 base['Date'] = pd.to_datetime(base['Date'], dayfirst=True)
 base = base[(base['Date'].dt.year >= 2020)]
+base.sort_values('Date', ascending=True, inplace = True)
 ligas_dicionario = pd.read_csv('https://raw.githubusercontent.com/joselucaspj/poissonpredictor/refs/heads/main/App/assets/ligas_dicionario.csv')
 times_dicionario = pd.read_csv('https://github.com/joselucaspj/poissonpredictor/raw/refs/heads/main/App/assets/times_dicionario.csv')
 
