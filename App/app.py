@@ -161,7 +161,7 @@ def get_compiled_data():
     # Concatenar todos os dados em um único DataFrame
     if all_leagues:
         compiled_data = pd.concat(all_leagues, ignore_index=True)
-    return complied_data
+    return compiled_data
 
 def get_todays_matches():
     url = "https://www.football-data.co.uk/fixtures.csv"
