@@ -13,7 +13,99 @@ import warnings
 # Configuração inicial
 st.set_page_config(layout="wide")
 warnings.filterwarnings('ignore')
+def contar_resultados(dataframe):
+    vitoria_mandante = 0
+    soma_probabilidade_placar_mandante = 0
+    vitoria_visitante = 0
+    soma_probabilidade_placar_visitante = 0
+    empate = 0
+    soma_probabilidade_placar_empate = 0
 
+    for indice, linha in dataframe.iterrows():
+        if linha['Home_Goals'] > linha['Away_Goals']:
+            vitoria_mandante += 1
+            soma_probabilidade_placar_mandante = soma_probabilidade_placar_mandante + linha['Probability']
+        elif linha['Home_Goals'] < linha['Away_Goals']:
+            vitoria_visitante += 1
+            soma_probabilidade_placar_visitante = soma_probabilidade_placar_visitante + linha['Probability']
+        else:
+            empate += 1
+            soma_probabilidade_placar_empate = soma_probabilidade_placar_empate + linha['Probability']
+
+    return {'Vitória do Mandante': vitoria_mandante, 'Vitória do Visitante': vitoria_visitante, 'Empate': empate, 'Probabilidade placares mandante': soma_probabilidade_placar_mandante, 'Probabilidade placares visitante': soma_probabilidade_placar_visitante, 'Probabilidade placares empate': soma_probabilidade_placar_empate }
+
+def drop_reset_index(df):
+    df = df.dropna()
+    df = df.reset_index(drop=True)
+    df.index += 1
+    return df
+
+def simulate_match(home_goals_for, home_goals_against, away_goals_for, away_goals_against, num_simulations=10000, random_seed=42):
+    np.random.seed(random_seed)
+    estimated_home_goals = (home_goals_for + away_goals_against) / 2
+    estimated_away_goals = (away_goals_for + home_goals_against) / 2
+
+    home_goals = poisson(estimated_home_goals).rvs(num_simulations)
+    away_goals = poisson(estimated_away_goals).rvs(num_simulations)
+
+    results = pd.DataFrame({
+        'Home_Goals': home_goals,
+        'Away_Goals': away_goals
+    })
+
+    return results
+def simulate_match_predict(home_goals_for, away_goals_for, num_simulations=10000, random_seed=42):
+    np.random.seed(random_seed)
+
+    home_goals = poisson(home_goals_for).rvs(num_simulations)
+    away_goals = poisson(away_goals_for).rvs(num_simulations)
+
+    results = pd.DataFrame({
+        'Home_Goals': home_goals,
+        'Away_Goals': away_goals
+    })
+
+    return results
+def top_results_df(simulated_results, top_n):
+
+    result_counts = simulated_results.value_counts().head(top_n).reset_index()
+    result_counts.columns = ['Home_Goals', 'Away_Goals', 'Count']
+
+    sum_top_counts = result_counts['Count'].sum()
+    result_counts['Probability'] = result_counts['Count'] / sum_top_counts
+
+    return result_counts
+
+def media_gols_marcados_HA_ultimos_n_jogos(df, equipe,liga,data_filtro,gols, n):
+
+    df_equipe = df[((df['Home_Team_ID'] == equipe) | (df['Away_Team_ID'] == equipe)) & (df['League_ID'] == liga) & (df['Date'] < data_filtro)].tail(n)
+    display(df_equipe)
+    if df_equipe.shape[0] == 0:
+      resultado_media_gm_h_ha = gols
+    else:
+      resultado_media_gm_h_ha = round((df_equipe[(df_equipe['Home_Team_ID'] == equipe)]['FTHG'].sum() + df_equipe[(df_equipe['Away_Team_ID'] == equipe)]['FTAG'].sum()) / df_equipe.shape[0], 2)
+    #print(resultado_media_gm_h_ha)
+    return resultado_media_gm_h_ha
+
+def media_gols_sofridos_HA_ultimos_n_jogos(df, equipe,liga,data_filtro,gols, n):
+    df_equipe = df[((df['Home_Team_ID'] == equipe) | (df['Away_Team_ID'] == equipe)) & (df['League_ID'] == liga) & (df['Date'] < data_filtro)].tail(n)
+    #display(df_equipe)
+    if df_equipe.shape[0] == 0:
+      resultado_media_gs_h_ha = gols
+    else:
+      resultado_media_gs_h_ha = round((df_equipe[(df_equipe['Home_Team_ID'] == equipe)]['FTAG'].sum() + df_equipe[(df_equipe['Away_Team_ID'] == equipe)]['FTHG'].sum()) / df_equipe.shape[0], 2)
+    #print(resultado_media_gs_h_ha)
+    return resultado_media_gs_h_ha
+
+def media_gols_Marcados_vs_media_gols_Sofridos(df, equipe,liga,data_filtro,media_gols, n):
+    df_equipe = df[((df['Home'] == equipe) | (df['Away'] == equipe)) & (df['League'] == liga) & (df['Date'] < data_filtro)]
+    #display(df_equipe)
+    if df_equipe.shape[0] == 0:
+      resultado_media_gs_h_ha = 0
+    else:
+      resultado_media_gs_h_ha = round((df_equipe[(df_equipe['Home'] == equipe)]['Goals_A'].sum() + df_equipe[(df_equipe['Away'] == equipe)]['Goals_H'].sum()) / df_equipe.shape[0], 2)
+    #print(resultado_media_gs_h_ha)
+    return resultado_media_gs_h_ha
 # 1. Funções de Carregamento com Cache
 @st.cache_data(ttl=3600)  # Cache por 1 hora
 def load_models():
