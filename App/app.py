@@ -529,6 +529,6 @@ if hasattr(modelo_winner, "predict_proba"):
     jogos_do_dia['prediction_confidence'] = np.max(probabilities, axis=1)
 jogos_do_dia['Tip'] = np.where(jogos_do_dia['Predict_winner'] == 1, "Home",
                                 np.where(jogos_do_dia['Predict_winner'] == 2, "Away", "Draw"))
-jogos_do_dia = jogos_do_dia[['League', 'Date', 'TIME', 'HomeTeam', 'AwayTeam','Media_GM_H_HA','Media_GS_H_HA','Media_GM_A_HA','Media_GS_A_HA','Tip','prediction_confidence']]
-jogos_do_dia.columns = ['League', 'Date', 'TIME', 'HomeTeam', 'AwayTeam','Media_GM_H_HA','Media_GS_H_HA','Media_GM_A_HA','Media_GS_A_HA','Tip','prediction_confidence']
+jogos_do_dia = jogos_do_dia[['League', 'Date', 'TIME', 'HomeTeam', 'AwayTeam','Tip','prediction_confidence']]
+jogos_do_dia.columns = ['League', 'Date', 'TIME', 'HomeTeam', 'AwayTeam','Tip','prediction_confidence']
 st.dataframe(jogos_do_dia)
