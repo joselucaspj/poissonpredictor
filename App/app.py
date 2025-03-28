@@ -531,3 +531,64 @@ jogos_do_dia['Tip'] = np.where(jogos_do_dia['Predict_winner'] == 1, "Home",
 jogos_do_dia = jogos_do_dia[['League', 'Date', 'TIME', 'HomeTeam', 'AwayTeam','Tip','prediction_confidence']]
 jogos_do_dia.columns = ['League', 'Date', 'TIME', 'HomeTeam', 'AwayTeam','Tip','prediction_confidence']
 st.dataframe(jogos_do_dia)
+# Sidebar com filtros
+st.sidebar.header('⚙️ Filtros')
+
+# 1. Filtro por Liga
+ligas = jogos_do_dia['League'].unique()
+selected_league = st.sidebar.multiselect(
+    'Selecione as Ligas',
+    options=ligas,
+    default=ligas  # Mostra todas por padrão
+)
+
+# 2. Filtro por Data
+min_date = pd.to_datetime(jogos_do_dia['Date'].min())
+max_date = pd.to_datetime(jogos_do_dia['Date'].max())
+
+date_range = st.sidebar.date_input(
+    'Selecione o intervalo de datas',
+    value=[min_date, max_date],
+    min_value=min_date,
+    max_value=max_date
+)
+
+# 3. Filtro por Confiança
+min_conf, max_conf = st.sidebar.slider(
+    'Nível de Confiança da Previsão',
+    min_value=0.0,
+    max_value=1.0,
+    value=(0.7, 1.0),  # Valor padrão
+    step=0.05,
+    help='Filtre pelas previsões mais confiáveis'
+)
+
+# Aplicar filtros
+filtered_df = jogos_do_dia[
+    (jogos_do_dia['League'].isin(selected_league)) &
+    (pd.to_datetime(jogos_do_dia['Date']).between(*date_range)) &
+    (jogos_do_dia['prediction_confidence'].between(min_conf, max_conf))
+]
+
+# Mostrar resultados
+st.header('📊 Jogos Filtrados')
+st.dataframe(
+    filtered_df.sort_values(by='prediction_confidence', ascending=False),
+    use_container_width=True,
+    height=700
+)
+
+# Estatísticas rápidas
+st.subheader('📈 Estatísticas dos Filtros')
+col1, col2, col3 = st.columns(3)
+col1.metric("Total de Jogos", len(filtered_df))
+col2.metric("Confiança Média", f"{filtered_df['prediction_confidence'].mean():.1%}")
+col3.metric("Ligas Selecionadas", len(selected_league))
+
+# Download dos dados filtrados
+st.sidebar.download_button(
+    label='📥 Baixar Dados Filtrados',
+    data=filtered_df.to_csv(index=False).encode('utf-8'),
+    file_name='jogos_filtrados.csv',
+    mime='text/csv'
+)
