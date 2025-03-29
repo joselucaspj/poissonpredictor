@@ -488,8 +488,8 @@ def process_main_data(_model_gols, _model_winner, ligas_dicionario, times_dicion
     jogos_do_dia['prediction_confidence'] = np.max(probabilities, axis=1)
     jogos_do_dia['Tip'] = np.where(jogos_do_dia['Predict_winner'] == 1, "Home",
                                     np.where(jogos_do_dia['Predict_winner'] == 2, "Away", "Draw"))
-    jogos_do_dia = jogos_do_dia[['League', 'Date', 'TIME', 'HomeTeam', 'AwayTeam','Tip','prediction_confidence']]
-    jogos_do_dia.columns = ['League', 'Date', 'TIME', 'HomeTeam', 'AwayTeam','Tip','prediction_confidence']
+    jogos_do_dia = jogos_do_dia[['League', 'Date', 'TIME', 'HomeTeam', 'AwayTeam','Tip','prediction_confidence','Media_GM_H_HA','Media_GS_H_HA','Media_GM_A_HA','Media_GS_A_HA']]
+    jogos_do_dia.columns = ['League', 'Date', 'TIME', 'HomeTeam', 'AwayTeam','Tip','prediction_confidence','Media_GM_H_HA','Media_GS_H_HA','Media_GM_A_HA','Media_GS_A_HA']
     #st.dataframe(jogos_do_dia)
     jogos_do_dia['Date'] = pd.to_datetime(jogos_do_dia['Date'])
     # Todo o restante do seu processamento...
