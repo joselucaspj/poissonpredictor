@@ -637,7 +637,7 @@ def get_todays_matches():
     return todays_matches
 # 2. Funções de Processamento Principal
 @st.cache_data(ttl=600)  # Cache por 10 minutos
-def process_main_data(_model_gols, _model_winner, ligas_dicionario, times_dicionario):
+def process_main_data(_model_gols, _model_winner, model_winner_home, model_winner_away, ligas_dicionario, times_dicionario):
     # Todas suas operações de processamento aqui
     # (Mantenha a mesma lógica, mas dentro desta função)
     
@@ -816,12 +816,12 @@ def main():
     st.subheader('Jogos do dia')
     
     # Carrega modelos e dados uma vez
-    model_gols, model_winner = load_models()
+    model_gols, model_winner, model_winner_home, model_winner_away = load_models()
     ligas_dicionario = load_league_mapping()
     times_dicionario = load_team_mapping()
     
     # Processa os dados principais
-    df = process_main_data(model_gols, model_winner, ligas_dicionario, times_dicionario)
+    df = process_main_data(model_gols, model_winner, model_winner_home, model_winner_away, ligas_dicionario, times_dicionario)
     df['Date'] = pd.to_datetime(df['Date']).dt.date  # Convertendo para date (sem hora)
     # Filtros na sidebar
     with st.sidebar:
