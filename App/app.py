@@ -637,7 +637,7 @@ def get_todays_matches():
     return todays_matches
 # 2. Funções de Processamento Principal
 @st.cache_data(ttl=600)  # Cache por 10 minutos
-def process_main_data(_model_gols, _model_winner, model_winner_home, model_winner_away, ligas_dicionario, times_dicionario):
+def process_main_data(_model_gols, _model_winner, _model_winner_home, _model_winner_away, ligas_dicionario, times_dicionario):
     # Todas suas operações de processamento aqui
     # (Mantenha a mesma lógica, mas dentro desta função)
     
