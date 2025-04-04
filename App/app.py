@@ -856,7 +856,7 @@ def main():
         filtered_df = df
     
     # Exibir resultados
-    st.dataframe(filtered_df)
+    st.dataframe(filtered_df.astype(str))
 
 if __name__ == "__main__":
     main()
