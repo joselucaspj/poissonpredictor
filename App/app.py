@@ -830,6 +830,7 @@ def main():
         ligas = st.multiselect('Ligas', options=df['League'].unique(), default=df['League'].unique())
         
         date_col = pd.to_datetime(df['Date'])
+        date_col = pd.to_datetime(df['Date'], dayfirst=True).dt.strftime('%d/%m/%Y')
         min_date, max_date = date_col.min(), date_col.max()
         
         date_range = st.date_input(
