@@ -327,7 +327,7 @@ def load_models():
     if not os.path.exists(winner_away_path):
         gdown.download(MODEL_WINNER_AWAY, winner_away_path, quiet=True)    
         
-    return joblib.load(gols_path), joblib.load(winner_path)
+    return joblib.load(gols_path), joblib.load(winner_path), joblib.load(winner_home_path), joblib.load(winner_away_path)
 
 @st.cache_data(ttl=3600)
 def load_league_mapping():
