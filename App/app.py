@@ -823,7 +823,7 @@ def main():
     
     # Processa os dados principais
     df = process_main_data(model_gols, model_winner, model_winner_home, model_winner_away, ligas_dicionario, times_dicionario)
-    #df['Date'] = pd.to_datetime(df['Date']).dt.date  # Convertendo para date (sem hora)
+    df['Date'] = pd.to_datetime(df['Date']).dt.date  # Convertendo para date (sem hora)
     # Filtros na sidebar
     with st.sidebar:
         st.header('⚙️ Filtros')
