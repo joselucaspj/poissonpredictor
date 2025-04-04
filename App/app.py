@@ -808,6 +808,7 @@ def process_main_data(_model_gols, _model_winner, _model_winner_home, _model_win
     # Converter e ordenar por data e hora
     jogos_do_dia['datetime'] = pd.to_datetime(jogos_do_dia['Date'] + ' ' + jogos_do_dia['TIME'], dayfirst=True)
     jogos_do_dia = jogos_do_dia.sort_values('datetime').drop('datetime', axis=1)
+    jogos_do_dia['date'] = pd.to_datetime(jogos_do_dia['date'], dayfirst=True).dt.strftime('%d/%m/%Y')
     return jogos_do_dia  # Retorne o DataFrame final
 
 # 3. Interface do Usuário
