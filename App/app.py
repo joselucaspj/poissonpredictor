@@ -823,7 +823,7 @@ def main():
     
     # Processa os dados principais
     df = process_main_data(model_gols, model_winner, model_winner_home, model_winner_away, ligas_dicionario, times_dicionario)
-    df['Date'] = pd.to_datetime(df['Date'], dayfirst=True).dt.strftime('%d/%m/%Y')
+    df['Date'] = pd.to_datetime(df['Date'], dayfirst=True).dt.date
   # Convertendo para date (sem hora)
     # Filtros na sidebar
     with st.sidebar:
@@ -857,7 +857,9 @@ def main():
         filtered_df = df
     
     # Exibir resultados
-    st.dataframe(filtered_df.astype(str))
+    #st.dataframe(filtered_df.astype(str))
+    st.dataframe(filtered_df.style.format({'Date': lambda x: x.strftime('%d/%m/%Y')}))
+
 
 if __name__ == "__main__":
     main()
