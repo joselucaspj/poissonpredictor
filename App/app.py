@@ -306,7 +306,7 @@ def media_gols_Marcados_vs_media_gols_Sofridos(df, equipe,liga,data_filtro,media
     #print(resultado_media_gs_h_ha)
     return resultado_media_gs_h_ha
 # 1. Funções de Carregamento com Cache
-@st.cache_data(ttl=3600)  # Cache por 1 hora
+@st.cache_data(ttl=300)  # Cache por 1 hora
 def load_models():
     MODEL_GOLS_URL = 'https://drive.google.com/uc?id=1XpKUMdD05ZZ70gLDsFaC2wzATm_FCdz7'
     MODEL_WINNER_URL = 'https://drive.google.com/uc?id=1b_uaLyGSBjxN8oLJMY0-rlXVbMlFu42R'
@@ -329,11 +329,11 @@ def load_models():
         
     return joblib.load(gols_path), joblib.load(winner_path), joblib.load(winner_home_path), joblib.load(winner_away_path)
 
-@st.cache_data(ttl=3600)
+@st.cache_data(ttl=300)
 def load_league_mapping():
     return pd.read_csv('https://raw.githubusercontent.com/joselucaspj/poissonpredictor/refs/heads/main/App/assets/ligas_dicionario.csv')
 
-@st.cache_data(ttl=3600)
+@st.cache_data(ttl=300)
 def load_team_mapping():
     return pd.read_csv('https://github.com/joselucaspj/poissonpredictor/raw/refs/heads/main/App/assets/times_dicionario.csv')
 def get_compiled_data():
@@ -636,7 +636,7 @@ def get_todays_matches():
     todays_matches = pd.concat([todays_matches, todays_matches_new], ignore_index=True)
     return todays_matches
 # 2. Funções de Processamento Principal
-@st.cache_data(ttl=600)  # Cache por 10 minutos
+@st.cache_data(ttl=300)  # Cache por 10 minutos
 def process_main_data(_model_gols, _model_winner, _model_winner_home, _model_winner_away, ligas_dicionario, times_dicionario):
     # Todas suas operações de processamento aqui
     # (Mantenha a mesma lógica, mas dentro desta função)
