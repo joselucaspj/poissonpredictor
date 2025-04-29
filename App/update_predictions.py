@@ -820,9 +820,19 @@ def main():
     # Processar os dados
     df = process_main_data(model_gols, model_winner, model_winner_home, model_winner_away, 
                           ligas_dicionario, times_dicionario)
+    # Obter o diretório onde o script está localizado
+    script_dir = Path(__file__).parent
     
+    # Caminho relativo ao script
+    output_path = script_dir.parent / 'data' / 'latest_predictions.csv'
+    
+    # Criar diretório se não existir
+    output_path.parent.mkdir(exist_ok=True)
+    
+    # Salvar arquivo
+    df.to_csv(output_path, index=False)
     # Salvar os resultados processados
-    df.to_csv('data/latest_predictions.csv', index=False)
+    # df.to_csv('data/latest_predictions.csv', index=False)
     print("Previsões atualizadas")
 
 if __name__ == "__main__":
