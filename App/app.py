@@ -5,7 +5,7 @@ from datetime import datetime
 
 @st.cache_data(ttl=3600)  # Cache por 1 hora
 def load_predictions():
-    return pd.read_csv('data/latest_predictions.csv', parse_dates=['Date'])
+    return pd.read_csv('https://raw.githubusercontent.com/joselucaspj/poissonpredictor/refs/heads/main/App/data/latest_predictions.csv', parse_dates=['Date'])
 
 def main():
     st.title('Poisson com aprendizado de máquina')
