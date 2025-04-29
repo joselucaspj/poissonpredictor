@@ -823,7 +823,7 @@ def main():
     
     # Salvar os resultados processados
     df.to_csv('data/latest_predictions.csv', index=False)
-    print(f"Previsões atualizadas em {datetime.now()}")
+    print("Previsões atualizadas")
 
 if __name__ == "__main__":
     main()
