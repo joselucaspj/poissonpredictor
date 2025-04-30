@@ -42,3 +42,4 @@ jobs:
             fi
           else
             echo "File App/data/latest_predictions.csv does not exist. Skipping commit."
+          fi
