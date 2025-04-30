@@ -10,6 +10,7 @@ from scipy.stats import poisson
 import joblib
 import warnings
 from datetime import datetime
+from pathlib import Path
 # Configuração inicial
 st.set_page_config(layout="wide")
 warnings.filterwarnings('ignore')
