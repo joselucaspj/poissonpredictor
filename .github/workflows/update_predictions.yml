@@ -32,9 +32,13 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add data/latest_predictions.csv
-          if ! git diff --cached --quiet; then
-            git commit -m "Automated predictions update"
-            git push
+          if [ -f App/data/latest_predictions.csv ]; then
+            git add App/data/latest_predictions.csv
+            if ! git diff --cached --quiet; then
+              git commit -m "Automated predictions update [skip ci]"
+              git push
+            else
+              echo "No changes to commit"
+            fi
           else
-            echo "No changes to commit"
+            echo "File App/data/latest_predictions.csv does not exist. Skipping commit."
