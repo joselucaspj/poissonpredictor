@@ -1,0 +1,9 @@
+streamlit
+pandas
+scikit-learn
+gdown
+joblib
+requests
+numpy
+scipy
+pytz
