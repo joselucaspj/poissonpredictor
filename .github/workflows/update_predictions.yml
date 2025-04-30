@@ -1,4 +1,4 @@
-name: Update Predictions
+name: update Predictions
 
 on:
   schedule:
