@@ -1,35 +1,45 @@
-name: Update Predictions
+name: update predictions
 
 on:
   schedule:
-    - cron: '0 12 * * *'
+    - cron: '0 12 * * *' # Executa todos os dias ao meio-dia (UTC)
   workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
-      
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
-          python-version: '3.8'
-          
+          python-version: '3.10'
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install pandas requests gdown
-          pip install -r App/requerimentos.txt
-      - name: Run prediction update
+          pip install -r App/requirements.txt
+
+      - name: Run update script
         run: python App/update_predictions.py
-        
-      - name: Commit and push if changes
+
+      - name: Commit and push changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add Data/predictions.csv
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update predictions"
-          git push
+          if [ -f App/data/latest_predictions.csv ]; then
+            git add App/data/latest_predictions.csv
+            if ! git diff --cached --quiet; then
+              git commit -m "Automated predictions update [skip ci]"
+              git push
+            else
+              echo "No changes to commit"
+            fi
+          else
+            echo "File App/data/latest_predictions.csv does not exist. Skipping commit."
+          fi
