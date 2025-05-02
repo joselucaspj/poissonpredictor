@@ -18,7 +18,7 @@ def main():
         with st.sidebar:
             st.header('⚙️ Filtros')
             ligas = st.multiselect('Ligas', options=df['League'].unique(), default=df['League'].unique())
-
+            df['Date'] = df['Date'].dt.strftime('%d/%m/%Y')
             min_date, max_date = df['Date'].min(), df['Date'].max()
             date_range = st.date_input(
                 'Intervalo de Datas',
