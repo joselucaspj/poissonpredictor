@@ -19,7 +19,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install pandas requests
+          pip install pandas requests gdown
           
       - name: Run prediction update
         run: python App/update_predictions.py
@@ -30,6 +30,6 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add data/predictions.csv
+          git add Data/predictions.csv
           git diff --quiet && git diff --staged --quiet || git commit -m "Update predictions"
           git push
