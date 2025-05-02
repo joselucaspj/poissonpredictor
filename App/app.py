@@ -52,4 +52,4 @@ def main():
         st.info("As previsões podem estar sendo atualizadas. Tente novamente em alguns minutos.")
 
 if __name__ == "__main__":
-    main()
+     main()
