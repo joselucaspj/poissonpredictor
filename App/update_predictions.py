@@ -571,6 +571,7 @@ def get_todays_matches():
             df['datetime'] = df['datetime'].dt.tz_localize(origin_tz, ambiguous='NaT')
             df['TIME_BRASIL'] = df['datetime'].dt.tz_convert(timezone('America/Sao_Paulo')).dt.strftime('%H:%M')
             df['TIME'] =  df['TIME_BRASIL']
+            df['Date'] = df['datetime'].dt.tz_convrt(timezone('America/Sao_Paulo')).dt.strftime('%d/%m/%Y')
             df = df.sort_values('datetime')
             
             # Resetar índice
