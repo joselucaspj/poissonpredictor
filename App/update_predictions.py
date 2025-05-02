@@ -11,7 +11,6 @@ import warnings
 from datetime import datetime
 from pathlib import Path
 # Configuração inicial
-st.set_page_config(layout="wide")
 warnings.filterwarnings('ignore')
 def calcular_diferenca_gols_para_jogos_do_dia(df_historico, df_today):
     """
