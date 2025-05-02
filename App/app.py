@@ -4,10 +4,12 @@ from datetime import datetime
 
 @st.cache_data(ttl=3600)  # Cache por 1 hora
 def load_predictions():
-    return pd.read_csv(
+    df = pd.read_csv(
         'https://raw.githubusercontent.com/joselucaspj/poissonpredictor/refs/heads/main/data/latest_predictions.csv',
-        parse_dates=['Date']
+        parse_dates=['Date'],
+        dayfirst=True  # muito importante para interpretar corretamente o formato brasileiro
     )
+    return df
 
 def main():
     st.title('Poisson com aprendizado de máquina')
@@ -16,14 +18,14 @@ def main():
     try:
         df = load_predictions()
 
-        # Interface lateral com filtros
+        # Garantir que a coluna Date esteja como datetime
+        df['Date'] = pd.to_datetime(df['Date'], dayfirst=True)
+
         with st.sidebar:
             st.header('⚙️ Filtros')
             ligas = st.multiselect('Ligas', options=df['League'].unique(), default=df['League'].unique())
 
-            min_date = df['Date'].min().date()
-            max_date = df['Date'].max().date()
-
+            min_date, max_date = df['Date'].min().date(), df['Date'].max().date()
             date_range = st.date_input(
                 'Intervalo de Datas',
                 value=[min_date, max_date],
@@ -46,9 +48,8 @@ def main():
             st.warning("Selecione um intervalo de datas válido")
             filtered_df = df
 
-        # Formatar a data para exibição
+        # Formatar data para exibição
         filtered_df['Date'] = filtered_df['Date'].dt.strftime('%d/%m/%Y')
-
         st.dataframe(filtered_df)
 
     except Exception as e:
