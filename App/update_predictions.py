@@ -825,16 +825,19 @@ def main():
     script_dir = Path(__file__).parent
     
     # Caminho relativo ao script
-    output_path = script_dir.parent / 'data' / 'latest_predictions.csv'
+    output_path = script_dir.parent /'data'/'latest_predictions.csv'
     
     # Criar diretório se não existir
     output_path.parent.mkdir(exist_ok=True)
     
     # Salvar arquivo
-    df.to_csv(output_path, index=False)
+    #df.to_csv(output_path, index=False)
     # Salvar os resultados processados
     # df.to_csv('data/latest_predictions.csv', index=False)
-    print("Previsões atualizadas")
+    print(f"Salvando dados em: {csv_path}")
+    print(f"Dados a serem salvos:\n{df}")
+    df.to_csv(csv_path, index=False)
+    print("Dados salvos com sucesso!")
 
 if __name__ == "__main__":
     main()
