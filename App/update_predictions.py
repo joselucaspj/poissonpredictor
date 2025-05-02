@@ -825,7 +825,7 @@ def main():
     
     # Caminho relativo ao script
     output_path = script_dir.parent /'data'/'latest_predictions.csv'
-    
+    print(output_path)
     # Criar diretório se não existir
     output_path.parent.mkdir(exist_ok=True)
     
