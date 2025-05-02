@@ -833,6 +833,7 @@ def main():
     #df.to_csv(output_path, index=False)
     # Salvar os resultados processados
     # df.to_csv('data/latest_predictions.csv', index=False)
+    csv_path = os.path.join(os.path.dirname(__file__), '../data/predictions.csv')
     print(f"Salvando dados em: {csv_path}")
     print(f"Dados a serem salvos:\n{df}")
     df.to_csv(csv_path, index=False)
