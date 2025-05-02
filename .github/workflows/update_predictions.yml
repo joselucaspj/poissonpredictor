@@ -5,9 +5,6 @@ on:
     - cron: '0 12 * * *' # Executa todos os dias ao meio-dia (UTC)
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -29,9 +26,6 @@ jobs:
       - name: Run update script
         run: python App/update_predictions.py
 
-      - name: Verificar alterações
-        run: git status
-
       - name: Commit and push changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -48,3 +42,4 @@ jobs:
             fi
           else
             echo "File App/data/latest_predictions.csv does not exist. Skipping commit."
+          fi
