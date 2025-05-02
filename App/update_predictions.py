@@ -837,7 +837,9 @@ def main():
     print(f"Salvando dados em: {csv_path}")
     print(f"Dados a serem salvos:\n{df}")
     df.to_csv(csv_path, index=False)
-    print("Dados salvos com sucesso!")
+    teste = pd.read_csv(output_path)
+    print(teste)
+    print("Dados salvos sucesso!")
 
 if __name__ == "__main__":
     main()
