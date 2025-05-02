@@ -32,4 +32,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'Automated predictions update [skip ci]'
-          file_pattern: 'App/data/latest_predictions.csv'
+          file_pattern: 'data/latest_predictions.csv'
