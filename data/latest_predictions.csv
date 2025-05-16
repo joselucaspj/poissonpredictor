@@ -1,24 +1,25 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Espanha - La Liga,13/05/2025,15:00,Sociedad,Celta,Home,0.678453968253968
+Espanha - La Liga,13/05/2025,15:00,Sociedad,Celta,Home,0.674499206349206
 Japao,14/05/2025,07:00,Kawasaki Frontale,Yokohama FC,Home,0.7109190476190477
-Espanha - La Liga,14/05/2025,14:00,Villarreal,Leganes,Home,0.787761111111111
-Grecia,14/05/2025,14:00,Athens Kallithea,Panserraikos,Home,0.6434007936507935
+Grecia,14/05/2025,14:00,Volos NFC,Lamia,Home,0.7166063492063492
+Espanha - La Liga,14/05/2025,14:00,Villarreal,Leganes,Home,0.8012492063492067
+Grecia,14/05/2025,14:00,Athens Kallithea,Panserraikos,Home,0.6360809523809524
 Suecia,14/05/2025,14:00,Hacken,AIK,Away,0.6066666666666667
-Espanha - La Liga,14/05/2025,14:00,Alaves,Valencia,Away,0.5566666666666666
+Espanha - La Liga,14/05/2025,14:00,Alaves,Valencia,Away,0.5466666666666666
 Suecia,14/05/2025,14:00,Hammarby,Sirius,Home,0.7962809523809524
 Suecia,14/05/2025,14:00,Halmstad,GAIS,Home,0.6228222222222224
-Holanda,14/05/2025,15:00,Feyenoord,Waalwijk,Home,0.8734595238095242
-Holanda,14/05/2025,15:00,Go Ahead Eagles,Heerenveen,Home,0.6557523809523809
-Holanda,14/05/2025,15:00,Nijmegen,NAC Breda,Home,0.8795825396825396
-Holanda,14/05/2025,15:00,Almere City,For Sittard,Home,0.7078174603174603
-Holanda,14/05/2025,15:00,PSV Eindhoven,Heracles,Home,0.8560904761904762
+Holanda,14/05/2025,15:00,Feyenoord,Waalwijk,Home,0.8709793650793654
+Holanda,14/05/2025,15:00,Go Ahead Eagles,Heerenveen,Home,0.6610619047619047
+Holanda,14/05/2025,15:00,Nijmegen,NAC Breda,Home,0.8326999999999998
+Holanda,14/05/2025,15:00,Almere City,For Sittard,Home,0.7111746031746032
+Holanda,14/05/2025,15:00,PSV Eindhoven,Heracles,Home,0.859131746031746
 Suíça,14/05/2025,15:30,Grasshoppers,Yverdon,Home,0.6076865079365079
 Suíça,14/05/2025,15:30,Lausanne,Basel,Away,0.7433333333333333
 Polonia,14/05/2025,15:30,Pogon Szczecin,Motor Lublin,Home,0.8866650793650792
-Escócia - Premiere League,14/05/2025,15:45,Hearts,St Johnstone,Home,0.8426825396825399
-Escócia - Premiere League,14/05/2025,15:45,Rangers,Dundee United,Home,0.775784126984127
-Escócia - Premiere League,14/05/2025,16:00,Aberdeen,Celtic,Away,0.74
-Espanha - La Liga,14/05/2025,16:30,Real Madrid,Mallorca,Home,0.8081626984126982
+Escócia - Premiere League,14/05/2025,15:45,Hearts,St Johnstone,Home,0.8400460317460318
+Escócia - Premiere League,14/05/2025,15:45,Rangers,Dundee United,Home,0.7791492063492065
+Escócia - Premiere League,14/05/2025,16:00,Aberdeen,Celtic,Away,0.7166666666666667
+Espanha - La Liga,14/05/2025,16:30,Real Madrid,Mallorca,Home,0.8345079365079365
 EUA,14/05/2025,20:30,Orlando City,Charlotte,Home,0.8138301587301585
 EUA,14/05/2025,20:30,Philadelphia Union,Los Angeles Galaxy,Home,0.8877507936507933
 EUA,14/05/2025,20:30,Toronto FC,FC Cincinnati,Home,0.7028317460317457
@@ -26,9 +27,9 @@ EUA,14/05/2025,21:30,Nashville SC,New York Red Bulls,Home,0.7755555555555557
 EUA,14/05/2025,21:45,St. Louis City,Sporting Kansas City,Home,0.714402380952381
 EUA,14/05/2025,23:30,San Diego FC,Colorado Rapids,Home,0.7385206349206352
 EUA,14/05/2025,23:30,San Jose Earthquakes,Inter Miami,Home,0.769409523809524
-Suecia,15/05/2025,14:00,Varnamo,Malmo FF,Away,0.6533333333333333
 Espanha - La Liga,15/05/2025,14:00,Osasuna,Ath Madrid,Away,0.7966666666666666
 Suecia,15/05/2025,14:00,Elfsborg,Brommapojkarna,Home,0.7383571428571423
+Suecia,15/05/2025,14:00,Varnamo,Malmo FF,Away,0.6533333333333333
 Suíça,15/05/2025,15:30,Servette,Lugano,Home,0.7032761904761906
 Polonia,15/05/2025,15:30,Widzew Lodz,Legia,Away,0.7033333333333334
 Suíça,15/05/2025,15:30,Young Boys,Luzern,Home,0.8075960317460315
