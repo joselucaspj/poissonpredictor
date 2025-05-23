@@ -1,52 +1,78 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Portugal - Liga 1,16/05/2025,15:00,Famalicao,Casa Pia,Home,0.7925214285714289
-Inglaterra - Premiere League,16/05/2025,15:30,Aston Villa,Tottenham,Home,0.8003436507936508
-Bélgica,16/05/2025,15:45,Oud-Heverlee Leuven,Westerlo,Home,0.7150230158730161
-Inglaterra - Premiere League,16/05/2025,16:15,Chelsea,Man United,Home,0.835079365079365
-Escócia - Premiere League,17/05/2025,08:30,Hibernian,Rangers,Home,0.7318404761904759
-Escócia - Premiere League,17/05/2025,08:30,Celtic,St Mirren,Home,0.8003825396825396
-Alemanha - Bundesliga 1,17/05/2025,10:30,Hoffenheim,Bayern Munich,Away,0.7166666666666667
-Alemanha - Bundesliga 1,17/05/2025,10:30,Dortmund,Holstein Kiel,Home,0.780175396825397
-Alemanha - Bundesliga 1,17/05/2025,10:30,Augsburg,Union Berlin,Away,0.5866666666666667
-Alemanha - Bundesliga 1,17/05/2025,10:30,Freiburg,Ein Frankfurt,Home,0.6251373015873016
-Alemanha - Bundesliga 1,17/05/2025,10:30,St Pauli,Bochum,Home,0.6620825396825399
-Portugal - Liga 1,17/05/2025,14:00,Arouca,Boavista,Home,0.7827976190476189
-Portugal - Liga 1,17/05/2025,14:00,Sp Lisbon,Guimaraes,Home,0.7959301587301588
-Portugal - Liga 1,17/05/2025,14:00,Porto,Nacional,Home,0.8901888888888893
-Portugal - Liga 1,17/05/2025,14:00,Sp Braga,Benfica,Away,0.65
-França - Primeira divisão,17/05/2025,16:00,Marseille,Rennes,Home,0.636979365079365
-França - Primeira divisão,17/05/2025,16:00,Nantes,Montpellier,Home,0.6763476190476193
-França - Primeira divisão,17/05/2025,16:00,Nice,Brest,Home,0.6705849206349204
-França - Primeira divisão,17/05/2025,16:00,Paris SG,Auxerre,Home,0.8132579365079369
-França - Primeira divisão,17/05/2025,16:00,Strasbourg,Le Havre,Home,0.7006523809523808
-França - Primeira divisão,17/05/2025,16:00,Lille,Reims,Home,0.6951515873015871
-França - Primeira divisão,17/05/2025,16:00,Lyon,Angers,Home,0.7860261904761907
-Bélgica,18/05/2025,08:30,Anderlecht,Club Brugge,Away,0.6033333333333334
-Holanda,18/05/2025,09:30,AZ Alkmaar,Almere City,Home,0.8149134920634924
-Holanda,18/05/2025,09:30,For Sittard,Utrecht,Away,0.8533333333333334
-Holanda,18/05/2025,09:30,Heerenveen,Feyenoord,Away,0.7833333333333333
-Holanda,18/05/2025,09:30,Heracles,Nijmegen,Away,0.6933333333333334
-Inglaterra - Premiere League,18/05/2025,10:15,West Ham,Nott'm Forest,Home,0.6318539682539682
-Inglaterra - Premiere League,18/05/2025,11:00,Brentford,Fulham,Home,0.7634357142857143
-Escócia - Premiere League,18/05/2025,11:00,Ross County,Motherwell,Home,0.7117714285714288
-Grecia,18/05/2025,12:00,Lamia,Panetolikos,Away,0.62
-Turquia - Liga 1,18/05/2025,13:00,Alanyaspor,Besiktas,Away,0.7433333333333333
-Turquia - Liga 1,18/05/2025,13:00,Antalyaspor,Gaziantep,Home,0.746697619047619
-Turquia - Liga 1,18/05/2025,13:00,Fenerbahce,Eyupspor,Home,0.8499492063492066
-Turquia - Liga 1,18/05/2025,13:00,Samsunspor,Sivasspor,Home,0.6847166666666663
-Turquia - Liga 1,18/05/2025,13:00,Galatasaray,Kayserispor,Home,0.7855365079365081
-Espanha - La Liga,18/05/2025,14:00,Valencia,Ath Bilbao,Home,0.6490626984126984
-Espanha - La Liga,18/05/2025,14:00,Barcelona,Villarreal,Home,0.7277380952380953
-Espanha - La Liga,18/05/2025,14:00,Ath Madrid,Betis,Home,0.8014309523809522
-Espanha - La Liga,18/05/2025,14:00,Sevilla,Real Madrid,Away,0.65
-Espanha - La Liga,18/05/2025,14:00,Valladolid,Alaves,Away,0.6033333333333334
-Itália - Serie A,18/05/2025,15:45,Parma,Napoli,Away,0.84
-Itália - Serie A,18/05/2025,15:45,Juventus,Udinese,Home,0.8058460317460316
-Itália - Serie A,18/05/2025,15:45,Verona,Como,Away,0.5666666666666667
-Itália - Serie A,18/05/2025,15:45,Roma,Milan,Away,0.5633333333333334
-Finlândia,20/05/2025,12:00,HJK,SJK,Home,0.7310777777777778
-Inglaterra - Premiere League,20/05/2025,16:00,Man City,Bournemouth,Home,0.8583484126984126
-Argentina,20/05/2025,20:30,River Plate,Platense,Home,0.8200880952380957
-Japao,21/05/2025,07:00,Yokohama F. Marinos,Vissel Kobe,Away,0.6166666666666667
-Suíça,22/05/2025,15:30,Grasshoppers,St. Gallen,Away,0.5833333333333334
-Suíça,22/05/2025,15:30,Yverdon,Zurich,Away,0.62
+Austria,23/05/2025,14:30,A. Klagenfurt,Hartberg,Away,0.64
+Austria,23/05/2025,14:30,LASK,Altach,Home,0.7319984126984128
+Itália - Serie A,23/05/2025,15:45,Napoli,Cagliari,Home,0.6730396825396823
+Irlanda,23/05/2025,15:45,Shelbourne,Sligo Rovers,Home,0.7402357142857142
+Irlanda,23/05/2025,15:45,St. Patricks,Waterford,Home,0.7922277777777778
+Espanha - La Liga,23/05/2025,16:00,Betis,Valencia,Home,0.7148357142857142
+Japao,24/05/2025,03:00,Cerezo Osaka,Avispa Fukuoka,Home,0.8609984126984128
+Turquia - Liga 1,24/05/2025,10:00,Eyupspor,Antalyaspor,Home,0.629072222222222
+Dinamarca,24/05/2025,10:00,Silkeborg,Viborg,Home,0.8203412698412698
+Dinamarca,24/05/2025,10:00,Lyngby,Aalborg,Home,0.6129761904761902
+Russia,24/05/2025,10:30,Akron Togliatti,Lokomotiv Moscow,Away,0.7166666666666667
+Russia,24/05/2025,10:30,CSKA Moscow,Pari NN,Home,0.7887158730158731
+Russia,24/05/2025,10:30,Krasnodar,Dynamo Moscow,Home,0.7335277777777774
+Russia,24/05/2025,10:30,Spartak Moscow,Khimki,Home,0.7804126984126984
+Russia,24/05/2025,10:30,Zenit,Akhmat Grozny,Home,0.6769484126984127
+Finlândia,24/05/2025,11:00,Ilves,AC Oulu,Home,0.8147015873015876
+Espanha - La Liga,24/05/2025,11:15,Real Madrid,Sociedad,Home,0.7803523809523809
+Austria,24/05/2025,12:00,Austria Vienna,BW Linz,Home,0.6933595238095235
+Austria,24/05/2025,12:00,Salzburg,SK Rapid,Home,0.7247317460317462
+Austria,24/05/2025,12:00,Sturm Graz,Wolfsberger AC,Home,0.7220079365079366
+Romenia,24/05/2025,12:00,U. Cluj,FC Rapid Bucuresti,Home,0.7600595238095235
+Polonia,24/05/2025,12:30,Lech Poznan,Piast Gliwice,Home,0.7215809523809524
+Polonia,24/05/2025,12:30,Legia,Stal Mielec,Home,0.7680079365079363
+Polonia,24/05/2025,12:30,Radomiak Radom,Motor Lublin,Home,0.693621428571429
+Polonia,24/05/2025,12:30,Rakow,Widzew Lodz,Home,0.8155174603174606
+Suíça,24/05/2025,13:00,Basel,Luzern,Home,0.6796253968253968
+Itália - Serie A,24/05/2025,13:00,Bologna,Genoa,Home,0.6431539682539682
+Finlândia,24/05/2025,13:00,Mariehamn,HJK,Away,0.7366666666666667
+Turquia - Liga 1,24/05/2025,13:00,Goztep,Galatasaray,Away,0.7766666666666666
+Bélgica,24/05/2025,15:00,Westerlo,Standard,Home,0.750561111111111
+Romenia,24/05/2025,15:00,Univ. Craiova,Din. Bucuresti,Home,0.7936484126984126
+Bélgica,24/05/2025,15:00,Charleroi,Oud-Heverlee Leuven,Home,0.7995428571428568
+Itália - Serie A,24/05/2025,15:45,Milan,Monza,Home,0.8153619047619048
+EUA,24/05/2025,16:00,Seattle Sounders,FC Dallas,Home,0.8423134920634925
+EUA,24/05/2025,17:45,San Diego FC,Los Angeles Galaxy,Home,0.7562952380952386
+Brasil,24/05/2025,18:30,Fluminense,Vasco,Home,0.689868253968254
+Argentina,24/05/2025,18:30,Independiente,Huracan,Home,0.788128571428572
+EUA,24/05/2025,20:30,Philadelphia Union,Inter Miami,Home,0.7428436507936506
+EUA,24/05/2025,20:30,Orlando City,Portland Timbers,Home,0.6991150793650796
+EUA,24/05/2025,20:30,DC United,New York Red Bulls,Home,0.6844642857142857
+EUA,24/05/2025,20:30,Charlotte,Columbus Crew,Away,0.58
+Brasil,24/05/2025,21:00,Atletico-MG,Corinthians,Home,0.7848238095238099
+EUA,24/05/2025,21:30,Minnesota United,Austin FC,Home,0.831937301587302
+Japao,25/05/2025,02:00,Shimizu S-Pulse,Vissel Kobe,Away,0.6833333333333333
+Japao,25/05/2025,03:00,Verdy,Kyoto,Away,0.58
+Japao,25/05/2025,04:00,Kawasaki Frontale,Gamba Osaka,Home,0.8072642857142859
+Noruega,25/05/2025,09:30,HamKam,Molde,Away,0.7
+Finlândia,25/05/2025,10:00,KuPS,VPS,Home,0.8207428571428572
+Brasil,25/05/2025,11:00,Gremio,Bahia,Home,0.8311301587301587
+Espanha - La Liga,25/05/2025,11:15,Villarreal,Sevilla,Home,0.8226492063492064
+Suecia,25/05/2025,11:30,Brommapojkarna,AIK,Away,0.7166666666666667
+Inglaterra - Premiere League,25/05/2025,12:00,Man United,Aston Villa,Away,0.6433333333333333
+Inglaterra - Premiere League,25/05/2025,12:00,Nott'm Forest,Chelsea,Away,0.6133333333333333
+Inglaterra - Premiere League,25/05/2025,12:00,Tottenham,Brighton,Away,0.6
+Inglaterra - Premiere League,25/05/2025,12:00,Wolves,Brentford,Away,0.6833333333333333
+Inglaterra - Premiere League,25/05/2025,12:00,Fulham,Man City,Away,0.7566666666666667
+Inglaterra - Premiere League,25/05/2025,12:00,Liverpool,Crystal Palace,Home,0.8004309523809523
+Inglaterra - Premiere League,25/05/2025,12:00,Newcastle,Everton,Home,0.6978706349206346
+Noruega,25/05/2025,12:00,Sandefjord,Stromsgodset,Home,0.8056619047619049
+Dinamarca,25/05/2025,12:00,Midtjylland,Randers FC,Home,0.8183103174603171
+Dinamarca,25/05/2025,12:00,FC Copenhagen,Nordsjaelland,Home,0.6953071428571429
+Turquia - Liga 1,25/05/2025,13:00,Konyaspor,Alanyaspor,Home,0.7966690476190479
+Turquia - Liga 1,25/05/2025,13:00,Besiktas,Rizespor,Home,0.7951753968253968
+Turquia - Liga 1,25/05/2025,13:00,Buyuksehyr,Ad. Demirspor,Home,0.8327603174603178
+Turquia - Liga 1,25/05/2025,13:00,Trabzonspor,Samsunspor,Home,0.6153460317460315
+Turquia - Liga 1,25/05/2025,13:00,Kayserispor,Bodrumspor,Home,0.6996373015873015
+Bélgica,25/05/2025,13:30,St. Gilloise,Gent,Home,0.7531547619047614
+Bélgica,25/05/2025,13:30,Club Brugge,Antwerp,Home,0.8001444444444442
+Itália - Serie A,25/05/2025,15:45,Lazio,Lecce,Home,0.8104071428571429
+Itália - Serie A,25/05/2025,15:45,Empoli,Verona,Away,0.52
+Itália - Serie A,25/05/2025,15:45,Atalanta,Parma,Home,0.8412761904761908
+Itália - Serie A,25/05/2025,15:45,Venezia,Juventus,Away,0.78
+Argentina,25/05/2025,16:00,San Lorenzo,Platense,Home,0.7481976190476191
+EUA,25/05/2025,16:00,New York City,Chicago Fire,Home,0.6944357142857142
+Brasil,25/05/2025,20:30,Fortaleza,Cruzeiro,Home,0.8369912698412699
+Suecia,26/05/2025,14:10,Hammarby,Degerfors,Home,0.8305007936507934
+Brasil,26/05/2025,20:00,Bragantino,Juventude,Home,0.8957222222222221
