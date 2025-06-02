@@ -1,38 +1,40 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Turquia - Liga 1,30/05/2025,14:00,Galatasaray,Buyuksehyr,Home,0.8224999999999999
-Irlanda,30/05/2025,15:45,Cork City,Shelbourne,Away,0.6966666666666667
-Irlanda,30/05/2025,16:00,Shamrock Rovers,Galway,Home,0.7148801587301586
-Japao,31/05/2025,02:00,Machida,Yokohama F. Marinos,Home,0.7041285714285712
-Japao,31/05/2025,02:00,Nagoya Grampus,Albirex Niigata,Home,0.7114420634920634
-Japao,31/05/2025,05:30,Sanfrecce Hiroshima,Kawasaki Frontale,Home,0.7132507936507941
-Finlândia,31/05/2025,09:00,KTP,Mariehamn,Home,0.5891984126984128
-Turquia - Liga 1,31/05/2025,10:00,Fenerbahce,Konyaspor,Home,0.8064166666666668
-Suecia,31/05/2025,10:00,Elfsborg,Hammarby,Home,0.742452380952381
-Finlândia,31/05/2025,11:00,AC Oulu,SJK,Home,0.6615984126984125
-Noruega,31/05/2025,11:00,Stromsgodset,HamKam,Home,0.7483428571428571
-Finlândia,31/05/2025,13:00,HJK,KuPS,Home,0.7146738095238091
-Turquia - Liga 1,31/05/2025,13:00,Alanyaspor,Sivasspor,Home,0.7939944444444447
-EUA,31/05/2025,17:30,Nashville SC,New York City,Home,0.801538888888889
-EUA,31/05/2025,20:30,Toronto FC,Charlotte,Home,0.7849484126984129
-EUA,31/05/2025,20:30,Orlando City,Chicago Fire,Home,0.7461015873015869
-EUA,31/05/2025,20:30,New York Red Bulls,Atlanta Utd,Home,0.6913460317460315
-EUA,31/05/2025,20:30,FC Cincinnati,DC United,Home,0.7693809523809523
-EUA,31/05/2025,21:30,Houston Dynamo,Sporting Kansas City,Home,0.7218214285714283
+Turquia - Liga 1,30/05/2025,14:00,Galatasaray,Buyuksehyr,Home,0.8213190476190475
+Irlanda,30/05/2025,15:45,Cork City,Shelbourne,Away,0.7
+Irlanda,30/05/2025,15:45,Bohemians,Derry City,Home,0.7300023809523811
+Irlanda,30/05/2025,16:00,Shamrock Rovers,Galway,Home,0.7139579365079365
+Japao,31/05/2025,02:00,Nagoya Grampus,Albirex Niigata,Home,0.7825960317460313
+Japao,31/05/2025,05:30,Sanfrecce Hiroshima,Kawasaki Frontale,Home,0.6968198412698415
+Finlândia,31/05/2025,09:00,KTP,Mariehamn,Home,0.6035880952380953
+Suecia,31/05/2025,10:00,Elfsborg,Hammarby,Home,0.7239325396825396
+Turquia - Liga 1,31/05/2025,10:00,Rizespor,Hatayspor,Home,0.6091698412698414
+Turquia - Liga 1,31/05/2025,10:00,Fenerbahce,Konyaspor,Home,0.8142309523809526
+Finlândia,31/05/2025,11:00,AC Oulu,SJK,Home,0.6594007936507937
+Noruega,31/05/2025,11:00,Stromsgodset,HamKam,Home,0.7462412698412698
+Turquia - Liga 1,31/05/2025,13:00,Alanyaspor,Sivasspor,Home,0.8049206349206353
+Finlândia,31/05/2025,13:00,HJK,KuPS,Home,0.7208507936507932
+EUA,31/05/2025,17:30,Nashville SC,New York City,Home,0.794780158730159
+EUA,31/05/2025,20:30,New York Red Bulls,Atlanta Utd,Home,0.7255007936507936
+EUA,31/05/2025,20:30,Inter Miami,Columbus Crew,Home,0.7159880952380953
+EUA,31/05/2025,20:30,FC Cincinnati,DC United,Home,0.7707269841269839
+EUA,31/05/2025,20:30,Orlando City,Chicago Fire,Home,0.7249476190476191
+EUA,31/05/2025,21:30,Houston Dynamo,Sporting Kansas City,Home,0.6969484126984127
 EUA,31/05/2025,21:30,FC Dallas,Philadelphia Union,Away,0.6666666666666666
-EUA,31/05/2025,23:30,San Diego FC,Austin FC,Home,0.7535293650793653
-Japao,01/06/2025,03:00,Cerezo Osaka,Shimizu S-Pulse,Home,0.7392119047619048
-Japao,01/06/2025,04:00,Urawa Reds,Yokohama FC,Home,0.7655158730158734
-Suecia,01/06/2025,09:00,Halmstad,Djurgarden,Away,0.6033333333333334
-Suecia,01/06/2025,09:00,Malmo FF,Hacken,Home,0.697347619047619
-Finlândia,01/06/2025,10:00,Gnistan,Ilves,Away,0.7666666666666667
-Suecia,01/06/2025,11:30,Mjallby,Varnamo,Home,0.8598777777777779
-Noruega,01/06/2025,12:00,Rosenborg,KFUM Oslo,Home,0.7708579365079365
-Noruega,01/06/2025,12:00,Haugesund,Bodo/Glimt,Away,0.6
-Noruega,01/06/2025,12:00,Brann,Kristiansund,Home,0.7693873015873015
-Finlândia,01/06/2025,12:30,Jaro,Inter Turku,Away,0.7
-Turquia - Liga 1,01/06/2025,13:00,Bodrumspor,Besiktas,Away,0.7066666666666667
-Turquia - Liga 1,01/06/2025,13:00,Samsunspor,Kayserispor,Home,0.838869841269841
-Noruega,01/06/2025,14:15,Molde,Viking,Home,0.6485095238095234
-Brasil,01/06/2025,18:30,Flamengo RJ,Fortaleza,Home,0.7234650793650799
-Brasil,01/06/2025,18:30,Corinthians,Vitoria,Home,0.7940301587301585
-EUA,01/06/2025,19:00,Seattle Sounders,Minnesota United,Home,0.7735349206349202
+EUA,31/05/2025,23:30,Los Angeles Galaxy,Real Salt Lake,Home,0.7141793650793655
+EUA,31/05/2025,23:30,San Diego FC,Austin FC,Home,0.7448190476190477
+Japao,01/06/2025,03:00,Cerezo Osaka,Shimizu S-Pulse,Home,0.7472396825396824
+Japao,01/06/2025,04:00,Urawa Reds,Yokohama FC,Home,0.7728119047619051
+Suecia,01/06/2025,09:00,Halmstad,Djurgarden,Away,0.5766666666666667
+Suecia,01/06/2025,09:00,Malmo FF,Hacken,Home,0.719499206349206
+Finlândia,01/06/2025,10:00,Gnistan,Ilves,Away,0.7333333333333333
+Suecia,01/06/2025,11:30,Mjallby,Varnamo,Home,0.8533126984126984
+Noruega,01/06/2025,12:00,Rosenborg,KFUM Oslo,Home,0.713403968253968
+Noruega,01/06/2025,12:00,Haugesund,Bodo/Glimt,Away,0.5933333333333334
+Noruega,01/06/2025,12:00,Brann,Kristiansund,Home,0.7721801587301587
+Finlândia,01/06/2025,12:30,Jaro,Inter Turku,Away,0.7133333333333334
+Turquia - Liga 1,01/06/2025,13:00,Bodrumspor,Besiktas,Away,0.72
+Turquia - Liga 1,01/06/2025,13:00,Samsunspor,Kayserispor,Home,0.8261698412698409
+Noruega,01/06/2025,14:15,Molde,Viking,Home,0.6423698412698409
+Brasil,01/06/2025,18:30,Flamengo RJ,Fortaleza,Home,0.7394253968253969
+Brasil,01/06/2025,18:30,Corinthians,Vitoria,Home,0.7887785714285711
+EUA,01/06/2025,19:00,Seattle Sounders,Minnesota United,Home,0.7634007936507934
