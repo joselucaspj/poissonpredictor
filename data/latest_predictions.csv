@@ -1,14 +1,9 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Turquia - Liga 1,30/05/2025,14:00,Galatasaray,Buyuksehyr,Home,0.8213190476190475
-Turquia - Liga 1,31/05/2025,10:00,Fenerbahce,Konyaspor,Home,0.8142309523809526
-Turquia - Liga 1,31/05/2025,10:00,Rizespor,Hatayspor,Home,0.6091698412698414
-Turquia - Liga 1,31/05/2025,13:00,Alanyaspor,Sivasspor,Home,0.8049206349206353
-Turquia - Liga 1,01/06/2025,13:00,Samsunspor,Kayserispor,Home,0.8261698412698409
-Turquia - Liga 1,01/06/2025,13:00,Bodrumspor,Besiktas,Away,0.72
 Russia,25/07/2025,13:00,Krylya Sovetov,Pari NN,Home,0.7117349206349206
-Noruega,25/07/2025,14:00,Fredrikstad,Stromsgodset,Home,0.8069738095238097
 Dinamarca,25/07/2025,14:00,Aarhus,Randers FC,Home,0.6044373015873018
+Noruega,25/07/2025,14:00,Fredrikstad,Stromsgodset,Home,0.8069738095238097
 Irlanda,25/07/2025,15:45,Galway,Waterford,Home,0.7391880952380954
+Bélgica,25/07/2025,15:45,Antwerp,St. Gilloise,Away,0.5566666666666666
 Irlanda,25/07/2025,15:45,Cork City,Sligo Rovers,Home,0.6192182539682538
 Romenia,25/07/2025,16:00,Csikszereda M. Ciuc,FC Rapid Bucuresti,Away,0.6533333333333333
 EUA,25/07/2025,21:30,Houston Dynamo,Los Angeles Galaxy,Home,0.6103333333333333
@@ -17,10 +12,11 @@ EUA,25/07/2025,23:30,San Diego FC,Nashville SC,Away,0.57
 China,26/07/2025,08:00,Shanghai Port,Qingdao West Coast,Home,0.8553452380952385
 Russia,26/07/2025,09:00,Spartak Moscow,Baltika,Home,0.6752999999999999
 Polonia,26/07/2025,09:45,Piast Gliwice,Gornik Zabrze,Home,0.6604071428571427
-Suecia,26/07/2025,10:00,Brommapojkarna,Malmo FF,Away,0.7666666666666667
 Suecia,26/07/2025,10:00,GAIS,Halmstad,Home,0.6307261904761909
-Noruega,26/07/2025,11:00,Kristiansund,KFUM Oslo,Away,0.6666666666666666
+Suecia,26/07/2025,10:00,Brommapojkarna,Malmo FF,Away,0.7666666666666667
 Noruega,26/07/2025,11:00,Haugesund,HamKam,Home,0.6798777777777776
+Noruega,26/07/2025,11:00,Kristiansund,KFUM Oslo,Away,0.6666666666666666
+Bélgica,26/07/2025,11:00,Dender,Cercle Brugge,Home,0.8101365079365079
 Russia,26/07/2025,11:30,Dynamo Moscow,FK Rostov,Home,0.8535769841269841
 Polonia,26/07/2025,12:30,Pogon Szczecin,Motor Lublin,Home,0.7481396825396823
 Dinamarca,26/07/2025,13:00,FC Copenhagen,Vejle,Home,0.7231365079365079
@@ -40,27 +36,30 @@ EUA,26/07/2025,21:30,St. Louis City,Minnesota United,Away,0.5133333333333333
 EUA,26/07/2025,22:30,Real Salt Lake,San Jose Earthquakes,Home,0.7723571428571427
 Japao,27/07/2025,07:00,Urawa Reds,Avispa Fukuoka,Home,0.7650920634920636
 China,27/07/2025,08:00,Changchun Yatai,Dalian Yingbo,Home,0.690530158730159
+Bélgica,27/07/2025,08:30,Anderlecht,Westerlo,Home,0.6517079365079365
 China,27/07/2025,08:35,Zhejiang Professional,Wuhan Three Towns,Home,0.7596809523809522
 China,27/07/2025,08:35,Shanghai Shenhua,Henan Songshan Longmen,Home,0.8890611111111107
-China,27/07/2025,09:00,Shandong Taishan,Meizhou Hakka,Home,0.771220634920635
 Russia,27/07/2025,09:00,CSKA Moscow,Akhmat Grozny,Home,0.7056706349206351
+China,27/07/2025,09:00,Shandong Taishan,Meizhou Hakka,Home,0.771220634920635
 Polonia,27/07/2025,09:45,Rakow,Wisla Plock,Home,0.8056492063492061
-Suíça,27/07/2025,11:00,Lausanne,Winterthur,Home,0.6522158730158732
 Suíça,27/07/2025,11:00,Lugano,Thun,Home,0.7181325396825394
+Suíça,27/07/2025,11:00,Lausanne,Winterthur,Home,0.6522158730158732
 Finlândia,27/07/2025,11:00,Inter Turku,SJK,Home,0.7051611111111111
 Suecia,27/07/2025,11:30,Mjallby,Sirius,Home,0.8269730158730162
 Romenia,27/07/2025,12:30,CFR Cluj,FC Arges,Home,0.8296753968253974
 Dinamarca,27/07/2025,13:00,Nordsjaelland,Brondby,Home,0.6521531746031748
+Bélgica,27/07/2025,13:30,Club Brugge,Genk,Home,0.7384103174603177
 Russia,27/07/2025,14:00,Rubin Kazan,Zenit,Away,0.69
+Bélgica,27/07/2025,14:15,St Truiden,Gent,Home,0.7253309523809522
 Polonia,27/07/2025,15:15,Korona Kielce,Legia,Away,0.6866666666666666
 Brasil,27/07/2025,16:00,Cruzeiro,Ceara,Home,0.851327777777778
-Brasil,27/07/2025,18:30,Bahia,Juventude,Home,0.7279373015873022
 Argentina,27/07/2025,18:30,Huracan,Boca Juniors,Home,0.6781428571428573
+Brasil,27/07/2025,18:30,Bahia,Juventude,Home,0.7279373015873022
 Brasil,27/07/2025,18:30,Internacional,Vasco,Home,0.8320238095238096
 Argentina,27/07/2025,20:30,River Plate,San Lorenzo,Home,0.7556825396825398
 Brasil,27/07/2025,20:30,Flamengo RJ,Atletico-MG,Home,0.7346253968253972
 Finlândia,28/07/2025,13:00,Gnistan,HJK,Away,0.7333333333333333
-Dinamarca,28/07/2025,14:00,Midtjylland,Sonderjyske,Home,0.7017642857142858
 Polonia,28/07/2025,14:00,GKS Katowice,Zaglebie,Home,0.6476436507936509
+Dinamarca,28/07/2025,14:00,Midtjylland,Sonderjyske,Home,0.7017642857142858
 Romenia,28/07/2025,15:30,Univ. Craiova,U. Cluj,Home,0.823815873015873
 Argentina,28/07/2025,16:00,Dep. Riestra,Atl. Tucuman,Home,0.7087738095238096
