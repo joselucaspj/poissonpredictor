@@ -1,66 +1,7 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Russia,25/07/2025,13:00,Krylya Sovetov,Pari NN,Home,0.7125007936507938
-Noruega,25/07/2025,14:00,Fredrikstad,Stromsgodset,Home,0.8082507936507937
-Irlanda,25/07/2025,15:45,Galway,Waterford,Home,0.7388730158730159
-Irlanda,25/07/2025,15:45,Cork City,Sligo Rovers,Home,0.5924444444444443
 Bélgica,25/07/2025,15:45,Antwerp,St. Gilloise,Away,0.5566666666666666
-Romenia,25/07/2025,16:00,Csikszereda M. Ciuc,FC Rapid Bucuresti,Away,0.6733333333333333
-EUA,25/07/2025,20:30,New England Revolution,CF Montreal,Home,0.7913865079365082
-EUA,25/07/2025,21:30,Houston Dynamo,Los Angeles Galaxy,Home,0.6103333333333333
-EUA,25/07/2025,23:30,San Diego FC,Nashville SC,Away,0.5666666666666667
-EUA,25/07/2025,23:30,Los Angeles FC,Portland Timbers,Home,0.7750912698412699
-China,26/07/2025,08:00,Shanghai Port,Qingdao West Coast,Home,0.8407238095238099
-Russia,26/07/2025,09:00,Spartak Moscow,Baltika,Home,0.6694373015873016
-Polonia,26/07/2025,09:45,Piast Gliwice,Gornik Zabrze,Home,0.6471753968253966
-Suecia,26/07/2025,10:00,Brommapojkarna,Malmo FF,Away,0.7766666666666666
-Finlândia,26/07/2025,10:00,Mariehamn,AC Oulu,Home,0.6967960317460321
-Suecia,26/07/2025,10:00,GAIS,Halmstad,Home,0.6870325396825399
 Bélgica,26/07/2025,11:00,Dender,Cercle Brugge,Home,0.8101365079365079
-Noruega,26/07/2025,11:00,Kristiansund,KFUM Oslo,Away,0.67
-Russia,26/07/2025,11:30,Dynamo Moscow,FK Rostov,Home,0.8465031746031747
-Polonia,26/07/2025,12:30,Pogon Szczecin,Motor Lublin,Home,0.7687476190476191
-Dinamarca,26/07/2025,13:00,FC Copenhagen,Vejle,Home,0.7602642857142854
-Suíça,26/07/2025,13:00,Grasshoppers,Luzern,Home,0.7376277777777778
-Russia,26/07/2025,14:30,Sochi,Akron Togliatti,Home,0.6962642857142861
-Suíça,26/07/2025,15:30,Young Boys,Servette,Home,0.5960063492063491
-Romenia,26/07/2025,15:30,FCSB,Farul Constanta,Home,0.7886277777777776
-Argentina,26/07/2025,16:45,Rosario Central,San Martin S.J.,Home,0.8434246031746028
-Brasil,26/07/2025,18:30,Botafogo RJ,Corinthians,Home,0.8642936507936506
-Argentina,26/07/2025,19:00,Velez Sarsfield,Instituto,Home,0.827640476190476
-EUA,26/07/2025,20:15,Inter Miami,FC Cincinnati,Home,0.6654142857142861
-EUA,26/07/2025,20:30,Philadelphia Union,Colorado Rapids,Home,0.7498650793650791
-EUA,26/07/2025,20:30,Charlotte,Toronto FC,Home,0.7427690476190474
-Brasil,26/07/2025,21:00,Palmeiras,Gremio,Home,0.6539031746031749
-EUA,26/07/2025,21:30,St. Louis City,Minnesota United,Away,0.5733333333333334
-EUA,26/07/2025,22:30,Real Salt Lake,San Jose Earthquakes,Home,0.7790619047619046
-Japao,27/07/2025,07:00,Urawa Reds,Avispa Fukuoka,Home,0.7556595238095238
-China,27/07/2025,08:00,Changchun Yatai,Dalian Yingbo,Home,0.6684563492063497
 Bélgica,27/07/2025,08:30,Anderlecht,Westerlo,Home,0.6517079365079365
-China,27/07/2025,08:35,Zhejiang Professional,Wuhan Three Towns,Home,0.7589896825396822
-China,27/07/2025,08:35,Shanghai Shenhua,Henan Songshan Longmen,Home,0.8929055555555553
-China,27/07/2025,09:00,Shandong Taishan,Meizhou Hakka,Home,0.7811587301587304
-Russia,27/07/2025,09:00,CSKA Moscow,Akhmat Grozny,Home,0.703220634920635
-Suecia,27/07/2025,09:00,AIK,Oster,Home,0.7296071428571428
-Polonia,27/07/2025,09:45,Rakow,Wisla Plock,Home,0.7810333333333331
-Suíça,27/07/2025,11:00,Lugano,Thun,Home,0.7041547619047616
-Finlândia,27/07/2025,11:00,Inter Turku,SJK,Home,0.7137452380952385
-Suíça,27/07/2025,11:00,Lausanne,Winterthur,Home,0.6645396825396827
-Suecia,27/07/2025,11:30,Mjallby,Sirius,Home,0.805597619047619
-Polonia,27/07/2025,12:30,Jagiellonia,Widzew Lodz,Home,0.7663690476190477
-Romenia,27/07/2025,12:30,CFR Cluj,FC Arges,Home,0.8212087301587305
-Dinamarca,27/07/2025,13:00,Nordsjaelland,Brondby,Home,0.6504238095238096
 Bélgica,27/07/2025,13:30,Club Brugge,Genk,Home,0.7384103174603177
-Russia,27/07/2025,14:00,Rubin Kazan,Zenit,Away,0.7
 Bélgica,27/07/2025,14:15,St Truiden,Gent,Home,0.7253309523809522
-Polonia,27/07/2025,15:15,Korona Kielce,Legia,Away,0.6666666666666666
-Brasil,27/07/2025,16:00,Cruzeiro,Ceara,Home,0.8356492063492066
-Argentina,27/07/2025,18:30,Huracan,Boca Juniors,Home,0.6625428571428572
-Brasil,27/07/2025,18:30,Internacional,Vasco,Home,0.8269539682539686
-Brasil,27/07/2025,18:30,Bahia,Juventude,Home,0.7558611111111118
-Brasil,27/07/2025,20:30,Flamengo RJ,Atletico-MG,Home,0.7281539682539683
-Argentina,27/07/2025,20:30,River Plate,San Lorenzo,Home,0.7541880952380954
-Finlândia,28/07/2025,13:00,Gnistan,HJK,Away,0.72
-Dinamarca,28/07/2025,14:00,Midtjylland,Sonderjyske,Home,0.7026690476190477
-Polonia,28/07/2025,14:00,GKS Katowice,Zaglebie,Home,0.6454642857142859
-Romenia,28/07/2025,15:30,Univ. Craiova,U. Cluj,Home,0.8348000000000001
-Argentina,28/07/2025,16:00,Dep. Riestra,Atl. Tucuman,Home,0.7071460317460317
+Noruega,30/07/2025,14:00,Bodo/Glimt,Stromsgodset,Home,0.8588015873015873
