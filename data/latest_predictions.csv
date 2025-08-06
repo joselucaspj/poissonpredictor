@@ -1,45 +1,11 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Romenia,01/08/2025,15:30,Petrolul,UTA Arad,Home,0.6215769841269843
 Bélgica,01/08/2025,15:45,Mechelen,Club Brugge,Away,0.7533333333333333
-Irlanda,01/08/2025,15:45,Bohemians,Drogheda,Home,0.6833452380952383
-China,02/08/2025,09:00,Meizhou Hakka,Shanghai Port,Away,0.7966666666666666
 Escócia - Premiere League,02/08/2025,11:00,Kilmarnock,Livingston,Home,0.685405555555556
-Finlândia,02/08/2025,11:00,KuPS,Haka,Home,0.6861888888888893
-Russia,02/08/2025,12:00,FK Rostov,Krylya Sovetov,Home,0.7731444444444446
-Austria,02/08/2025,12:00,Wolfsberger AC,Altach,Home,0.7637936507936509
-Suecia,02/08/2025,12:30,Varnamo,GAIS,Away,0.6566666666666666
-Suíça,02/08/2025,13:00,Winterthur,Young Boys,Away,0.6933333333333334
 Escócia - Premiere League,02/08/2025,13:30,Motherwell,Rangers,Away,0.78
-Russia,02/08/2025,14:30,Krasnodar,Dynamo Moscow,Home,0.7209753968253966
-Russia,02/08/2025,14:30,Pari NN,Lokomotiv Moscow,Away,0.6433333333333333
-Polonia,02/08/2025,15:15,Lech Poznan,Gornik Zabrze,Home,0.847663492063492
-Suíça,02/08/2025,15:30,Basel,Grasshoppers,Home,0.7664873015873016
-Brasil,02/08/2025,21:00,Fluminense,Gremio,Home,0.7334888888888889
-Russia,03/08/2025,07:30,Akron Togliatti,Spartak Moscow,Away,0.72
 Bélgica,03/08/2025,08:30,Genk,Antwerp,Home,0.7644269841269842
-China,03/08/2025,08:35,Beijing Guoan,Tianjin Jinmen Tiger,Home,0.7821793650793648
-China,03/08/2025,09:00,Shenzhen Xinpengcheng,Zhejiang Professional,Away,0.63
-Suíça,03/08/2025,09:00,Thun,Lausanne,Home,0.7074103174603177
-Suecia,03/08/2025,09:00,Hacken,Elfsborg,Home,0.6246150793650794
-Suecia,03/08/2025,09:00,Djurgarden,Halmstad,Home,0.7337047619047621
-Noruega,03/08/2025,09:30,HamKam,Bodo/Glimt,Away,0.7533333333333333
-Polonia,03/08/2025,09:45,Cracovia,Lechia Gdansk,Home,0.7444515873015872
-Finlândia,03/08/2025,10:00,SJK,KTP,Home,0.7469896825396827
 Bélgica,03/08/2025,11:00,Cercle Brugge,Anderlecht,Home,0.5569206349206348
 Escócia - Premiere League,03/08/2025,11:00,Dundee,Hibernian,Away,0.74
-Suecia,03/08/2025,11:30,Sirius,Oster,Home,0.6608571428571428
-Irlanda,03/08/2025,12:00,Waterford,St. Patricks,Away,0.5833333333333334
-Noruega,03/08/2025,12:00,Stromsgodset,Haugesund,Home,0.722706349206349
-Austria,03/08/2025,12:00,SK Rapid,BW Linz,Home,0.8042984126984126
-Austria,03/08/2025,12:00,Grazer AK,Austria Vienna,Away,0.7533333333333333
 Escócia - Premiere League,03/08/2025,12:30,Celtic,St Mirren,Home,0.8192817460317463
-Dinamarca,03/08/2025,13:00,Brondby,Viborg,Home,0.7798182539682544
 Bélgica,03/08/2025,13:30,St. Gilloise,Oud-Heverlee Leuven,Home,0.8641365079365082
-Russia,03/08/2025,14:30,Dynamo Makhachkala,Akhmat Grozny,Home,0.7078857142857145
-Irlanda,03/08/2025,15:00,Shamrock Rovers,Derry City,Home,0.6845277777777778
-Polonia,03/08/2025,15:15,Legia,Arka Gdynia,Home,0.8165722222222225
-Romenia,03/08/2025,15:30,CFR Cluj,Univ. Craiova,Home,0.6273476190476185
-Brasil,03/08/2025,16:00,Botafogo RJ,Cruzeiro,Home,0.6814126984126982
-Brasil,03/08/2025,16:00,Corinthians,Fortaleza,Home,0.7702595238095237
-Finlândia,04/08/2025,12:00,Ilves,Gnistan,Home,0.8292238095238096
 Escócia - Premiere League,04/08/2025,16:00,Hearts,Aberdeen,Home,0.7102746031746036
+Suíça,06/08/2025,15:30,Basel,Young Boys,Home,0.5921444444444444
