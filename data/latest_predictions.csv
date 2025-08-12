@@ -1,87 +1,80 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-China,08/08/2025,09:00,Henan Songshan Longmen,Shenzhen Xinpengcheng,Home,0.7505690476190477
-Finlândia,08/08/2025,12:00,Inter Turku,AC Oulu,Home,0.8288547619047617
-Polonia,08/08/2025,13:00,Korona Kielce,Radomiak Radom,Home,0.6399603174603177
-Dinamarca,08/08/2025,13:00,FC Copenhagen,Aarhus,Home,0.7868055555555558
-Dinamarca,08/08/2025,15:00,Viborg,Sonderjyske,Home,0.5676365079365078
-Polonia,08/08/2025,15:30,Gornik Zabrze,Termalica B-B.,Home,0.7650873015873015
+China,08/08/2025,09:00,Henan Songshan Longmen,Shenzhen Xinpengcheng,Home,0.7664119047619048
+Finlândia,08/08/2025,12:00,Inter Turku,AC Oulu,Home,0.8345849206349204
+Dinamarca,08/08/2025,13:00,FC Copenhagen,Aarhus,Home,0.7705880952380955
+Polonia,08/08/2025,13:00,Korona Kielce,Radomiak Radom,Home,0.6671936507936509
 Turquia - Liga 1,08/08/2025,15:30,Gaziantep,Galatasaray,Away,0.77
+Polonia,08/08/2025,15:30,Gornik Zabrze,Termalica B-B.,Home,0.747643650793651
 Bélgica,08/08/2025,15:45,St Truiden,Dender,Home,0.6584984126984126
-Irlanda,08/08/2025,15:45,Derry City,Cork City,Home,0.810307142857143
-Argentina,08/08/2025,21:00,Newells Old Boys,Central Cordoba,Home,0.7391555555555559
-Japao,09/08/2025,07:00,Kawasaki Frontale,Avispa Fukuoka,Home,0.7931761904761906
-China,09/08/2025,08:00,Shandong Taishan,Changchun Yatai,Home,0.8318873015873018
-China,09/08/2025,08:35,Shanghai Shenhua,Shanghai Port,Home,0.7573063492063491
-China,09/08/2025,09:00,Qingdao Hainiu,Yunnan Yukun,Away,0.5966666666666667
-Finlândia,09/08/2025,10:00,KTP,KuPS,Away,0.66
-Noruega,09/08/2025,11:00,Molde,HamKam,Home,0.8129523809523808
+Irlanda,08/08/2025,15:45,Derry City,Cork City,Home,0.8049460317460319
+Argentina,08/08/2025,21:00,Newells Old Boys,Central Cordoba,Home,0.7317476190476193
+Japao,09/08/2025,06:00,Yokohama FC,Urawa Reds,Away,0.78
+Russia,09/08/2025,07:30,Krylya Sovetov,Baltika,Home,0.8077444444444448
+China,09/08/2025,08:00,Shandong Taishan,Changchun Yatai,Home,0.8711055555555556
+Russia,09/08/2025,09:45,CSKA Moscow,Rubin Kazan,Home,0.6697912698412694
+Finlândia,09/08/2025,10:00,KTP,KuPS,Away,0.7
+Suecia,09/08/2025,10:00,Malmo FF,Mjallby,Home,0.6554126984126983
+Noruega,09/08/2025,11:00,Molde,HamKam,Home,0.7419500000000001
 Bélgica,09/08/2025,11:00,Club Brugge,Cercle Brugge,Home,0.7342285714285711
 Holanda,09/08/2025,11:30,Nijmegen,Excelsior,Home,0.6773333333333338
-Romenia,09/08/2025,12:30,UTA Arad,Farul Constanta,Home,0.6149507936507934
-Suíça,09/08/2025,13:00,St. Gallen,Winterthur,Home,0.7286960317460316
-Irlanda,09/08/2025,13:00,Shelbourne,Bohemians,Away,0.57
+Russia,09/08/2025,12:00,Lokomotiv Moscow,Spartak Moscow,Home,0.7150420634920635
+Austria,09/08/2025,12:00,Altach,Ried,Home,0.7197261904761906
+Suíça,09/08/2025,13:00,St. Gallen,Winterthur,Home,0.7907015873015872
 Turquia - Liga 1,09/08/2025,13:00,Samsunspor,Genclerbirligi,Home,0.8619777777777776
+Finlândia,09/08/2025,13:00,Mariehamn,Gnistan,Away,0.5433333333333333
 Holanda,09/08/2025,13:45,Feyenoord,NAC Breda,Home,0.8238841269841268
 Escócia - Premiere League,09/08/2025,13:45,Rangers,Dundee,Home,0.816793650793651
-Noruega,09/08/2025,14:15,Bodo/Glimt,Tromso,Home,0.8334079365079368
-Austria,09/08/2025,14:30,Salzburg,Grazer AK,Home,0.7724484126984127
-Polonia,09/08/2025,15:15,Widzew Lodz,Wisla Plock,Home,0.7314984126984129
-Suíça,09/08/2025,15:30,Luzern,Thun,Home,0.6582238095238095
-Romenia,09/08/2025,15:30,U. Cluj,Petrolul,Home,0.8113214285714285
+Noruega,09/08/2025,14:15,Bodo/Glimt,Tromso,Home,0.7669603174603176
+Russia,09/08/2025,14:30,Akhmat Grozny,Zenit,Away,0.62
+Austria,09/08/2025,14:30,Salzburg,Grazer AK,Home,0.8598452380952379
+Polonia,09/08/2025,15:15,Widzew Lodz,Wisla Plock,Home,0.7143349206349207
+Romenia,09/08/2025,15:30,U. Cluj,Petrolul,Home,0.7784865079365082
 Bélgica,09/08/2025,15:45,Gent,St. Gilloise,Away,0.6533333333333333
 Holanda,09/08/2025,16:00,PSV Eindhoven,Sparta Rotterdam,Home,0.8247126984126983
-Argentina,09/08/2025,16:30,Boca Juniors,Racing Club,Home,0.681753968253968
 Portugal - Liga 1,09/08/2025,16:30,Arouca,AVS,Home,0.6705333333333335
-Brasil,09/08/2025,18:30,Sao Paulo,Vitoria,Home,0.7416587301587305
-Brasil,09/08/2025,20:30,Fortaleza,Botafogo RJ,Home,0.6399071428571431
-EUA,09/08/2025,20:30,New England Revolution,DC United,Home,0.5828555555555553
+Argentina,09/08/2025,16:30,Boca Juniors,Racing Club,Home,0.7456158730158733
+Brasil,09/08/2025,18:30,Sao Paulo,Vitoria,Home,0.7854396825396824
 EUA,09/08/2025,20:30,New York City,Columbus Crew,Home,0.7917849206349208
-EUA,09/08/2025,20:30,Philadelphia Union,Toronto FC,Home,0.7238373015873018
-Argentina,09/08/2025,20:45,Belgrano,Banfield,Home,0.6904888888888889
-Brasil,09/08/2025,21:00,Bahia,Fluminense,Home,0.6665007936507934
-EUA,09/08/2025,21:30,FC Dallas,Portland Timbers,Home,0.6407753968253965
-EUA,09/08/2025,21:30,St. Louis City,Nashville SC,Away,0.7233333333333334
-EUA,09/08/2025,21:45,Sporting Kansas City,San Diego FC,Away,0.5466666666666666
-Japao,10/08/2025,07:00,Nagoya Grampus,Kyoto,Home,0.7100920634920637
-Japao,10/08/2025,07:00,Kashiwa Reysol,Shonan Bellmare,Home,0.7838698412698414
-Japao,10/08/2025,07:00,FC Tokyo,Kashima Antlers,Away,0.67
+EUA,09/08/2025,20:30,New England Revolution,DC United,Home,0.7577611111111111
+EUA,09/08/2025,20:30,Philadelphia Union,Toronto FC,Home,0.7057626984126989
+Argentina,09/08/2025,20:45,Atl. Tucuman,Rosario Central,Home,0.7027087301587303
+Japao,10/08/2025,06:30,Sanfrecce Hiroshima,Shimizu S-Pulse,Home,0.8120134920634922
+Japao,10/08/2025,07:00,Kashiwa Reysol,Shonan Bellmare,Home,0.7461777777777775
+Japao,10/08/2025,07:00,Nagoya Grampus,Kyoto,Home,0.6126555555555552
 Escócia - Premiere League,10/08/2025,08:30,Aberdeen,Celtic,Away,0.66
-China,10/08/2025,08:35,Zhejiang Professional,Beijing Guoan,Home,0.6686349206349204
-China,10/08/2025,09:00,Wuhan Three Towns,Meizhou Hakka,Home,0.8372595238095235
-Suecia,10/08/2025,09:00,Degerfors,Hacken,Away,0.6833333333333333
-Suíça,10/08/2025,09:00,Young Boys,Sion,Home,0.7472984126984128
-Suecia,10/08/2025,09:00,AIK,Djurgarden,Home,0.660720634920635
+China,10/08/2025,08:35,Zhejiang Professional,Beijing Guoan,Home,0.7148222222222219
+Suíça,10/08/2025,09:00,Young Boys,Sion,Home,0.6917920634920636
+Russia,10/08/2025,09:30,Orenburg,Krasnodar,Away,0.73
 Holanda,10/08/2025,09:30,AZ Alkmaar,Groningen,Home,0.770874603174603
-Russia,10/08/2025,09:30,Orenburg,Krasnodar,Away,0.6233333333333333
 Escócia - Premiere League,10/08/2025,11:00,Dundee United,Hearts,Away,0.69
-Bélgica,10/08/2025,11:00,Anderlecht,Waregem,Home,0.8273214285714285
 Escócia - Premiere League,10/08/2025,11:00,Hibernian,Kilmarnock,Home,0.6822214285714282
-Suecia,10/08/2025,11:30,Oster,Brommapojkarna,Home,0.5687079365079364
+Bélgica,10/08/2025,11:00,Anderlecht,Waregem,Home,0.8273214285714285
+Dinamarca,10/08/2025,11:00,Silkeborg,Nordsjaelland,Home,0.7364515873015876
+Suíça,10/08/2025,11:30,Servette,Grasshoppers,Home,0.7404396825396826
 Holanda,10/08/2025,11:45,Utrecht,Heracles,Home,0.8935912698412701
-Austria,10/08/2025,12:00,Sturm Graz,SK Rapid,Home,0.739633333333333
-Romenia,10/08/2025,12:30,Univ. Craiova,FC Hermannstadt,Home,0.7830119047619051
-Irlanda,10/08/2025,13:00,Galway,Shamrock Rovers,Away,0.7866666666666666
-Dinamarca,10/08/2025,13:00,Brondby,Vejle,Home,0.7655198412698414
+Noruega,10/08/2025,12:00,Haugesund,Sarpsborg 08,Home,0.7629023809523812
+Austria,10/08/2025,12:00,Sturm Graz,SK Rapid,Home,0.703518253968254
+Polonia,10/08/2025,12:30,Jagiellonia,Cracovia,Home,0.673951587301587
+Romenia,10/08/2025,12:30,Univ. Craiova,FC Hermannstadt,Home,0.6837761904761903
 Turquia - Liga 1,10/08/2025,13:00,Rizespor,Goztep,Home,0.698165079365079
+Dinamarca,10/08/2025,13:00,Brondby,Vejle,Home,0.7556960317460315
+Irlanda,10/08/2025,14:00,St. Patricks,Sligo Rovers,Home,0.7145833333333333
 Bélgica,10/08/2025,14:15,Antwerp,Oud-Heverlee Leuven,Home,0.7273952380952378
-Noruega,10/08/2025,14:15,Sandefjord,Viking,Home,0.7188174603174605
-Russia,10/08/2025,14:30,FK Rostov,Pari NN,Away,0.5966666666666667
-Polonia,10/08/2025,15:15,Legia,GKS Katowice,Home,0.791192857142857
-Romenia,10/08/2025,15:30,FCSB,Unirea Slobozia,Home,0.8216293650793652
-Brasil,10/08/2025,16:00,Palmeiras,Ceara,Home,0.6862365079365083
+Russia,10/08/2025,14:30,FK Rostov,Pari NN,Home,0.6767571428571432
+Polonia,10/08/2025,15:15,Legia,GKS Katowice,Home,0.7897595238095239
+Romenia,10/08/2025,15:30,FCSB,Unirea Slobozia,Home,0.7815253968253972
+Brasil,10/08/2025,16:00,Palmeiras,Ceara,Home,0.8083920634920634
 Portugal - Liga 1,10/08/2025,16:30,Sp Braga,Tondela,Home,0.8534238095238096
-Argentina,10/08/2025,17:00,Instituto,Platense,Home,0.7636325396825394
-Brasil,10/08/2025,18:30,Cruzeiro,Santos,Home,0.7081166666666664
-EUA,10/08/2025,19:00,New York Red Bulls,Real Salt Lake,Home,0.7512873015873018
-EUA,10/08/2025,19:00,Minnesota United,Colorado Rapids,Home,0.7676261904761903
-EUA,10/08/2025,19:00,FC Cincinnati,Charlotte,Home,0.6870952380952382
-Argentina,10/08/2025,20:00,Argentinos Jrs,Union de Santa Fe,Home,0.8045230158730157
-Brasil,10/08/2025,20:30,Gremio,Sport Recife,Home,0.7508531746031746
-EUA,10/08/2025,21:00,Orlando City,Inter Miami,Home,0.6756261904761908
-EUA,10/08/2025,23:00,Los Angeles Galaxy,Seattle Sounders,Home,0.7104079365079363
-Japao,11/08/2025,07:00,Cerezo Osaka,Albirex Niigata,Home,0.8358301587301592
-Suecia,11/08/2025,14:00,GAIS,Goteborg,Home,0.7356999999999996
-Suecia,11/08/2025,14:00,Elfsborg,Varnamo,Home,0.7775746031746037
+Argentina,10/08/2025,17:00,Instituto,Platense,Home,0.8204380952380951
+Brasil,10/08/2025,18:30,Cruzeiro,Santos,Home,0.8133134920634919
+EUA,10/08/2025,19:00,Minnesota United,Colorado Rapids,Home,0.7861674603174602
+Argentina,10/08/2025,20:00,Argentinos Jrs,Union de Santa Fe,Home,0.6726833333333334
+EUA,10/08/2025,21:00,Orlando City,Inter Miami,Home,0.7747063492063492
+Japao,11/08/2025,07:00,Cerezo Osaka,Albirex Niigata,Home,0.8579388888888888
+Romenia,11/08/2025,13:00,FC Botosani,FC Arges,Home,0.7743857142857141
+Finlândia,11/08/2025,13:00,HJK,Ilves,Home,0.6510817460317457
+Suecia,11/08/2025,14:00,GAIS,Goteborg,Home,0.7053928571428574
+Suecia,11/08/2025,14:00,Elfsborg,Varnamo,Home,0.8210912698412699
+Polonia,11/08/2025,14:00,Lechia Gdansk,Motor Lublin,Home,0.6869896825396824
 Portugal - Liga 1,11/08/2025,16:45,Porto,Guimaraes,Home,0.8237777777777783
-Argentina,11/08/2025,19:00,Defensa y Justicia,Dep. Riestra,Home,0.7324261904761906
-Brasil,11/08/2025,20:00,Juventude,Corinthians,Away,0.6433333333333333
+Argentina,11/08/2025,19:00,Defensa y Justicia,Dep. Riestra,Home,0.698686507936508
