@@ -339,6 +339,7 @@ def load_team_mapping():
 def get_compiled_data():
     urls = {
         "Inglaterra - Premiere League": [
+            "https://www.football-data.co.uk/mmz4281/2526/E0.csv"
             "https://www.football-data.co.uk/mmz4281/2425/E0.csv",
             "https://www.football-data.co.uk/mmz4281/2324/E0.csv",
             "https://www.football-data.co.uk/mmz4281/2223/E0.csv",
@@ -346,6 +347,7 @@ def get_compiled_data():
             "https://www.football-data.co.uk/mmz4281/2021/E0.csv"
         ],
         "Escócia - Premiere League": [
+            "https://www.football-data.co.uk/mmz4281/2526/SC0.csv",
             "https://www.football-data.co.uk/mmz4281/2425/SC0.csv",
             "https://www.football-data.co.uk/mmz4281/2324/SC0.csv",
             "https://www.football-data.co.uk/mmz4281/2223/SC0.csv",
@@ -353,6 +355,7 @@ def get_compiled_data():
             "https://www.football-data.co.uk/mmz4281/2021/SC0.csv"
         ],
         "Alemanha - Bundesliga 1": [
+            "https://www.football-data.co.uk/mmz4281/2526/D1.csv",
             "https://www.football-data.co.uk/mmz4281/2425/D1.csv",
             "https://www.football-data.co.uk/mmz4281/2324/D1.csv",
             "https://www.football-data.co.uk/mmz4281/2223/D1.csv",
@@ -360,6 +363,7 @@ def get_compiled_data():
             "https://www.football-data.co.uk/mmz4281/2021/D1.csv"
         ],
         "Itália - Serie A": [
+            "https://www.football-data.co.uk/mmz4281/2526/I1.csv",
             "https://www.football-data.co.uk/mmz4281/2425/I1.csv",
             "https://www.football-data.co.uk/mmz4281/2324/I1.csv",
             "https://www.football-data.co.uk/mmz4281/2223/I1.csv",
@@ -367,6 +371,7 @@ def get_compiled_data():
             "https://www.football-data.co.uk/mmz4281/2021/I1.csv"
         ],
         "Espanha - La Liga": [
+            "https://www.football-data.co.uk/mmz4281/2526/SP1.csv",
             "https://www.football-data.co.uk/mmz4281/2425/SP1.csv",
             "https://www.football-data.co.uk/mmz4281/2324/SP1.csv",
             "https://www.football-data.co.uk/mmz4281/2223/SP1.csv",
@@ -374,6 +379,7 @@ def get_compiled_data():
             "https://www.football-data.co.uk/mmz4281/2021/SP1.csv"
         ],
         "França - Primeira divisão": [
+            "https://www.football-data.co.uk/mmz4281/2526/F1.csv",
             "https://www.football-data.co.uk/mmz4281/2425/F1.csv",
             "https://www.football-data.co.uk/mmz4281/2324/F1.csv",
             "https://www.football-data.co.uk/mmz4281/2223/F1.csv",
@@ -381,6 +387,7 @@ def get_compiled_data():
             "https://www.football-data.co.uk/mmz4281/2021/F1.csv"
         ],
         "Holanda": [
+            "https://www.football-data.co.uk/mmz4281/2526/N1.csv",
             "https://www.football-data.co.uk/mmz4281/2425/N1.csv",
             "https://www.football-data.co.uk/mmz4281/2324/N1.csv",
             "https://www.football-data.co.uk/mmz4281/2223/N1.csv",
@@ -388,6 +395,7 @@ def get_compiled_data():
             "https://www.football-data.co.uk/mmz4281/2021/N1.csv"
         ],
         "Bélgica": [
+            "https://www.football-data.co.uk/mmz4281/2526/B1.csv",
             "https://www.football-data.co.uk/mmz4281/2425/B1.csv",
             "https://www.football-data.co.uk/mmz4281/2324/B1.csv",
             "https://www.football-data.co.uk/mmz4281/2223/B1.csv",
@@ -395,6 +403,7 @@ def get_compiled_data():
             "https://www.football-data.co.uk/mmz4281/2021/B1.csv"
         ],
         "Portugal - Liga 1": [
+            "https://www.football-data.co.uk/mmz4281/2526/P1.csv",
             "https://www.football-data.co.uk/mmz4281/2425/P1.csv",
             "https://www.football-data.co.uk/mmz4281/2324/P1.csv",
             "https://www.football-data.co.uk/mmz4281/2223/P1.csv",
@@ -402,6 +411,7 @@ def get_compiled_data():
             "https://www.football-data.co.uk/mmz4281/2021/P1.csv"
         ],
         "Turquia - Liga 1": [
+            "https://www.football-data.co.uk/mmz4281/2526/T1.csv",
             "https://www.football-data.co.uk/mmz4281/2425/T1.csv",
             "https://www.football-data.co.uk/mmz4281/2324/T1.csv",
             "https://www.football-data.co.uk/mmz4281/2223/T1.csv",
@@ -409,6 +419,7 @@ def get_compiled_data():
             "https://www.football-data.co.uk/mmz4281/2021/T1.csv"
         ],
         "Grecia": [
+            "https://www.football-data.co.uk/mmz4281/2526/G1.csv",
             "https://www.football-data.co.uk/mmz4281/2425/G1.csv",
             "https://www.football-data.co.uk/mmz4281/2324/G1.csv",
             "https://www.football-data.co.uk/mmz4281/2223/G1.csv",
