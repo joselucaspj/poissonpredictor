@@ -1,62 +1,56 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Russia,22/08/2025,12:00,Orenburg,Akhmat Grozny,Home,0.7103428571428569
-Finlândia,22/08/2025,12:00,VPS,KTP,Home,0.7557809523809527
-Noruega,22/08/2025,14:00,KFUM Oslo,HamKam,Home,0.7636301587301586
-Irlanda,22/08/2025,15:45,Drogheda,St. Patricks,Away,0.6533333333333333
-Irlanda,22/08/2025,15:45,Waterford,Sligo Rovers,Home,0.7030571428571424
-Irlanda,22/08/2025,15:45,Bohemians,Cork City,Home,0.840463492063492
-Argentina,22/08/2025,20:00,Tigre,Ind. Rivadavia,Home,0.6411452380952379
-Japao,23/08/2025,06:00,Avispa Fukuoka,Shimizu S-Pulse,Home,0.7203968253968255
-Japao,23/08/2025,07:00,Verdy,Sanfrecce Hiroshima,Away,0.6366666666666667
-Japao,23/08/2025,07:00,Albirex Niigata,Kashima Antlers,Away,0.67
-Japao,23/08/2025,07:00,Okayama,Shonan Bellmare,Home,0.7349857142857142
-China,23/08/2025,08:35,Qingdao Hainiu,Shanghai Shenhua,Away,0.73
-Finlândia,23/08/2025,09:00,Ilves,Inter Turku,Home,0.6235761904761904
-Russia,23/08/2025,10:15,Zenit,Dynamo Makhachkala,Home,0.8211142857142858
-Austria,23/08/2025,12:00,Salzburg,LASK,Home,0.7115706349206352
-Russia,23/08/2025,12:30,Lokomotiv Moscow,FK Rostov,Home,0.7965357142857142
-Romenia,23/08/2025,12:45,FC Botosani,Csikszereda M. Ciuc,Home,0.7988698412698414
-Dinamarca,23/08/2025,13:00,FC Copenhagen,Odense,Home,0.7443142857142856
-Argentina,23/08/2025,14:30,San Lorenzo,Instituto,Home,0.69875873015873
-Russia,23/08/2025,14:45,Dynamo Moscow,Pari NN,Home,0.7670103174603177
-Polonia,23/08/2025,15:15,Gornik Zabrze,GKS Katowice,Home,0.7266285714285716
-Brasil,23/08/2025,18:30,Cruzeiro,Internacional,Home,0.7291206349206347
-EUA,23/08/2025,20:30,Columbus Crew,New England Revolution,Home,0.7967436507936508
-EUA,23/08/2025,20:30,Philadelphia Union,Chicago Fire,Home,0.7459880952380955
-EUA,23/08/2025,21:30,Nashville SC,Orlando City,Home,0.6141785714285715
-EUA,23/08/2025,22:30,Vancouver Whitecaps,St. Louis City,Home,0.7866436507936507
-China,24/08/2025,08:00,Shanghai Port,Tianjin Jinmen Tiger,Home,0.8495119047619051
-China,24/08/2025,08:00,Changchun Yatai,Shenzhen Xinpengcheng,Home,0.7131214285714284
-China,24/08/2025,08:00,Meizhou Hakka,Zhejiang Professional,Away,0.5733333333333334
-China,24/08/2025,08:35,Henan Songshan Longmen,Dalian Yingbo,Home,0.702713492063492
-Suecia,24/08/2025,09:00,Djurgarden,Brommapojkarna,Home,0.7188968253968256
-Finlândia,24/08/2025,09:00,HJK,Mariehamn,Home,0.774009523809524
-Dinamarca,24/08/2025,09:00,Midtjylland,Silkeborg,Home,0.8171999999999998
-China,24/08/2025,09:00,Shandong Taishan,Qingdao West Coast,Home,0.7425761904761903
-Russia,24/08/2025,09:00,Krylya Sovetov,Krasnodar,Away,0.7533333333333333
-Noruega,24/08/2025,09:30,Haugesund,Valerenga,Away,0.7966666666666666
-Romenia,24/08/2025,10:15,Otelul,CFR Cluj,Away,0.5966666666666667
-Suecia,24/08/2025,11:30,Malmo FF,Goteborg,Home,0.7423500000000003
-Russia,24/08/2025,11:30,CSKA Moscow,Akron Togliatti,Home,0.7071404761904757
-Suecia,24/08/2025,11:30,Elfsborg,Halmstad,Home,0.7015523809523807
-Suíça,24/08/2025,11:30,St. Gallen,Luzern,Home,0.857468253968254
-Austria,24/08/2025,12:00,Wolfsberger AC,SK Rapid,Home,0.644456349206349
-Finlândia,24/08/2025,12:30,Jaro,KuPS,Away,0.7133333333333334
-Romenia,24/08/2025,12:30,Univ. Craiova,Petrolul,Home,0.7834880952380953
-Dinamarca,24/08/2025,13:00,Aarhus,Vejle,Home,0.7988396825396823
-Russia,24/08/2025,14:00,Sochi,Baltika,Away,0.6433333333333333
-Noruega,24/08/2025,14:15,Molde,Tromso,Home,0.7459119047619047
-Brasil,24/08/2025,16:00,Bahia,Santos,Home,0.7903968253968257
-Argentina,24/08/2025,16:15,Argentinos Jrs,Racing Club,Home,0.6884436507936503
-Argentina,24/08/2025,18:15,Boca Juniors,Banfield,Home,0.599674603174603
-Argentina,24/08/2025,20:30,Independiente,Platense,Home,0.6756182539682541
-Brasil,24/08/2025,20:30,Sao Paulo,Atletico-MG,Home,0.735223015873016
-EUA,24/08/2025,22:15,Seattle Sounders,Sporting Kansas City,Home,0.874769841269841
-China,25/08/2025,09:00,Beijing Guoan,Wuhan Three Towns,Home,0.7481039682539682
-Finlândia,25/08/2025,12:00,Haka,SJK,Away,0.6633333333333333
-Dinamarca,25/08/2025,14:00,Nordsjaelland,Viborg,Home,0.7386785714285715
-Polonia,25/08/2025,14:00,Wisla Plock,Zaglebie,Home,0.7369746031746035
-Argentina,25/08/2025,15:00,Dep. Riestra,Sarmiento Junin,Home,0.5990571428571426
-Brasil,25/08/2025,19:00,Palmeiras,Sport Recife,Home,0.7862738095238099
-Argentina,25/08/2025,19:15,Estudiantes L.P.,Aldosivi,Home,0.8032134920634921
-Brasil,25/08/2025,21:00,Flamengo RJ,Vitoria,Home,0.6795738095238094
+Romenia,29/08/2025,14:30,FC Rapid Bucuresti,UTA Arad,Home,0.8199563492063492
+Polonia,29/08/2025,15:30,GKS Katowice,Radomiak Radom,Home,0.6727126984126982
+Argentina,29/08/2025,21:15,Instituto,Independiente,Home,0.6099333333333332
+Suecia,30/08/2025,10:00,Goteborg,Varnamo,Home,0.7436531746031748
+Suecia,30/08/2025,10:00,Brommapojkarna,Elfsborg,Away,0.66
+Russia,30/08/2025,10:15,Zenit,Pari NN,Home,0.7551650793650792
+Austria,30/08/2025,12:00,LASK,Ried,Home,0.7758920634920634
+Austria,30/08/2025,12:00,Salzburg,BW Linz,Home,0.843733333333333
+Suecia,30/08/2025,12:30,Mjallby,Halmstad,Home,0.8640603174603174
+Russia,30/08/2025,12:30,Spartak Moscow,Sochi,Home,0.8097952380952376
+Suíça,30/08/2025,13:00,Winterthur,Zurich,Home,0.7570206349206352
+Suíça,30/08/2025,13:00,Thun,Grasshoppers,Home,0.8541444444444445
+Austria,30/08/2025,14:30,Grazer AK,Sturm Graz,Away,0.6766666666666666
+Polonia,30/08/2025,15:15,Gornik Zabrze,Motor Lublin,Home,0.7493888888888889
+Romenia,30/08/2025,15:30,Din. Bucuresti,FC Hermannstadt,Home,0.7987293650793652
+Irlanda,30/08/2025,15:45,Sligo Rovers,Bohemians,Away,0.7066666666666667
+Brasil,30/08/2025,16:00,Ceara,Juventude,Home,0.7756388888888887
+Argentina,30/08/2025,17:00,Ind. Rivadavia,Argentinos Jrs,Away,0.7133333333333334
+Brasil,30/08/2025,18:30,Botafogo RJ,Bragantino,Home,0.7428253968253968
+EUA,30/08/2025,20:30,New York City,DC United,Home,0.840459523809524
+EUA,30/08/2025,21:30,St. Louis City,Houston Dynamo,Home,0.6947031746031744
+EUA,30/08/2025,21:30,Sporting Kansas City,Colorado Rapids,Home,0.6280182539682538
+Argentina,30/08/2025,21:30,Velez Sarsfield,Lanus,Home,0.5734309523809524
+EUA,30/08/2025,21:30,Nashville SC,Atlanta Utd,Home,0.8614039682539681
+EUA,30/08/2025,21:30,Minnesota United,Portland Timbers,Home,0.8145738095238089
+Japao,31/08/2025,06:30,Shimizu S-Pulse,Kashima Antlers,Away,0.7066666666666667
+Japao,31/08/2025,07:00,Urawa Reds,Albirex Niigata,Home,0.7763079365079367
+Russia,31/08/2025,07:30,Akron Togliatti,Baltika,Away,0.59
+China,31/08/2025,08:35,Shandong Taishan,Beijing Guoan,Home,0.5001539682539681
+Suecia,31/08/2025,09:00,Malmo FF,Degerfors,Home,0.7315460317460314
+Noruega,31/08/2025,09:30,Kristiansund,Brann,Away,0.7266666666666667
+Russia,31/08/2025,09:45,Lokomotiv Moscow,Krylya Sovetov,Home,0.7472999999999999
+Finlândia,31/08/2025,11:00,KTP,HJK,Away,0.7466666666666667
+Dinamarca,31/08/2025,11:00,Odense,Nordsjaelland,Home,0.6581269841269844
+Finlândia,31/08/2025,11:00,Gnistan,Jaro,Home,0.8020238095238095
+Finlândia,31/08/2025,11:00,Ilves,Mariehamn,Home,0.8089373015873011
+Finlândia,31/08/2025,11:00,Inter Turku,VPS,Home,0.7090960317460319
+Finlândia,31/08/2025,11:00,SJK,KuPS,Home,0.7253968253968255
+Suecia,31/08/2025,11:30,Hammarby,Oster,Home,0.811723015873016
+Noruega,31/08/2025,12:00,Tromso,KFUM Oslo,Away,0.7
+Noruega,31/08/2025,12:00,Sandefjord,Bodo/Glimt,Away,0.5766666666666667
+Austria,31/08/2025,12:00,Hartberg,SK Rapid,Away,0.6766666666666666
+Austria,31/08/2025,12:00,Austria Vienna,Altach,Home,0.7326634920634916
+Noruega,31/08/2025,12:00,Fredrikstad,Haugesund,Home,0.8391857142857143
+Polonia,31/08/2025,12:30,Lech Poznan,Widzew Lodz,Home,0.8393634920634918
+Irlanda,31/08/2025,13:00,Shelbourne,Galway,Home,0.7453428571428573
+Noruega,31/08/2025,14:15,Stromsgodset,Molde,Away,0.68
+Irlanda,31/08/2025,15:00,Shamrock Rovers,Drogheda,Home,0.8245976190476189
+Brasil,31/08/2025,16:00,Flamengo RJ,Gremio,Home,0.7366412698412703
+Argentina,31/08/2025,16:45,Talleres Cordoba,Dep. Riestra,Home,0.7549738095238095
+Argentina,31/08/2025,16:45,Defensa y Justicia,Belgrano,Home,0.8175452380952382
+Argentina,31/08/2025,19:15,River Plate,San Martin S.J.,Home,0.8177793650793655
+Brasil,31/08/2025,20:30,Internacional,Fortaleza,Home,0.6408873015873016
+Argentina,31/08/2025,21:15,Racing Club,Union de Santa Fe,Home,0.7244301587301587
+Romenia,01/09/2025,15:00,Farul Constanta,Petrolul,Home,0.7973500000000003
