@@ -1,15 +1,14 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
 China,19/09/2025,09:00,Yunnan Yukun,Dalian Yingbo,Home,0.7102055555555551
 Finlândia,19/09/2025,13:00,KTP,Jaro,Home,0.5696555555555557
-Turquia - Liga 1,19/09/2025,14:00,Goztep,Besiktas,Away,0.59
-Alemanha - Bundesliga 1,19/09/2025,15:30,Stuttgart,St Pauli,Home,0.7019753968253971
-França - Primeira divisão,19/09/2025,15:45,Lyon,Angers,Home,0.791918253968254
-Bélgica,19/09/2025,15:45,Gent,Dender,Home,0.6594253968253968
-Irlanda,19/09/2025,15:45,Bohemians,Waterford,Home,0.8126190476190477
+Alemanha - Bundesliga 1,19/09/2025,15:30,Stuttgart,St Pauli,Home,0.6911920634920635
 Irlanda,19/09/2025,15:45,Sligo Rovers,Drogheda,Home,0.6469436507936506
 Irlanda,19/09/2025,15:45,St. Patricks,Galway,Home,0.8377920634920633
-Espanha - La Liga,19/09/2025,16:00,Betis,Sociedad,Home,0.7014341269841274
-Portugal - Liga 1,19/09/2025,16:15,Rio Ave,Porto,Away,0.8066666666666666
+Irlanda,19/09/2025,15:45,Bohemians,Waterford,Home,0.8126190476190477
+França - Primeira divisão,19/09/2025,15:45,Lyon,Angers,Home,0.7900849206349208
+Bélgica,19/09/2025,15:45,Gent,Dender,Home,0.6797079365079365
+Espanha - La Liga,19/09/2025,16:00,Betis,Sociedad,Home,0.7075357142857148
+Portugal - Liga 1,19/09/2025,16:15,Rio Ave,Porto,Away,0.8266666666666667
 Argentina,19/09/2025,17:00,Dep. Riestra,Gimnasia L.P.,Home,0.7876190476190473
 Argentina,19/09/2025,19:15,San Martin S.J.,Velez Sarsfield,Away,0.6033333333333334
 Japao,20/09/2025,05:00,Nagoya Grampus,Shonan Bellmare,Home,0.6887380952380954
@@ -18,80 +17,82 @@ Japao,20/09/2025,07:00,Kawasaki Frontale,FC Tokyo,Home,0.830462698412698
 Inglaterra - Premiere League,20/09/2025,08:30,Liverpool,Everton,Home,0.7605849206349209
 China,20/09/2025,09:00,Qingdao Hainiu,Shandong Taishan,Away,0.8166666666666667
 Polonia,20/09/2025,09:45,Arka Gdynia,Korona Kielce,Away,0.6333333333333333
-Alemanha - Bundesliga 1,20/09/2025,10:30,Hoffenheim,Bayern Munich,Away,0.8366666666666667
-Alemanha - Bundesliga 1,20/09/2025,10:30,Werder Bremen,Freiburg,Home,0.6615500000000003
-Turquia - Liga 1,20/09/2025,11:00,Genclerbirligi,Eyupspor,Home,0.615034126984127
-Espanha - La Liga,20/09/2025,11:15,Real Madrid,Espanol,Home,0.84518253968254
+Alemanha - Bundesliga 1,20/09/2025,10:30,Hoffenheim,Bayern Munich,Away,0.8233333333333334
+Alemanha - Bundesliga 1,20/09/2025,10:30,Werder Bremen,Freiburg,Home,0.6655158730158732
+Turquia - Liga 1,20/09/2025,11:00,Genclerbirligi,Eyupspor,Home,0.6203293650793652
+Espanha - La Liga,20/09/2025,11:15,Real Madrid,Espanol,Home,0.8473031746031748
+Holanda,20/09/2025,11:30,Volendam,Excelsior,Home,0.5499626984126984
 Austria,20/09/2025,12:00,Austria Vienna,Ried,Home,0.6562928571428572
-Grecia,20/09/2025,12:00,Panserraikos,Atromitos,Away,0.6366666666666667
 Austria,20/09/2025,12:00,Hartberg,Wolfsberger AC,Away,0.71
 Suecia,20/09/2025,12:30,Mjallby,Oster,Home,0.8254444444444445
+Dinamarca,20/09/2025,13:00,Midtjylland,Viborg,Home,0.7806896825396825
 Noruega,20/09/2025,13:00,Valerenga,KFUM Oslo,Home,0.7377031746031746
 EUA,20/09/2025,13:00,New York City,Charlotte,Home,0.7215119047619049
-Dinamarca,20/09/2025,13:00,Midtjylland,Viborg,Home,0.7806896825396825
-Bélgica,20/09/2025,13:15,Charleroi,Waregem,Home,0.6543412698412698
-Espanha - La Liga,20/09/2025,13:30,Villarreal,Osasuna,Home,0.7687634920634919
-Alemanha - Bundesliga 1,20/09/2025,13:30,RB Leipzig,FC Koln,Home,0.6769658730158731
-Espanha - La Liga,20/09/2025,13:30,Alaves,Sevilla,Home,0.6909031746031742
+Bélgica,20/09/2025,13:15,Charleroi,Waregem,Home,0.6344412698412701
 Inglaterra - Premiere League,20/09/2025,13:30,Man United,Chelsea,Away,0.62
-Turquia - Liga 1,20/09/2025,14:00,Trabzonspor,Gaziantep,Home,0.8218325396825397
-Turquia - Liga 1,20/09/2025,14:00,Antalyaspor,Kayserispor,Home,0.7457746031746031
-Grecia,20/09/2025,14:00,Volos NFC,Asteras Tripolis,Home,0.7258412698412701
-Portugal - Liga 1,20/09/2025,14:00,AVS,Benfica,Away,0.7466666666666667
-França - Primeira divisão,20/09/2025,14:00,Brest,Nice,Away,0.78
-Grecia,20/09/2025,14:30,PAOK,Panetolikos,Home,0.8463873015873018
-Holanda,20/09/2025,15:00,For Sittard,Utrecht,Away,0.8333333333333334
+Alemanha - Bundesliga 1,20/09/2025,13:30,RB Leipzig,FC Koln,Home,0.6834873015873019
+Espanha - La Liga,20/09/2025,13:30,Alaves,Sevilla,Home,0.6870452380952379
+Espanha - La Liga,20/09/2025,13:30,Villarreal,Osasuna,Home,0.7701888888888889
+Turquia - Liga 1,20/09/2025,14:00,Antalyaspor,Kayserispor,Home,0.7447436507936507
+Portugal - Liga 1,20/09/2025,14:00,AVS,Benfica,Away,0.74
+França - Primeira divisão,20/09/2025,14:00,Brest,Nice,Away,0.7466666666666667
+Turquia - Liga 1,20/09/2025,14:00,Trabzonspor,Gaziantep,Home,0.8187222222222221
+Grecia,20/09/2025,14:00,Volos NFC,Asteras Tripolis,Home,0.7372103174603176
+Grecia,20/09/2025,14:30,PAOK,Panetolikos,Home,0.8550388888888891
+Holanda,20/09/2025,15:00,For Sittard,Utrecht,Away,0.8
 EUA,20/09/2025,15:30,Philadelphia Union,New England Revolution,Home,0.7303103174603177
-Itália - Serie A,20/09/2025,15:45,Udinese,Milan,Away,0.8133333333333334
+Itália - Serie A,20/09/2025,15:45,Udinese,Milan,Away,0.78
 Inglaterra - Premiere League,20/09/2025,16:00,Fulham,Brentford,Away,0.6333333333333333
-França - Primeira divisão,20/09/2025,16:05,Lens,Lille,Away,0.5633333333333334
+Holanda,20/09/2025,16:00,NAC Breda,Heracles,Home,0.553053968253968
 Argentina,20/09/2025,16:45,Union de Santa Fe,Ind. Rivadavia,Home,0.656826984126984
-Brasil,20/09/2025,18:30,Ceara,Bahia,Home,0.6626587301587303
 Brasil,20/09/2025,18:30,Botafogo RJ,Atletico-MG,Home,0.8287444444444445
+Brasil,20/09/2025,18:30,Ceara,Bahia,Home,0.6626587301587303
+EUA,20/09/2025,20:30,Orlando City,Nashville SC,Home,0.6330960317460318
 EUA,20/09/2025,20:30,CF Montreal,New York Red Bulls,Home,0.6854547619047616
 EUA,20/09/2025,20:30,Columbus Crew,Toronto FC,Home,0.7768761904761905
-EUA,20/09/2025,20:30,Orlando City,Nashville SC,Home,0.6330960317460318
 Brasil,20/09/2025,21:00,Palmeiras,Fortaleza,Home,0.7425952380952381
 EUA,20/09/2025,21:30,FC Dallas,Colorado Rapids,Home,0.7195412698412698
 EUA,20/09/2025,21:30,Minnesota United,Chicago Fire,Home,0.7647055555555555
 EUA,20/09/2025,21:30,Sporting Kansas City,Vancouver Whitecaps,Away,0.6833333333333333
 EUA,20/09/2025,23:30,San Jose Earthquakes,St. Louis City,Home,0.6699642857142858
 China,21/09/2025,07:00,Beijing Guoan,Shanghai Port,Home,0.5778174603174601
+Holanda,21/09/2025,07:15,Zwolle,Go Ahead Eagles,Away,0.64
 China,21/09/2025,08:35,Tianjin Jinmen Tiger,Shenzhen Xinpengcheng,Home,0.6553547619047618
 Suecia,21/09/2025,09:00,Hammarby,Hacken,Home,0.7998253968253971
 Noruega,21/09/2025,09:30,Rosenborg,Bodo/Glimt,Away,0.58
+Holanda,21/09/2025,09:30,PSV Eindhoven,Ajax,Home,0.8157682539682537
 Austria,21/09/2025,09:30,LASK,BW Linz,Home,0.7668388888888885
-Holanda,21/09/2025,09:30,PSV Eindhoven,Ajax,Home,0.8124349206349203
 Polonia,21/09/2025,09:45,Pogon Szczecin,Lechia Gdansk,Home,0.7568380952380953
-Itália - Serie A,21/09/2025,10:00,Cremonese,Parma,Home,0.6947984126984129
-Alemanha - Bundesliga 1,21/09/2025,10:30,Ein Frankfurt,Union Berlin,Home,0.890947619047619
-Bélgica,21/09/2025,11:00,Westerlo,Standard,Home,0.7564523809523807
-Turquia - Liga 1,21/09/2025,11:00,Buyuksehyr,Alanyaspor,Home,0.6258293650793654
-Espanha - La Liga,21/09/2025,11:15,Mallorca,Ath Madrid,Away,0.7533333333333333
+Itália - Serie A,21/09/2025,10:00,Cremonese,Parma,Home,0.6937087301587306
+Itália - Serie A,21/09/2025,10:00,Torino,Atalanta,Away,0.6666666666666666
+Alemanha - Bundesliga 1,21/09/2025,10:30,Ein Frankfurt,Union Berlin,Home,0.8859722222222222
+Turquia - Liga 1,21/09/2025,11:00,Buyuksehyr,Alanyaspor,Home,0.6359023809523814
+Bélgica,21/09/2025,11:00,Westerlo,Standard,Home,0.7315484126984124
+Espanha - La Liga,21/09/2025,11:15,Mallorca,Ath Madrid,Away,0.7333333333333333
 Noruega,21/09/2025,12:00,Tromso,HamKam,Home,0.8319126984126987
-França - Primeira divisão,21/09/2025,12:15,Monaco,Metz,Home,0.8188087301587302
+França - Primeira divisão,21/09/2025,12:15,Monaco,Metz,Home,0.8281920634920634
 Polonia,21/09/2025,12:30,Gornik Zabrze,Widzew Lodz,Home,0.86769126984127
-Alemanha - Bundesliga 1,21/09/2025,12:30,Leverkusen,M'gladbach,Home,0.7909023809523806
+Alemanha - Bundesliga 1,21/09/2025,12:30,Leverkusen,M'gladbach,Home,0.7758722222222219
 Inglaterra - Premiere League,21/09/2025,12:30,Arsenal,Man City,Home,0.6586119047619042
-Itália - Serie A,21/09/2025,13:00,Fiorentina,Como,Home,0.756073015873016
+Itália - Serie A,21/09/2025,13:00,Fiorentina,Como,Home,0.7537380952380955
 Dinamarca,21/09/2025,13:00,Aarhus,Brondby,Home,0.7347753968253964
-Bélgica,21/09/2025,13:30,Club Brugge,St Truiden,Home,0.8191206349206349
-Turquia - Liga 1,21/09/2025,14:00,Samsunspor,Karagumruk,Home,0.7488722222222222
+Bélgica,21/09/2025,13:30,Club Brugge,St Truiden,Home,0.8207587301587301
+Turquia - Liga 1,21/09/2025,14:00,Samsunspor,Karagumruk,Home,0.7423666666666668
 Noruega,21/09/2025,14:15,Viking,Molde,Home,0.6997555555555555
-Bélgica,21/09/2025,14:15,Mechelen,Cercle Brugge,Home,0.7769857142857146
-Alemanha - Bundesliga 1,21/09/2025,14:30,Dortmund,Wolfsburg,Home,0.7779777777777774
+Bélgica,21/09/2025,14:15,Mechelen,Cercle Brugge,Home,0.7638222222222224
+Alemanha - Bundesliga 1,21/09/2025,14:30,Dortmund,Wolfsburg,Home,0.7803111111111106
 Romenia,21/09/2025,15:00,FC Rapid Bucuresti,FC Hermannstadt,Home,0.7637246031746033
-Itália - Serie A,21/09/2025,15:45,Inter,Sassuolo,Home,0.8680873015873014
-Espanha - La Liga,21/09/2025,16:00,Barcelona,Getafe,Home,0.8772317460317463
-Brasil,21/09/2025,17:30,Internacional,Gremio,Home,0.7825293650793651
+Itália - Serie A,21/09/2025,15:45,Inter,Sassuolo,Home,0.868636507936508
+Espanha - La Liga,21/09/2025,16:00,Barcelona,Getafe,Home,0.8779690476190478
 Brasil,21/09/2025,17:30,Flamengo RJ,Vasco,Home,0.8236777777777777
+Brasil,21/09/2025,17:30,Internacional,Gremio,Home,0.7825293650793651
 Argentina,21/09/2025,19:00,Argentinos Jrs,Banfield,Home,0.7911412698412701
-Brasil,21/09/2025,20:30,Cruzeiro,Bragantino,Home,0.7940626984126985
 Brasil,21/09/2025,20:30,Santos,Sao Paulo,Away,0.81
+Brasil,21/09/2025,20:30,Cruzeiro,Bragantino,Home,0.7940626984126985
 Argentina,21/09/2025,21:15,Boca Juniors,Central Cordoba,Home,0.8077833333333332
 EUA,21/09/2025,22:00,Los Angeles FC,Real Salt Lake,Home,0.8101698412698409
-Suecia,22/09/2025,14:00,Varnamo,Halmstad,Home,0.6917484126984127
 Turquia - Liga 1,22/09/2025,14:00,Galatasaray,Konyaspor,Home,0.786350793650794
+Suecia,22/09/2025,14:00,Varnamo,Halmstad,Home,0.6917484126984127
 Romenia,22/09/2025,15:00,Din. Bucuresti,Farul Constanta,Home,0.5453904761904763
 Portugal - Liga 1,22/09/2025,16:15,Sp Lisbon,Moreirense,Home,0.7121301587301587
 Finlândia,23/09/2025,12:00,KuPS,SJK,Home,0.6363206349206346
