@@ -1,19 +1,20 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Japao,23/09/2025,07:00,Vissel Kobe,Verdy,Home,0.7765769841269845
-Japao,23/09/2025,07:00,Shonan Bellmare,Kawasaki Frontale,Away,0.7733333333333333
-Finlândia,23/09/2025,12:00,KuPS,SJK,Home,0.6363206349206346
-Finlândia,23/09/2025,12:00,Ilves,Gnistan,Home,0.8102968253968256
-Espanha - La Liga,23/09/2025,14:00,Espanol,Valencia,Away,0.6
-Espanha - La Liga,23/09/2025,14:00,Ath Bilbao,Girona,Home,0.8134166666666668
-Portugal - Liga 1,23/09/2025,16:15,Benfica,Rio Ave,Home,0.8318341269841273
-Espanha - La Liga,23/09/2025,16:30,Levante,Real Madrid,Away,0.72
-Polonia,24/09/2025,13:45,Rakow,Lech Poznan,Away,0.5866666666666667
-Turquia - Liga 1,24/09/2025,14:00,Kayserispor,Besiktas,Away,0.7466666666666667
-Holanda,24/09/2025,15:00,AZ Alkmaar,Zwolle,Home,0.8875984126984126
-Bélgica,24/09/2025,15:30,Club Brugge,Westerlo,Home,0.8914849206349212
-Polonia,24/09/2025,16:00,Legia,Jagiellonia,Home,0.7732746031746028
-Espanha - La Liga,24/09/2025,16:30,Ath Madrid,Vallecano,Home,0.8393047619047621
-Espanha - La Liga,24/09/2025,16:30,Sociedad,Mallorca,Home,0.8298142857142856
-Brasil,24/09/2025,19:30,Vasco,Bahia,Home,0.7035722222222222
-EUA,24/09/2025,20:30,New York City,Inter Miami,Home,0.8674436507936507
-EUA,24/09/2025,23:30,Vancouver Whitecaps,Portland Timbers,Home,0.7496476190476189
+Japao,23/09/2025,07:00,Vissel Kobe,Verdy,Home,0.7755150793650797
+Japao,23/09/2025,07:00,Shonan Bellmare,Kawasaki Frontale,Away,0.7533333333333333
+Finlândia,23/09/2025,12:00,KuPS,SJK,Home,0.6526515873015871
+Finlândia,23/09/2025,12:00,Ilves,Gnistan,Home,0.8149174603174604
+Espanha - La Liga,23/09/2025,14:00,Espanol,Valencia,Away,0.61
+Espanha - La Liga,23/09/2025,14:00,Ath Bilbao,Girona,Home,0.8080492063492063
+Bélgica,23/09/2025,15:30,Anderlecht,Gent,Home,0.6528349206349207
+Portugal - Liga 1,23/09/2025,16:15,Benfica,Rio Ave,Home,0.8317674603174606
+Espanha - La Liga,23/09/2025,16:30,Levante,Real Madrid,Away,0.7333333333333333
+Polonia,24/09/2025,13:45,Rakow,Lech Poznan,Away,0.58
+Turquia - Liga 1,24/09/2025,14:00,Kayserispor,Besiktas,Away,0.7666666666666667
+Holanda,24/09/2025,15:00,AZ Alkmaar,Zwolle,Home,0.8862325396825396
+Bélgica,24/09/2025,15:30,Club Brugge,Westerlo,Home,0.8896404761904764
+Polonia,24/09/2025,16:00,Legia,Jagiellonia,Home,0.7727499999999995
+Espanha - La Liga,24/09/2025,16:30,Sociedad,Mallorca,Home,0.8310047619047619
+Espanha - La Liga,24/09/2025,16:30,Ath Madrid,Vallecano,Home,0.85435
+Brasil,24/09/2025,19:30,Vasco,Bahia,Home,0.7385349206349207
+EUA,24/09/2025,20:30,New York City,Inter Miami,Home,0.8266293650793651
+EUA,24/09/2025,23:30,Vancouver Whitecaps,Portland Timbers,Home,0.7678309523809522
