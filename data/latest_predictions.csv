@@ -1,6 +1,59 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Argentina,30/09/2025,19:00,Newells Old Boys,Estudiantes L.P.,Home,0.8054126984126985
-EUA,30/09/2025,20:30,Inter Miami,Chicago Fire,Home,0.7128476190476188
-Brasil,01/10/2025,19:00,Palmeiras,Vasco,Home,0.8023373015873017
-Brasil,01/10/2025,21:30,Botafogo RJ,Bahia,Home,0.8249158730158731
-Brasil,02/10/2025,20:30,Flamengo RJ,Cruzeiro,Home,0.786554761904762
+Finlândia,03/10/2025,12:00,Jaro,Haka,Home,0.6476579365079366
+Polonia,03/10/2025,13:00,Lechia Gdansk,Wisla Plock,Home,0.6352730158730155
+Finlândia,03/10/2025,13:00,HJK,Gnistan,Home,0.6182571428571427
+Polonia,03/10/2025,15:30,Pogon Szczecin,Piast Gliwice,Home,0.7933841269841269
+Irlanda,03/10/2025,15:45,Derry City,Sligo Rovers,Home,0.7766238095238095
+Argentina,03/10/2025,21:15,Argentinos Jrs,Central Cordoba,Home,0.7701206349206352
+Japao,04/10/2025,01:30,Nagoya Grampus,Cerezo Osaka,Home,0.7778047619047618
+Japao,04/10/2025,04:00,Sanfrecce Hiroshima,Machida,Home,0.6662936507936511
+Russia,04/10/2025,07:00,Akron Togliatti,Zenit,Away,0.84
+China,04/10/2025,08:35,Shandong Taishan,Yunnan Yukun,Home,0.7765269841269847
+China,04/10/2025,08:35,Dalian Yingbo,Qingdao West Coast,Home,0.6297809523809527
+Finlândia,04/10/2025,09:00,AC Oulu,VPS,Away,0.5866666666666667
+Noruega,04/10/2025,09:00,Valerenga,Tromso,Home,0.7602246031746033
+Suecia,04/10/2025,10:00,Oster,Halmstad,Home,0.7191238095238096
+Suecia,04/10/2025,10:00,Mjallby,Elfsborg,Home,0.6166579365079364
+Finlândia,04/10/2025,11:00,SJK,Ilves,Away,0.6466666666666666
+Austria,04/10/2025,12:00,Austria Vienna,BW Linz,Home,0.7521833333333333
+Austria,04/10/2025,12:00,Grazer AK,Wolfsberger AC,Away,0.6833333333333333
+Suíça,04/10/2025,13:00,Luzern,Sion,Home,0.6640603174603175
+Suíça,04/10/2025,13:00,St. Gallen,Thun,Home,0.793340476190476
+Russia,04/10/2025,13:45,Dynamo Moscow,Lokomotiv Moscow,Home,0.7461730158730157
+Romenia,04/10/2025,14:30,FC Rapid Bucuresti,Farul Constanta,Home,0.699770634920635
+Suíça,04/10/2025,15:30,Grasshoppers,Zurich,Home,0.6886420634920635
+EUA,04/10/2025,17:30,FC Dallas,Los Angeles Galaxy,Home,0.6510174603174604
+Brasil,04/10/2025,18:30,Bragantino,Gremio,Home,0.6891325396825392
+Brasil,04/10/2025,18:30,Fluminense,Atletico-MG,Home,0.7514666666666666
+Argentina,04/10/2025,19:00,Huracan,Banfield,Home,0.6771579365079363
+EUA,04/10/2025,20:30,New York Red Bulls,FC Cincinnati,Home,0.7363555555555559
+EUA,04/10/2025,20:30,Inter Miami,New England Revolution,Home,0.7521150793650794
+Argentina,04/10/2025,21:15,Lanus,San Lorenzo,Home,0.7534055555555553
+EUA,04/10/2025,21:30,Austin FC,St. Louis City,Home,0.7885333333333333
+EUA,04/10/2025,21:30,Chicago Fire,Toronto FC,Home,0.7726515873015871
+EUA,04/10/2025,21:30,Minnesota United,Sporting Kansas City,Home,0.7162492063492059
+EUA,04/10/2025,22:30,Real Salt Lake,Colorado Rapids,Home,0.7381626984126985
+Japao,05/10/2025,03:00,Kashima Antlers,Gamba Osaka,Home,0.8268206349206352
+Polonia,05/10/2025,07:15,Jagiellonia,Korona Kielce,Home,0.65509126984127
+Russia,05/10/2025,08:15,Sochi,Pari NN,Home,0.6120999999999999
+Dinamarca,05/10/2025,09:00,Randers FC,Viborg,Home,0.7856126984126985
+Suecia,05/10/2025,09:00,AIK,Varnamo,Home,0.8015849206349205
+Noruega,05/10/2025,09:30,Viking,Brann,Home,0.6562253968253967
+Austria,05/10/2025,09:30,LASK,Hartberg,Home,0.7167349206349206
+Austria,05/10/2025,09:30,Altach,Sturm Graz,Away,0.7733333333333333
+Polonia,05/10/2025,09:45,Rakow,Motor Lublin,Home,0.6740126984126984
+Russia,05/10/2025,10:30,CSKA Moscow,Spartak Moscow,Home,0.7837214285714288
+Noruega,05/10/2025,12:00,Fredrikstad,HamKam,Home,0.7767650793650789
+Noruega,05/10/2025,12:00,Bodo/Glimt,Haugesund,Home,0.8649936507936508
+Austria,05/10/2025,12:00,Salzburg,SK Rapid,Home,0.6814817460317456
+Polonia,05/10/2025,12:30,GKS Katowice,Lech Poznan,Away,0.7566666666666667
+Noruega,05/10/2025,14:15,Rosenborg,Sarpsborg 08,Home,0.6359333333333335
+Brasil,05/10/2025,16:00,Vasco,Vitoria,Home,0.748847619047619
+Argentina,05/10/2025,16:30,Estudiantes L.P.,Barracas Central,Home,0.7413444444444445
+Argentina,05/10/2025,16:45,Talleres Cordoba,Belgrano,Home,0.8172428571428572
+Argentina,05/10/2025,19:00,Boca Juniors,Newells Old Boys,Home,0.6774412698412702
+EUA,05/10/2025,19:00,Vancouver Whitecaps,San Jose Earthquakes,Home,0.7259047619047618
+Brasil,05/10/2025,20:30,Ceara,Santos,Home,0.6551912698412701
+EUA,05/10/2025,22:00,Los Angeles FC,Atlanta Utd,Home,0.7944793650793653
+Romenia,06/10/2025,14:30,FC Botosani,UTA Arad,Home,0.6880126984126982
+Argentina,06/10/2025,21:00,Racing Club,Ind. Rivadavia,Home,0.6821888888888893
