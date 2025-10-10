@@ -1,3 +1,14 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Brasil,08/10/2025,19:00,Atletico-MG,Sport Recife,Home,0.7319269841269841
-EUA,08/10/2025,23:30,Los Angeles FC,Toronto FC,Home,0.6994888888888888
+Argentina,10/10/2025,14:30,San Lorenzo,San Martin S.J.,Home,0.7122301587301586
+Irlanda,10/10/2025,16:00,Shamrock Rovers,Shelbourne,Home,0.6842039682539686
+Argentina,10/10/2025,16:15,Defensa y Justicia,Argentinos Jrs,Home,0.6237007936507936
+Argentina,10/10/2025,16:45,Central Cordoba,Union de Santa Fe,Home,0.652998412698413
+Brasil,11/10/2025,19:00,Palmeiras,Juventude,Home,0.7847230158730159
+EUA,11/10/2025,20:30,Inter Miami,Atlanta Utd,Home,0.8115309523809523
+EUA,11/10/2025,20:30,Orlando City,Vancouver Whitecaps,Away,0.6233333333333333
+Argentina,11/10/2025,22:15,Velez Sarsfield,Rosario Central,Home,0.6211682539682541
+EUA,11/10/2025,22:30,Seattle Sounders,Real Salt Lake,Home,0.7782103174603174
+EUA,11/10/2025,23:30,Los Angeles Galaxy,FC Dallas,Home,0.6440507936507938
+Argentina,12/10/2025,19:15,River Plate,Sarmiento Junin,Home,0.7514476190476194
+EUA,12/10/2025,20:00,Austin FC,Los Angeles FC,Away,0.7333333333333333
+Argentina,12/10/2025,21:15,Independiente,Lanus,Home,0.8447793650793652
