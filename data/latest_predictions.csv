@@ -1,5 +1,6 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
 China,24/10/2025,08:35,Meizhou Hakka,Yunnan Yukun,Home,0.5947698412698412
+Turquia - Liga 1,24/10/2025,14:00,Karagumruk,Kayserispor,Home,0.6062396825396822
 Dinamarca,24/10/2025,14:00,Aarhus,Nordsjaelland,Home,0.7402134920634919
 Irlanda,24/10/2025,15:45,St. Patricks,Waterford,Home,0.7833563492063492
 Argentina,24/10/2025,18:00,Independiente,Platense,Home,0.7353293650793651
@@ -9,48 +10,90 @@ Japao,25/10/2025,02:00,Urawa Reds,Machida,Home,0.7117158730158732
 Japao,25/10/2025,02:00,Nagoya Grampus,Gamba Osaka,Home,0.6913373015873017
 Japao,25/10/2025,02:00,Kashiwa Reysol,Yokohama FC,Home,0.6376150793650793
 Japao,25/10/2025,02:00,FC Tokyo,Okayama,Home,0.7144912698412699
-Russia,25/10/2025,08:00,Spartak Moscow,Orenburg,Home,0.794959523809524
 China,25/10/2025,08:00,Henan Songshan Longmen,Zhejiang Professional,Home,0.6753976190476191
+Russia,25/10/2025,08:00,Spartak Moscow,Orenburg,Home,0.794959523809524
 Suecia,25/10/2025,10:00,Djurgarden,Varnamo,Home,0.8292642857142858
+Alemanha - Bundesliga 1,25/10/2025,10:30,Augsburg,RB Leipzig,Away,0.7533333333333333
+Alemanha - Bundesliga 1,25/10/2025,10:30,M'gladbach,Bayern Munich,Away,0.7166666666666667
 Russia,25/10/2025,10:30,FK Rostov,Dynamo Makhachkala,Home,0.7401722222222218
+Alemanha - Bundesliga 1,25/10/2025,10:30,Ein Frankfurt,St Pauli,Home,0.729502380952381
+Alemanha - Bundesliga 1,25/10/2025,10:30,Hoffenheim,Heidenheim,Home,0.6597595238095237
 Finlândia,25/10/2025,11:00,Gnistan,Ilves,Away,0.7
-Austria,25/10/2025,12:00,Tirol,BW Linz,Home,0.665473015873016
+Bélgica,25/10/2025,11:00,Westerlo,Dender,Home,0.8627119047619048
+Inglaterra - Premiere League,25/10/2025,11:00,Newcastle,Fulham,Home,0.8591896825396823
+Holanda,25/10/2025,11:30,For Sittard,Groningen,Home,0.6048690476190476
 Austria,25/10/2025,12:00,LASK,Grazer AK,Home,0.7571206349206349
+Austria,25/10/2025,12:00,Tirol,BW Linz,Home,0.665473015873016
 Polonia,25/10/2025,12:30,Pogon Szczecin,Cracovia,Home,0.745877777777778
+Itália - Serie A,25/10/2025,13:00,Napoli,Inter,Home,0.6294388888888892
 Suíça,25/10/2025,13:00,St. Gallen,Grasshoppers,Home,0.7354373015873015
+Bélgica,25/10/2025,13:15,Mechelen,Oud-Heverlee Leuven,Home,0.726265873015873
+Alemanha - Bundesliga 1,25/10/2025,13:30,Dortmund,FC Koln,Home,0.7722269841269839
+Inglaterra - Premiere League,25/10/2025,13:30,Man United,Brighton,Home,0.8000190476190475
+Espanha - La Liga,25/10/2025,13:30,Ath Bilbao,Getafe,Home,0.7860634920634925
+França - Primeira divisão,25/10/2025,14:00,Monaco,Toulouse,Home,0.6833317460317463
+Turquia - Liga 1,25/10/2025,14:00,Trabzonspor,Eyupspor,Home,0.8342396825396824
+Portugal - Liga 1,25/10/2025,14:00,Santa Clara,AVS,Home,0.7079166666666666
+Grecia,25/10/2025,14:00,OFI Crete,Atromitos,Away,0.6166666666666667
 Romenia,25/10/2025,15:00,CFR Cluj,Farul Constanta,Home,0.8072126984126984
 Suíça,25/10/2025,15:30,Winterthur,Luzern,Away,0.6533333333333333
+Itália - Serie A,25/10/2025,15:45,Cremonese,Atalanta,Away,0.8466666666666667
+Bélgica,25/10/2025,15:45,Gent,Standard,Home,0.7575603174603177
 Brasil,25/10/2025,16:00,Atletico-MG,Ceara,Home,0.8350698412698415
+Holanda,25/10/2025,16:00,Zwolle,Nijmegen,Away,0.6033333333333334
+Portugal - Liga 1,25/10/2025,16:30,Benfica,Arouca,Home,0.8005738095238097
 Brasil,25/10/2025,17:30,Fluminense,Internacional,Home,0.6770079365079367
 Japao,26/10/2025,02:00,Albirex Niigata,Vissel Kobe,Away,0.77
 Russia,26/10/2025,07:00,Akron Togliatti,Lokomotiv Moscow,Away,0.86
 China,26/10/2025,07:30,Qingdao West Coast,Chengdu Rongcheng,Away,0.84
-China,26/10/2025,08:35,Beijing Guoan,Qingdao Hainiu,Home,0.7275634920634916
+Holanda,26/10/2025,08:15,Twente,Ajax,Home,0.6234309523809524
+Turquia - Liga 1,26/10/2025,08:30,Antalyaspor,Buyuksehyr,Home,0.638002380952381
 China,26/10/2025,08:35,Shanghai Shenhua,Dalian Yingbo,Home,0.7379563492063494
+China,26/10/2025,08:35,Beijing Guoan,Qingdao Hainiu,Home,0.7275634920634916
 Russia,26/10/2025,09:15,Pari NN,Baltika,Away,0.7266666666666667
 Suíça,26/10/2025,10:00,Zurich,Young Boys,Home,0.5938825396825396
 Dinamarca,26/10/2025,10:00,Vejle,Silkeborg,Away,0.5833333333333334
+Holanda,26/10/2025,10:30,Feyenoord,PSV Eindhoven,Away,0.53
 Polonia,26/10/2025,10:45,Rakow,Lechia Gdansk,Home,0.7221404761904762
+Inglaterra - Premiere League,26/10/2025,11:00,Aston Villa,Man City,Away,0.52
+França - Primeira divisão,26/10/2025,11:00,Lille,Metz,Home,0.7006515873015878
+Turquia - Liga 1,26/10/2025,11:00,Galatasaray,Goztep,Home,0.7006833333333334
+Inglaterra - Premiere League,26/10/2025,11:00,Arsenal,Crystal Palace,Home,0.6905214285714283
+Alemanha - Bundesliga 1,26/10/2025,11:30,Leverkusen,Freiburg,Home,0.8418523809523809
 Russia,26/10/2025,11:30,Zenit,Dynamo Moscow,Home,0.7358698412698406
+Escócia - Premiere League,26/10/2025,12:00,Rangers,Kilmarnock,Home,0.7303698412698416
 Dinamarca,26/10/2025,12:00,Randers FC,Sonderjyske,Home,0.5529126984126987
-Finlândia,26/10/2025,12:00,HJK,Inter Turku,Home,0.6912452380952383
 Irlanda,26/10/2025,12:00,Derry City,Shamrock Rovers,Home,0.731404761904762
+Finlândia,26/10/2025,12:00,HJK,Inter Turku,Home,0.6912452380952383
+Suíça,26/10/2025,12:30,Servette,Lugano,Home,0.6510738095238098
 Suecia,26/10/2025,12:30,AIK,Hacken,Home,0.7165357142857143
 Suíça,26/10/2025,12:30,Lausanne,Basel,Away,0.6933333333333334
-Suíça,26/10/2025,12:30,Servette,Lugano,Home,0.6510738095238098
+Grecia,26/10/2025,12:30,Panathinaikos,Asteras Tripolis,Home,0.7480801587301587
+Holanda,26/10/2025,12:45,AZ Alkmaar,Utrecht,Home,0.795674603174603
+Noruega,26/10/2025,13:00,Sandefjord,Fredrikstad,Home,0.6667833333333334
 Noruega,26/10/2025,13:00,Bodo/Glimt,Molde,Home,0.7082063492063488
 Noruega,26/10/2025,13:00,Haugesund,Tromso,Away,0.7333333333333333
-Noruega,26/10/2025,13:00,Sandefjord,Fredrikstad,Home,0.6667833333333334
+França - Primeira divisão,26/10/2025,13:15,Rennes,Nice,Home,0.655554761904762
+Alemanha - Bundesliga 1,26/10/2025,13:30,Stuttgart,Mainz,Home,0.8148412698412701
 Russia,26/10/2025,13:45,Krasnodar,Rubin Kazan,Home,0.8781769841269842
 Dinamarca,26/10/2025,14:00,FC Copenhagen,Viborg,Home,0.8563055555555554
+Grecia,26/10/2025,14:30,PAOK,Volos NFC,Home,0.759769047619048
+Portugal - Liga 1,26/10/2025,15:00,Tondela,Sp Lisbon,Away,0.7566666666666667
+Bélgica,26/10/2025,15:15,St. Gilloise,St Truiden,Home,0.8097349206349208
 Romenia,26/10/2025,15:30,FCSB,UTA Arad,Home,0.7812388888888895
-Brasil,26/10/2025,16:00,Botafogo RJ,Santos,Home,0.7394404761904763
 Brasil,26/10/2025,16:00,Gremio,Juventude,Home,0.7128825396825399
+Brasil,26/10/2025,16:00,Botafogo RJ,Santos,Home,0.7394404761904763
+Grecia,26/10/2025,16:00,Olympiakos,AEK,Home,0.8116420634920634
+Itália - Serie A,26/10/2025,16:45,Lazio,Juventus,Home,0.5700865079365076
+Portugal - Liga 1,26/10/2025,17:30,Sp Braga,Casa Pia,Home,0.8043531746031747
 EUA,26/10/2025,18:30,Philadelphia Union,Chicago Fire,Home,0.7430587301587303
 Brasil,26/10/2025,20:30,Palmeiras,Cruzeiro,Home,0.7808325396825394
 EUA,26/10/2025,20:30,Vancouver Whitecaps,FC Dallas,Home,0.6984031746031747
 EUA,26/10/2025,22:30,San Diego FC,Portland Timbers,Home,0.7279031746031741
 Romenia,27/10/2025,12:30,FC Botosani,FC Hermannstadt,Home,0.6403746031746032
 Finlândia,27/10/2025,13:00,SJK,KuPS,Home,0.6406365079365076
+Turquia - Liga 1,27/10/2025,14:00,Samsunspor,Rizespor,Home,0.6919484126984129
 Romenia,27/10/2025,15:30,FC Rapid Bucuresti,Unirea Slobozia,Home,0.802526984126984
 Argentina,27/10/2025,16:00,Barracas Central,Boca Juniors,Away,0.73
+Espanha - La Liga,27/10/2025,17:00,Betis,Ath Madrid,Home,0.6780015873015869
+Portugal - Liga 1,27/10/2025,17:15,Moreirense,Porto,Away,0.7333333333333333
