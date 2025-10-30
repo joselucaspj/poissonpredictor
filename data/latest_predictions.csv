@@ -1,23 +1,22 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Itália - Serie A,28/10/2025,14:30,Lecce,Napoli,Away,0.8366666666666667
+Itália - Serie A,28/10/2025,14:30,Lecce,Napoli,Away,0.86
 Suíça,28/10/2025,16:30,Thun,Winterthur,Home,0.8735809523809525
-Itália - Serie A,28/10/2025,16:45,Atalanta,Milan,Away,0.6433333333333333
-Itália - Serie A,29/10/2025,14:30,Roma,Parma,Home,0.7983658730158735
-Itália - Serie A,29/10/2025,14:30,Juventus,Udinese,Home,0.7940111111111111
-França - Primeira divisão,29/10/2025,15:00,Le Havre,Brest,Home,0.5863111111111111
-França - Primeira divisão,29/10/2025,15:00,Nice,Lille,Home,0.6094357142857144
+Itália - Serie A,28/10/2025,16:45,Atalanta,Milan,Away,0.62
+Itália - Serie A,29/10/2025,14:30,Roma,Parma,Home,0.788634920634921
+Itália - Serie A,29/10/2025,14:30,Juventus,Udinese,Home,0.7988492063492064
+França - Primeira divisão,29/10/2025,15:00,Nice,Lille,Home,0.6250238095238095
 Suíça,29/10/2025,16:30,Basel,Zurich,Home,0.7257333333333333
-Itália - Serie A,29/10/2025,16:45,Bologna,Torino,Home,0.8258166666666666
-Escócia - Premiere League,29/10/2025,16:45,Hibernian,Rangers,Home,0.7866579365079364
-Itália - Serie A,29/10/2025,16:45,Inter,Fiorentina,Home,0.8672849206349205
-Escócia - Premiere League,29/10/2025,16:45,St Mirren,Hearts,Away,0.7966666666666666
+Itália - Serie A,29/10/2025,16:45,Bologna,Torino,Home,0.8340309523809525
+Escócia - Premiere League,29/10/2025,16:45,Hibernian,Rangers,Home,0.7705420634920633
+Itália - Serie A,29/10/2025,16:45,Inter,Fiorentina,Home,0.8660960317460318
+Escócia - Premiere League,29/10/2025,16:45,St Mirren,Hearts,Away,0.7833333333333333
 Noruega,29/10/2025,17:00,Rosenborg,Sandefjord,Home,0.7613000000000005
-França - Primeira divisão,29/10/2025,17:05,Nantes,Monaco,Away,0.7633333333333333
-França - Primeira divisão,29/10/2025,17:05,Strasbourg,Auxerre,Home,0.8387142857142856
-França - Primeira divisão,29/10/2025,17:05,Toulouse,Rennes,Home,0.6927769841269839
-França - Primeira divisão,29/10/2025,17:05,Marseille,Angers,Home,0.8512658730158732
+França - Primeira divisão,29/10/2025,17:05,Nantes,Monaco,Away,0.8266666666666667
+França - Primeira divisão,29/10/2025,17:05,Strasbourg,Auxerre,Home,0.848573015873016
+França - Primeira divisão,29/10/2025,17:05,Toulouse,Rennes,Home,0.7030404761904758
+França - Primeira divisão,29/10/2025,17:05,Marseille,Angers,Home,0.8624531746031749
 Brasil,29/10/2025,19:00,Fluminense,Ceara,Home,0.7415746031746032
 EUA,29/10/2025,23:30,Los Angeles FC,Austin FC,Home,0.7894277777777777
-Finlândia,30/10/2025,13:00,Inter Turku,SJK,Home,0.7157738095238095
 Finlândia,30/10/2025,13:00,KuPS,Gnistan,Home,0.8179111111111113
+Finlândia,30/10/2025,13:00,Inter Turku,SJK,Home,0.7157738095238095
 Suíça,30/10/2025,16:30,Lugano,Luzern,Home,0.7070103174603172
