@@ -1,5 +1,49 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Brasil,05/11/2025,19:30,Botafogo RJ,Vasco,Home,0.6561349206349206
-Brasil,05/11/2025,20:00,Atletico-MG,Bahia,Home,0.7285055555555559
-Brasil,06/11/2025,20:00,Ceara,Fortaleza,Home,0.7796396825396825
-Brasil,06/11/2025,21:30,Palmeiras,Santos,Home,0.7940246031746032
+Romenia,07/11/2025,15:30,Farul Constanta,FC Botosani,Home,0.7527730158730157
+Argentina,07/11/2025,21:00,Rosario Central,San Lorenzo,Home,0.7620373015873011
+Japao,08/11/2025,02:00,Kashima Antlers,Yokohama FC,Home,0.6863230158730159
+Japao,08/11/2025,03:00,Kawasaki Frontale,Okayama,Home,0.7302484126984128
+Russia,08/11/2025,08:00,Dynamo Moscow,Akron Togliatti,Home,0.6354984126984123
+Russia,08/11/2025,10:30,Dynamo Makhachkala,CSKA Moscow,Away,0.7333333333333333
+Austria,08/11/2025,13:00,Austria Vienna,Grazer AK,Home,0.6817436507936508
+Austria,08/11/2025,13:00,Wolfsberger AC,Hartberg,Home,0.7014896825396821
+Noruega,08/11/2025,14:00,Viking,HamKam,Home,0.7505976190476191
+Romenia,08/11/2025,15:30,FC Rapid Bucuresti,FC Arges,Home,0.6728555555555551
+Brasil,08/11/2025,16:00,Sport Recife,Atletico-MG,Away,0.6266666666666667
+Argentina,08/11/2025,17:00,Huracan,Newells Old Boys,Home,0.7156269841269847
+Argentina,08/11/2025,17:00,Racing Club,Defensa y Justicia,Home,0.6457603174603177
+Brasil,08/11/2025,18:00,Vasco,Juventude,Home,0.7607246031746034
+Brasil,08/11/2025,18:30,Internacional,Bahia,Home,0.7076468253968258
+Argentina,08/11/2025,19:15,Talleres Cordoba,Platense,Home,0.7112063492063488
+Brasil,08/11/2025,21:00,Sao Paulo,Bragantino,Home,0.7868849206349212
+Japao,09/11/2025,02:00,Machida,FC Tokyo,Home,0.7488079365079364
+Russia,09/11/2025,07:00,Krylya Sovetov,Zenit,Away,0.7166666666666667
+Russia,09/11/2025,09:15,Lokomotiv Moscow,Orenburg,Home,0.8291523809523811
+Finlândia,09/11/2025,10:00,HJK,KuPS,Home,0.673547619047619
+Suíça,09/11/2025,10:00,Basel,Lugano,Home,0.7347499999999997
+Dinamarca,09/11/2025,10:00,Vejle,FC Copenhagen,Away,0.69
+Finlândia,09/11/2025,10:00,SJK,Gnistan,Home,0.792637301587302
+Noruega,09/11/2025,10:30,Rosenborg,Valerenga,Home,0.6712650793650793
+Polonia,09/11/2025,10:45,Legia,Termalica B-B.,Home,0.8316738095238093
+Suecia,09/11/2025,11:00,Mjallby,Hacken,Home,0.7953500000000004
+Suecia,09/11/2025,11:00,Sirius,Varnamo,Home,0.7088357142857142
+Suecia,09/11/2025,11:00,Hammarby,Elfsborg,Home,0.792723015873016
+Suecia,09/11/2025,11:00,Goteborg,Norrkoping,Home,0.747948412698413
+Suecia,09/11/2025,11:00,AIK,Halmstad,Home,0.7415650793650794
+Suecia,09/11/2025,11:00,Malmo FF,GAIS,Home,0.5514309523809522
+Suecia,09/11/2025,11:00,Oster,Djurgarden,Away,0.8266666666666667
+Dinamarca,09/11/2025,12:00,Randers FC,Midtjylland,Away,0.8166666666666667
+Suíça,09/11/2025,12:30,St. Gallen,Young Boys,Home,0.6879706349206348
+Romenia,09/11/2025,12:30,Univ. Craiova,UTA Arad,Home,0.8771531746031744
+Noruega,09/11/2025,13:00,Sandefjord,Tromso,Home,0.7504380952380952
+Noruega,09/11/2025,13:00,Kristiansund,Stromsgodset,Home,0.6489952380952383
+Noruega,09/11/2025,13:00,Brann,KFUM Oslo,Home,0.7554777777777777
+Dinamarca,09/11/2025,14:00,Aarhus,Sonderjyske,Home,0.698863492063492
+Dinamarca,09/11/2025,16:00,Brondby,Nordsjaelland,Home,0.7158523809523811
+Brasil,09/11/2025,16:00,Cruzeiro,Fluminense,Home,0.5687634920634921
+Brasil,09/11/2025,16:00,Corinthians,Ceara,Home,0.7329912698412698
+Brasil,09/11/2025,16:00,Vitoria,Botafogo RJ,Away,0.8266666666666667
+Brasil,09/11/2025,18:30,Flamengo RJ,Santos,Home,0.8316801587301585
+Argentina,10/11/2025,17:00,Gimnasia L.P.,Velez Sarsfield,Away,0.6333333333333333
+Argentina,10/11/2025,19:00,Dep. Riestra,Independiente,Home,0.7438801587301592
+Argentina,10/11/2025,21:15,Argentinos Jrs,Belgrano,Home,0.7627499999999999
