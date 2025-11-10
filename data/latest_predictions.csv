@@ -4,33 +4,31 @@ Argentina,07/11/2025,21:00,Rosario Central,San Lorenzo,Home,0.7620373015873011
 Japao,08/11/2025,02:00,Kashima Antlers,Yokohama FC,Home,0.6863230158730159
 Japao,08/11/2025,03:00,Kawasaki Frontale,Okayama,Home,0.7302484126984128
 Russia,08/11/2025,08:00,Dynamo Moscow,Akron Togliatti,Home,0.6354984126984123
-Turquia - Liga 1,08/11/2025,08:30,Gaziantep,Rizespor,Home,0.580363492063492
+Turquia - Liga 1,08/11/2025,08:30,Gaziantep,Rizespor,Home,0.5700031746031746
 Russia,08/11/2025,10:30,Dynamo Makhachkala,CSKA Moscow,Away,0.7333333333333333
-Turquia - Liga 1,08/11/2025,11:00,Trabzonspor,Alanyaspor,Home,0.7660944444444444
-Itália - Serie A,08/11/2025,11:00,Como,Cagliari,Home,0.6573031746031746
+Turquia - Liga 1,08/11/2025,11:00,Trabzonspor,Alanyaspor,Home,0.7701666666666666
+Alemanha - Bundesliga 1,08/11/2025,11:30,Leverkusen,Heidenheim,Home,0.6823388888888886
 Alemanha - Bundesliga 1,08/11/2025,11:30,Union Berlin,Bayern Munich,Away,0.7566666666666667
-Alemanha - Bundesliga 1,08/11/2025,11:30,Leverkusen,Heidenheim,Home,0.6692436507936507
-Espanha - La Liga,08/11/2025,12:15,Sevilla,Osasuna,Home,0.7513753968253967
-Holanda,08/11/2025,12:30,Excelsior,Heracles,Home,0.8114968253968252
+Espanha - La Liga,08/11/2025,12:15,Sevilla,Osasuna,Home,0.7532079365079363
+Holanda,08/11/2025,12:30,Excelsior,Heracles,Home,0.8199293650793649
 Austria,08/11/2025,13:00,Wolfsberger AC,Hartberg,Home,0.7014896825396821
+França - Primeira divisão,08/11/2025,13:00,Marseille,Brest,Home,0.8409357142857145
 Austria,08/11/2025,13:00,Austria Vienna,Grazer AK,Home,0.6817436507936508
-França - Primeira divisão,08/11/2025,13:00,Marseille,Brest,Home,0.808869047619048
-Turquia - Liga 1,08/11/2025,14:00,Kasimpasa,Goztep,Home,0.7530658730158734
-Itália - Serie A,08/11/2025,14:00,Juventus,Torino,Home,0.8925484126984128
+Turquia - Liga 1,08/11/2025,14:00,Kasimpasa,Goztep,Home,0.7315317460317462
 Noruega,08/11/2025,14:00,Viking,HamKam,Home,0.7505976190476191
-Bélgica,08/11/2025,14:15,Charleroi,Westerlo,Home,0.787696031746032
-Espanha - La Liga,08/11/2025,14:30,Ath Madrid,Levante,Home,0.7427253968253964
-Alemanha - Bundesliga 1,08/11/2025,14:30,M'gladbach,FC Koln,Home,0.6024222222222225
-Portugal - Liga 1,08/11/2025,15:00,Tondela,Guimaraes,Away,0.5966666666666667
+Itália - Serie A,08/11/2025,14:00,Juventus,Torino,Home,0.8922142857142856
+Bélgica,08/11/2025,14:15,Charleroi,Westerlo,Home,0.8011428571428573
+Alemanha - Bundesliga 1,08/11/2025,14:30,M'gladbach,FC Koln,Home,0.6074103174603175
+Espanha - La Liga,08/11/2025,14:30,Ath Madrid,Levante,Home,0.7590253968253965
+Escócia - Premiere League,08/11/2025,14:45,St Mirren,Hibernian,Away,0.6633333333333333
+Portugal - Liga 1,08/11/2025,15:00,Tondela,Guimaraes,Away,0.5866666666666667
 Romenia,08/11/2025,15:30,FC Rapid Bucuresti,FC Arges,Home,0.6728555555555551
 Brasil,08/11/2025,16:00,Sport Recife,Atletico-MG,Away,0.6266666666666667
-Itália - Serie A,08/11/2025,16:45,Parma,Milan,Away,0.7666666666666667
-Argentina,08/11/2025,17:00,Huracan,Newells Old Boys,Home,0.7156269841269847
-Inglaterra - Premiere League,08/11/2025,17:00,Chelsea,Wolves,Home,0.9466119047619048
+Itália - Serie A,08/11/2025,16:45,Parma,Milan,Away,0.7866666666666666
+Espanha - La Liga,08/11/2025,17:00,Espanol,Villarreal,Away,0.79
 Argentina,08/11/2025,17:00,Racing Club,Defensa y Justicia,Home,0.6457603174603177
-Holanda,08/11/2025,17:00,Zwolle,Sparta Rotterdam,Home,0.7078015873015869
-Espanha - La Liga,08/11/2025,17:00,Espanol,Villarreal,Away,0.7633333333333333
-França - Primeira divisão,08/11/2025,17:05,Monaco,Lens,Home,0.6307126984126982
+Inglaterra - Premiere League,08/11/2025,17:00,Chelsea,Wolves,Home,0.9466119047619048
+Argentina,08/11/2025,17:00,Huracan,Newells Old Boys,Home,0.7156269841269847
 Portugal - Liga 1,08/11/2025,17:30,Santa Clara,Sp Lisbon,Away,0.8366666666666667
 Brasil,08/11/2025,18:00,Vasco,Juventude,Home,0.7607246031746034
 Brasil,08/11/2025,18:30,Internacional,Bahia,Home,0.7076468253968258
@@ -38,58 +36,59 @@ Argentina,08/11/2025,19:15,Talleres Cordoba,Platense,Home,0.7112063492063488
 Brasil,08/11/2025,21:00,Sao Paulo,Bragantino,Home,0.7868849206349212
 Japao,09/11/2025,02:00,Machida,FC Tokyo,Home,0.7488079365079364
 Russia,09/11/2025,07:00,Krylya Sovetov,Zenit,Away,0.7166666666666667
-Itália - Serie A,09/11/2025,08:30,Atalanta,Sassuolo,Home,0.7788912698412701
-Turquia - Liga 1,09/11/2025,08:30,Karagumruk,Konyaspor,Home,0.7270333333333334
+Itália - Serie A,09/11/2025,08:30,Atalanta,Sassuolo,Home,0.7560682539682543
+Turquia - Liga 1,09/11/2025,08:30,Karagumruk,Konyaspor,Home,0.7517730158730161
 Russia,09/11/2025,09:15,Lokomotiv Moscow,Orenburg,Home,0.8291523809523811
-Grecia,09/11/2025,10:00,Kifisia,Olympiakos,Away,0.7
-Finlândia,09/11/2025,10:00,SJK,Gnistan,Home,0.792637301587302
-Grecia,09/11/2025,10:00,Aris,Asteras Tripolis,Home,0.8502261904761907
-Suíça,09/11/2025,10:00,Basel,Lugano,Home,0.7347499999999997
-Dinamarca,09/11/2025,10:00,Vejle,FC Copenhagen,Away,0.69
 Finlândia,09/11/2025,10:00,HJK,KuPS,Home,0.673547619047619
-Holanda,09/11/2025,10:30,Nijmegen,Groningen,Home,0.9140428571428572
+Finlândia,09/11/2025,10:00,SJK,Gnistan,Home,0.792637301587302
+Suíça,09/11/2025,10:00,Basel,Lugano,Home,0.7347499999999997
+Grecia,09/11/2025,10:00,Kifisia,Olympiakos,Away,0.7066666666666667
+Dinamarca,09/11/2025,10:00,Vejle,FC Copenhagen,Away,0.69
+Grecia,09/11/2025,10:00,Aris,Asteras Tripolis,Home,0.8370031746031747
 Noruega,09/11/2025,10:30,Rosenborg,Valerenga,Home,0.6712650793650793
+Holanda,09/11/2025,10:30,Nijmegen,Groningen,Home,0.9052166666666666
 Polonia,09/11/2025,10:45,Legia,Termalica B-B.,Home,0.8316738095238093
 Suecia,09/11/2025,11:00,Goteborg,Norrkoping,Home,0.747948412698413
+Suecia,09/11/2025,11:00,Hammarby,Elfsborg,Home,0.792723015873016
 Suecia,09/11/2025,11:00,Malmo FF,GAIS,Home,0.5514309523809522
 Suecia,09/11/2025,11:00,Mjallby,Hacken,Home,0.7953500000000004
 Suecia,09/11/2025,11:00,Sirius,Varnamo,Home,0.7088357142857142
 Inglaterra - Premiere League,09/11/2025,11:00,Brentford,Newcastle,Away,0.5433333333333333
-Itália - Serie A,09/11/2025,11:00,Bologna,Napoli,Away,0.62
+Itália - Serie A,09/11/2025,11:00,Bologna,Napoli,Away,0.6233333333333333
 Suecia,09/11/2025,11:00,AIK,Halmstad,Home,0.7415650793650794
-Suecia,09/11/2025,11:00,Hammarby,Elfsborg,Home,0.792723015873016
 Suecia,09/11/2025,11:00,Oster,Djurgarden,Away,0.8266666666666667
 Inglaterra - Premiere League,09/11/2025,11:00,Aston Villa,Bournemouth,Home,0.723665873015873
 Inglaterra - Premiere League,09/11/2025,11:00,Crystal Palace,Brighton,Home,0.7051888888888893
 Inglaterra - Premiere League,09/11/2025,11:00,Nott'm Forest,Leeds,Home,0.7584063492063492
 Dinamarca,09/11/2025,12:00,Randers FC,Midtjylland,Away,0.8166666666666667
-Grecia,09/11/2025,12:00,Levadeiakos,Panserraikos,Home,0.7704103174603179
-Escócia - Premiere League,09/11/2025,12:00,Hearts,Dundee United,Home,0.8457158730158731
+Escócia - Premiere League,09/11/2025,12:00,Hearts,Dundee United,Home,0.8256650793650798
+Bélgica,09/11/2025,12:00,St Truiden,Standard,Home,0.704945238095238
+Grecia,09/11/2025,12:00,Levadeiakos,Panserraikos,Home,0.775757142857143
 Espanha - La Liga,09/11/2025,12:15,Vallecano,Real Madrid,Away,0.7366666666666667
-Portugal - Liga 1,09/11/2025,12:30,AVS,Gil Vicente,Away,0.62
 Suíça,09/11/2025,12:30,St. Gallen,Young Boys,Home,0.6879706349206348
 Romenia,09/11/2025,12:30,Univ. Craiova,UTA Arad,Home,0.8771531746031744
-Escócia - Premiere League,09/11/2025,13:00,Celtic,Kilmarnock,Home,0.8346436507936507
+Portugal - Liga 1,09/11/2025,12:30,AVS,Gil Vicente,Away,0.6266666666666667
+Escócia - Premiere League,09/11/2025,13:00,Celtic,Kilmarnock,Home,0.8629960317460318
 Noruega,09/11/2025,13:00,Sandefjord,Tromso,Home,0.7504380952380952
 Noruega,09/11/2025,13:00,Brann,KFUM Oslo,Home,0.7554777777777777
 Noruega,09/11/2025,13:00,Kristiansund,Stromsgodset,Home,0.6489952380952383
-França - Primeira divisão,09/11/2025,13:15,Metz,Nice,Away,0.6933333333333334
 Inglaterra - Premiere League,09/11/2025,13:30,Man City,Liverpool,Home,0.6972444444444439
-Alemanha - Bundesliga 1,09/11/2025,13:30,Stuttgart,Augsburg,Home,0.9188674603174606
-Itália - Serie A,09/11/2025,14:00,Roma,Udinese,Home,0.8151563492063495
-Turquia - Liga 1,09/11/2025,14:00,Samsunspor,Eyupspor,Home,0.7452746031746035
+Alemanha - Bundesliga 1,09/11/2025,13:30,Stuttgart,Augsburg,Home,0.9227119047619051
+Itália - Serie A,09/11/2025,14:00,Roma,Udinese,Home,0.8082357142857145
+Turquia - Liga 1,09/11/2025,14:00,Samsunspor,Eyupspor,Home,0.7483333333333337
 Dinamarca,09/11/2025,14:00,Aarhus,Sonderjyske,Home,0.698863492063492
-Turquia - Liga 1,09/11/2025,14:00,Fenerbahce,Kayserispor,Home,0.8118246031746031
-Portugal - Liga 1,09/11/2025,15:00,Famalicao,Porto,Away,0.6533333333333333
-Alemanha - Bundesliga 1,09/11/2025,15:30,Ein Frankfurt,Mainz,Home,0.7142119047619049
-Grecia,09/11/2025,16:00,Panathinaikos,PAOK,Home,0.6615246031746025
+Turquia - Liga 1,09/11/2025,14:00,Fenerbahce,Kayserispor,Home,0.8193714285714286
+Portugal - Liga 1,09/11/2025,15:00,Famalicao,Porto,Away,0.69
+Alemanha - Bundesliga 1,09/11/2025,15:30,Ein Frankfurt,Mainz,Home,0.7198452380952381
+Grecia,09/11/2025,16:00,Panathinaikos,PAOK,Home,0.6666777777777771
 Brasil,09/11/2025,16:00,Corinthians,Ceara,Home,0.7329912698412698
 Brasil,09/11/2025,16:00,Vitoria,Botafogo RJ,Away,0.8266666666666667
-Dinamarca,09/11/2025,16:00,Brondby,Nordsjaelland,Home,0.7158523809523811
 Brasil,09/11/2025,16:00,Cruzeiro,Fluminense,Home,0.5687634920634921
-Itália - Serie A,09/11/2025,16:45,Inter,Lazio,Home,0.7491865079365077
-Portugal - Liga 1,09/11/2025,17:30,Sp Braga,Moreirense,Home,0.6887865079365078
-Portugal - Liga 1,09/11/2025,17:30,Benfica,Casa Pia,Home,0.7689952380952383
+Dinamarca,09/11/2025,16:00,Brondby,Nordsjaelland,Home,0.7158523809523811
+França - Primeira divisão,09/11/2025,16:45,Lyon,Paris SG,Away,0.6033333333333334
+Itália - Serie A,09/11/2025,16:45,Inter,Lazio,Home,0.7597738095238089
+Portugal - Liga 1,09/11/2025,17:30,Sp Braga,Moreirense,Home,0.7214674603174602
+Portugal - Liga 1,09/11/2025,17:30,Benfica,Casa Pia,Home,0.7681396825396827
 Brasil,09/11/2025,18:30,Flamengo RJ,Santos,Home,0.8316801587301585
 Argentina,10/11/2025,17:00,Gimnasia L.P.,Velez Sarsfield,Away,0.6333333333333333
 Argentina,10/11/2025,19:00,Dep. Riestra,Independiente,Home,0.7438801587301592
