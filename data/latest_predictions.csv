@@ -1,11 +1,3 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Argentina,14/11/2025,20:00,Lanus,Atl. Tucuman,Home,0.6098428571428568
-Brasil,15/11/2025,18:30,Sport Recife,Flamengo RJ,Away,0.7733333333333333
-Argentina,15/11/2025,19:15,San Lorenzo,Sarmiento Junin,Home,0.6476793650793651
-Brasil,15/11/2025,21:00,Santos,Palmeiras,Away,0.7733333333333333
-Argentina,15/11/2025,21:30,Independiente,Rosario Central,Home,0.785759523809524
-Argentina,16/11/2025,17:00,Velez Sarsfield,River Plate,Home,0.71158253968254
-Argentina,16/11/2025,20:15,Boca Juniors,Tigre,Home,0.7970126984126986
-Argentina,16/11/2025,20:15,Estudiantes L.P.,Argentinos Jrs,Home,0.712536507936508
-Argentina,17/11/2025,17:00,Defensa y Justicia,Ind. Rivadavia,Home,0.8100706349206349
-Brasil,18/11/2025,20:30,Botafogo RJ,Sport Recife,Home,0.7400833333333332
+Brasil,18/11/2025,20:30,Botafogo RJ,Sport Recife,Home,0.7983230158730154
+Brasil,19/11/2025,19:30,Palmeiras,Vitoria,Home,0.8322730158730159
