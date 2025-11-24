@@ -1,80 +1,78 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
 Noruega,21/11/2025,15:00,KFUM Oslo,Bodo/Glimt,Away,0.75
 Polonia,21/11/2025,16:30,Gornik Zabrze,Wisla Plock,Home,0.743794444444445
-Espanha - La Liga,21/11/2025,17:00,Valencia,Levante,Home,0.7067301587301589
+Espanha - La Liga,21/11/2025,17:00,Valencia,Levante,Home,0.7261166666666669
 China,22/11/2025,04:30,Tianjin Jinmen Tiger,Shanghai Shenhua,Away,0.6633333333333333
 China,22/11/2025,04:30,Shenzhen Xinpengcheng,Chengdu Rongcheng,Away,0.7133333333333334
-China,22/11/2025,04:30,Qingdao West Coast,Changchun Yatai,Home,0.7471785714285715
-China,22/11/2025,04:30,Beijing Guoan,Meizhou Hakka,Home,0.8629277777777778
 China,22/11/2025,04:30,Henan Songshan Longmen,Yunnan Yukun,Home,0.7137499999999996
+China,22/11/2025,04:30,Beijing Guoan,Meizhou Hakka,Home,0.8629277777777778
+China,22/11/2025,04:30,Qingdao West Coast,Changchun Yatai,Home,0.7471785714285715
 Inglaterra - Premiere League,22/11/2025,09:30,Burnley,Chelsea,Away,0.7366666666666667
-Noruega,22/11/2025,10:00,Tromso,Rosenborg,Home,0.7623833333333332
 Romenia,22/11/2025,10:00,UTA Arad,U. Cluj,Home,0.7259103174603174
+Noruega,22/11/2025,10:00,Tromso,Rosenborg,Home,0.7623833333333332
 Polonia,22/11/2025,10:45,Cracovia,Motor Lublin,Home,0.7834666666666668
-Itália - Serie A,22/11/2025,11:00,Udinese,Bologna,Away,0.7
-Alemanha - Bundesliga 1,22/11/2025,11:30,Bayern Munich,Freiburg,Home,0.8235825396825398
-Alemanha - Bundesliga 1,22/11/2025,11:30,Dortmund,Stuttgart,Home,0.6885809523809523
-Alemanha - Bundesliga 1,22/11/2025,11:30,Wolfsburg,Leverkusen,Away,0.7833333333333333
-Alemanha - Bundesliga 1,22/11/2025,11:30,Heidenheim,M'gladbach,Away,0.6933333333333334
-Noruega,22/11/2025,12:00,Valerenga,Kristiansund,Home,0.8296349206349206
-Bélgica,22/11/2025,12:00,St. Gilloise,Cercle Brugge,Home,0.8427539682539685
-Escócia - Premiere League,22/11/2025,12:00,Hibernian,Dundee,Home,0.900842857142857
+Itália - Serie A,22/11/2025,11:00,Udinese,Bologna,Away,0.68
+Alemanha - Bundesliga 1,22/11/2025,11:30,Heidenheim,M'gladbach,Away,0.6633333333333333
+Alemanha - Bundesliga 1,22/11/2025,11:30,Bayern Munich,Freiburg,Home,0.8298158730158733
+Alemanha - Bundesliga 1,22/11/2025,11:30,Wolfsburg,Leverkusen,Away,0.76
 Inglaterra - Premiere League,22/11/2025,12:00,Liverpool,Nott'm Forest,Home,0.7984031746031749
+Escócia - Premiere League,22/11/2025,12:00,Rangers,Livingston,Home,0.7616753968253969
+Bélgica,22/11/2025,12:00,St. Gilloise,Cercle Brugge,Home,0.8491428571428574
+Noruega,22/11/2025,12:00,Valerenga,Kristiansund,Home,0.8296349206349206
+Escócia - Premiere League,22/11/2025,12:00,Hibernian,Dundee,Home,0.9019817460317457
 Inglaterra - Premiere League,22/11/2025,12:00,Wolves,Crystal Palace,Away,0.6233333333333333
-Escócia - Premiere League,22/11/2025,12:00,Rangers,Livingston,Home,0.7584595238095239
-Espanha - La Liga,22/11/2025,12:15,Barcelona,Ath Bilbao,Home,0.8348753968253969
+Espanha - La Liga,22/11/2025,12:15,Barcelona,Ath Bilbao,Home,0.8045357142857144
 Holanda,22/11/2025,12:30,NAC Breda,PSV Eindhoven,Away,0.8
 Austria,22/11/2025,13:00,Altach,Wolfsberger AC,Away,0.72
-França - Primeira divisão,22/11/2025,13:00,Lens,Strasbourg,Home,0.7339904761904766
+França - Primeira divisão,22/11/2025,13:00,Lens,Strasbourg,Home,0.7409166666666672
 Polonia,22/11/2025,13:30,Rakow,Piast Gliwice,Home,0.703230952380952
-Suíça,22/11/2025,14:00,Luzern,Servette,Home,0.6574579365079363
 Suíça,22/11/2025,14:00,Young Boys,Winterthur,Home,0.7680047619047623
 Noruega,22/11/2025,14:00,Molde,Brann,Home,0.7161769841269845
-Turquia - Liga 1,22/11/2025,14:00,Galatasaray,Genclerbirligi,Home,0.845592857142857
-Holanda,22/11/2025,14:45,Ajax,Excelsior,Home,0.7759595238095236
-Holanda,22/11/2025,14:45,Volendam,Twente,Away,0.6733333333333333
-França - Primeira divisão,22/11/2025,15:00,Rennes,Monaco,Home,0.6423793650793653
-Grecia,22/11/2025,15:00,Olympiakos,Atromitos,Home,0.8062222222222227
+Suíça,22/11/2025,14:00,Luzern,Servette,Home,0.6574579365079363
+Turquia - Liga 1,22/11/2025,14:00,Galatasaray,Genclerbirligi,Home,0.8471761904761904
+Holanda,22/11/2025,14:45,Ajax,Excelsior,Home,0.7881388888888886
+Holanda,22/11/2025,14:45,Volendam,Twente,Away,0.6833333333333333
+Grecia,22/11/2025,15:00,Olympiakos,Atromitos,Home,0.8044230158730162
+França - Primeira divisão,22/11/2025,15:00,Rennes,Monaco,Home,0.7035912698412702
 Romenia,22/11/2025,15:30,FCSB,Petrolul,Home,0.7940603174603175
 Polonia,22/11/2025,16:15,Legia,Lechia Gdansk,Home,0.6914349206349202
-Bélgica,22/11/2025,16:45,Club Brugge,Charleroi,Home,0.7312285714285717
-Espanha - La Liga,22/11/2025,17:00,Villarreal,Mallorca,Home,0.8050420634920634
-Holanda,22/11/2025,17:00,Sparta Rotterdam,For Sittard,Home,0.7241499999999997
-Holanda,22/11/2025,17:00,Heracles,Go Ahead Eagles,Home,0.6525158730158734
-Escócia - Premiere League,22/11/2025,17:00,St Mirren,Celtic,Away,0.6766666666666666
-França - Primeira divisão,22/11/2025,17:05,Paris SG,Le Havre,Home,0.7709904761904764
+Bélgica,22/11/2025,16:45,Club Brugge,Charleroi,Home,0.7257230158730159
+Holanda,22/11/2025,17:00,Heracles,Go Ahead Eagles,Home,0.6741793650793653
+Escócia - Premiere League,22/11/2025,17:00,St Mirren,Celtic,Away,0.69
+Holanda,22/11/2025,17:00,Sparta Rotterdam,For Sittard,Home,0.7176380952380951
+Espanha - La Liga,22/11/2025,17:00,Villarreal,Mallorca,Home,0.8193746031746031
+França - Primeira divisão,22/11/2025,17:05,Paris SG,Le Havre,Home,0.7564587301587302
 Brasil,22/11/2025,19:30,Botafogo RJ,Gremio,Home,0.7425103174603174
 Brasil,22/11/2025,21:30,Flamengo RJ,Bragantino,Home,0.8480587301587305
 Argentina,22/11/2025,22:00,Central Cordoba,San Lorenzo,Away,0.59
 Polonia,23/11/2025,08:15,Jagiellonia,GKS Katowice,Home,0.827607142857143
-Holanda,23/11/2025,08:15,Heerenveen,AZ Alkmaar,Away,0.72
+Holanda,23/11/2025,08:15,Heerenveen,AZ Alkmaar,Away,0.6533333333333333
 Russia,23/11/2025,09:15,Pari NN,Zenit,Away,0.7333333333333333
-Bélgica,23/11/2025,09:30,Genk,Mechelen,Home,0.7715015873015869
+Bélgica,23/11/2025,09:30,Genk,Mechelen,Home,0.7501920634920632
 Suíça,23/11/2025,10:00,Sion,Zurich,Away,0.62
-Austria,23/11/2025,10:30,Sturm Graz,LASK,Away,0.6366666666666667
-Holanda,23/11/2025,10:30,Feyenoord,Nijmegen,Home,0.7582468253968251
-Austria,23/11/2025,10:30,Salzburg,Tirol,Home,0.8745420634920633
 Noruega,23/11/2025,10:30,HamKam,Haugesund,Home,0.7019039682539683
+Holanda,23/11/2025,10:30,Feyenoord,Nijmegen,Home,0.731269841269841
+Austria,23/11/2025,10:30,Salzburg,Tirol,Home,0.8745420634920633
+Austria,23/11/2025,10:30,Sturm Graz,LASK,Away,0.6366666666666667
 Polonia,23/11/2025,10:45,Lech Poznan,Radomiak Radom,Home,0.7350071428571427
-Itália - Serie A,23/11/2025,11:00,Cremonese,Roma,Away,0.71
-França - Primeira divisão,23/11/2025,11:00,Auxerre,Lyon,Away,0.7033333333333334
+Turquia - Liga 1,23/11/2025,11:00,Alanyaspor,Kasimpasa,Home,0.8125777777777775
 Inglaterra - Premiere League,23/11/2025,11:00,Leeds,Aston Villa,Away,0.64
-Turquia - Liga 1,23/11/2025,11:00,Alanyaspor,Kasimpasa,Home,0.8071317460317459
+França - Primeira divisão,23/11/2025,11:00,Auxerre,Lyon,Away,0.6933333333333334
+Itália - Serie A,23/11/2025,11:00,Cremonese,Roma,Away,0.6933333333333334
 Russia,23/11/2025,11:30,Dynamo Moscow,Dynamo Makhachkala,Home,0.7816396825396825
-Alemanha - Bundesliga 1,23/11/2025,11:30,RB Leipzig,Werder Bremen,Home,0.8050357142857142
-Grecia,23/11/2025,12:00,Panserraikos,Panathinaikos,Away,0.7533333333333333
-Bélgica,23/11/2025,12:00,Antwerp,Dender,Home,0.7306499999999999
-Espanha - La Liga,23/11/2025,12:15,Betis,Girona,Home,0.7763452380952381
-Holanda,23/11/2025,12:45,Groningen,Zwolle,Home,0.731827777777778
+Alemanha - Bundesliga 1,23/11/2025,11:30,RB Leipzig,Werder Bremen,Home,0.8052698412698411
+Bélgica,23/11/2025,12:00,Antwerp,Dender,Home,0.7477666666666666
+Grecia,23/11/2025,12:00,Panserraikos,Panathinaikos,Away,0.7366666666666667
+Espanha - La Liga,23/11/2025,12:15,Betis,Girona,Home,0.7699833333333336
+Holanda,23/11/2025,12:45,Groningen,Zwolle,Home,0.7316515873015876
 Austria,23/11/2025,13:00,SK Rapid,Grazer AK,Home,0.7858182539682543
 Inglaterra - Premiere League,23/11/2025,13:30,Arsenal,Tottenham,Home,0.8543507936507936
-Itália - Serie A,23/11/2025,14:00,Lazio,Lecce,Home,0.7707920634920634
-Grecia,23/11/2025,14:00,PAOK,Kifisia,Home,0.8188539682539685
-Turquia - Liga 1,23/11/2025,14:00,Rizespor,Fenerbahce,Away,0.7133333333333334
-Bélgica,23/11/2025,15:15,Oud-Heverlee Leuven,St Truiden,Home,0.754407142857143
-Grecia,23/11/2025,16:00,AEK,Aris,Home,0.7518579365079366
-Itália - Serie A,23/11/2025,16:45,Inter,Milan,Home,0.7169777777777773
-Espanha - La Liga,23/11/2025,17:00,Elche,Real Madrid,Away,0.6866666666666666
+Itália - Serie A,23/11/2025,14:00,Lazio,Lecce,Home,0.803079365079365
+Grecia,23/11/2025,14:00,PAOK,Kifisia,Home,0.8067920634920638
+Turquia - Liga 1,23/11/2025,14:00,Rizespor,Fenerbahce,Away,0.7366666666666667
+Grecia,23/11/2025,16:00,AEK,Aris,Home,0.7512825396825399
+Itália - Serie A,23/11/2025,16:45,Inter,Milan,Home,0.7092484126984122
+Espanha - La Liga,23/11/2025,17:00,Elche,Real Madrid,Away,0.6833333333333333
 Argentina,23/11/2025,20:00,Boca Juniors,Talleres Cordoba,Home,0.7816698412698415
 Turquia - Liga 1,24/11/2025,14:00,Konyaspor,Antalyaspor,Home,0.715642063492064
 Brasil,24/11/2025,21:00,Internacional,Santos,Home,0.787676984126984
