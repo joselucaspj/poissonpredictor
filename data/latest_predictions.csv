@@ -1,17 +1,43 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
 Inglaterra - Premiere League,02/12/2025,16:30,Fulham,Man City,Away,0.83
-Espanha - La Liga,02/12/2025,17:00,Barcelona,Ath Madrid,Home,0.7402420634920633
+Espanha - La Liga,02/12/2025,17:00,Barcelona,Ath Madrid,Home,0.7527468253968254
 Inglaterra - Premiere League,02/12/2025,17:15,Newcastle,Tottenham,Home,0.6686896825396823
-Espanha - La Liga,03/12/2025,15:00,Ath Bilbao,Real Madrid,Home,0.6400777777777774
+Espanha - La Liga,03/12/2025,15:00,Ath Bilbao,Real Madrid,Home,0.6140761904761903
 Inglaterra - Premiere League,03/12/2025,16:30,Arsenal,Brentford,Home,0.8097373015873016
 Inglaterra - Premiere League,03/12/2025,16:30,Burnley,Crystal Palace,Away,0.7666666666666667
-Escócia - Premiere League,03/12/2025,16:45,Aberdeen,St Mirren,Home,0.6445301587301586
-Escócia - Premiere League,03/12/2025,16:45,Celtic,Dundee,Home,0.8066000000000003
-Escócia - Premiere League,03/12/2025,16:45,Hearts,Kilmarnock,Home,0.8405380952380958
-Escócia - Premiere League,03/12/2025,16:45,Dundee United,Rangers,Away,0.7566666666666667
+Escócia - Premiere League,03/12/2025,16:45,Aberdeen,St Mirren,Home,0.6486142857142856
+Escócia - Premiere League,03/12/2025,16:45,Celtic,Dundee,Home,0.8147190476190482
+Escócia - Premiere League,03/12/2025,16:45,Hearts,Kilmarnock,Home,0.8460103174603176
+Escócia - Premiere League,03/12/2025,16:45,Dundee United,Rangers,Away,0.7433333333333333
 Inglaterra - Premiere League,03/12/2025,17:15,Leeds,Chelsea,Away,0.71
-Brasil,03/12/2025,19:00,Bragantino,Vitoria,Home,0.6970047619047613
-Brasil,03/12/2025,20:00,Bahia,Sport Recife,Home,0.5885269841269839
-Brasil,03/12/2025,21:30,Flamengo RJ,Ceara,Home,0.8448238095238099
-Polonia,04/12/2025,13:00,Wisla Plock,Cracovia,Home,0.6856484126984125
 Inglaterra - Premiere League,04/12/2025,17:00,Man United,West Ham,Home,0.7614714285714294
+Russia,05/12/2025,13:00,Akhmat Grozny,Orenburg,Home,0.7506555555555557
+Japao,06/12/2025,02:00,Cerezo Osaka,Yokohama FC,Home,0.6959277777777783
+Japao,06/12/2025,02:00,FC Tokyo,Albirex Niigata,Home,0.7351888888888886
+Japao,06/12/2025,02:00,Sanfrecce Hiroshima,Shonan Bellmare,Home,0.751559523809524
+Russia,06/12/2025,08:00,FK Rostov,Rubin Kazan,Home,0.7621499999999999
+Polonia,06/12/2025,08:15,Arka Gdynia,Motor Lublin,Away,0.5833333333333334
+Polonia,06/12/2025,10:45,Pogon Szczecin,Radomiak Radom,Home,0.7413904761904759
+Austria,06/12/2025,13:00,SK Rapid,Ried,Home,0.740456349206349
+Austria,06/12/2025,13:00,BW Linz,Salzburg,Away,0.65
+Russia,06/12/2025,13:30,Zenit,Akron Togliatti,Home,0.7313523809523812
+Polonia,06/12/2025,13:30,Zaglebie,Widzew Lodz,Home,0.5724484126984128
+Suíça,06/12/2025,14:00,Thun,Luzern,Home,0.6942238095238097
+Romenia,06/12/2025,15:30,FCSB,Din. Bucuresti,Home,0.6085230158730162
+Polonia,06/12/2025,16:15,Piast Gliwice,Legia,Home,0.6455468253968252
+EUA,06/12/2025,16:30,Inter Miami,Vancouver Whitecaps,Home,0.5707817460317459
+Suíça,06/12/2025,16:30,St. Gallen,Zurich,Home,0.7142674603174606
+Dinamarca,07/12/2025,10:00,Viborg,Midtjylland,Away,0.6433333333333333
+Suíça,07/12/2025,10:00,Winterthur,Basel,Away,0.54
+Romenia,07/12/2025,10:00,U. Cluj,FC Hermannstadt,Away,0.52
+Austria,07/12/2025,10:30,Tirol,Altach,Home,0.6946190476190476
+Dinamarca,07/12/2025,12:00,Randers FC,Aarhus,Home,0.6173936507936507
+Austria,07/12/2025,13:00,Sturm Graz,Grazer AK,Home,0.7136658730158733
+Russia,07/12/2025,13:00,Baltika,Krylya Sovetov,Home,0.7849984126984128
+Polonia,07/12/2025,13:30,Rakow,GKS Katowice,Home,0.7726134920634921
+Dinamarca,07/12/2025,14:00,FC Copenhagen,Sonderjyske,Home,0.7085126984126985
+Brasil,07/12/2025,16:00,Fluminense,Bahia,Home,0.7851261904761906
+Brasil,07/12/2025,16:00,Botafogo RJ,Fortaleza,Home,0.7536380952380954
+Brasil,07/12/2025,16:00,Atletico-MG,Vasco,Home,0.6275626984126983
+Romenia,08/12/2025,12:30,UTA Arad,Petrolul,Home,0.7263841269841272
+Dinamarca,08/12/2025,15:00,Vejle,Brondby,Away,0.6
