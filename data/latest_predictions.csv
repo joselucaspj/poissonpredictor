@@ -1,33 +1,56 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Russia,05/12/2025,13:00,Akhmat Grozny,Orenburg,Home,0.7506079365079368
-Romenia,05/12/2025,15:30,Otelul,Unirea Slobozia,Home,0.6860785714285713
-Polonia,05/12/2025,16:30,Lechia Gdansk,Gornik Zabrze,Home,0.6721714285714284
-Japao,06/12/2025,02:00,Cerezo Osaka,Yokohama FC,Home,0.6713023809523815
-Japao,06/12/2025,02:00,FC Tokyo,Albirex Niigata,Home,0.7350301587301585
-Japao,06/12/2025,02:00,Sanfrecce Hiroshima,Shonan Bellmare,Home,0.7528087301587304
-Japao,06/12/2025,02:00,Shimizu S-Pulse,Okayama,Home,0.7169119047619051
-Russia,06/12/2025,08:00,FK Rostov,Rubin Kazan,Home,0.7551698412698412
-Polonia,06/12/2025,10:45,Pogon Szczecin,Radomiak Radom,Home,0.7329547619047617
-Romenia,06/12/2025,12:00,Csikszereda M. Ciuc,FC Arges,Home,0.6143896825396822
-Austria,06/12/2025,13:00,SK Rapid,Ried,Home,0.7204595238095234
-Austria,06/12/2025,13:00,Hartberg,LASK,Away,0.5666666666666667
-Austria,06/12/2025,13:00,BW Linz,Salzburg,Away,0.6533333333333333
-Russia,06/12/2025,13:30,Zenit,Akron Togliatti,Home,0.7362198412698414
-Polonia,06/12/2025,13:30,Zaglebie,Widzew Lodz,Home,0.5809222222222225
-Suíça,06/12/2025,14:00,Thun,Luzern,Home,0.677543650793651
-Polonia,06/12/2025,16:15,Piast Gliwice,Legia,Home,0.6705039682539683
-Suíça,06/12/2025,16:30,St. Gallen,Zurich,Home,0.708196031746032
-EUA,06/12/2025,16:30,Inter Miami,Vancouver Whitecaps,Home,0.581670634920635
-Dinamarca,07/12/2025,10:00,Nordsjaelland,Silkeborg,Home,0.7629198412698418
-Dinamarca,07/12/2025,10:00,Viborg,Midtjylland,Away,0.6733333333333333
-Suíça,07/12/2025,10:00,Winterthur,Basel,Away,0.5566666666666666
-Austria,07/12/2025,10:30,Tirol,Altach,Home,0.6862452380952382
-Russia,07/12/2025,13:00,Baltika,Krylya Sovetov,Home,0.7775984126984125
-Austria,07/12/2025,13:00,Sturm Graz,Grazer AK,Home,0.7214222222222224
-Polonia,07/12/2025,13:30,Rakow,GKS Katowice,Home,0.7722150793650794
-Dinamarca,07/12/2025,14:00,FC Copenhagen,Sonderjyske,Home,0.6848603174603173
-Brasil,07/12/2025,16:00,Fluminense,Bahia,Home,0.7786698412698412
-Brasil,07/12/2025,16:00,Botafogo RJ,Fortaleza,Home,0.784546825396826
-Brasil,07/12/2025,16:00,Atletico-MG,Vasco,Home,0.6540087301587304
-Romenia,08/12/2025,12:30,UTA Arad,Petrolul,Home,0.7112793650793654
-Dinamarca,08/12/2025,15:00,Vejle,Brondby,Away,0.6
+Romenia,12/12/2025,15:30,CFR Cluj,Csikszereda M. Ciuc,Home,0.7578658730158728
+França - Primeira divisão,12/12/2025,16:45,Angers,Nantes,Home,0.6910555555555554
+Espanha - La Liga,12/12/2025,17:00,Sociedad,Girona,Home,0.6749023809523812
+Espanha - La Liga,13/12/2025,10:00,Ath Madrid,Valencia,Home,0.8255301587301589
+Turquia - Liga 1,13/12/2025,11:00,Kayserispor,Alanyaspor,Home,0.5078698412698411
+Itália - Serie A,13/12/2025,11:00,Torino,Cremonese,Away,0.6466666666666666
+Alemanha - Bundesliga 1,13/12/2025,11:30,Ein Frankfurt,Augsburg,Home,0.8575309523809524
+Alemanha - Bundesliga 1,13/12/2025,11:30,M'gladbach,Wolfsburg,Home,0.714119047619048
+Inglaterra - Premiere League,13/12/2025,12:00,Chelsea,Everton,Home,0.8147357142857142
+Inglaterra - Premiere League,13/12/2025,12:00,Liverpool,Brighton,Home,0.830623015873016
+Grecia,13/12/2025,12:00,Levadeiakos,Larisa,Home,0.8131023809523807
+Portugal - Liga 1,13/12/2025,12:30,Casa Pia,Gil Vicente,Away,0.6233333333333333
+Austria,13/12/2025,13:00,Grazer AK,LASK,Away,0.7066666666666667
+França - Primeira divisão,13/12/2025,13:00,Rennes,Brest,Home,0.8201341269841272
+Itália - Serie A,13/12/2025,14:00,Parma,Lazio,Away,0.6966666666666667
+Suíça,13/12/2025,14:00,Zurich,Winterthur,Home,0.6914015873015872
+Suíça,13/12/2025,14:00,Sion,Grasshoppers,Home,0.6285793650793651
+Espanha - La Liga,13/12/2025,14:30,Barcelona,Osasuna,Home,0.8190539682539686
+Alemanha - Bundesliga 1,13/12/2025,14:30,Leverkusen,FC Koln,Home,0.7913904761904763
+Holanda,13/12/2025,14:45,Groningen,Volendam,Home,0.7275055555555554
+França - Primeira divisão,13/12/2025,15:00,Metz,Paris SG,Away,0.8166666666666667
+Portugal - Liga 1,13/12/2025,15:00,Rio Ave,Guimaraes,Away,0.5433333333333333
+Romenia,13/12/2025,15:30,FC Rapid Bucuresti,Otelul,Home,0.7857619047619049
+Holanda,13/12/2025,16:00,PSV Eindhoven,Heracles,Home,0.8636801587301581
+Bélgica,13/12/2025,16:45,Anderlecht,St Truiden,Home,0.7059674603174604
+Inglaterra - Premiere League,13/12/2025,17:00,Arsenal,Wolves,Home,0.8891626984126987
+Portugal - Liga 1,13/12/2025,17:30,Sp Lisbon,AVS,Home,0.8535698412698411
+Itália - Serie A,14/12/2025,08:30,Milan,Sassuolo,Home,0.6892634920634926
+Suíça,14/12/2025,10:00,Young Boys,Luzern,Home,0.6794420634920634
+Austria,14/12/2025,10:30,Salzburg,Wolfsberger AC,Home,0.7396587301587304
+Polonia,14/12/2025,10:45,Rakow,Zaglebie,Home,0.7895452380952381
+França - Primeira divisão,14/12/2025,11:00,Lyon,Le Havre,Home,0.8342793650793652
+Escócia - Premiere League,14/12/2025,12:00,Aberdeen,Kilmarnock,Home,0.7114690476190477
+Bélgica,14/12/2025,12:00,Dender,Club Brugge,Away,0.6233333333333333
+Suíça,14/12/2025,12:30,Lugano,Servette,Home,0.7177611111111111
+Suíça,14/12/2025,12:30,Basel,Lausanne,Home,0.8247119047619049
+Grecia,14/12/2025,12:30,Panetolikos,AEK,Away,0.77
+Grecia,14/12/2025,13:00,Atromitos,PAOK,Away,0.7966666666666666
+França - Primeira divisão,14/12/2025,13:15,Auxerre,Lille,Away,0.5066666666666667
+França - Primeira divisão,14/12/2025,13:15,Lens,Nice,Home,0.7521222222222221
+Alemanha - Bundesliga 1,14/12/2025,13:30,Bayern Munich,Mainz,Home,0.9025420634920638
+Inglaterra - Premiere League,14/12/2025,13:30,Brentford,Leeds,Home,0.75935
+Itália - Serie A,14/12/2025,14:00,Genoa,Inter,Away,0.7433333333333333
+Espanha - La Liga,14/12/2025,14:30,Levante,Villarreal,Away,0.8
+Portugal - Liga 1,14/12/2025,15:00,Moreirense,Benfica,Away,0.7133333333333334
+Grecia,14/12/2025,15:00,Aris,Olympiakos,Away,0.66
+Grecia,14/12/2025,16:00,Panathinaikos,Volos NFC,Home,0.7727626984126982
+França - Primeira divisão,14/12/2025,16:45,Marseille,Monaco,Home,0.6593730158730163
+Espanha - La Liga,14/12/2025,17:00,Alaves,Real Madrid,Away,0.5833333333333334
+Romenia,15/12/2025,12:30,Farul Constanta,UTA Arad,Home,0.7997960317460319
+Turquia - Liga 1,15/12/2025,14:00,Fenerbahce,Konyaspor,Home,0.7558071428571429
+Portugal - Liga 1,15/12/2025,15:45,Sp Braga,Santa Clara,Home,0.8324111111111114
+Escócia - Premiere League,15/12/2025,16:45,Rangers,Hibernian,Home,0.786496031746032
+Inglaterra - Premiere League,15/12/2025,17:00,Man United,Bournemouth,Home,0.7648325396825397
+Portugal - Liga 1,15/12/2025,17:45,Porto,Estrela,Home,0.8010976190476191
