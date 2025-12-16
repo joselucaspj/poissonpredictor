@@ -1,5 +1,4 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Romenia,12/12/2025,15:30,CFR Cluj,Csikszereda M. Ciuc,Home,0.7578658730158728
 Alemanha - Bundesliga 1,12/12/2025,16:30,Union Berlin,RB Leipzig,Away,0.6533333333333333
 Espanha - La Liga,12/12/2025,17:00,Sociedad,Girona,Home,0.6597571428571429
 Espanha - La Liga,13/12/2025,10:00,Ath Madrid,Valencia,Home,0.8214253968253968
@@ -10,46 +9,39 @@ Inglaterra - Premiere League,13/12/2025,12:00,Chelsea,Everton,Home,0.81473571428
 Inglaterra - Premiere League,13/12/2025,12:00,Liverpool,Brighton,Home,0.830623015873016
 Grecia,13/12/2025,12:00,Levadeiakos,Larisa,Home,0.8393396825396825
 Portugal - Liga 1,13/12/2025,12:30,Casa Pia,Gil Vicente,Away,0.62
-Austria,13/12/2025,13:00,Grazer AK,LASK,Away,0.7066666666666667
 França - Primeira divisão,13/12/2025,13:00,Rennes,Brest,Home,0.8336484126984129
 Itália - Serie A,13/12/2025,14:00,Parma,Lazio,Away,0.69
-Suíça,13/12/2025,14:00,Zurich,Winterthur,Home,0.6914015873015872
-Suíça,13/12/2025,14:00,Sion,Grasshoppers,Home,0.6285793650793651
 Espanha - La Liga,13/12/2025,14:30,Barcelona,Osasuna,Home,0.8316587301587305
 Alemanha - Bundesliga 1,13/12/2025,14:30,Leverkusen,FC Koln,Home,0.8066928571428575
 Holanda,13/12/2025,14:45,Groningen,Volendam,Home,0.7303174603174604
 França - Primeira divisão,13/12/2025,15:00,Metz,Paris SG,Away,0.81
-Romenia,13/12/2025,15:30,FC Rapid Bucuresti,Otelul,Home,0.7857619047619049
 Holanda,13/12/2025,16:00,PSV Eindhoven,Heracles,Home,0.8619579365079358
 Bélgica,13/12/2025,16:45,Anderlecht,St Truiden,Home,0.7192801587301587
 Inglaterra - Premiere League,13/12/2025,17:00,Arsenal,Wolves,Home,0.8891626984126987
 Portugal - Liga 1,13/12/2025,17:30,Sp Lisbon,AVS,Home,0.8512809523809524
 Itália - Serie A,14/12/2025,08:30,Milan,Sassuolo,Home,0.6929039682539686
-Suíça,14/12/2025,10:00,Young Boys,Luzern,Home,0.6794420634920634
 Holanda,14/12/2025,10:30,Twente,Go Ahead Eagles,Home,0.8157119047619049
-Austria,14/12/2025,10:30,Salzburg,Wolfsberger AC,Home,0.7396587301587304
-Polonia,14/12/2025,10:45,Rakow,Zaglebie,Home,0.7895452380952381
 França - Primeira divisão,14/12/2025,11:00,Lyon,Le Havre,Home,0.8417039682539682
-Escócia - Premiere League,14/12/2025,12:00,Aberdeen,Kilmarnock,Home,0.7156587301587303
 Bélgica,14/12/2025,12:00,Dender,Club Brugge,Away,0.64
-Suíça,14/12/2025,12:30,Lugano,Servette,Home,0.7177611111111111
-Suíça,14/12/2025,12:30,Basel,Lausanne,Home,0.8247119047619049
+Escócia - Premiere League,14/12/2025,12:00,Aberdeen,Kilmarnock,Home,0.7156587301587303
 Grecia,14/12/2025,12:30,Panetolikos,AEK,Away,0.7466666666666667
 Grecia,14/12/2025,13:00,Atromitos,PAOK,Away,0.8
 França - Primeira divisão,14/12/2025,13:15,Lens,Nice,Home,0.7557269841269841
-Inglaterra - Premiere League,14/12/2025,13:30,Brentford,Leeds,Home,0.75935
 Alemanha - Bundesliga 1,14/12/2025,13:30,Bayern Munich,Mainz,Home,0.9007452380952385
+Inglaterra - Premiere League,14/12/2025,13:30,Brentford,Leeds,Home,0.75935
 Itália - Serie A,14/12/2025,14:00,Genoa,Inter,Away,0.7833333333333333
 Espanha - La Liga,14/12/2025,14:30,Levante,Villarreal,Away,0.8
-Portugal - Liga 1,14/12/2025,15:00,Moreirense,Benfica,Away,0.7433333333333333
 Grecia,14/12/2025,15:00,Aris,Olympiakos,Away,0.67
+Portugal - Liga 1,14/12/2025,15:00,Moreirense,Benfica,Away,0.7433333333333333
 Bélgica,14/12/2025,15:15,Genk,Westerlo,Home,0.8221753968253966
 Grecia,14/12/2025,16:00,Panathinaikos,Volos NFC,Home,0.7738388888888889
 França - Primeira divisão,14/12/2025,16:45,Marseille,Monaco,Home,0.6770880952380955
 Espanha - La Liga,14/12/2025,17:00,Alaves,Real Madrid,Away,0.6033333333333334
-Romenia,15/12/2025,12:30,Farul Constanta,UTA Arad,Home,0.7997960317460319
 Turquia - Liga 1,15/12/2025,14:00,Fenerbahce,Konyaspor,Home,0.7558071428571429
 Portugal - Liga 1,15/12/2025,15:45,Sp Braga,Santa Clara,Home,0.8324111111111114
 Escócia - Premiere League,15/12/2025,16:45,Rangers,Hibernian,Home,0.786496031746032
 Inglaterra - Premiere League,15/12/2025,17:00,Man United,Bournemouth,Home,0.7648325396825397
 Portugal - Liga 1,15/12/2025,17:45,Porto,Estrela,Home,0.8010976190476191
+Suíça,16/12/2025,16:30,St. Gallen,Sion,Home,0.7352880952380947
+Suíça,17/12/2025,16:30,Young Boys,Grasshoppers,Home,0.7523714285714287
+Suíça,17/12/2025,16:30,Zurich,Lugano,Home,0.6173103174603177
