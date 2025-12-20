@@ -1,5 +1,48 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Suíça,16/12/2025,16:30,St. Gallen,Sion,Home,0.7284404761904757
-Suíça,17/12/2025,16:30,Young Boys,Grasshoppers,Home,0.7419230158730157
-Suíça,17/12/2025,16:30,Zurich,Lugano,Home,0.6204841269841272
-Escócia - Premiere League,17/12/2025,17:00,Dundee United,Celtic,Away,0.7733333333333333
+Alemanha - Bundesliga 1,19/12/2025,16:30,Dortmund,M'gladbach,Home,0.6349079365079364
+Turquia - Liga 1,20/12/2025,08:30,Konyaspor,Kayserispor,Home,0.8140801587301588
+Grecia,20/12/2025,11:00,Asteras Tripolis,Aris,Home,0.7213722222222223
+Turquia - Liga 1,20/12/2025,11:00,Eyupspor,Fenerbahce,Away,0.72
+Alemanha - Bundesliga 1,20/12/2025,11:30,Augsburg,Werder Bremen,Away,0.5966666666666667
+Inglaterra - Premiere League,20/12/2025,12:00,Man City,West Ham,Home,0.8966436507936508
+Bélgica,20/12/2025,12:00,Dender,Standard,Away,0.62
+Romenia,20/12/2025,12:00,Otelul,FC Arges,Home,0.7389373015873013
+Suíça,20/12/2025,14:00,Thun,Zurich,Home,0.8322317460317463
+Itália - Serie A,20/12/2025,14:00,Lazio,Cremonese,Home,0.6918031746031746
+Turquia - Liga 1,20/12/2025,14:00,Besiktas,Rizespor,Home,0.7943706349206349
+Inglaterra - Premiere League,20/12/2025,14:30,Tottenham,Liverpool,Home,0.5920912698412699
+Alemanha - Bundesliga 1,20/12/2025,14:30,RB Leipzig,Leverkusen,Home,0.5921825396825393
+Holanda,20/12/2025,14:45,Excelsior,Zwolle,Home,0.7460095238095236
+Grecia,20/12/2025,15:30,Olympiakos,Kifisia,Home,0.7590896825396826
+Holanda,20/12/2025,16:00,Nijmegen,Ajax,Home,0.6976238095238098
+Suíça,20/12/2025,16:30,Basel,Servette,Home,0.7559119047619048
+Bélgica,20/12/2025,16:45,St. Gilloise,Waregem,Home,0.8008142857142861
+Inglaterra - Premiere League,20/12/2025,17:00,Leeds,Crystal Palace,Away,0.69
+Espanha - La Liga,20/12/2025,17:00,Real Madrid,Sevilla,Home,0.8734865079365076
+Holanda,21/12/2025,08:15,Utrecht,PSV Eindhoven,Away,0.5966666666666667
+Turquia - Liga 1,21/12/2025,08:30,Alanyaspor,Karagumruk,Home,0.7559309523809523
+Bélgica,21/12/2025,09:30,Club Brugge,Gent,Home,0.8163825396825396
+Suíça,21/12/2025,10:00,Lausanne,Luzern,Home,0.7779571428571429
+Escócia - Premiere League,21/12/2025,10:30,Hearts,Rangers,Away,0.6
+Itália - Serie A,21/12/2025,11:00,Sassuolo,Torino,Home,0.7322960317460321
+Alemanha - Bundesliga 1,21/12/2025,11:30,Mainz,St Pauli,Home,0.6475833333333334
+Escócia - Premiere League,21/12/2025,12:00,Celtic,Aberdeen,Home,0.6918936507936508
+Bélgica,21/12/2025,12:00,St Truiden,Mechelen,Home,0.6941063492063492
+Espanha - La Liga,21/12/2025,12:15,Villarreal,Barcelona,Home,0.6750166666666665
+Suíça,21/12/2025,12:30,Lugano,Young Boys,Home,0.5709682539682542
+Itália - Serie A,21/12/2025,14:00,Fiorentina,Udinese,Home,0.6848896825396829
+Turquia - Liga 1,21/12/2025,14:00,Galatasaray,Kasimpasa,Home,0.7741166666666671
+Grecia,21/12/2025,14:30,PAOK,Panathinaikos,Home,0.6294079365079368
+Espanha - La Liga,21/12/2025,14:30,Elche,Vallecano,Home,0.7054325396825395
+Romenia,21/12/2025,15:00,FCSB,FC Rapid Bucuresti,Home,0.79105873015873
+Portugal - Liga 1,21/12/2025,15:00,Tondela,Casa Pia,Away,0.6166666666666667
+Bélgica,21/12/2025,15:15,Oud-Heverlee Leuven,Cercle Brugge,Home,0.738357142857143
+Grecia,21/12/2025,16:00,AEK,OFI Crete,Home,0.8127642857142859
+Itália - Serie A,21/12/2025,16:45,Genoa,Atalanta,Home,0.6967841269841271
+Espanha - La Liga,21/12/2025,17:00,Betis,Getafe,Home,0.8057674603174604
+Portugal - Liga 1,21/12/2025,17:30,Santa Clara,Arouca,Home,0.7739547619047622
+Turquia - Liga 1,22/12/2025,11:00,Buyuksehyr,Gaziantep,Home,0.6683206349206352
+Grecia,22/12/2025,13:00,Panserraikos,Levadeiakos,Away,0.68
+Turquia - Liga 1,22/12/2025,14:00,Genclerbirligi,Trabzonspor,Away,0.7066666666666667
+Romenia,22/12/2025,15:00,Univ. Craiova,Csikszereda M. Ciuc,Home,0.8045619047619043
+Portugal - Liga 1,22/12/2025,17:45,Benfica,Famalicao,Home,0.8695452380952384
