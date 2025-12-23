@@ -5,9 +5,9 @@ Grecia,20/12/2025,11:00,Asteras Tripolis,Aris,Home,0.7400301587301589
 Turquia - Liga 1,20/12/2025,11:00,Eyupspor,Fenerbahce,Away,0.71
 Alemanha - Bundesliga 1,20/12/2025,11:30,Stuttgart,Hoffenheim,Home,0.7618142857142861
 Bélgica,20/12/2025,12:00,Dender,Standard,Away,0.6
-Romenia,20/12/2025,12:00,Otelul,FC Arges,Home,0.7389373015873013
+Romenia,20/12/2025,12:00,Otelul,FC Arges,Home,0.7506952380952379
 Inglaterra - Premiere League,20/12/2025,12:00,Man City,West Ham,Home,0.8966436507936508
-Suíça,20/12/2025,14:00,Thun,Zurich,Home,0.8322317460317463
+Suíça,20/12/2025,14:00,Thun,Zurich,Home,0.8349444444444448
 Turquia - Liga 1,20/12/2025,14:00,Besiktas,Rizespor,Home,0.8008547619047619
 Itália - Serie A,20/12/2025,14:00,Lazio,Cremonese,Home,0.6787619047619047
 Inglaterra - Premiere League,20/12/2025,14:30,Tottenham,Liverpool,Home,0.5920912698412699
@@ -15,21 +15,21 @@ Alemanha - Bundesliga 1,20/12/2025,14:30,RB Leipzig,Leverkusen,Home,0.5941126984
 Holanda,20/12/2025,14:45,Excelsior,Zwolle,Home,0.7267571428571428
 Grecia,20/12/2025,15:30,Olympiakos,Kifisia,Home,0.7547484126984129
 Holanda,20/12/2025,16:00,Nijmegen,Ajax,Home,0.7115944444444448
-Suíça,20/12/2025,16:30,Basel,Servette,Home,0.7559119047619048
+Suíça,20/12/2025,16:30,Basel,Servette,Home,0.7508174603174603
 Bélgica,20/12/2025,16:45,St. Gilloise,Waregem,Home,0.8229801587301591
 Espanha - La Liga,20/12/2025,17:00,Real Madrid,Sevilla,Home,0.8726603174603172
 Inglaterra - Premiere League,20/12/2025,17:00,Leeds,Crystal Palace,Away,0.69
 Holanda,21/12/2025,08:15,Utrecht,PSV Eindhoven,Away,0.5966666666666667
 Bélgica,21/12/2025,09:30,Club Brugge,Gent,Home,0.8061087301587301
 Espanha - La Liga,21/12/2025,10:00,Girona,Ath Madrid,Away,0.65
-Suíça,21/12/2025,10:00,Lausanne,Luzern,Home,0.7779571428571429
+Suíça,21/12/2025,10:00,Lausanne,Luzern,Home,0.7542928571428572
 Escócia - Premiere League,21/12/2025,10:30,Hearts,Rangers,Away,0.5933333333333334
 Itália - Serie A,21/12/2025,11:00,Sassuolo,Torino,Home,0.7193174603174606
 Alemanha - Bundesliga 1,21/12/2025,11:30,Mainz,St Pauli,Home,0.6337007936507938
 Escócia - Premiere League,21/12/2025,12:00,Celtic,Aberdeen,Home,0.6985984126984128
 Bélgica,21/12/2025,12:00,St Truiden,Mechelen,Home,0.7083166666666667
 Espanha - La Liga,21/12/2025,12:15,Villarreal,Barcelona,Home,0.6615023809523808
-Suíça,21/12/2025,12:30,Lugano,Young Boys,Home,0.5709682539682542
+Suíça,21/12/2025,12:30,Lugano,Young Boys,Home,0.5823103174603176
 Holanda,21/12/2025,12:45,Volendam,Sparta Rotterdam,Home,0.6718857142857141
 Turquia - Liga 1,21/12/2025,14:00,Galatasaray,Kasimpasa,Home,0.8201880952380954
 Itália - Serie A,21/12/2025,14:00,Fiorentina,Udinese,Home,0.7153761904761905
@@ -37,14 +37,14 @@ Espanha - La Liga,21/12/2025,14:30,Elche,Vallecano,Home,0.7490595238095237
 Grecia,21/12/2025,14:30,PAOK,Panathinaikos,Home,0.6330706349206354
 Bélgica,21/12/2025,14:30,Antwerp,Anderlecht,Home,0.7143976190476191
 Portugal - Liga 1,21/12/2025,15:00,Tondela,Casa Pia,Away,0.6133333333333333
-Romenia,21/12/2025,15:00,FCSB,FC Rapid Bucuresti,Home,0.79105873015873
+Romenia,21/12/2025,15:00,FCSB,FC Rapid Bucuresti,Home,0.7936793650793653
 Bélgica,21/12/2025,15:15,Oud-Heverlee Leuven,Cercle Brugge,Home,0.7429134920634921
 Grecia,21/12/2025,16:00,AEK,OFI Crete,Home,0.8243436507936511
 Itália - Serie A,21/12/2025,16:45,Genoa,Atalanta,Home,0.6899587301587302
 Espanha - La Liga,21/12/2025,17:00,Betis,Getafe,Home,0.8080158730158729
 Portugal - Liga 1,21/12/2025,17:30,Santa Clara,Arouca,Home,0.7758055555555559
-Turquia - Liga 1,22/12/2025,11:00,Buyuksehyr,Gaziantep,Home,0.6683206349206352
-Grecia,22/12/2025,13:00,Panserraikos,Levadeiakos,Away,0.68
-Turquia - Liga 1,22/12/2025,14:00,Genclerbirligi,Trabzonspor,Away,0.7066666666666667
-Romenia,22/12/2025,15:00,Univ. Craiova,Csikszereda M. Ciuc,Home,0.8045619047619043
-Portugal - Liga 1,22/12/2025,17:45,Benfica,Famalicao,Home,0.8695452380952384
+Turquia - Liga 1,22/12/2025,11:00,Buyuksehyr,Gaziantep,Home,0.6999492063492068
+Grecia,22/12/2025,13:00,Panserraikos,Levadeiakos,Away,0.6766666666666666
+Turquia - Liga 1,22/12/2025,14:00,Genclerbirligi,Trabzonspor,Away,0.7
+Romenia,22/12/2025,15:00,Univ. Craiova,Csikszereda M. Ciuc,Home,0.827051587301587
+Portugal - Liga 1,22/12/2025,17:45,Benfica,Famalicao,Home,0.88208253968254
