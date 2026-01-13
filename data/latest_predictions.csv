@@ -1,25 +1,11 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Itália - Serie A,10/01/2026,11:00,Como,Bologna,Home,0.7877658730158731
-Alemanha - Bundesliga 1,10/01/2026,11:30,Union Berlin,Mainz,Home,0.689957142857143
-Alemanha - Bundesliga 1,10/01/2026,11:30,St Pauli,RB Leipzig,Away,0.7066666666666667
-Escócia - Premiere League,10/01/2026,12:00,Celtic,Dundee United,Home,0.8385761904761904
-Escócia - Premiere League,10/01/2026,12:00,Hibernian,Motherwell,Home,0.7687515873015868
-Escócia - Premiere League,10/01/2026,12:00,Livingston,Kilmarnock,Home,0.6178761904761902
-Espanha - La Liga,10/01/2026,12:15,Villarreal,Alaves,Home,0.8915492063492064
-Itália - Serie A,10/01/2026,14:00,Roma,Sassuolo,Home,0.7769722222222223
-Alemanha - Bundesliga 1,10/01/2026,14:30,Leverkusen,Stuttgart,Home,0.7328230158730157
-Grecia,10/01/2026,14:30,Panetolikos,PAOK,Away,0.6766666666666666
-Holanda,10/01/2026,14:45,Twente,Zwolle,Home,0.8125595238095241
-Holanda,10/01/2026,16:00,PSV Eindhoven,Excelsior,Home,0.873985714285714
-Itália - Serie A,10/01/2026,16:45,Atalanta,Torino,Home,0.8226539682539682
-Espanha - La Liga,11/01/2026,10:00,Vallecano,Mallorca,Home,0.7425595238095238
-Holanda,11/01/2026,10:30,Go Ahead Eagles,For Sittard,Home,0.806062698412698
-Grecia,11/01/2026,11:00,Levadeiakos,Volos NFC,Home,0.8177984126984126
-Alemanha - Bundesliga 1,11/01/2026,11:30,M'gladbach,Augsburg,Home,0.7858365079365083
-Alemanha - Bundesliga 1,11/01/2026,13:30,Bayern Munich,Wolfsburg,Home,0.8082587301587302
-Escócia - Premiere League,11/01/2026,13:30,Aberdeen,Rangers,Away,0.7366666666666667
-Grecia,11/01/2026,14:30,Aris,AEK,Away,0.6733333333333333
-Grecia,11/01/2026,16:00,Panathinaikos,Panserraikos,Home,0.7434603174603177
-Itália - Serie A,11/01/2026,16:45,Inter,Napoli,Home,0.8241642857142858
-Itália - Serie A,12/01/2026,16:45,Juventus,Cremonese,Home,0.819504761904762
-Espanha - La Liga,12/01/2026,17:00,Sevilla,Celta,Away,0.5966666666666667
+Alemanha - Bundesliga 1,13/01/2026,14:30,Stuttgart,Ein Frankfurt,Home,0.741133333333333
+Alemanha - Bundesliga 1,13/01/2026,16:30,Dortmund,Werder Bremen,Home,0.7758380952380955
+Alemanha - Bundesliga 1,14/01/2026,14:30,Wolfsburg,St Pauli,Home,0.6718261904761902
+Itália - Serie A,14/01/2026,14:30,Napoli,Parma,Home,0.8056515873015871
+Alemanha - Bundesliga 1,14/01/2026,16:30,RB Leipzig,Freiburg,Home,0.8354888888888888
+Alemanha - Bundesliga 1,14/01/2026,16:30,FC Koln,Bayern Munich,Away,0.6533333333333333
+Itália - Serie A,14/01/2026,16:45,Inter,Lecce,Home,0.856145238095238
+Escócia - Premiere League,14/01/2026,16:45,Hearts,St Mirren,Home,0.7909634920634923
+Itália - Serie A,15/01/2026,14:30,Verona,Bologna,Home,0.6543071428571432
+Alemanha - Bundesliga 1,15/01/2026,16:30,Augsburg,Union Berlin,Home,0.632707142857143
