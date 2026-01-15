@@ -1,11 +1,12 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Alemanha - Bundesliga 1,13/01/2026,14:30,Stuttgart,Ein Frankfurt,Home,0.741133333333333
-Alemanha - Bundesliga 1,13/01/2026,16:30,Dortmund,Werder Bremen,Home,0.7758380952380955
-Alemanha - Bundesliga 1,14/01/2026,14:30,Wolfsburg,St Pauli,Home,0.6718261904761902
-Itália - Serie A,14/01/2026,14:30,Napoli,Parma,Home,0.8056515873015871
-Alemanha - Bundesliga 1,14/01/2026,16:30,RB Leipzig,Freiburg,Home,0.8354888888888888
-Alemanha - Bundesliga 1,14/01/2026,16:30,FC Koln,Bayern Munich,Away,0.6533333333333333
-Itália - Serie A,14/01/2026,16:45,Inter,Lecce,Home,0.856145238095238
-Escócia - Premiere League,14/01/2026,16:45,Hearts,St Mirren,Home,0.7909634920634923
+Alemanha - Bundesliga 1,13/01/2026,14:30,Stuttgart,Ein Frankfurt,Home,0.7468119047619044
+Alemanha - Bundesliga 1,13/01/2026,16:30,Dortmund,Werder Bremen,Home,0.7878238095238098
+Alemanha - Bundesliga 1,14/01/2026,14:30,Wolfsburg,St Pauli,Home,0.6734531746031743
+Itália - Serie A,14/01/2026,14:30,Napoli,Parma,Home,0.8022444444444444
+Alemanha - Bundesliga 1,14/01/2026,16:30,Hoffenheim,M'gladbach,Home,0.6406555555555553
+Alemanha - Bundesliga 1,14/01/2026,16:30,RB Leipzig,Freiburg,Home,0.8364515873015871
+Alemanha - Bundesliga 1,14/01/2026,16:30,FC Koln,Bayern Munich,Away,0.67
+Itália - Serie A,14/01/2026,16:45,Inter,Lecce,Home,0.8636468253968254
+Escócia - Premiere League,14/01/2026,16:45,Hearts,St Mirren,Home,0.7913515873015875
 Itália - Serie A,15/01/2026,14:30,Verona,Bologna,Home,0.6543071428571432
 Alemanha - Bundesliga 1,15/01/2026,16:30,Augsburg,Union Berlin,Home,0.632707142857143
