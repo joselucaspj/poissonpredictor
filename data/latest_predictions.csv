@@ -1,12 +1,56 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Alemanha - Bundesliga 1,13/01/2026,14:30,Stuttgart,Ein Frankfurt,Home,0.7468119047619044
-Alemanha - Bundesliga 1,13/01/2026,16:30,Dortmund,Werder Bremen,Home,0.7878238095238098
-Alemanha - Bundesliga 1,14/01/2026,14:30,Wolfsburg,St Pauli,Home,0.6734531746031743
-Itália - Serie A,14/01/2026,14:30,Napoli,Parma,Home,0.8022444444444444
-Alemanha - Bundesliga 1,14/01/2026,16:30,Hoffenheim,M'gladbach,Home,0.6406555555555553
-Alemanha - Bundesliga 1,14/01/2026,16:30,RB Leipzig,Freiburg,Home,0.8364515873015871
-Alemanha - Bundesliga 1,14/01/2026,16:30,FC Koln,Bayern Munich,Away,0.67
-Itália - Serie A,14/01/2026,16:45,Inter,Lecce,Home,0.8636468253968254
-Escócia - Premiere League,14/01/2026,16:45,Hearts,St Mirren,Home,0.7913515873015875
-Itália - Serie A,15/01/2026,14:30,Verona,Bologna,Home,0.6543071428571432
-Alemanha - Bundesliga 1,15/01/2026,16:30,Augsburg,Union Berlin,Home,0.632707142857143
+Alemanha - Bundesliga 1,16/01/2026,16:30,Werder Bremen,Ein Frankfurt,Away,0.6366666666666667
+França - Primeira divisão,16/01/2026,17:00,Paris SG,Lille,Home,0.7204944444444444
+Portugal - Liga 1,16/01/2026,17:15,Sp Lisbon,Casa Pia,Home,0.8475888888888886
+Inglaterra - Premiere League,17/01/2026,09:30,Man United,Man City,Away,0.6133333333333333
+Espanha - La Liga,17/01/2026,10:00,Real Madrid,Levante,Home,0.8584992063492066
+Turquia - Liga 1,17/01/2026,11:00,Buyuksehyr,Karagumruk,Home,0.8530634920634923
+Itália - Serie A,17/01/2026,11:00,Udinese,Inter,Away,0.7766666666666666
+Alemanha - Bundesliga 1,17/01/2026,11:30,FC Koln,Mainz,Home,0.5738809523809526
+Alemanha - Bundesliga 1,17/01/2026,11:30,Dortmund,St Pauli,Home,0.7079404761904764
+Inglaterra - Premiere League,17/01/2026,12:00,Chelsea,Brentford,Home,0.8710992063492067
+Inglaterra - Premiere League,17/01/2026,12:00,Liverpool,Burnley,Home,0.7238698412698412
+Inglaterra - Premiere League,17/01/2026,12:00,Tottenham,West Ham,Home,0.8082253968253968
+Inglaterra - Premiere League,17/01/2026,12:00,Leeds,Fulham,Away,0.5566666666666666
+Romenia,17/01/2026,12:15,Farul Constanta,FC Hermannstadt,Home,0.7770253968253968
+Holanda,17/01/2026,12:30,Ajax,Go Ahead Eagles,Home,0.8285317460317462
+França - Primeira divisão,17/01/2026,13:00,Lens,Auxerre,Home,0.7823674603174604
+Itália - Serie A,17/01/2026,14:00,Napoli,Sassuolo,Home,0.7692499999999998
+Turquia - Liga 1,17/01/2026,14:00,Galatasaray,Gaziantep,Home,0.8663484126984127
+Bélgica,17/01/2026,14:15,Westerlo,Cercle Brugge,Home,0.704514285714286
+Inglaterra - Premiere League,17/01/2026,14:30,Nott'm Forest,Arsenal,Away,0.7366666666666667
+Holanda,17/01/2026,16:00,For Sittard,PSV Eindhoven,Away,0.7766666666666666
+Bélgica,17/01/2026,16:45,St. Gilloise,Mechelen,Home,0.695384126984127
+Itália - Serie A,17/01/2026,16:45,Cagliari,Juventus,Away,0.84
+Holanda,17/01/2026,17:00,NAC Breda,Nijmegen,Away,0.6333333333333333
+Portugal - Liga 1,17/01/2026,17:30,Rio Ave,Benfica,Away,0.6766666666666666
+Bélgica,18/01/2026,09:30,Gent,Anderlecht,Home,0.6543785714285716
+Suíça,18/01/2026,10:00,Servette,Zurich,Home,0.7148230158730157
+Holanda,18/01/2026,10:30,Heracles,Twente,Away,0.7633333333333333
+Inglaterra - Premiere League,18/01/2026,11:00,Wolves,Newcastle,Away,0.8366666666666667
+França - Primeira divisão,18/01/2026,11:00,Strasbourg,Metz,Home,0.709842063492063
+Turquia - Liga 1,18/01/2026,11:00,Genclerbirligi,Samsunspor,Home,0.7308515873015872
+Alemanha - Bundesliga 1,18/01/2026,11:30,Stuttgart,Union Berlin,Home,0.6700269841269838
+Espanha - La Liga,18/01/2026,12:15,Ath Madrid,Alaves,Home,0.8199452380952381
+Portugal - Liga 1,18/01/2026,12:30,Santa Clara,Famalicao,Away,0.6
+Suíça,18/01/2026,12:30,Basel,Sion,Home,0.7657595238095242
+Suíça,18/01/2026,12:30,Grasshoppers,Thun,Away,0.6066666666666667
+Holanda,18/01/2026,12:45,Feyenoord,Sparta Rotterdam,Home,0.8087563492063491
+Romenia,18/01/2026,12:45,CFR Cluj,Otelul,Home,0.7776253968253969
+França - Primeira divisão,18/01/2026,13:15,Rennes,Le Havre,Home,0.7222182539682543
+Inglaterra - Premiere League,18/01/2026,13:30,Aston Villa,Everton,Home,0.7271222222222221
+Grecia,18/01/2026,14:00,PAOK,OFI Crete,Home,0.7378484126984123
+Itália - Serie A,18/01/2026,14:00,Torino,Roma,Away,0.71
+Bélgica,18/01/2026,14:30,Charleroi,Standard,Home,0.6349523809523809
+Espanha - La Liga,18/01/2026,14:30,Celta,Vallecano,Home,0.8112642857142859
+Portugal - Liga 1,18/01/2026,15:00,Tondela,Sp Braga,Away,0.8133333333333334
+Bélgica,18/01/2026,15:15,St Truiden,Oud-Heverlee Leuven,Home,0.7535761904761906
+Grecia,18/01/2026,16:00,AEK,Panathinaikos,Home,0.7011873015873014
+França - Primeira divisão,18/01/2026,16:45,Lyon,Brest,Home,0.6736452380952381
+Itália - Serie A,18/01/2026,16:45,Milan,Lecce,Home,0.8120388888888889
+Espanha - La Liga,18/01/2026,17:00,Sociedad,Barcelona,Away,0.6533333333333333
+Turquia - Liga 1,19/01/2026,11:00,Konyaspor,Eyupspor,Home,0.7705626984126979
+Grecia,19/01/2026,13:00,Panetolikos,Levadeiakos,Away,0.6766666666666666
+Turquia - Liga 1,19/01/2026,14:00,Besiktas,Kayserispor,Home,0.8525753968253973
+Romenia,19/01/2026,15:00,Petrolul,Univ. Craiova,Away,0.73
+Espanha - La Liga,19/01/2026,17:00,Elche,Sevilla,Home,0.7940214285714287
