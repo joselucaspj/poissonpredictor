@@ -1,7 +1,11 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Argentina,27/01/2026,22:15,Atl. Tucuman,Central Cordoba,Home,0.7249984126984126
-Brasil,28/01/2026,19:30,Fluminense,Gremio,Home,0.7640968253968258
-Brasil,28/01/2026,20:00,Corinthians,Bahia,Home,0.6855261904761902
-Argentina,28/01/2026,22:15,Estudiantes L.P.,Boca Juniors,Home,0.5884055555555554
-Argentina,29/01/2026,19:15,Lanus,Union de Santa Fe,Home,0.7752095238095238
-Brasil,29/01/2026,21:30,Botafogo RJ,Cruzeiro,Home,0.7182380952380951
+Polonia,30/01/2026,16:30,Radomiak Radom,Arka Gdynia,Home,0.7925007936507938
+Suíça,31/01/2026,14:00,Winterthur,Lausanne,Away,0.5433333333333333
+Polonia,31/01/2026,16:15,Lech Poznan,Lechia Gdansk,Home,0.6975230158730159
+Argentina,31/01/2026,17:30,San Lorenzo,Central Cordoba,Home,0.6918849206349207
+Argentina,31/01/2026,19:45,Independiente,Velez Sarsfield,Home,0.7101523809523805
+Argentina,31/01/2026,22:00,Talleres Cordoba,Platense,Home,0.7606809523809527
+Suíça,01/02/2026,12:30,Young Boys,Zurich,Home,0.6377349206349208
+Polonia,01/02/2026,13:30,Legia,Korona Kielce,Home,0.7622865079365079
+Romenia,01/02/2026,15:00,FCSB,Csikszereda M. Ciuc,Home,0.7497698412698411
+Argentina,02/02/2026,22:00,Argentinos Jrs,Belgrano,Home,0.8191317460317464
