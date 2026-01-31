@@ -1,11 +1,50 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
+Turquia - Liga 1,30/01/2026,14:00,Antalyaspor,Trabzonspor,Away,0.79
 Polonia,30/01/2026,16:30,Radomiak Radom,Arka Gdynia,Home,0.7925007936507938
+França - Primeira divisão,30/01/2026,16:45,Lens,Le Havre,Home,0.8370968253968254
+Turquia - Liga 1,31/01/2026,08:30,Alanyaspor,Eyupspor,Home,0.8635706349206349
+Turquia - Liga 1,31/01/2026,11:00,Buyuksehyr,Rizespor,Home,0.7810476190476192
+Alemanha - Bundesliga 1,31/01/2026,11:30,Hoffenheim,Union Berlin,Home,0.800638095238095
+Alemanha - Bundesliga 1,31/01/2026,11:30,Ein Frankfurt,Leverkusen,Home,0.6089365079365079
+Alemanha - Bundesliga 1,31/01/2026,11:30,Werder Bremen,M'gladbach,Home,0.7280976190476189
+Alemanha - Bundesliga 1,31/01/2026,11:30,RB Leipzig,Mainz,Home,0.7545698412698408
+Inglaterra - Premiere League,31/01/2026,12:00,Wolves,Bournemouth,Home,0.7191888888888889
+Escócia - Premiere League,31/01/2026,12:00,Livingston,Motherwell,Away,0.6833333333333333
+Inglaterra - Premiere League,31/01/2026,12:00,Leeds,Arsenal,Away,0.6766666666666666
+Holanda,31/01/2026,12:30,AZ Alkmaar,Nijmegen,Away,0.5733333333333334
 Suíça,31/01/2026,14:00,Winterthur,Lausanne,Away,0.5433333333333333
+Turquia - Liga 1,31/01/2026,14:00,Goztep,Karagumruk,Home,0.8384095238095239
+Turquia - Liga 1,31/01/2026,14:00,Besiktas,Konyaspor,Home,0.8116904761904764
+Inglaterra - Premiere League,31/01/2026,14:30,Chelsea,West Ham,Home,0.8719460317460317
+Portugal - Liga 1,31/01/2026,15:00,Rio Ave,Arouca,Home,0.6900777777777781
+França - Primeira divisão,31/01/2026,15:00,Lorient,Nantes,Home,0.750540476190476
 Polonia,31/01/2026,16:15,Lech Poznan,Lechia Gdansk,Home,0.6975230158730159
+Escócia - Premiere League,31/01/2026,17:00,Dundee United,Hearts,Away,0.6766666666666666
 Argentina,31/01/2026,17:30,San Lorenzo,Central Cordoba,Home,0.6918849206349207
 Argentina,31/01/2026,19:45,Independiente,Velez Sarsfield,Home,0.7101523809523805
 Argentina,31/01/2026,22:00,Talleres Cordoba,Platense,Home,0.7606809523809527
+Holanda,01/02/2026,08:15,Excelsior,Ajax,Away,0.7866666666666666
+Espanha - La Liga,01/02/2026,10:00,Real Madrid,Vallecano,Home,0.8623174603174604
+Holanda,01/02/2026,10:30,PSV Eindhoven,Feyenoord,Home,0.7229841269841266
+Turquia - Liga 1,01/02/2026,11:00,Genclerbirligi,Gaziantep,Home,0.7387674603174603
+Grecia,01/02/2026,11:00,Levadeiakos,Asteras Tripolis,Home,0.7683277777777777
+Inglaterra - Premiere League,01/02/2026,11:00,Man United,Fulham,Home,0.7885595238095237
+França - Primeira divisão,01/02/2026,11:00,Lyon,Lille,Home,0.6756634920634921
+Inglaterra - Premiere League,01/02/2026,11:00,Nott'm Forest,Crystal Palace,Away,0.7433333333333333
+Alemanha - Bundesliga 1,01/02/2026,11:30,Stuttgart,Freiburg,Home,0.637163492063492
+Espanha - La Liga,01/02/2026,12:15,Betis,Valencia,Home,0.8327079365079362
 Suíça,01/02/2026,12:30,Young Boys,Zurich,Home,0.6377349206349208
+Grecia,01/02/2026,12:30,Panathinaikos,Kifisia,Home,0.7735095238095236
+Holanda,01/02/2026,12:45,Heerenveen,Utrecht,Home,0.71614126984127
+França - Primeira divisão,01/02/2026,13:15,Toulouse,Auxerre,Home,0.8044079365079366
+Alemanha - Bundesliga 1,01/02/2026,13:30,Dortmund,Heidenheim,Home,0.8268468253968255
 Polonia,01/02/2026,13:30,Legia,Korona Kielce,Home,0.7622865079365079
+Turquia - Liga 1,01/02/2026,14:00,Galatasaray,Kayserispor,Home,0.8186817460317461
+Itália - Serie A,01/02/2026,14:00,Cremonese,Inter,Away,0.7166666666666667
+Grecia,01/02/2026,14:30,PAOK,Panserraikos,Home,0.6337928571428567
+Portugal - Liga 1,01/02/2026,15:00,Sp Lisbon,Nacional,Home,0.8693992063492064
 Romenia,01/02/2026,15:00,FCSB,Csikszereda M. Ciuc,Home,0.7497698412698411
+Portugal - Liga 1,01/02/2026,17:30,Tondela,Benfica,Away,0.8
+Portugal - Liga 1,02/02/2026,15:45,AVS,Sp Braga,Away,0.66
+Portugal - Liga 1,02/02/2026,17:45,Casa Pia,Porto,Away,0.7866666666666666
 Argentina,02/02/2026,22:00,Argentinos Jrs,Belgrano,Home,0.8191317460317464
