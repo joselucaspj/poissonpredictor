@@ -1,9 +1,12 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
 Romenia,03/02/2026,13:00,U. Cluj,FC Arges,Home,0.8189476190476191
 Polonia,03/02/2026,16:30,Piast Gliwice,Lech Poznan,Home,0.6791523809523806
+Itália - Serie A,03/02/2026,16:45,Bologna,Milan,Away,0.7133333333333334
+Escócia - Premiere League,03/02/2026,17:00,St Mirren,Hearts,Away,0.7033333333333334
+Grecia,04/02/2026,13:30,Asteras Tripolis,Olympiakos,Away,0.68
 Romenia,04/02/2026,15:30,Farul Constanta,Din. Bucuresti,Home,0.8062095238095236
-Escócia - Premiere League,04/02/2026,16:45,Hibernian,Dundee United,Home,0.7665246031746029
-Escócia - Premiere League,04/02/2026,16:45,Rangers,Kilmarnock,Home,0.7952277777777774
+Escócia - Premiere League,04/02/2026,16:45,Hibernian,Dundee United,Home,0.8357031746031746
+Escócia - Premiere League,04/02/2026,16:45,Rangers,Kilmarnock,Home,0.873384126984127
 Escócia - Premiere League,04/02/2026,16:45,Dundee,Motherwell,Away,0.72
 Brasil,04/02/2026,19:00,Flamengo RJ,Internacional,Home,0.790509523809524
 Brasil,04/02/2026,21:30,Gremio,Botafogo RJ,Home,0.655792857142857
