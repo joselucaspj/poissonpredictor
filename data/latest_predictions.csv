@@ -1,6 +1,7 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
 Inglaterra - Premiere League,10/02/2026,16:30,Chelsea,Leeds,Home,0.9086317460317462
-Escócia - Premiere League,10/02/2026,17:00,Hearts,Hibernian,Home,0.7293682539682542
+Escócia - Premiere League,10/02/2026,17:00,Hearts,Hibernian,Home,0.7303253968253971
+Holanda,11/02/2026,14:45,Go Ahead Eagles,Heerenveen,Home,0.7335722222222217
 Inglaterra - Premiere League,11/02/2026,16:30,Aston Villa,Brighton,Home,0.7283761904761905
 Inglaterra - Premiere League,11/02/2026,16:30,Crystal Palace,Burnley,Home,0.777538095238095
 Inglaterra - Premiere League,11/02/2026,16:30,Man City,Fulham,Home,0.8362214285714284
@@ -8,8 +9,8 @@ Inglaterra - Premiere League,11/02/2026,16:30,Nott'm Forest,Wolves,Home,0.768576
 Suíça,11/02/2026,16:30,Zurich,Winterthur,Home,0.6382047619047618
 Suíça,11/02/2026,16:30,St. Gallen,Young Boys,Home,0.7442476190476186
 Suíça,11/02/2026,16:30,Lugano,Servette,Home,0.7987603174603174
-Escócia - Premiere League,11/02/2026,16:45,Celtic,Livingston,Home,0.7510880952380953
-Holanda,11/02/2026,17:00,Nijmegen,Utrecht,Home,0.9002698412698413
+Escócia - Premiere League,11/02/2026,16:45,Celtic,Livingston,Home,0.7832428571428574
+Holanda,11/02/2026,17:00,Nijmegen,Utrecht,Home,0.8252222222222225
 Brasil,11/02/2026,21:30,Vasco,Bahia,Home,0.7465801587301586
 Suíça,12/02/2026,16:30,Thun,Lausanne,Home,0.7272396825396824
 Suíça,12/02/2026,16:30,Sion,Basel,Away,0.6233333333333333
