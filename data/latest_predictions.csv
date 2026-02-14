@@ -1,17 +1,18 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Suíça,11/02/2026,16:30,Zurich,Winterthur,Home,0.6382047619047618
-Suíça,11/02/2026,16:30,St. Gallen,Young Boys,Home,0.7442476190476186
-Suíça,11/02/2026,16:30,Lugano,Servette,Home,0.7987603174603174
-Brasil,11/02/2026,21:30,Vasco,Bahia,Home,0.7465801587301586
-Suíça,12/02/2026,16:30,Thun,Lausanne,Home,0.7272396825396824
-Suíça,12/02/2026,16:30,Sion,Basel,Away,0.6233333333333333
+Suíça,10/02/2026,16:30,Luzern,Grasshoppers,Home,0.6769301587301589
+Brasil,10/02/2026,21:30,Vitoria,Flamengo RJ,Away,0.7366666666666667
+Suíça,11/02/2026,16:30,Lugano,Servette,Home,0.7631761904761907
+Suíça,11/02/2026,16:30,Zurich,Winterthur,Home,0.6824547619047617
+Brasil,11/02/2026,19:00,Chapecoense-SC,Coritiba,Home,0.7095230158730158
+Brasil,11/02/2026,21:30,Vasco,Bahia,Home,0.7688642857142858
+Suíça,12/02/2026,16:30,Thun,Lausanne,Home,0.7538325396825397
 Inglaterra - Premiere League,12/02/2026,17:00,Brentford,Arsenal,Away,0.6866666666666666
-Brasil,12/02/2026,19:00,Athletico-PR,Santos,Away,0.5966666666666667
-Brasil,12/02/2026,19:30,Fluminense,Botafogo RJ,Home,0.8071976190476192
-Turquia - Liga 1,13/02/2026,14:00,Galatasaray,Eyupspor,Home,0.866615873015873
+Brasil,12/02/2026,19:30,Fluminense,Botafogo RJ,Home,0.8135920634920637
+Brasil,12/02/2026,21:30,Internacional,Palmeiras,Away,0.6233333333333333
 Polonia,13/02/2026,14:00,Radomiak Radom,Korona Kielce,Home,0.6186801587301585
-França - Primeira divisão,13/02/2026,15:00,Rennes,Paris SG,Away,0.7166666666666667
+Turquia - Liga 1,13/02/2026,14:00,Galatasaray,Eyupspor,Home,0.866615873015873
 Dinamarca,13/02/2026,15:00,Randers FC,Vejle,Home,0.7288746031746032
+França - Primeira divisão,13/02/2026,15:00,Rennes,Paris SG,Away,0.7166666666666667
 Portugal - Liga 1,13/02/2026,15:30,Santa Clara,Benfica,Away,0.8333333333333334
 Holanda,13/02/2026,16:00,Volendam,PSV Eindhoven,Away,0.8366666666666667
 Alemanha - Bundesliga 1,13/02/2026,16:30,Dortmund,Mainz,Home,0.7840896825396826
@@ -25,40 +26,38 @@ Alemanha - Bundesliga 1,14/02/2026,11:30,Hoffenheim,Freiburg,Home,0.721668253968
 Alemanha - Bundesliga 1,14/02/2026,11:30,Leverkusen,St Pauli,Home,0.7015650793650796
 Alemanha - Bundesliga 1,14/02/2026,11:30,Ein Frankfurt,M'gladbach,Home,0.6062896825396825
 Alemanha - Bundesliga 1,14/02/2026,11:30,Werder Bremen,Bayern Munich,Away,0.69
-Bélgica,14/02/2026,12:00,Oud-Heverlee Leuven,Dender,Home,0.6752507936507937
 Escócia - Premiere League,14/02/2026,12:00,Hibernian,St Mirren,Home,0.7958976190476187
+Bélgica,14/02/2026,12:00,Oud-Heverlee Leuven,Dender,Home,0.6752507936507937
 Espanha - La Liga,14/02/2026,12:15,Getafe,Villarreal,Away,0.6666666666666666
 Holanda,14/02/2026,12:30,Heracles,NAC Breda,Home,0.5130309523809523
 França - Primeira divisão,14/02/2026,13:00,Marseille,Strasbourg,Home,0.7172388888888892
 Itália - Serie A,14/02/2026,14:00,Lazio,Atalanta,Away,0.6433333333333333
-Suíça,14/02/2026,14:00,St. Gallen,Grasshoppers,Home,0.740961111111111
-Suíça,14/02/2026,14:00,Zurich,Luzern,Home,0.6315746031746036
 Turquia - Liga 1,14/02/2026,14:00,Trabzonspor,Fenerbahce,Home,0.6458642857142856
 Romenia,14/02/2026,14:00,U. Cluj,Csikszereda M. Ciuc,Home,0.727420634920635
-Alemanha - Bundesliga 1,14/02/2026,14:30,Stuttgart,FC Koln,Home,0.8480547619047621
+Suíça,14/02/2026,14:00,St. Gallen,Grasshoppers,Home,0.718249206349206
+Suíça,14/02/2026,14:00,Zurich,Luzern,Home,0.690336507936508
 Espanha - La Liga,14/02/2026,14:30,Sevilla,Alaves,Home,0.7427087301587298
+Alemanha - Bundesliga 1,14/02/2026,14:30,Stuttgart,FC Koln,Home,0.8480547619047621
 Holanda,14/02/2026,14:45,Excelsior,AZ Alkmaar,Away,0.6766666666666666
 Portugal - Liga 1,14/02/2026,15:00,Guimaraes,Estrela,Home,0.7832055555555558
 Holanda,14/02/2026,16:00,Ajax,For Sittard,Home,0.821839682539683
 Polonia,14/02/2026,16:15,Wisla Plock,Widzew Lodz,Home,0.7037777777777776
-Suíça,14/02/2026,16:30,Young Boys,Winterthur,Home,0.7720904761904759
 Espanha - La Liga,14/02/2026,17:00,Real Madrid,Sociedad,Home,0.8112634920634919
 Portugal - Liga 1,14/02/2026,17:30,Gil Vicente,Sp Braga,Away,0.6466666666666666
 Argentina,14/02/2026,19:45,Huracan,Sarmiento Junin,Home,0.6995023809523808
 Polonia,15/02/2026,08:15,Motor Lublin,Lechia Gdansk,Home,0.5164960317460318
 Holanda,15/02/2026,08:15,Feyenoord,Go Ahead Eagles,Home,0.7618238095238097
 Itália - Serie A,15/02/2026,08:30,Udinese,Sassuolo,Home,0.6615880952380954
-Suíça,15/02/2026,10:00,Thun,Sion,Home,0.8056047619047615
+Suíça,15/02/2026,10:00,Thun,Sion,Home,0.7700246031746034
 Austria,15/02/2026,10:30,Grazer AK,Salzburg,Away,0.8033333333333333
 Polonia,15/02/2026,10:45,Pogon Szczecin,Arka Gdynia,Home,0.7553428571428568
-Turquia - Liga 1,15/02/2026,11:00,Goztep,Kayserispor,Home,0.6669976190476188
 Escócia - Premiere League,15/02/2026,11:00,Kilmarnock,Celtic,Away,0.6066666666666667
+Turquia - Liga 1,15/02/2026,11:00,Goztep,Kayserispor,Home,0.6669976190476188
 Escócia - Premiere League,15/02/2026,11:30,Motherwell,Aberdeen,Home,0.7018119047619046
-Bélgica,15/02/2026,12:00,Antwerp,Westerlo,Home,0.7898388888888892
 Dinamarca,15/02/2026,12:00,Odense,Midtjylland,Away,0.68
-Suíça,15/02/2026,12:30,Lausanne,Servette,Home,0.5786857142857142
+Bélgica,15/02/2026,12:00,Antwerp,Westerlo,Home,0.7898388888888892
+Suíça,15/02/2026,12:30,Basel,Lugano,Home,0.6776492063492062
 Portugal - Liga 1,15/02/2026,12:30,Nacional,Porto,Away,0.7533333333333333
-Suíça,15/02/2026,12:30,Basel,Lugano,Home,0.5969484126984128
 Austria,15/02/2026,13:00,Austria Vienna,SK Rapid,Home,0.7269499999999997
 França - Primeira divisão,15/02/2026,13:15,Lorient,Angers,Home,0.6486198412698408
 Alemanha - Bundesliga 1,15/02/2026,13:30,RB Leipzig,Wolfsburg,Home,0.7866825396825396
@@ -67,8 +66,8 @@ Grecia,15/02/2026,16:00,Panathinaikos,Larisa,Home,0.7114246031746034
 França - Primeira divisão,15/02/2026,16:45,Lyon,Nice,Home,0.7678055555555554
 Portugal - Liga 1,15/02/2026,17:30,Sp Lisbon,Famalicao,Home,0.8371039682539687
 Argentina,15/02/2026,19:30,Boca Juniors,Platense,Home,0.7591785714285718
-Argentina,15/02/2026,22:00,Instituto,Central Cordoba,Home,0.7565103174603174
 Argentina,15/02/2026,22:00,Rosario Central,Barracas Central,Home,0.8096936507936507
+Argentina,15/02/2026,22:00,Instituto,Central Cordoba,Home,0.7565103174603174
 Grecia,16/02/2026,13:00,Atromitos,Panserraikos,Home,0.6962396825396826
 Turquia - Liga 1,16/02/2026,14:00,Kasimpasa,Karagumruk,Home,0.7880674603174602
 Romenia,16/02/2026,15:00,Din. Bucuresti,Unirea Slobozia,Home,0.80304126984127
