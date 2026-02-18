@@ -1,35 +1,5 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Suíça,10/02/2026,16:30,Luzern,Grasshoppers,Home,0.6769301587301589
-Brasil,10/02/2026,21:30,Vitoria,Flamengo RJ,Away,0.7366666666666667
-Suíça,11/02/2026,16:30,Lugano,Servette,Home,0.7631761904761907
-Suíça,11/02/2026,16:30,Zurich,Winterthur,Home,0.6824547619047617
-Brasil,11/02/2026,19:00,Chapecoense-SC,Coritiba,Home,0.7095230158730158
-Brasil,11/02/2026,21:30,Vasco,Bahia,Home,0.7688642857142858
-Suíça,12/02/2026,16:30,Thun,Lausanne,Home,0.7538325396825397
-Brasil,12/02/2026,19:30,Fluminense,Botafogo RJ,Home,0.8135920634920637
-Brasil,12/02/2026,21:30,Internacional,Palmeiras,Away,0.6233333333333333
-Polonia,13/02/2026,14:00,Radomiak Radom,Korona Kielce,Home,0.6186801587301585
-Dinamarca,13/02/2026,15:00,Randers FC,Vejle,Home,0.7288746031746032
-Irlanda,13/02/2026,16:45,St. Patricks,Galway,Home,0.7385992063492067
-Irlanda,13/02/2026,16:45,Derry City,Dundalk,Home,0.7508674603174601
-Irlanda,13/02/2026,17:00,Shelbourne,Shamrock Rovers,Home,0.7300253968253966
-Argentina,13/02/2026,20:00,Independiente,Lanus,Home,0.7733690476190478
-Romenia,14/02/2026,14:00,U. Cluj,Csikszereda M. Ciuc,Home,0.727420634920635
-Suíça,14/02/2026,14:00,St. Gallen,Grasshoppers,Home,0.718249206349206
-Suíça,14/02/2026,14:00,Zurich,Luzern,Home,0.690336507936508
-Polonia,14/02/2026,16:15,Wisla Plock,Widzew Lodz,Home,0.7037777777777776
-Argentina,14/02/2026,19:45,Huracan,Sarmiento Junin,Home,0.6995023809523808
-Polonia,15/02/2026,08:15,Motor Lublin,Lechia Gdansk,Home,0.5164960317460318
-Suíça,15/02/2026,10:00,Thun,Sion,Home,0.7700246031746034
-Austria,15/02/2026,10:30,Grazer AK,Salzburg,Away,0.8033333333333333
-Polonia,15/02/2026,10:45,Pogon Szczecin,Arka Gdynia,Home,0.7553428571428568
-Dinamarca,15/02/2026,12:00,Odense,Midtjylland,Away,0.68
-Suíça,15/02/2026,12:30,Basel,Lugano,Home,0.6776492063492062
-Austria,15/02/2026,13:00,Austria Vienna,SK Rapid,Home,0.7269499999999997
-Argentina,15/02/2026,19:30,Boca Juniors,Platense,Home,0.7591785714285718
-Argentina,15/02/2026,22:00,Rosario Central,Barracas Central,Home,0.8096936507936507
-Argentina,15/02/2026,22:00,Instituto,Central Cordoba,Home,0.7565103174603174
-Romenia,16/02/2026,15:00,Din. Bucuresti,Unirea Slobozia,Home,0.80304126984127
+Suíça,18/02/2026,15:00,Winterthur,St. Gallen,Away,0.5733333333333334
 Espanha - La Liga,18/02/2026,16:00,Levante,Villarreal,Away,0.7333333333333333
 Itália - Serie A,18/02/2026,16:45,Milan,Como,Home,0.6928912698412696
 Inglaterra - Premiere League,18/02/2026,17:00,Wolves,Arsenal,Away,0.7766666666666666
