@@ -1,5 +1,38 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Suíça,18/02/2026,15:00,Winterthur,St. Gallen,Away,0.5733333333333334
 Espanha - La Liga,18/02/2026,16:00,Levante,Villarreal,Away,0.7533333333333333
 Itália - Serie A,18/02/2026,16:45,Milan,Como,Home,0.69030873015873
 Inglaterra - Premiere League,18/02/2026,17:00,Wolves,Arsenal,Away,0.7766666666666666
+Romenia,20/02/2026,12:00,Otelul,UTA Arad,Home,0.6853698412698412
+Polonia,20/02/2026,14:00,Piast Gliwice,Motor Lublin,Home,0.7522730158730159
+Romenia,20/02/2026,15:00,FC Botosani,U. Cluj,Away,0.63
+Dinamarca,20/02/2026,15:00,Nordsjaelland,Vejle,Home,0.6966753968253973
+Polonia,20/02/2026,16:30,Widzew Lodz,Cracovia,Away,0.67
+Irlanda,20/02/2026,16:45,Derry City,Bohemians,Home,0.6661611111111111
+Irlanda,20/02/2026,16:45,Shelbourne,Galway,Home,0.7760658730158729
+Irlanda,20/02/2026,17:00,Shamrock Rovers,St. Patricks,Away,0.5566666666666666
+Argentina,20/02/2026,17:15,Defensa y Justicia,Belgrano,Home,0.6709912698412696
+Argentina,20/02/2026,17:45,Estudiantes L.P.,Sarmiento Junin,Home,0.8320134920634923
+Romenia,21/02/2026,13:00,CFR Cluj,Petrolul,Home,0.8795031746031746
+Suíça,21/02/2026,14:00,Winterthur,Thun,Away,0.6533333333333333
+Polonia,21/02/2026,16:30,Legia,Wisla Plock,Home,0.6804690476190476
+Suíça,21/02/2026,16:30,Grasshoppers,Zurich,Home,0.667359523809524
+Argentina,21/02/2026,19:15,Banfield,Newells Old Boys,Home,0.7834420634920638
+EUA,21/02/2026,21:30,Vancouver Whitecaps,Real Salt Lake,Home,0.7572150793650795
+EUA,21/02/2026,21:30,Orlando City,New York Red Bulls,Home,0.7116650793650796
+EUA,21/02/2026,21:30,DC United,Philadelphia Union,Away,0.68
+EUA,21/02/2026,22:30,FC Dallas,Toronto FC,Home,0.7102753968253971
+EUA,21/02/2026,22:30,Nashville SC,New England Revolution,Home,0.7477634920634921
+EUA,21/02/2026,23:30,Los Angeles FC,Inter Miami,Home,0.663724603174603
+EUA,22/02/2026,00:30,San Diego FC,CF Montreal,Home,0.6782380952380952
+Austria,22/02/2026,10:30,Sturm Graz,BW Linz,Home,0.7592928571428572
+Polonia,22/02/2026,10:45,Jagiellonia,Radomiak Radom,Home,0.6977730158730157
+Dinamarca,22/02/2026,12:00,Silkeborg,Midtjylland,Away,0.56
+Suíça,22/02/2026,12:30,Lugano,Lausanne,Home,0.773434920634921
+Dinamarca,22/02/2026,14:00,Aarhus,Viborg,Home,0.7519706349206349
+Romenia,22/02/2026,15:00,Unirea Slobozia,Univ. Craiova,Away,0.67
+Argentina,22/02/2026,19:15,Velez Sarsfield,River Plate,Home,0.8079539682539684
+Argentina,22/02/2026,21:30,Union de Santa Fe,Aldosivi,Home,0.678346031746032
+EUA,22/02/2026,23:15,Seattle Sounders,Colorado Rapids,Home,0.7003849206349207
+Romenia,23/02/2026,12:00,Csikszereda M. Ciuc,FC Hermannstadt,Home,0.7383658730158731
+Polonia,23/02/2026,15:00,Lechia Gdansk,Zaglebie,Home,0.7699158730158729
+Dinamarca,23/02/2026,15:00,Brondby,Sonderjyske,Home,0.6953357142857146
