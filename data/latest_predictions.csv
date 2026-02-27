@@ -1,9 +1,35 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
 Escócia - Premiere League,24/02/2026,16:45,Dundee United,Aberdeen,Home,0.5165428571428571
-Suíça,25/02/2026,15:00,Winterthur,Thun,Away,0.6533333333333333
-Brasil,25/02/2026,19:00,Bragantino,Athletico-PR,Home,0.8062388888888891
-Argentina,25/02/2026,19:30,Velez Sarsfield,Dep. Riestra,Home,0.8676992063492065
-Brasil,25/02/2026,21:30,Palmeiras,Fluminense,Home,0.806600793650794
-Argentina,26/02/2026,17:15,Racing Club,Ind. Rivadavia,Home,0.7612182539682537
-Brasil,26/02/2026,19:00,Santos,Vasco,Home,0.7370222222222224
-Argentina,26/02/2026,19:30,River Plate,Banfield,Home,0.7337277777777779
+Russia,27/02/2026,13:30,Zenit,Baltika,Home,0.7971023809523814
+Romenia,27/02/2026,15:00,U. Cluj,Otelul,Home,0.7410079365079366
+Irlanda,27/02/2026,16:45,Derry City,Waterford,Home,0.745885714285714
+Irlanda,27/02/2026,17:00,Bohemians,Shamrock Rovers,Home,0.6955547619047622
+Russia,28/02/2026,08:30,Krasnodar,FK Rostov,Home,0.7013928571428574
+Polonia,28/02/2026,10:45,Pogon Szczecin,Widzew Lodz,Home,0.7884103174603179
+Russia,28/02/2026,11:00,Lokomotiv Moscow,Pari NN,Home,0.8579658730158731
+Suíça,28/02/2026,14:00,St. Gallen,Winterthur,Home,0.8584420634920633
+Suíça,28/02/2026,16:30,Servette,Sion,Home,0.7502317460317459
+EUA,28/02/2026,16:30,New York Red Bulls,New England Revolution,Home,0.7430658730158733
+EUA,28/02/2026,16:30,Chicago Fire,CF Montreal,Home,0.7241984126984129
+EUA,28/02/2026,18:30,Minnesota United,FC Cincinnati,Home,0.7187253968253969
+Argentina,28/02/2026,20:00,Independiente,Central Cordoba,Home,0.7775555555555556
+EUA,28/02/2026,21:30,San Jose Earthquakes,Atlanta Utd,Home,0.7354515873015873
+Argentina,28/02/2026,22:15,Talleres Cordoba,San Lorenzo,Home,0.752080952380952
+EUA,28/02/2026,22:30,FC Dallas,Nashville SC,Home,0.6935587301587305
+EUA,28/02/2026,23:30,Vancouver Whitecaps,Toronto FC,Home,0.8691341269841271
+Russia,01/03/2026,07:00,Dynamo Moscow,Krylya Sovetov,Home,0.7224309523809523
+Polonia,01/03/2026,08:15,Termalica B-B.,Radomiak Radom,Home,0.5901071428571432
+Polonia,01/03/2026,10:45,Jagiellonia,Legia,Home,0.7855309523809522
+Suíça,01/03/2026,12:30,Young Boys,Zurich,Home,0.6590714285714285
+Dinamarca,01/03/2026,13:00,Vejle,Aarhus,Away,0.7333333333333333
+Austria,01/03/2026,13:00,Salzburg,Hartberg,Home,0.7393253968253968
+Dinamarca,01/03/2026,13:00,Midtjylland,Brondby,Home,0.8227563492063493
+Austria,01/03/2026,13:00,Austria Vienna,LASK,Home,0.6514896825396823
+Romenia,01/03/2026,16:00,UTA Arad,FCSB,Away,0.62
+Argentina,01/03/2026,19:15,Argentinos Jrs,Barracas Central,Home,0.7855642857142858
+EUA,01/03/2026,21:00,Orlando City,Inter Miami,Away,0.5466666666666666
+EUA,01/03/2026,23:15,San Diego FC,St. Louis City,Home,0.7590587301587305
+Romenia,02/03/2026,14:30,Unirea Slobozia,FC Rapid Bucuresti,Away,0.7066666666666667
+Polonia,02/03/2026,15:00,Zaglebie,Wisla Plock,Home,0.6104976190476192
+Argentina,02/03/2026,21:30,Ind. Rivadavia,River Plate,Away,0.66
+Argentina,03/03/2026,19:15,Huracan,Belgrano,Home,0.7531238095238092
