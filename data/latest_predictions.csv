@@ -1,16 +1,42 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Escócia - Premiere League,24/02/2026,16:45,Dundee United,Aberdeen,Home,0.5165428571428571
 Russia,27/02/2026,13:30,Zenit,Baltika,Home,0.7971023809523814
+Turquia - Liga 1,27/02/2026,14:00,Buyuksehyr,Konyaspor,Home,0.7949865079365085
+Turquia - Liga 1,27/02/2026,14:00,Trabzonspor,Karagumruk,Home,0.8834484126984128
 Romenia,27/02/2026,15:00,U. Cluj,Otelul,Home,0.7410079365079366
+Portugal - Liga 1,27/02/2026,15:45,Porto,Arouca,Home,0.7516357142857142
 Irlanda,27/02/2026,16:45,Derry City,Waterford,Home,0.745885714285714
+França - Primeira divisão,27/02/2026,16:45,Strasbourg,Lens,Home,0.6042134920634927
 Irlanda,27/02/2026,17:00,Bohemians,Shamrock Rovers,Home,0.6955547619047622
+Portugal - Liga 1,27/02/2026,17:45,Sp Lisbon,Estoril,Home,0.8239785714285718
 Russia,28/02/2026,08:30,Krasnodar,FK Rostov,Home,0.7013928571428574
+Espanha - La Liga,28/02/2026,10:00,Vallecano,Ath Bilbao,Home,0.5009492063492063
 Polonia,28/02/2026,10:45,Pogon Szczecin,Widzew Lodz,Home,0.7884103174603179
 Russia,28/02/2026,11:00,Lokomotiv Moscow,Pari NN,Home,0.8579658730158731
+Itália - Serie A,28/02/2026,11:00,Como,Lecce,Home,0.8198611111111112
+Alemanha - Bundesliga 1,28/02/2026,11:30,Leverkusen,Mainz,Home,0.8344920634920637
+Alemanha - Bundesliga 1,28/02/2026,11:30,Hoffenheim,St Pauli,Home,0.8263865079365081
+Escócia - Premiere League,28/02/2026,12:00,Hearts,Aberdeen,Home,0.8154277777777783
+Escócia - Premiere League,28/02/2026,12:00,Motherwell,Dundee United,Home,0.8505111111111112
+Inglaterra - Premiere League,28/02/2026,12:00,Newcastle,Everton,Home,0.7954468253968258
+Escócia - Premiere League,28/02/2026,12:00,Dundee,Hibernian,Away,0.6966666666666667
+Inglaterra - Premiere League,28/02/2026,12:00,Liverpool,West Ham,Home,0.888810317460317
+Espanha - La Liga,28/02/2026,12:15,Barcelona,Villarreal,Home,0.7909428571428576
+França - Primeira divisão,28/02/2026,13:00,Rennes,Toulouse,Home,0.7366793650793648
+Turquia - Liga 1,28/02/2026,14:00,Goztep,Eyupspor,Home,0.6310380952380956
+Turquia - Liga 1,28/02/2026,14:00,Galatasaray,Alanyaspor,Home,0.8542079365079365
 Suíça,28/02/2026,14:00,St. Gallen,Winterthur,Home,0.8584420634920633
+Itália - Serie A,28/02/2026,14:00,Verona,Napoli,Away,0.56
+Inglaterra - Premiere League,28/02/2026,14:30,Leeds,Man City,Away,0.8133333333333334
+Holanda,28/02/2026,14:45,Heracles,PSV Eindhoven,Away,0.7833333333333333
+Portugal - Liga 1,28/02/2026,15:00,Nacional,Sp Braga,Away,0.7633333333333333
+França - Primeira divisão,28/02/2026,15:00,Monaco,Angers,Home,0.7079674603174602
 Suíça,28/02/2026,16:30,Servette,Sion,Home,0.7502317460317459
 EUA,28/02/2026,16:30,New York Red Bulls,New England Revolution,Home,0.7430658730158733
 EUA,28/02/2026,16:30,Chicago Fire,CF Montreal,Home,0.7241984126984129
+Itália - Serie A,28/02/2026,16:45,Inter,Genoa,Home,0.8528753968253966
+Bélgica,28/02/2026,16:45,Anderlecht,Oud-Heverlee Leuven,Home,0.7613103174603172
+Holanda,28/02/2026,17:00,Nijmegen,For Sittard,Home,0.8075222222222223
+França - Primeira divisão,28/02/2026,17:05,Le Havre,Paris SG,Away,0.7366666666666667
 EUA,28/02/2026,18:30,Minnesota United,FC Cincinnati,Home,0.7187253968253969
 Argentina,28/02/2026,20:00,Independiente,Central Cordoba,Home,0.7775555555555556
 EUA,28/02/2026,21:30,San Jose Earthquakes,Atlanta Utd,Home,0.7354515873015873
@@ -18,18 +44,39 @@ Argentina,28/02/2026,22:15,Talleres Cordoba,San Lorenzo,Home,0.752080952380952
 EUA,28/02/2026,22:30,FC Dallas,Nashville SC,Home,0.6935587301587305
 EUA,28/02/2026,23:30,Vancouver Whitecaps,Toronto FC,Home,0.8691341269841271
 Russia,01/03/2026,07:00,Dynamo Moscow,Krylya Sovetov,Home,0.7224309523809523
+Holanda,01/03/2026,08:15,Zwolle,Ajax,Away,0.7
 Polonia,01/03/2026,08:15,Termalica B-B.,Radomiak Radom,Home,0.5901071428571432
+Turquia - Liga 1,01/03/2026,10:00,Genclerbirligi,Kayserispor,Home,0.7329055555555557
 Polonia,01/03/2026,10:45,Jagiellonia,Legia,Home,0.7855309523809522
+Grecia,01/03/2026,11:00,Panserraikos,Olympiakos,Away,0.7466666666666667
+Itália - Serie A,01/03/2026,11:00,Sassuolo,Atalanta,Away,0.6633333333333333
+Alemanha - Bundesliga 1,01/03/2026,11:30,Stuttgart,Wolfsburg,Home,0.8155365079365078
+Espanha - La Liga,01/03/2026,12:15,Valencia,Osasuna,Away,0.5566666666666666
+Portugal - Liga 1,01/03/2026,12:30,Tondela,Santa Clara,Away,0.55
 Suíça,01/03/2026,12:30,Young Boys,Zurich,Home,0.6590714285714285
+Grecia,01/03/2026,12:30,Volos NFC,AEK,Away,0.7366666666666667
+Holanda,01/03/2026,12:45,Utrecht,AZ Alkmaar,Home,0.6681007936507934
 Dinamarca,01/03/2026,13:00,Vejle,Aarhus,Away,0.7333333333333333
-Austria,01/03/2026,13:00,Salzburg,Hartberg,Home,0.7393253968253968
 Dinamarca,01/03/2026,13:00,Midtjylland,Brondby,Home,0.8227563492063493
+Austria,01/03/2026,13:00,Salzburg,Hartberg,Home,0.7393253968253968
 Austria,01/03/2026,13:00,Austria Vienna,LASK,Home,0.6514896825396823
+França - Primeira divisão,01/03/2026,13:15,Lorient,Auxerre,Home,0.7763063492063493
+França - Primeira divisão,01/03/2026,13:15,Lille,Nantes,Home,0.6920658730158732
+Alemanha - Bundesliga 1,01/03/2026,13:30,Ein Frankfurt,Freiburg,Home,0.798824603174603
+Grecia,01/03/2026,14:00,PAOK,Asteras Tripolis,Home,0.8140873015873016
+Turquia - Liga 1,01/03/2026,14:00,Antalyaspor,Fenerbahce,Away,0.77
+Espanha - La Liga,01/03/2026,14:30,Betis,Sevilla,Home,0.8716579365079364
+Bélgica,01/03/2026,14:30,Charleroi,Club Brugge,Away,0.6966666666666667
+Grecia,01/03/2026,15:00,Panathinaikos,Aris,Home,0.8165841269841273
 Romenia,01/03/2026,16:00,UTA Arad,FCSB,Away,0.62
+Holanda,01/03/2026,16:00,Excelsior,Go Ahead Eagles,Home,0.7444150793650796
+Portugal - Liga 1,01/03/2026,17:30,Rio Ave,Famalicao,Home,0.6421539682539683
 Argentina,01/03/2026,19:15,Argentinos Jrs,Barracas Central,Home,0.7855642857142858
 EUA,01/03/2026,21:00,Orlando City,Inter Miami,Away,0.5466666666666666
 EUA,01/03/2026,23:15,San Diego FC,St. Louis City,Home,0.7590587301587305
 Romenia,02/03/2026,14:30,Unirea Slobozia,FC Rapid Bucuresti,Away,0.7066666666666667
 Polonia,02/03/2026,15:00,Zaglebie,Wisla Plock,Home,0.6104976190476192
+Espanha - La Liga,02/03/2026,17:00,Real Madrid,Getafe,Home,0.8278261904761907
+Portugal - Liga 1,02/03/2026,17:15,Gil Vicente,Benfica,Away,0.7066666666666667
 Argentina,02/03/2026,21:30,Ind. Rivadavia,River Plate,Away,0.66
 Argentina,03/03/2026,19:15,Huracan,Belgrano,Home,0.7531238095238092
