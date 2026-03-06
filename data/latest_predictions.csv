@@ -1,15 +1,37 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Suíça,03/03/2026,16:30,Winterthur,Servette,Away,0.74
 Inglaterra - Premiere League,03/03/2026,17:15,Wolves,Liverpool,Away,0.66
-Argentina,03/03/2026,19:15,Huracan,Belgrano,Home,0.7531238095238092
 Grecia,04/03/2026,13:00,Panathinaikos,OFI Crete,Home,0.7787341269841269
-Inglaterra - Premiere League,04/03/2026,16:30,Fulham,West Ham,Home,0.748085714285714
 Inglaterra - Premiere League,04/03/2026,16:30,Man City,Nott'm Forest,Home,0.883457142857143
-Suíça,04/03/2026,16:30,Lugano,Sion,Home,0.7462658730158728
-Suíça,04/03/2026,16:30,Zurich,Lausanne,Home,0.6347571428571427
 Inglaterra - Premiere League,04/03/2026,16:30,Aston Villa,Chelsea,Away,0.7133333333333334
 Inglaterra - Premiere League,04/03/2026,16:30,Brighton,Arsenal,Away,0.82
+Inglaterra - Premiere League,04/03/2026,16:30,Fulham,West Ham,Home,0.748085714285714
 Escócia - Premiere League,04/03/2026,17:00,Aberdeen,Celtic,Away,0.65
 Inglaterra - Premiere League,04/03/2026,17:15,Newcastle,Man United,Home,0.6831738095238095
-Polonia,05/03/2026,16:30,Radomiak Radom,Arka Gdynia,Home,0.8383650793650794
 Inglaterra - Premiere League,05/03/2026,17:00,Tottenham,Crystal Palace,Away,0.6633333333333333
+China,06/03/2026,08:35,Chengdu Rongcheng,Shenzhen Xinpengcheng,Home,0.7373293650793646
+Irlanda,06/03/2026,17:00,Shamrock Rovers,Derry City,Home,0.7422007936507937
+China,07/03/2026,06:00,Shanghai Shenhua,Dalian Yingbo,Home,0.8144373015873014
+China,07/03/2026,08:35,Shanghai Port,Henan Songshan Longmen,Home,0.7888309523809529
+China,07/03/2026,08:35,Yunnan Yukun,Qingdao Hainiu,Home,0.6787349206349202
+Romenia,07/03/2026,12:00,FC Botosani,Petrolul,Home,0.7535476190476189
+Polonia,07/03/2026,13:30,Piast Gliwice,Zaglebie,Home,0.7509793650793649
+Polonia,07/03/2026,16:15,Widzew Lodz,Lech Poznan,Away,0.8133333333333334
+EUA,07/03/2026,16:30,New York City,Orlando City,Home,0.7673452380952379
+Suíça,07/03/2026,16:30,Lugano,Luzern,Home,0.7285087301587301
+EUA,07/03/2026,18:30,DC United,Inter Miami,Away,0.7333333333333333
+EUA,07/03/2026,21:30,Philadelphia Union,San Jose Earthquakes,Home,0.7171984126984131
+EUA,07/03/2026,21:30,Atlanta Utd,Real Salt Lake,Home,0.7987785714285714
+EUA,07/03/2026,21:30,Charlotte,Austin FC,Home,0.7158253968253969
+EUA,07/03/2026,21:30,Columbus Crew,Chicago Fire,Home,0.7015761904761905
+EUA,07/03/2026,22:30,Nashville SC,Minnesota United,Home,0.7644603174603175
+EUA,07/03/2026,22:30,Sporting Kansas City,San Diego FC,Away,0.7333333333333333
+EUA,08/03/2026,00:30,Los Angeles FC,FC Dallas,Home,0.7574333333333333
+China,08/03/2026,08:00,Wuhan Three Towns,Beijing Guoan,Away,0.6133333333333333
+Romenia,08/03/2026,09:30,Otelul,FC Hermannstadt,Home,0.697138095238095
+Suíça,08/03/2026,10:00,St. Gallen,Basel,Home,0.7220650793650796
+Austria,08/03/2026,13:00,Ried,Austria Vienna,Away,0.7333333333333333
+Austria,08/03/2026,13:00,SK Rapid,Salzburg,Away,0.58
+Polonia,08/03/2026,16:15,Legia,Cracovia,Home,0.7254817460317464
+EUA,08/03/2026,17:30,New York Red Bulls,CF Montreal,Home,0.7251063492063491
+Polonia,09/03/2026,15:00,Wisla Plock,Arka Gdynia,Home,0.6985301587301588
+Irlanda,09/03/2026,16:45,Shelbourne,Shamrock Rovers,Home,0.7150801587301587
