@@ -1,37 +1,62 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Inglaterra - Premiere League,03/03/2026,17:15,Wolves,Liverpool,Away,0.66
-Grecia,04/03/2026,13:00,Panathinaikos,OFI Crete,Home,0.7787341269841269
-Inglaterra - Premiere League,04/03/2026,16:30,Man City,Nott'm Forest,Home,0.883457142857143
-Inglaterra - Premiere League,04/03/2026,16:30,Aston Villa,Chelsea,Away,0.7133333333333334
-Inglaterra - Premiere League,04/03/2026,16:30,Brighton,Arsenal,Away,0.82
-Inglaterra - Premiere League,04/03/2026,16:30,Fulham,West Ham,Home,0.748085714285714
-Escócia - Premiere League,04/03/2026,17:00,Aberdeen,Celtic,Away,0.65
-Inglaterra - Premiere League,04/03/2026,17:15,Newcastle,Man United,Home,0.6831738095238095
-Inglaterra - Premiere League,05/03/2026,17:00,Tottenham,Crystal Palace,Away,0.6633333333333333
 China,06/03/2026,08:35,Chengdu Rongcheng,Shenzhen Xinpengcheng,Home,0.7373293650793646
+Alemanha - Bundesliga 1,06/03/2026,16:30,Bayern Munich,M'gladbach,Home,0.9084142857142858
+Itália - Serie A,06/03/2026,16:45,Napoli,Torino,Home,0.821764285714286
+Espanha - La Liga,06/03/2026,17:00,Celta,Real Madrid,Away,0.6033333333333334
 Irlanda,06/03/2026,17:00,Shamrock Rovers,Derry City,Home,0.7422007936507937
+Portugal - Liga 1,06/03/2026,17:15,Famalicao,Arouca,Home,0.7314150793650795
 China,07/03/2026,06:00,Shanghai Shenhua,Dalian Yingbo,Home,0.8144373015873014
-China,07/03/2026,08:35,Shanghai Port,Henan Songshan Longmen,Home,0.7888309523809529
 China,07/03/2026,08:35,Yunnan Yukun,Qingdao Hainiu,Home,0.6787349206349202
+China,07/03/2026,08:35,Shanghai Port,Henan Songshan Longmen,Home,0.7888309523809529
+Espanha - La Liga,07/03/2026,10:00,Osasuna,Mallorca,Home,0.7378809523809525
+Turquia - Liga 1,07/03/2026,10:00,Buyuksehyr,Goztep,Home,0.8335055555555556
+Alemanha - Bundesliga 1,07/03/2026,11:30,Mainz,Stuttgart,Away,0.6533333333333333
+Alemanha - Bundesliga 1,07/03/2026,11:30,RB Leipzig,Augsburg,Home,0.7002404761904765
 Romenia,07/03/2026,12:00,FC Botosani,Petrolul,Home,0.7535476190476189
+Grecia,07/03/2026,12:00,Aris,Atromitos,Home,0.7225547619047621
+Holanda,07/03/2026,12:30,Groningen,Ajax,Away,0.6766666666666666
+Portugal - Liga 1,07/03/2026,12:30,Moreirense,Nacional,Home,0.7924119047619047
+Grecia,07/03/2026,13:00,AEK,Larisa,Home,0.8431579365079369
 Polonia,07/03/2026,13:30,Piast Gliwice,Zaglebie,Home,0.7509793650793649
+Itália - Serie A,07/03/2026,14:00,Atalanta,Udinese,Home,0.820255555555556
+Bélgica,07/03/2026,14:15,Dender,Charleroi,Home,0.5928373015873013
+Alemanha - Bundesliga 1,07/03/2026,14:30,FC Koln,Dortmund,Away,0.81
+Holanda,07/03/2026,16:00,PSV Eindhoven,AZ Alkmaar,Home,0.7773523809523813
 Polonia,07/03/2026,16:15,Widzew Lodz,Lech Poznan,Away,0.8133333333333334
 EUA,07/03/2026,16:30,New York City,Orlando City,Home,0.7673452380952379
 Suíça,07/03/2026,16:30,Lugano,Luzern,Home,0.7285087301587301
 EUA,07/03/2026,18:30,DC United,Inter Miami,Away,0.7333333333333333
-EUA,07/03/2026,21:30,Philadelphia Union,San Jose Earthquakes,Home,0.7171984126984131
 EUA,07/03/2026,21:30,Atlanta Utd,Real Salt Lake,Home,0.7987785714285714
 EUA,07/03/2026,21:30,Charlotte,Austin FC,Home,0.7158253968253969
+EUA,07/03/2026,21:30,Philadelphia Union,San Jose Earthquakes,Home,0.7171984126984131
 EUA,07/03/2026,21:30,Columbus Crew,Chicago Fire,Home,0.7015761904761905
-EUA,07/03/2026,22:30,Nashville SC,Minnesota United,Home,0.7644603174603175
 EUA,07/03/2026,22:30,Sporting Kansas City,San Diego FC,Away,0.7333333333333333
+EUA,07/03/2026,22:30,Nashville SC,Minnesota United,Home,0.7644603174603175
 EUA,08/03/2026,00:30,Los Angeles FC,FC Dallas,Home,0.7574333333333333
 China,08/03/2026,08:00,Wuhan Three Towns,Beijing Guoan,Away,0.6133333333333333
+Itália - Serie A,08/03/2026,08:30,Lecce,Cremonese,Home,0.6616523809523808
 Romenia,08/03/2026,09:30,Otelul,FC Hermannstadt,Home,0.697138095238095
 Suíça,08/03/2026,10:00,St. Gallen,Basel,Home,0.7220650793650796
-Austria,08/03/2026,13:00,Ried,Austria Vienna,Away,0.7333333333333333
+Espanha - La Liga,08/03/2026,10:00,Villarreal,Elche,Home,0.7719944444444448
+Turquia - Liga 1,08/03/2026,10:00,Konyaspor,Kasimpasa,Home,0.7768714285714289
+Itália - Serie A,08/03/2026,11:00,Fiorentina,Parma,Home,0.6565515873015872
+Itália - Serie A,08/03/2026,11:00,Bologna,Verona,Home,0.8069722222222224
+França - Primeira divisão,08/03/2026,11:00,Lens,Metz,Home,0.7807301587301588
+Bélgica,08/03/2026,12:00,Gent,Mechelen,Home,0.686392857142857
 Austria,08/03/2026,13:00,SK Rapid,Salzburg,Away,0.58
+Austria,08/03/2026,13:00,Ried,Austria Vienna,Away,0.7333333333333333
+França - Primeira divisão,08/03/2026,13:15,Lille,Lorient,Home,0.671715079365079
+França - Primeira divisão,08/03/2026,13:15,Brest,Le Havre,Home,0.8015253968253967
+França - Primeira divisão,08/03/2026,13:15,Nice,Rennes,Home,0.7679611111111107
+Turquia - Liga 1,08/03/2026,14:00,Fenerbahce,Samsunspor,Home,0.785227777777778
+Itália - Serie A,08/03/2026,14:00,Genoa,Roma,Away,0.7533333333333333
+Espanha - La Liga,08/03/2026,14:30,Sevilla,Vallecano,Home,0.7295007936507936
+Bélgica,08/03/2026,15:15,St Truiden,Cercle Brugge,Home,0.7005047619047619
+Grecia,08/03/2026,16:00,Olympiakos,PAOK,Home,0.7179039682539684
+Holanda,08/03/2026,16:00,Nijmegen,Volendam,Home,0.7356666666666667
 Polonia,08/03/2026,16:15,Legia,Cracovia,Home,0.7254817460317464
 EUA,08/03/2026,17:30,New York Red Bulls,CF Montreal,Home,0.7251063492063491
+Turquia - Liga 1,09/03/2026,14:00,Kayserispor,Trabzonspor,Away,0.7266666666666667
 Polonia,09/03/2026,15:00,Wisla Plock,Arka Gdynia,Home,0.6985301587301588
 Irlanda,09/03/2026,16:45,Shelbourne,Shamrock Rovers,Home,0.7150801587301587
+Portugal - Liga 1,09/03/2026,17:15,Tondela,Rio Ave,Home,0.7291293650793652
