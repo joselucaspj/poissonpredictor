@@ -1,13 +1,43 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Argentina,10/03/2026,19:45,Independiente,Union de Santa Fe,Home,0.6513222222222222
-Argentina,11/03/2026,17:30,Argentinos Jrs,Rosario Central,Home,0.7405603174603175
-Brasil,11/03/2026,20:00,Bahia,Vitoria,Home,0.7910539682539679
-Brasil,11/03/2026,21:30,Corinthians,Coritiba,Home,0.7857380952380953
-Brasil,11/03/2026,21:30,Flamengo RJ,Cruzeiro,Home,0.7404142857142859
-Argentina,11/03/2026,22:00,Atl. Tucuman,Aldosivi,Home,0.6677182539682542
-Argentina,12/03/2026,17:00,Defensa y Justicia,Central Cordoba,Home,0.6442087301587301
-Argentina,12/03/2026,19:15,Talleres Cordoba,Instituto,Home,0.7376920634920634
-Brasil,12/03/2026,19:30,Vasco,Palmeiras,Away,0.74
-Brasil,12/03/2026,20:00,Sao Paulo,Chapecoense-SC,Home,0.8471992063492061
-Argentina,12/03/2026,21:30,Huracan,River Plate,Home,0.6772690476190478
-Brasil,12/03/2026,21:30,Gremio,Bragantino,Home,0.8752341269841271
+China,13/03/2026,08:35,Wuhan Three Towns,Dalian Yingbo,Home,0.7824571428571427
+Austria,13/03/2026,15:30,LASK,Hartberg,Home,0.6443976190476193
+Romenia,13/03/2026,15:30,Univ. Craiova,FC Arges,Home,0.8313166666666665
+Irlanda,13/03/2026,16:45,St. Patricks,Drogheda,Home,0.7929833333333335
+Irlanda,13/03/2026,16:45,Dundalk,Waterford,Home,0.7011484126984129
+Irlanda,13/03/2026,16:45,Bohemians,Galway,Home,0.7738492063492064
+Russia,14/03/2026,07:45,Sochi,Krasnodar,Away,0.6233333333333333
+Russia,14/03/2026,10:00,Zenit,Spartak Moscow,Home,0.7421182539682541
+EUA,14/03/2026,14:00,Toronto FC,New York Red Bulls,Home,0.5647920634920636
+Suíça,14/03/2026,14:00,Thun,Grasshoppers,Home,0.8887658730158733
+Noruega,14/03/2026,14:00,Molde,Rosenborg,Home,0.8088833333333331
+Polonia,14/03/2026,16:15,Cracovia,Wisla Plock,Home,0.875534126984127
+Suíça,14/03/2026,16:30,St. Gallen,Lugano,Home,0.686230952380952
+EUA,14/03/2026,19:15,Columbus Crew,Nashville SC,Home,0.7548103174603172
+EUA,14/03/2026,20:30,New York City,Colorado Rapids,Home,0.7295222222222218
+Brasil,14/03/2026,20:30,Botafogo RJ,Flamengo RJ,Home,0.6768349206349202
+EUA,14/03/2026,21:30,Houston Dynamo,Portland Timbers,Home,0.6989730158730159
+EUA,14/03/2026,21:30,Chicago Fire,DC United,Home,0.696850793650794
+EUA,14/03/2026,22:30,Los Angeles Galaxy,Sporting Kansas City,Home,0.7744285714285715
+EUA,14/03/2026,23:30,Los Angeles FC,St. Louis City,Home,0.7613142857142859
+China,15/03/2026,04:30,Henan Songshan Longmen,Yunnan Yukun,Home,0.6714928571428573
+China,15/03/2026,08:00,Shanghai Port,Qingdao West Coast,Home,0.7598738095238092
+China,15/03/2026,08:35,Chengdu Rongcheng,Qingdao Hainiu,Home,0.7398587301587299
+Dinamarca,15/03/2026,10:00,Midtjylland,Nordsjaelland,Home,0.6910833333333332
+Suíça,15/03/2026,12:30,Basel,Servette,Home,0.7899404761904759
+Suíça,15/03/2026,12:30,Luzern,Winterthur,Home,0.8657809523809523
+Noruega,15/03/2026,13:00,Valerenga,Sandefjord,Home,0.6433904761904761
+Noruega,15/03/2026,13:00,KFUM Oslo,Start,Home,0.6009079365079367
+Noruega,15/03/2026,13:00,Aalesund,Lillestrom,Away,0.5433333333333333
+Dinamarca,15/03/2026,14:00,Brondby,Viborg,Home,0.743104761904762
+Argentina,15/03/2026,15:15,Gimnasia L.P.,Ind. Rivadavia,Home,0.719413492063492
+EUA,15/03/2026,15:30,New England Revolution,FC Cincinnati,Home,0.6374960317460314
+Brasil,15/03/2026,16:00,Fluminense,Athletico-PR,Home,0.6426484126984123
+Brasil,15/03/2026,16:00,Internacional,Bahia,Home,0.8422436507936514
+EUA,15/03/2026,17:30,Vancouver Whitecaps,Minnesota United,Home,0.8070674603174606
+Argentina,15/03/2026,19:45,River Plate,Sarmiento Junin,Home,0.7546952380952383
+Brasil,15/03/2026,20:30,Bragantino,Sao Paulo,Away,0.61
+Romenia,16/03/2026,12:30,FC Botosani,Unirea Slobozia,Home,0.7411642857142858
+Dinamarca,16/03/2026,15:00,Silkeborg,Vejle,Home,0.5857230158730157
+Argentina,16/03/2026,15:30,Barracas Central,Atl. Tucuman,Home,0.7380365079365078
+Brasil,16/03/2026,20:00,Chapecoense-SC,Gremio,Away,0.58
+Argentina,16/03/2026,22:15,Instituto,Independiente,Away,0.71
