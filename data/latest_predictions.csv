@@ -1,88 +1,9 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-China,13/03/2026,08:35,Wuhan Three Towns,Dalian Yingbo,Home,0.7824571428571427
-Turquia - Liga 1,13/03/2026,14:00,Karagumruk,Fenerbahce,Away,0.7633333333333333
-Romenia,13/03/2026,15:30,Univ. Craiova,FC Arges,Home,0.8313166666666665
-Austria,13/03/2026,15:30,LASK,Hartberg,Home,0.6443976190476193
-Alemanha - Bundesliga 1,13/03/2026,16:30,M'gladbach,St Pauli,Home,0.6758523809523811
-França - Primeira divisão,13/03/2026,16:45,Marseille,Auxerre,Home,0.7604317460317465
-Bélgica,13/03/2026,16:45,Gent,Waregem,Home,0.8064809523809523
-Irlanda,13/03/2026,16:45,St. Patricks,Drogheda,Home,0.7929833333333335
-Irlanda,13/03/2026,16:45,Dundalk,Waterford,Home,0.7011484126984129
-Irlanda,13/03/2026,16:45,Bohemians,Galway,Home,0.7738492063492064
-Espanha - La Liga,13/03/2026,17:00,Alaves,Villarreal,Away,0.6566666666666666
-Russia,14/03/2026,07:45,Sochi,Krasnodar,Away,0.6233333333333333
-Espanha - La Liga,14/03/2026,10:00,Girona,Ath Bilbao,Home,0.7807714285714281
-Russia,14/03/2026,10:00,Zenit,Spartak Moscow,Home,0.7421182539682541
-Itália - Serie A,14/03/2026,11:00,Inter,Atalanta,Home,0.7098142857142856
-Alemanha - Bundesliga 1,14/03/2026,11:30,Dortmund,Augsburg,Home,0.8008999999999996
-Alemanha - Bundesliga 1,14/03/2026,11:30,Hoffenheim,Wolfsburg,Home,0.7721095238095239
-Alemanha - Bundesliga 1,14/03/2026,11:30,Ein Frankfurt,Heidenheim,Home,0.8524198412698414
-Escócia - Premiere League,14/03/2026,12:00,Hibernian,Livingston,Home,0.8175373015873018
-Escócia - Premiere League,14/03/2026,12:00,Celtic,Motherwell,Home,0.770599206349206
-Bélgica,14/03/2026,12:00,Charleroi,Oud-Heverlee Leuven,Home,0.7855658730158727
-Turquia - Liga 1,14/03/2026,14:00,Galatasaray,Buyuksehyr,Home,0.7904841269841265
-Noruega,14/03/2026,14:00,Molde,Rosenborg,Home,0.8088833333333331
-Itália - Serie A,14/03/2026,14:00,Napoli,Lecce,Home,0.8181380952380954
-EUA,14/03/2026,14:00,Toronto FC,New York Red Bulls,Home,0.5647920634920636
-Turquia - Liga 1,14/03/2026,14:00,Trabzonspor,Rizespor,Home,0.796931746031746
-Turquia - Liga 1,14/03/2026,14:00,Goztep,Alanyaspor,Home,0.8676968253968257
-Suíça,14/03/2026,14:00,Thun,Grasshoppers,Home,0.8887658730158733
-Bélgica,14/03/2026,14:15,St. Gilloise,Dender,Home,0.7818507936507935
-Inglaterra - Premiere League,14/03/2026,14:30,Arsenal,Everton,Home,0.8042230158730159
-Holanda,14/03/2026,14:45,PSV Eindhoven,Nijmegen,Home,0.7613992063492061
-Grecia,14/03/2026,15:00,Larisa,Asteras Tripolis,Home,0.6619531746031743
-Polonia,14/03/2026,16:15,Cracovia,Wisla Plock,Home,0.875534126984127
-Suíça,14/03/2026,16:30,St. Gallen,Lugano,Home,0.686230952380952
-Itália - Serie A,14/03/2026,16:45,Udinese,Juventus,Away,0.69
-Bélgica,14/03/2026,16:45,Westerlo,Club Brugge,Away,0.7666666666666667
-Inglaterra - Premiere League,14/03/2026,17:00,West Ham,Man City,Away,0.6233333333333333
-Espanha - La Liga,14/03/2026,17:00,Real Madrid,Elche,Home,0.8224412698412698
-Holanda,14/03/2026,17:00,Ajax,Sparta Rotterdam,Home,0.8567492063492068
-Portugal - Liga 1,14/03/2026,17:30,Arouca,Benfica,Away,0.7533333333333333
-EUA,14/03/2026,19:15,Columbus Crew,Nashville SC,Home,0.7548103174603172
-EUA,14/03/2026,20:30,New York City,Colorado Rapids,Home,0.7295222222222218
-Brasil,14/03/2026,20:30,Botafogo RJ,Flamengo RJ,Home,0.6768349206349202
-EUA,14/03/2026,21:30,Chicago Fire,DC United,Home,0.696850793650794
-EUA,14/03/2026,21:30,Houston Dynamo,Portland Timbers,Home,0.6989730158730159
-EUA,14/03/2026,22:30,Los Angeles Galaxy,Sporting Kansas City,Home,0.7744285714285715
-EUA,14/03/2026,23:30,Los Angeles FC,St. Louis City,Home,0.7613142857142859
-China,15/03/2026,04:30,Henan Songshan Longmen,Yunnan Yukun,Home,0.6714928571428573
-China,15/03/2026,08:00,Shanghai Port,Qingdao West Coast,Home,0.7598738095238092
-Holanda,15/03/2026,08:15,Twente,Utrecht,Home,0.7585682539682538
-China,15/03/2026,08:35,Chengdu Rongcheng,Qingdao Hainiu,Home,0.7398587301587299
-Escócia - Premiere League,15/03/2026,09:00,St Mirren,Rangers,Away,0.7933333333333333
-Dinamarca,15/03/2026,10:00,Midtjylland,Nordsjaelland,Home,0.6910833333333332
-Holanda,15/03/2026,10:30,AZ Alkmaar,Heracles,Home,0.8266190476190479
-Holanda,15/03/2026,10:30,Feyenoord,Excelsior,Home,0.7914325396825396
-Inglaterra - Premiere League,15/03/2026,11:00,Crystal Palace,Leeds,Home,0.7972119047619048
-Inglaterra - Premiere League,15/03/2026,11:00,Man United,Aston Villa,Home,0.6937928571428574
-Espanha - La Liga,15/03/2026,12:15,Barcelona,Sevilla,Home,0.8258896825396825
-Suíça,15/03/2026,12:30,Basel,Servette,Home,0.7899404761904759
-Suíça,15/03/2026,12:30,Luzern,Winterthur,Home,0.8657809523809523
-Holanda,15/03/2026,12:45,Go Ahead Eagles,NAC Breda,Home,0.7468952380952377
-Noruega,15/03/2026,13:00,KFUM Oslo,Start,Home,0.6009079365079367
-Noruega,15/03/2026,13:00,Aalesund,Lillestrom,Away,0.5433333333333333
-Grecia,15/03/2026,13:00,PAOK,Levadeiakos,Home,0.8228547619047615
-Noruega,15/03/2026,13:00,Valerenga,Sandefjord,Home,0.6433904761904761
-Alemanha - Bundesliga 1,15/03/2026,13:30,Freiburg,Union Berlin,Home,0.7497341269841267
-Inglaterra - Premiere League,15/03/2026,13:30,Liverpool,Tottenham,Home,0.7516738095238096
-Turquia - Liga 1,15/03/2026,14:00,Genclerbirligi,Besiktas,Away,0.76
-Dinamarca,15/03/2026,14:00,Brondby,Viborg,Home,0.743104761904762
-Argentina,15/03/2026,15:15,Gimnasia L.P.,Ind. Rivadavia,Home,0.719413492063492
-Alemanha - Bundesliga 1,15/03/2026,15:30,Stuttgart,RB Leipzig,Home,0.6665650793650795
-EUA,15/03/2026,15:30,New England Revolution,FC Cincinnati,Home,0.6374960317460314
-Brasil,15/03/2026,16:00,Internacional,Bahia,Home,0.8422436507936514
-Brasil,15/03/2026,16:00,Fluminense,Athletico-PR,Home,0.6426484126984123
-Grecia,15/03/2026,16:00,Panathinaikos,Panetolikos,Home,0.6756992063492062
-França - Primeira divisão,15/03/2026,16:45,Rennes,Lille,Home,0.7062079365079365
-Espanha - La Liga,15/03/2026,17:00,Sociedad,Osasuna,Home,0.67915
-Portugal - Liga 1,15/03/2026,17:30,Porto,Moreirense,Home,0.7712158730158736
-EUA,15/03/2026,17:30,Vancouver Whitecaps,Minnesota United,Home,0.8070674603174606
-Argentina,15/03/2026,19:45,River Plate,Sarmiento Junin,Home,0.7546952380952383
-Brasil,15/03/2026,20:30,Bragantino,Sao Paulo,Away,0.61
-Romenia,16/03/2026,12:30,FC Botosani,Unirea Slobozia,Home,0.7411642857142858
-Dinamarca,16/03/2026,15:00,Silkeborg,Vejle,Home,0.5857230158730157
-Argentina,16/03/2026,15:30,Barracas Central,Atl. Tucuman,Home,0.7380365079365078
-Inglaterra - Premiere League,16/03/2026,17:00,Brentford,Wolves,Home,0.7996047619047616
-Brasil,16/03/2026,20:00,Chapecoense-SC,Gremio,Away,0.58
-Argentina,16/03/2026,22:15,Instituto,Independiente,Away,0.71
+Turquia - Liga 1,17/03/2026,14:00,Fenerbahce,Gaziantep,Home,0.7724793650793648
+Suíça,17/03/2026,15:00,St. Gallen,Lugano,Home,0.686230952380952
+Turquia - Liga 1,18/03/2026,14:00,Buyuksehyr,Antalyaspor,Home,0.7428634920634922
+Brasil,18/03/2026,19:00,Palmeiras,Botafogo RJ,Home,0.8228722222222222
+Brasil,18/03/2026,19:30,Athletico-PR,Cruzeiro,Home,0.7913777777777776
+Brasil,18/03/2026,21:30,Santos,Internacional,Home,0.7105587301587304
+Turquia - Liga 1,19/03/2026,14:00,Besiktas,Kasimpasa,Home,0.8752404761904765
+Brasil,19/03/2026,19:00,Gremio,Vitoria,Home,0.7187619047619044
