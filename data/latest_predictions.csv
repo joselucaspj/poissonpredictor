@@ -1,2 +1,9 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Brasil,29/03/2026,19:30,Athletico-PR,Botafogo RJ,Home,0.6839944444444447
+Brasil,01/04/2026,19:30,Internacional,Sao Paulo,Home,0.7941587301587301
+Argentina,01/04/2026,20:00,Lanus,Platense,Home,0.6872396825396822
+Brasil,01/04/2026,20:00,Bahia,Athletico-PR,Home,0.7332587301587301
+Brasil,01/04/2026,20:00,Cruzeiro,Vitoria,Home,0.6951896825396824
+Brasil,01/04/2026,21:30,Fluminense,Corinthians,Home,0.7959452380952383
+Argentina,02/04/2026,17:30,Tigre,Ind. Rivadavia,Home,0.7121333333333328
+Brasil,02/04/2026,19:00,Chapecoense-SC,Atletico-MG,Away,0.6033333333333334
+Brasil,02/04/2026,21:30,Palmeiras,Gremio,Home,0.6850269841269842
