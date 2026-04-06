@@ -1,15 +1,15 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
 China,03/04/2026,08:35,Chengdu Rongcheng,Qingdao West Coast,Home,0.7519063492063491
-Portugal - Liga 1,03/04/2026,11:30,Gil Vicente,AVS,Home,0.8416468253968254
+Portugal - Liga 1,03/04/2026,11:30,Gil Vicente,AVS,Home,0.8549658730158728
 Romenia,03/04/2026,14:30,FC Botosani,FCSB,Away,0.67
 Irlanda,03/04/2026,15:45,Waterford,Shamrock Rovers,Away,0.7566666666666667
-França - Primeira divisão,03/04/2026,15:45,Paris SG,Toulouse,Home,0.7932873015873015
+Irlanda,03/04/2026,15:45,Drogheda,Bohemians,Away,0.6666666666666666
 Irlanda,03/04/2026,15:45,Shelbourne,Dundalk,Home,0.7441912698412697
 Irlanda,03/04/2026,15:45,St. Patricks,Sligo Rovers,Home,0.8084825396825398
-Irlanda,03/04/2026,15:45,Drogheda,Bohemians,Away,0.6666666666666666
-Portugal - Liga 1,03/04/2026,16:30,Sp Lisbon,Santa Clara,Home,0.816103968253968
-Finlândia,04/04/2026,07:00,Inter Turku,VPS,Home,0.7396968253968256
+França - Primeira divisão,03/04/2026,15:45,Paris SG,Toulouse,Home,0.8019031746031743
+Portugal - Liga 1,03/04/2026,16:30,Sp Lisbon,Santa Clara,Home,0.825053968253968
 Russia,04/04/2026,07:00,Akron Togliatti,CSKA Moscow,Away,0.6166666666666667
+Finlândia,04/04/2026,07:00,Inter Turku,VPS,Home,0.7396968253968256
 Polonia,04/04/2026,07:15,GKS Katowice,Wisla Plock,Home,0.7141706349206348
 China,04/04/2026,08:00,Shandong Taishan,Dalian Yingbo,Home,0.8277134920634925
 China,04/04/2026,08:35,Shanghai Port,Yunnan Yukun,Home,0.8320777777777781
@@ -17,62 +17,72 @@ Russia,04/04/2026,09:15,Zenit,Krylya Sovetov,Home,0.80455
 Polonia,04/04/2026,09:45,Rakow,Widzew Lodz,Home,0.7665214285714288
 Suecia,04/04/2026,10:00,Hammarby,Mjallby,Home,0.6472103174603171
 Suecia,04/04/2026,10:00,Degerfors,Sirius,Away,0.5566666666666666
-Alemanha - Bundesliga 1,04/04/2026,10:30,M'gladbach,Heidenheim,Home,0.6246547619047619
-Alemanha - Bundesliga 1,04/04/2026,10:30,Freiburg,Bayern Munich,Away,0.6466666666666666
-Alemanha - Bundesliga 1,04/04/2026,10:30,Leverkusen,Wolfsburg,Home,0.8306357142857139
-Escócia - Premiere League,04/04/2026,11:00,St Mirren,Aberdeen,Home,0.680565873015873
-Escócia - Premiere League,04/04/2026,11:00,Rangers,Dundee United,Home,0.7674071428571431
-Escócia - Premiere League,04/04/2026,11:00,Hibernian,Kilmarnock,Home,0.8294825396825402
-Espanha - La Liga,04/04/2026,11:15,Mallorca,Real Madrid,Away,0.69
+Alemanha - Bundesliga 1,04/04/2026,10:30,Leverkusen,Wolfsburg,Home,0.8250706349206348
+Alemanha - Bundesliga 1,04/04/2026,10:30,Freiburg,Bayern Munich,Away,0.6866666666666666
+Alemanha - Bundesliga 1,04/04/2026,10:30,M'gladbach,Heidenheim,Home,0.6390769841269843
+Escócia - Premiere League,04/04/2026,11:00,Rangers,Dundee United,Home,0.7686960317460321
+Escócia - Premiere League,04/04/2026,11:00,Hibernian,Kilmarnock,Home,0.8243190476190481
+Escócia - Premiere League,04/04/2026,11:00,St Mirren,Aberdeen,Home,0.6690484126984126
+Espanha - La Liga,04/04/2026,11:15,Mallorca,Real Madrid,Away,0.6966666666666667
 Russia,04/04/2026,11:30,Dynamo Moscow,Orenburg,Home,0.7829595238095237
-França - Primeira divisão,04/04/2026,12:00,Strasbourg,Nice,Home,0.8512468253968255
+Grecia,04/04/2026,12:00,Asteras Tripolis,Larisa,Home,0.6616555555555553
+França - Primeira divisão,04/04/2026,12:00,Strasbourg,Nice,Home,0.8633698412698415
 Austria,04/04/2026,12:00,Tirol,Wolfsberger AC,Away,0.63
 Dinamarca,04/04/2026,13:00,Midtjylland,Sonderjyske,Home,0.8165920634920638
-Espanha - La Liga,04/04/2026,13:30,Betis,Espanol,Home,0.7659547619047617
-Holanda,04/04/2026,13:45,AZ Alkmaar,For Sittard,Home,0.6986809523809524
+Espanha - La Liga,04/04/2026,13:30,Betis,Espanol,Home,0.7698785714285712
+Holanda,04/04/2026,13:45,AZ Alkmaar,For Sittard,Home,0.7245555555555557
+Grecia,04/04/2026,14:00,Panetolikos,Atromitos,Home,0.6382119047619047
+Portugal - Liga 1,04/04/2026,14:00,Moreirense,Sp Braga,Away,0.7166666666666667
 EUA,04/04/2026,14:00,Toronto FC,Colorado Rapids,Home,0.6051904761904763
-Grecia,04/04/2026,14:00,Panetolikos,Atromitos,Home,0.6165960317460317
-Portugal - Liga 1,04/04/2026,14:00,Moreirense,Sp Braga,Away,0.7033333333333334
 Suíça,04/04/2026,15:30,Basel,Young Boys,Home,0.6058896825396827
-Bélgica,04/04/2026,15:45,St. Gilloise,St Truiden,Home,0.7630706349206346
-Itália - Serie A,04/04/2026,15:45,Lazio,Parma,Home,0.8536031746031748
-Holanda,04/04/2026,16:00,Excelsior,Nijmegen,Away,0.7533333333333333
-Portugal - Liga 1,04/04/2026,16:30,Porto,Famalicao,Home,0.7239484126984128
+Itália - Serie A,04/04/2026,15:45,Lazio,Parma,Home,0.8276500000000002
+Bélgica,04/04/2026,15:45,St. Gilloise,St Truiden,Home,0.7681920634920633
+Holanda,04/04/2026,16:00,Excelsior,Nijmegen,Away,0.7633333333333333
+França - Primeira divisão,04/04/2026,16:05,Lille,Lens,Home,0.7361769841269844
+Portugal - Liga 1,04/04/2026,16:30,Porto,Famalicao,Home,0.7429555555555556
 EUA,04/04/2026,17:30,Real Salt Lake,Sporting Kansas City,Home,0.6805849206349207
 Brasil,04/04/2026,18:30,Sao Paulo,Cruzeiro,Home,0.7309007936507934
-EUA,04/04/2026,20:30,Charlotte,Philadelphia Union,Home,0.650924603174603
+EUA,04/04/2026,20:30,New York Red Bulls,FC Cincinnati,Home,0.6840420634920635
 EUA,04/04/2026,20:30,Inter Miami,Austin FC,Home,0.8094206349206353
 EUA,04/04/2026,20:30,New York City,St. Louis City,Home,0.7635642857142857
-EUA,04/04/2026,20:30,New York Red Bulls,FC Cincinnati,Home,0.6840420634920635
-Argentina,04/04/2026,21:00,Rosario Central,Atl. Tucuman,Home,0.7128079365079368
+EUA,04/04/2026,20:30,Charlotte,Philadelphia Union,Home,0.650924603174603
 Brasil,04/04/2026,21:00,Vasco,Botafogo RJ,Home,0.7048269841269847
+Argentina,04/04/2026,21:00,Rosario Central,Atl. Tucuman,Home,0.7128079365079368
 EUA,04/04/2026,22:30,Los Angeles FC,Orlando City,Home,0.7112857142857144
 EUA,04/04/2026,23:30,Vancouver Whitecaps,Portland Timbers,Home,0.844580952380952
-Holanda,05/04/2026,07:15,Go Ahead Eagles,Zwolle,Home,0.7475865079365076
-Turquia - Liga 1,05/04/2026,08:30,Karagumruk,Rizespor,Home,0.6419396825396824
+Holanda,05/04/2026,07:15,Go Ahead Eagles,Zwolle,Home,0.8303222222222224
+Turquia - Liga 1,05/04/2026,08:30,Karagumruk,Rizespor,Away,0.54
 China,05/04/2026,08:35,Tianjin Jinmen Tiger,Shanghai Shenhua,Away,0.63
 Suecia,05/04/2026,09:00,AIK,Halmstad,Home,0.6938984126984125
-Holanda,05/04/2026,09:30,Heerenveen,Heracles,Home,0.8355492063492067
-Espanha - La Liga,05/04/2026,11:15,Valencia,Celta,Home,0.609797619047619
+Espanha - La Liga,05/04/2026,09:00,Getafe,Ath Bilbao,Home,0.7647579365079374
+Holanda,05/04/2026,09:30,Volendam,Feyenoord,Away,0.6733333333333333
+Holanda,05/04/2026,09:30,Heerenveen,Heracles,Home,0.8180587301587303
+França - Primeira divisão,05/04/2026,10:00,Angers,Lyon,Away,0.6066666666666667
+Grecia,05/04/2026,11:00,Volos NFC,OFI Crete,Home,0.6696111111111113
+Grecia,05/04/2026,11:00,Levadeiakos,Aris,Home,0.7866142857142855
+Espanha - La Liga,05/04/2026,11:15,Valencia,Celta,Home,0.7182039682539686
 Romenia,05/04/2026,11:30,Farul Constanta,Unirea Slobozia,Home,0.701211111111111
+Alemanha - Bundesliga 1,05/04/2026,12:30,Ein Frankfurt,FC Koln,Home,0.7528761904761907
+Escócia - Premiere League,05/04/2026,12:30,Dundee,Celtic,Away,0.6966666666666667
+Turquia - Liga 1,05/04/2026,14:00,Fenerbahce,Besiktas,Home,0.6986714285714284
 Romenia,05/04/2026,14:30,FC Rapid Bucuresti,U. Cluj,Away,0.6466666666666666
 Argentina,05/04/2026,15:30,Gimnasia L.P.,Huracan,Home,0.7056650793650793
-Itália - Serie A,05/04/2026,15:45,Inter,Roma,Home,0.7571936507936508
-França - Primeira divisão,05/04/2026,15:45,Monaco,Marseille,Home,0.7830246031746028
-Brasil,05/04/2026,17:30,Atletico-MG,Athletico-PR,Home,0.7972428571428574
+Itália - Serie A,05/04/2026,15:45,Inter,Roma,Home,0.7953285714285712
+França - Primeira divisão,05/04/2026,15:45,Monaco,Marseille,Home,0.7520841269841267
 Brasil,05/04/2026,17:30,Flamengo RJ,Santos,Home,0.8343063492063488
+Brasil,05/04/2026,17:30,Atletico-MG,Athletico-PR,Home,0.7972428571428574
 Argentina,05/04/2026,18:00,River Plate,Belgrano,Home,0.7526777777777778
 Argentina,05/04/2026,20:30,Central Cordoba,Newells Old Boys,Home,0.7969777777777783
 Itália - Serie A,06/04/2026,07:30,Udinese,Como,Away,0.64
 Bélgica,06/04/2026,08:30,Club Brugge,Anderlecht,Home,0.6964674603174605
-Suecia,06/04/2026,09:00,Elfsborg,Goteborg,Away,0.5966666666666667
 Suecia,06/04/2026,09:00,Hacken,Brommapojkarna,Home,0.7360793650793652
+Suecia,06/04/2026,09:00,Elfsborg,Goteborg,Away,0.5966666666666667
 Polonia,06/04/2026,09:45,Radomiak Radom,Motor Lublin,Home,0.6728484126984127
 Itália - Serie A,06/04/2026,10:00,Lecce,Atalanta,Away,0.7266666666666667
 Suíça,06/04/2026,11:30,St. Gallen,Zurich,Home,0.7718714285714293
+Noruega,06/04/2026,12:00,Molde,Lillestrom,Home,0.8625134920634923
 Noruega,06/04/2026,12:00,Sarpsborg 08,Start,Home,0.7240825396825393
 Noruega,06/04/2026,12:00,Kristiansund,Bodo/Glimt,Away,0.6733333333333333
-Noruega,06/04/2026,12:00,Molde,Lillestrom,Home,0.8625134920634923
 Polonia,06/04/2026,12:30,Pogon Szczecin,Legia,Home,0.7300119047619049
 Itália - Serie A,06/04/2026,13:00,Juventus,Genoa,Home,0.8294190476190478
 Bélgica,06/04/2026,13:30,Gent,Mechelen,Home,0.7718992063492065
