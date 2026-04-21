@@ -1,83 +1,30 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-China,17/04/2026,08:35,Shandong Taishan,Shanghai Port,Home,0.737142857142857
-China,17/04/2026,09:00,Wuhan Three Towns,Chengdu Rongcheng,Away,0.6333333333333333
-Itália - Serie A,17/04/2026,13:30,Sassuolo,Como,Away,0.7533333333333333
-Turquia - Liga 1,17/04/2026,14:00,Fenerbahce,Rizespor,Home,0.7445682539682534
-Dinamarca,17/04/2026,14:00,Brondby,Sonderjyske,Home,0.746839682539683
-Polonia,17/04/2026,15:30,Legia,Zaglebie,Home,0.8213769841269839
-Itália - Serie A,17/04/2026,15:45,Inter,Cagliari,Home,0.8103595238095238
-França - Primeira divisão,17/04/2026,15:45,Lens,Toulouse,Home,0.7398492063492068
-Irlanda,17/04/2026,15:45,Dundalk,Galway,Home,0.8260960317460319
-Irlanda,17/04/2026,15:45,Shelbourne,Derry City,Home,0.7095714285714284
-Irlanda,17/04/2026,16:00,Shamrock Rovers,Bohemians,Home,0.7770365079365077
-Portugal - Liga 1,17/04/2026,16:45,Rio Ave,AVS,Home,0.7248746031746033
-Argentina,17/04/2026,20:30,Union de Santa Fe,Newells Old Boys,Home,0.6908555555555552
-EUA,17/04/2026,23:30,Vancouver Whitecaps,Sporting Kansas City,Home,0.8050809523809522
-Finlândia,18/04/2026,08:00,Gnistan,HJK,Away,0.6866666666666666
-Turquia - Liga 1,18/04/2026,08:30,Karagumruk,Eyupspor,Home,0.749479365079365
-Romenia,18/04/2026,08:30,Csikszereda M. Ciuc,Unirea Slobozia,Home,0.6396761904761904
-Noruega,18/04/2026,09:00,Bodo/Glimt,Aalesund,Home,0.8163230158730158
-Suecia,18/04/2026,10:00,Sirius,Vasteras SK,Home,0.7409714285714285
-Finlândia,18/04/2026,10:00,Jaro,KuPS,Away,0.76
-Suecia,18/04/2026,10:00,Mjallby,Brommapojkarna,Home,0.8518476190476191
-Suecia,18/04/2026,10:00,Halmstad,Goteborg,Away,0.6433333333333333
-Itália - Serie A,18/04/2026,10:00,Udinese,Parma,Home,0.7196484126984127
-Alemanha - Bundesliga 1,18/04/2026,10:30,Union Berlin,Wolfsburg,Home,0.6705476190476192
-Alemanha - Bundesliga 1,18/04/2026,10:30,Leverkusen,Augsburg,Home,0.7888015873015874
-Inglaterra - Premiere League,18/04/2026,11:00,Newcastle,Bournemouth,Home,0.7423793650793652
-Noruega,18/04/2026,11:00,Sandefjord,Rosenborg,Home,0.7008888888888885
-França - Primeira divisão,18/04/2026,12:00,Lorient,Marseille,Away,0.72
-Austria,18/04/2026,12:00,Wolfsberger AC,BW Linz,Home,0.7105611111111112
-Polonia,18/04/2026,12:30,Gornik Zabrze,Korona Kielce,Home,0.7460777777777781
-Noruega,18/04/2026,13:00,Viking,Brann,Home,0.6757301587301584
-Grecia,18/04/2026,13:00,Aris,Volos NFC,Home,0.7230150793650794
-Bélgica,18/04/2026,13:15,Charleroi,Standard,Home,0.5958333333333333
-Inglaterra - Premiere League,18/04/2026,13:30,Tottenham,Brighton,Home,0.7894214285714286
-EUA,18/04/2026,14:00,Toronto FC,Austin FC,Home,0.7605444444444448
-Turquia - Liga 1,18/04/2026,14:00,Genclerbirligi,Galatasaray,Away,0.5166666666666667
-Portugal - Liga 1,18/04/2026,14:00,Casa Pia,Santa Clara,Away,0.6333333333333333
-EUA,18/04/2026,15:30,CF Montreal,New York Red Bulls,Home,0.6974960317460317
-Irlanda,18/04/2026,15:45,Sligo Rovers,Waterford,Home,0.637763492063492
-Inglaterra - Premiere League,18/04/2026,16:00,Chelsea,Man United,Home,0.7721476190476191
-França - Primeira divisão,18/04/2026,16:05,Lille,Nice,Home,0.8016746031746028
-Argentina,18/04/2026,19:30,Independiente,Defensa y Justicia,Home,0.698965873015873
-EUA,18/04/2026,20:30,New York City,Charlotte,Home,0.7412928571428569
-Brasil,18/04/2026,20:30,Cruzeiro,Gremio,Home,0.7189460317460317
-EUA,18/04/2026,20:30,Philadelphia Union,DC United,Home,0.6412920634920631
-EUA,18/04/2026,20:30,Orlando City,Houston Dynamo,Home,0.6406357142857139
-EUA,18/04/2026,20:30,FC Cincinnati,Chicago Fire,Home,0.6669261904761904
-EUA,18/04/2026,21:30,FC Dallas,Los Angeles Galaxy,Home,0.6792134920634922
-Argentina,18/04/2026,21:45,Argentinos Jrs,Atl. Tucuman,Home,0.7880746031746032
-EUA,18/04/2026,22:30,Seattle Sounders,St. Louis City,Home,0.85815873015873
-EUA,18/04/2026,22:30,Real Salt Lake,San Diego FC,Home,0.654740476190476
-Bélgica,19/04/2026,08:30,Gent,St Truiden,Home,0.6581246031746031
-Suecia,19/04/2026,09:00,AIK,Kalmar,Home,0.722683333333333
-Polonia,19/04/2026,09:45,Rakow,Cracovia,Home,0.7799015873015871
-França - Primeira divisão,19/04/2026,10:00,Monaco,Auxerre,Home,0.760165873015873
-Alemanha - Bundesliga 1,19/04/2026,10:30,Freiburg,Heidenheim,Home,0.7933063492063495
-Bélgica,19/04/2026,11:00,Dender,Cercle Brugge,Away,0.6233333333333333
-Turquia - Liga 1,19/04/2026,11:00,Samsunspor,Besiktas,Away,0.74
-Dinamarca,19/04/2026,11:00,Nordsjaelland,Viborg,Home,0.6619976190476184
-Suecia,19/04/2026,11:30,Hacken,GAIS,Home,0.7739515873015872
-Portugal - Liga 1,19/04/2026,11:30,Arouca,Estrela,Home,0.654629365079365
-Austria,19/04/2026,12:00,LASK,Sturm Graz,Home,0.5837904761904765
-França - Primeira divisão,19/04/2026,12:15,Strasbourg,Rennes,Home,0.7147388888888891
-Inglaterra - Premiere League,19/04/2026,12:30,Man City,Arsenal,Home,0.6411968253968255
-Alemanha - Bundesliga 1,19/04/2026,12:30,Bayern Munich,Stuttgart,Home,0.7575158730158728
-Dinamarca,19/04/2026,13:00,Vejle,FC Copenhagen,Away,0.73
-Grecia,19/04/2026,15:00,Panathinaikos,Olympiakos,Home,0.7348642857142855
-França - Primeira divisão,19/04/2026,15:45,Paris SG,Lyon,Home,0.7738063492063488
-Itália - Serie A,19/04/2026,15:45,Juventus,Bologna,Home,0.8648206349206359
-Portugal - Liga 1,19/04/2026,16:30,Porto,Tondela,Home,0.8631968253968254
-Portugal - Liga 1,19/04/2026,16:30,Sp Braga,Famalicao,Home,0.8547603174603177
-Argentina,19/04/2026,17:00,River Plate,Boca Juniors,Home,0.6852436507936506
-Brasil,19/04/2026,18:30,Palmeiras,Athletico-PR,Home,0.7801515873015876
-Brasil,19/04/2026,19:30,Flamengo RJ,Bahia,Home,0.7536698412698414
-EUA,19/04/2026,20:00,Los Angeles FC,San Jose Earthquakes,Home,0.7873388888888889
-Argentina,19/04/2026,20:30,Rosario Central,Sarmiento Junin,Home,0.7800309523809524
-Turquia - Liga 1,20/04/2026,14:00,Gaziantep,Kayserispor,Home,0.6386317460317461
-Polonia,20/04/2026,14:00,Lechia Gdansk,Piast Gliwice,Home,0.6661246031746032
-Itália - Serie A,20/04/2026,15:45,Lecce,Fiorentina,Away,0.6766666666666666
-Inglaterra - Premiere League,20/04/2026,16:00,Crystal Palace,West Ham,Home,0.8378904761904765
-Suíça,25/04/2026,15:30,Thun,Lugano,Home,0.7636603174603174
-Suíça,26/04/2026,09:00,Basel,Sion,Home,0.6076714285714283
+China,21/04/2026,08:35,Chengdu Rongcheng,Yunnan Yukun,Home,0.83970873015873
+Austria,21/04/2026,13:30,Altach,Tirol,Home,0.6516079365079365
+Espanha - La Liga,21/04/2026,14:00,Ath Bilbao,Osasuna,Home,0.7069198412698411
+Bélgica,21/04/2026,15:30,Genk,Charleroi,Home,0.8298928571428572
+Inglaterra - Premiere League,21/04/2026,16:00,Brighton,Chelsea,Away,0.85
+Espanha - La Liga,21/04/2026,16:30,Real Madrid,Alaves,Home,0.7851071428571436
+China,22/04/2026,09:00,Shanghai Shenhua,Qingdao Hainiu,Home,0.7500111111111111
+Finlândia,22/04/2026,12:00,KuPS,AC Oulu,Home,0.7024087301587302
+Dinamarca,22/04/2026,13:00,FC Copenhagen,Odense,Home,0.7480523809523808
+Austria,22/04/2026,13:30,Salzburg,Austria Vienna,Home,0.6829603174603175
+Austria,22/04/2026,13:30,SK Rapid,Hartberg,Home,0.7047634920634924
+Suecia,22/04/2026,14:00,Hammarby,Halmstad,Home,0.5932809523809524
+França - Primeira divisão,22/04/2026,14:00,Paris SG,Nantes,Home,0.8703325396825403
+Suecia,22/04/2026,14:00,Vasteras SK,Hacken,Away,0.73
+Espanha - La Liga,22/04/2026,15:00,Sociedad,Getafe,Home,0.7819722222222224
+Bélgica,22/04/2026,15:30,St. Gilloise,Gent,Home,0.8202412698412699
+Bélgica,22/04/2026,15:30,Club Brugge,Mechelen,Home,0.7731039682539683
+Inglaterra - Premiere League,22/04/2026,16:00,Burnley,Man City,Away,0.8833333333333333
+Inglaterra - Premiere League,22/04/2026,16:00,Bournemouth,Leeds,Home,0.7143714285714288
+Espanha - La Liga,22/04/2026,16:30,Barcelona,Celta,Home,0.7853103174603171
+EUA,22/04/2026,20:30,Columbus Crew,Los Angeles Galaxy,Home,0.7978404761904763
+EUA,22/04/2026,20:30,New York City,FC Cincinnati,Home,0.6712666666666669
+EUA,22/04/2026,21:30,FC Dallas,Minnesota United,Home,0.8227444444444446
+EUA,22/04/2026,23:30,Los Angeles FC,Colorado Rapids,Home,0.7553730158730158
+EUA,22/04/2026,23:30,San Jose Earthquakes,Austin FC,Home,0.7370984126984129
+Suecia,23/04/2026,14:00,Malmo FF,Sirius,Home,0.5583777777777781
+Suecia,23/04/2026,14:00,GAIS,Mjallby,Away,0.73
+Dinamarca,23/04/2026,15:00,Sonderjyske,Midtjylland,Away,0.62
+Holanda,23/04/2026,16:00,PSV Eindhoven,Zwolle,Home,0.7456404761904765
