@@ -1,46 +1,92 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Bélgica,01/05/2026,15:45,Cercle Brugge,Waregem,Home,0.7461658730158732
-Espanha - La Liga,01/05/2026,16:00,Girona,Mallorca,Home,0.7141936507936507
-Espanha - La Liga,02/05/2026,09:00,Villarreal,Levante,Home,0.7219690476190471
-Itália - Serie A,02/05/2026,10:00,Udinese,Torino,Home,0.6939404761904763
-Alemanha - Bundesliga 1,02/05/2026,10:30,Bayern Munich,Heidenheim,Home,0.790860317460317
-Inglaterra - Premiere League,02/05/2026,11:00,Brentford,West Ham,Home,0.7450960317460317
-Escócia - Premiere League,02/05/2026,11:00,Kilmarnock,Dundee United,Home,0.6296682539682538
-Bélgica,02/05/2026,11:00,Westerlo,Oud-Heverlee Leuven,Home,0.5793714285714285
-Inglaterra - Premiere League,02/05/2026,11:00,Newcastle,Brighton,Home,0.8509603174603178
-Portugal - Liga 1,02/05/2026,11:30,Moreirense,Estrela,Home,0.7667293650793651
-Grecia,02/05/2026,11:30,Panserraikos,Larisa,Away,0.5966666666666667
-Portugal - Liga 1,02/05/2026,11:30,Nacional,AVS,Home,0.7274079365079364
-França - Primeira divisão,02/05/2026,12:00,Paris SG,Lorient,Home,0.799034126984127
-Itália - Serie A,02/05/2026,13:00,Como,Napoli,Home,0.7340277777777778
-Inglaterra - Premiere League,02/05/2026,13:30,Arsenal,Fulham,Home,0.8346769841269842
-Alemanha - Bundesliga 1,02/05/2026,13:30,Leverkusen,RB Leipzig,Home,0.687425396825397
-Grecia,02/05/2026,13:30,Asteras Tripolis,Atromitos,Away,0.61
-França - Primeira divisão,02/05/2026,14:00,Metz,Monaco,Away,0.7133333333333334
-Portugal - Liga 1,02/05/2026,14:00,Famalicao,Benfica,Away,0.6766666666666666
-Turquia - Liga 1,02/05/2026,14:00,Samsunspor,Galatasaray,Away,0.6633333333333333
-Turquia - Liga 1,02/05/2026,14:00,Trabzonspor,Goztep,Home,0.6737333333333333
-Turquia - Liga 1,02/05/2026,14:00,Fenerbahce,Buyuksehyr,Home,0.6322976190476186
-Itália - Serie A,02/05/2026,15:45,Atalanta,Genoa,Home,0.8504666666666664
-Espanha - La Liga,02/05/2026,16:00,Osasuna,Barcelona,Away,0.8
-Escócia - Premiere League,03/05/2026,08:00,Hibernian,Celtic,Home,0.7386246031746035
-Espanha - La Liga,03/05/2026,09:00,Celta,Elche,Home,0.7877007936507934
-Inglaterra - Premiere League,03/05/2026,10:00,Bournemouth,Crystal Palace,Away,0.6766666666666666
-França - Primeira divisão,03/05/2026,10:00,Lille,Le Havre,Home,0.7429023809523806
-Alemanha - Bundesliga 1,03/05/2026,10:30,St Pauli,Mainz,Away,0.5966666666666667
-Holanda,03/05/2026,11:45,Sparta Rotterdam,Go Ahead Eagles,Away,0.5133333333333333
-Holanda,03/05/2026,11:45,AZ Alkmaar,Twente,Away,0.6333333333333333
-França - Primeira divisão,03/05/2026,12:15,Strasbourg,Toulouse,Home,0.785466666666667
-Itália - Serie A,03/05/2026,13:00,Juventus,Verona,Home,0.772368253968254
-Portugal - Liga 1,03/05/2026,14:00,Sp Braga,Estoril,Home,0.8272484126984128
-Grecia,03/05/2026,15:00,Panathinaikos,AEK,Home,0.7766936507936509
-Itália - Serie A,03/05/2026,15:45,Inter,Parma,Home,0.8719095238095238
-Inglaterra - Premiere League,04/05/2026,11:00,Chelsea,Nott'm Forest,Home,0.9293928571428572
-Itália - Serie A,04/05/2026,13:30,Cremonese,Lazio,Away,0.6333333333333333
-Itália - Serie A,04/05/2026,15:45,Roma,Fiorentina,Home,0.7079825396825393
-Inglaterra - Premiere League,04/05/2026,16:00,Everton,Man City,Away,0.6866666666666666
-Portugal - Liga 1,04/05/2026,16:15,Sp Lisbon,Guimaraes,Home,0.8299166666666666
-China,05/05/2026,08:00,Qingdao West Coast,Tianjin Jinmen Tiger,Away,0.5866666666666667
-Finlândia,05/05/2026,13:00,Gnistan,Inter Turku,Away,0.78
-China,06/05/2026,08:35,Beijing Guoan,Dalian Yingbo,Home,0.7396587301587304
-China,06/05/2026,08:35,Shanghai Port,Shenzhen Xinpengcheng,Home,0.7793158730158734
+Finlândia,08/05/2026,12:00,Ilves,AC Oulu,Home,0.6499261904761905
+Polonia,08/05/2026,13:00,Rakow,Korona Kielce,Home,0.7121420634920634
+Suecia,08/05/2026,14:00,Elfsborg,Brommapojkarna,Home,0.7324420634920636
+Noruega,08/05/2026,14:00,HamKam,Valerenga,Home,0.6367626984126984
+Finlândia,08/05/2026,14:00,KuPS,SJK,Home,0.8105119047619044
+Dinamarca,08/05/2026,14:00,Viborg,Sonderjyske,Home,0.7372063492063496
+Polonia,08/05/2026,15:30,Lech Poznan,Arka Gdynia,Home,0.8279833333333335
+Alemanha - Bundesliga 1,08/05/2026,15:30,Dortmund,Ein Frankfurt,Home,0.7329015873015869
+Irlanda,08/05/2026,15:45,Shelbourne,Sligo Rovers,Home,0.67
+Irlanda,08/05/2026,15:45,Drogheda,Derry City,Away,0.72
+França - Primeira divisão,08/05/2026,15:45,Lens,Nantes,Home,0.8327222222222221
+Bélgica,08/05/2026,15:45,Standard,Oud-Heverlee Leuven,Home,0.7668761904761907
+Irlanda,08/05/2026,16:00,St. Patricks,Waterford,Home,0.8246984126984129
+Finlândia,09/05/2026,09:00,Inter Turku,Jaro,Home,0.8141095238095242
+Noruega,09/05/2026,09:00,Sarpsborg 08,Fredrikstad,Home,0.673878571428571
+China,09/05/2026,09:00,Chengdu Rongcheng,Henan Songshan Longmen,Home,0.7824626984126986
+Itália - Serie A,09/05/2026,10:00,Cagliari,Udinese,Away,0.6433333333333333
+Alemanha - Bundesliga 1,09/05/2026,10:30,RB Leipzig,St Pauli,Home,0.81730873015873
+Escócia - Premiere League,09/05/2026,11:00,Dundee,Livingston,Home,0.5763785714285714
+Finlândia,09/05/2026,11:00,VPS,Gnistan,Home,0.7895079365079365
+Suíça,09/05/2026,13:00,Zurich,Grasshoppers,Home,0.5872111111111114
+Suíça,09/05/2026,13:00,Winterthur,Lausanne,Home,0.7080341269841269
+Espanha - La Liga,09/05/2026,13:30,Ath Madrid,Celta,Home,0.7688603174603178
+Inglaterra - Premiere League,09/05/2026,13:30,Man City,Brentford,Home,0.8641119047619048
+Alemanha - Bundesliga 1,09/05/2026,13:30,Wolfsburg,Bayern Munich,Away,0.7066666666666667
+Turquia - Liga 1,09/05/2026,14:00,Buyuksehyr,Samsunspor,Home,0.7801150793650796
+Turquia - Liga 1,09/05/2026,14:00,Galatasaray,Antalyaspor,Home,0.7520714285714285
+Turquia - Liga 1,09/05/2026,14:00,Goztep,Gaziantep,Home,0.7514111111111108
+Romenia,09/05/2026,15:00,U. Cluj,FC Rapid Bucuresti,Home,0.7378126984126977
+Polonia,09/05/2026,15:15,Gornik Zabrze,Zaglebie,Home,0.6512634920634928
+EUA,09/05/2026,15:30,Chicago Fire,New York Red Bulls,Home,0.7182960317460315
+Itália - Serie A,09/05/2026,15:45,Lecce,Juventus,Away,0.6633333333333333
+Espanha - La Liga,09/05/2026,16:00,Sociedad,Betis,Home,0.7295547619047619
+Argentina,09/05/2026,16:30,Talleres Cordoba,Belgrano,Home,0.7807031746031745
+Brasil,09/05/2026,18:00,Fluminense,Vitoria,Home,0.6597746031746033
+Argentina,09/05/2026,19:00,Boca Juniors,Huracan,Home,0.7822365079365078
+EUA,09/05/2026,20:30,Atlanta Utd,Los Angeles Galaxy,Home,0.632431746031746
+EUA,09/05/2026,20:30,Charlotte,FC Cincinnati,Home,0.6632269841269843
+EUA,09/05/2026,20:30,New England Revolution,Philadelphia Union,Home,0.6880880952380951
+Brasil,09/05/2026,21:00,Bahia,Cruzeiro,Home,0.6741134920634925
+EUA,09/05/2026,21:30,FC Dallas,Real Salt Lake,Home,0.7834126984126982
+Argentina,09/05/2026,21:30,Argentinos Jrs,Lanus,Home,0.7915190476190473
+EUA,09/05/2026,22:15,Nashville SC,DC United,Home,0.7911730158730162
+EUA,09/05/2026,22:30,Colorado Rapids,St. Louis City,Home,0.7505579365079362
+EUA,09/05/2026,23:30,Seattle Sounders,San Diego FC,Home,0.6893357142857143
+EUA,09/05/2026,23:30,Portland Timbers,Sporting Kansas City,Home,0.7957595238095239
+Polonia,10/05/2026,07:15,Piast Gliwice,GKS Katowice,Home,0.5667230158730157
+Bélgica,10/05/2026,08:30,Gent,Anderlecht,Home,0.7010626984126986
+China,10/05/2026,08:35,Zhejiang Professional,Tianjin Jinmen Tiger,Home,0.6415515873015875
+China,10/05/2026,09:00,Qingdao Hainiu,Dalian Yingbo,Home,0.6602214285714287
+Suíça,10/05/2026,09:00,Lugano,St. Gallen,Home,0.7867666666666666
+Inglaterra - Premiere League,10/05/2026,10:00,Nott'm Forest,Newcastle,Away,0.6866666666666666
+Inglaterra - Premiere League,10/05/2026,10:00,Crystal Palace,Everton,Home,0.7604658730158729
+Romenia,10/05/2026,10:00,FC Botosani,Petrolul,Home,0.692895238095238
+Itália - Serie A,10/05/2026,10:00,Fiorentina,Genoa,Home,0.804531746031746
+Grecia,10/05/2026,11:00,Aris,OFI Crete,Home,0.8194380952380956
+Bélgica,10/05/2026,11:00,Antwerp,Charleroi,Home,0.6922341269841271
+Dinamarca,10/05/2026,11:00,Silkeborg,FC Copenhagen,Away,0.6733333333333333
+Espanha - La Liga,10/05/2026,11:15,Ath Bilbao,Valencia,Home,0.7881071428571429
+Suecia,10/05/2026,11:30,Hacken,Malmo FF,Home,0.7377103174603176
+Holanda,10/05/2026,11:45,Ajax,Utrecht,Home,0.7701896825396828
+Holanda,10/05/2026,11:45,Excelsior,Volendam,Home,0.7116595238095239
+Holanda,10/05/2026,11:45,Twente,Sparta Rotterdam,Home,0.8284809523809524
+Holanda,10/05/2026,11:45,Groningen,Nijmegen,Away,0.6766666666666666
+Holanda,10/05/2026,11:45,Feyenoord,AZ Alkmaar,Home,0.7289206349206352
+Noruega,10/05/2026,12:00,KFUM Oslo,Viking,Away,0.89
+Austria,10/05/2026,12:00,LASK,Salzburg,Home,0.7592603174603174
+Noruega,10/05/2026,12:00,Sandefjord,Kristiansund,Home,0.765340476190476
+Inglaterra - Premiere League,10/05/2026,12:30,West Ham,Arsenal,Away,0.7533333333333333
+Dinamarca,10/05/2026,13:00,Brondby,Aarhus,Home,0.78795873015873
+Itália - Serie A,10/05/2026,13:00,Parma,Roma,Away,0.66
+Bélgica,10/05/2026,13:30,St. Gilloise,Mechelen,Home,0.8762626984126987
+Grecia,10/05/2026,13:30,AEK,Panathinaikos,Home,0.6797428571428572
+Portugal - Liga 1,10/05/2026,14:00,AVS,Porto,Away,0.71
+Bélgica,10/05/2026,14:15,Genk,Westerlo,Home,0.7665412698412699
+Alemanha - Bundesliga 1,10/05/2026,14:30,Mainz,Union Berlin,Home,0.7271619047619045
+França - Primeira divisão,10/05/2026,16:00,Toulouse,Lyon,Away,0.7766666666666666
+França - Primeira divisão,10/05/2026,16:00,Paris SG,Brest,Home,0.8539769841269841
+Espanha - La Liga,10/05/2026,16:00,Barcelona,Real Madrid,Home,0.7221484126984125
+Brasil,10/05/2026,16:00,Atletico-MG,Botafogo RJ,Home,0.7072349206349207
+Argentina,10/05/2026,17:00,Estudiantes L.P.,Racing Club,Home,0.658584126984127
+Brasil,10/05/2026,18:30,Santos,Bragantino,Home,0.6994142857142854
+EUA,10/05/2026,20:00,Minnesota United,Austin FC,Home,0.7607753968253967
+Argentina,10/05/2026,21:30,Velez Sarsfield,Gimnasia L.P.,Home,0.7448396825396821
+EUA,10/05/2026,22:00,Los Angeles FC,Houston Dynamo,Home,0.6263642857142855
+Romenia,11/05/2026,15:00,FCSB,Unirea Slobozia,Home,0.7430269841269841
+Itália - Serie A,11/05/2026,15:45,Napoli,Bologna,Home,0.843707142857143
+Inglaterra - Premiere League,11/05/2026,16:00,Tottenham,Leeds,Home,0.8075079365079362
+Portugal - Liga 1,11/05/2026,16:15,Guimaraes,Casa Pia,Home,0.7730206349206348
+Portugal - Liga 1,11/05/2026,16:15,Estrela,Famalicao,Away,0.57
+Portugal - Liga 1,11/05/2026,16:15,Rio Ave,Sp Lisbon,Away,0.8166666666666667
