@@ -2,8 +2,7 @@ League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
 China,19/05/2026,08:35,Tianjin Jinmen Tiger,Henan Songshan Longmen,Home,0.7148198412698408
 China,19/05/2026,09:00,Chengdu Rongcheng,Shanghai Port,Home,0.7043436507936504
 China,19/05/2026,09:00,Qingdao West Coast,Beijing Guoan,Away,0.67
-Bélgica,19/05/2026,15:30,Genk,Antwerp,Home,0.7429738095238095
-Bélgica,19/05/2026,15:30,Westerlo,Standard,Away,0.6533333333333333
+Bélgica,19/05/2026,15:30,Genk,Antwerp,Home,0.7491055555555557
 Inglaterra - Premiere League,19/05/2026,15:30,Bournemouth,Man City,Away,0.8166666666666667
 Inglaterra - Premiere League,19/05/2026,16:15,Chelsea,Tottenham,Home,0.7847976190476187
 China,20/05/2026,08:35,Shanghai Shenhua,Wuhan Three Towns,Home,0.7546142857142857
