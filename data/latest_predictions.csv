@@ -1,14 +1,60 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-China,19/05/2026,08:35,Tianjin Jinmen Tiger,Henan Songshan Longmen,Home,0.7148198412698408
-China,19/05/2026,09:00,Chengdu Rongcheng,Shanghai Port,Home,0.7043436507936504
-China,19/05/2026,09:00,Qingdao West Coast,Beijing Guoan,Away,0.67
-Bélgica,19/05/2026,15:30,Genk,Antwerp,Home,0.7491055555555557
-Inglaterra - Premiere League,19/05/2026,15:30,Bournemouth,Man City,Away,0.8166666666666667
-Inglaterra - Premiere League,19/05/2026,16:15,Chelsea,Tottenham,Home,0.7847976190476187
-China,20/05/2026,08:35,Shanghai Shenhua,Wuhan Three Towns,Home,0.7546142857142857
-Finlândia,20/05/2026,13:00,KuPS,Jaro,Home,0.7860825396825396
-Noruega,20/05/2026,13:00,Start,Bodo/Glimt,Away,0.7233333333333334
-Noruega,20/05/2026,14:00,Lillestrom,Kristiansund,Home,0.8385182539682541
-Suecia,20/05/2026,14:00,GAIS,Hammarby,Away,0.7066666666666667
-Noruega,20/05/2026,15:00,Aalesund,Brann,Away,0.6533333333333333
-Bélgica,21/05/2026,15:30,Mechelen,Club Brugge,Away,0.7833333333333333
+Suecia,22/05/2026,14:00,Djurgarden,Brommapojkarna,Home,0.850069047619048
+Romenia,22/05/2026,14:30,CFR Cluj,FC Arges,Home,0.8091785714285714
+Irlanda,22/05/2026,15:45,Galway,Bohemians,Away,0.6
+Irlanda,22/05/2026,15:45,Shelbourne,Waterford,Home,0.7897293650793646
+Irlanda,22/05/2026,16:00,Shamrock Rovers,Sligo Rovers,Home,0.8073166666666667
+Finlândia,23/05/2026,08:00,Inter Turku,TPS,Home,0.8225087301587305
+China,23/05/2026,08:00,Shanghai Port,Tianjin Jinmen Tiger,Home,0.7235253968253965
+China,23/05/2026,08:35,Beijing Guoan,Henan Songshan Longmen,Home,0.7100714285714285
+China,23/05/2026,09:00,Dalian Yingbo,Chengdu Rongcheng,Away,0.75
+Finlândia,23/05/2026,11:00,SJK,AC Oulu,Home,0.6317976190476192
+Finlândia,23/05/2026,11:00,KuPS,Lahti,Home,0.7202031746031744
+Finlândia,23/05/2026,11:00,Ilves,Gnistan,Home,0.746676984126984
+Romenia,23/05/2026,11:30,Chindia Targoviste,Farul Constanta,Home,0.6876746031746033
+Polonia,23/05/2026,12:30,Gornik Zabrze,Radomiak Radom,Home,0.8033039682539678
+Polonia,23/05/2026,12:30,Cracovia,Korona Kielce,Home,0.6414865079365082
+Polonia,23/05/2026,12:30,Legia,Motor Lublin,Home,0.7118174603174604
+Polonia,23/05/2026,12:30,Pogon Szczecin,GKS Katowice,Home,0.7492634920634924
+Polonia,23/05/2026,12:30,Jagiellonia,Zaglebie,Home,0.7934611111111111
+Polonia,23/05/2026,12:30,Lech Poznan,Wisla Plock,Home,0.7428849206349207
+Polonia,23/05/2026,12:30,Rakow,Arka Gdynia,Home,0.6714206349206349
+Itália - Serie A,23/05/2026,13:00,Bologna,Inter,Away,0.7033333333333334
+Bélgica,23/05/2026,15:45,Antwerp,Westerlo,Home,0.6607841269841271
+Espanha - La Liga,23/05/2026,16:00,Betis,Levante,Home,0.8026928571428572
+Espanha - La Liga,23/05/2026,16:00,Real Madrid,Ath Bilbao,Home,0.7374960317460315
+Espanha - La Liga,23/05/2026,16:00,Getafe,Osasuna,Home,0.724344444444444
+Espanha - La Liga,23/05/2026,16:00,Girona,Elche,Home,0.7591182539682539
+Brasil,23/05/2026,17:00,Sao Paulo,Botafogo RJ,Home,0.6739119047619049
+Brasil,23/05/2026,21:00,Flamengo RJ,Palmeiras,Home,0.7145436507936508
+EUA,23/05/2026,21:30,Chicago Fire,Toronto FC,Home,0.6702238095238098
+EUA,23/05/2026,21:30,Nashville SC,New York City,Home,0.7290849206349207
+EUA,23/05/2026,22:30,Portland Timbers,San Jose Earthquakes,Home,0.6459857142857142
+EUA,23/05/2026,23:30,Los Angeles Galaxy,Houston Dynamo,Home,0.7354134920634922
+China,24/05/2026,08:35,Shandong Taishan,Wuhan Three Towns,Home,0.7428365079365072
+Suecia,24/05/2026,09:00,Hammarby,AIK,Home,0.740424603174603
+Suecia,24/05/2026,09:00,Sirius,GAIS,Home,0.6773555555555556
+China,24/05/2026,09:00,Shanghai Shenhua,Shenzhen Xinpengcheng,Home,0.8088388888888888
+Noruega,24/05/2026,11:00,Bodo/Glimt,Brann,Home,0.7290484126984125
+Suecia,24/05/2026,11:30,Malmo FF,Vasteras SK,Home,0.6383793650793651
+Inglaterra - Premiere League,24/05/2026,12:00,Man City,Aston Villa,Home,0.8524896825396826
+Inglaterra - Premiere League,24/05/2026,12:00,Fulham,Newcastle,Away,0.6933333333333334
+Inglaterra - Premiere League,24/05/2026,12:00,Liverpool,Brentford,Home,0.8535888888888886
+Inglaterra - Premiere League,24/05/2026,12:00,Tottenham,Everton,Home,0.5864555555555557
+Itália - Serie A,24/05/2026,13:00,Napoli,Udinese,Home,0.7460698412698414
+Noruega,24/05/2026,13:00,Kristiansund,Viking,Away,0.75
+Bélgica,24/05/2026,13:30,St Truiden,Mechelen,Home,0.693414285714286
+Bélgica,24/05/2026,13:30,Club Brugge,Gent,Home,0.7374571428571427
+Romenia,24/05/2026,14:30,FCSB,FC Botosani,Home,0.7020825396825394
+Argentina,24/05/2026,15:30,River Plate,Belgrano,Home,0.7681984126984129
+Itália - Serie A,24/05/2026,15:45,Milan,Cagliari,Home,0.759634920634921
+Itália - Serie A,24/05/2026,15:45,Cremonese,Como,Away,0.6533333333333333
+Itália - Serie A,24/05/2026,15:45,Verona,Roma,Away,0.74
+Brasil,24/05/2026,16:00,Cruzeiro,Chapecoense-SC,Home,0.6928857142857143
+Espanha - La Liga,24/05/2026,16:00,Villarreal,Ath Madrid,Home,0.5804738095238096
+Brasil,24/05/2026,18:30,Corinthians,Atletico-MG,Home,0.71059126984127
+EUA,24/05/2026,20:00,Inter Miami,Philadelphia Union,Home,0.7247523809523809
+Brasil,24/05/2026,20:30,Vasco,Bragantino,Home,0.8213420634920636
+Noruega,25/05/2026,12:00,Tromso,Aalesund,Home,0.8074190476190476
+Suecia,25/05/2026,14:00,Goteborg,Mjallby,Away,0.76
+Irlanda,25/05/2026,16:00,Bohemians,Shamrock Rovers,Home,0.7666896825396828
