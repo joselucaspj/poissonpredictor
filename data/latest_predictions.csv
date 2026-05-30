@@ -1,23 +1,7 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Itália - Serie A,23/05/2026,13:00,Bologna,Inter,Away,0.67
-Bélgica,23/05/2026,15:45,Antwerp,Westerlo,Home,0.6567285714285716
-Espanha - La Liga,23/05/2026,16:00,Getafe,Osasuna,Home,0.7432452380952377
-Espanha - La Liga,23/05/2026,16:00,Girona,Elche,Home,0.7709523809523808
-Espanha - La Liga,23/05/2026,16:00,Betis,Levante,Home,0.8070785714285715
-Espanha - La Liga,23/05/2026,16:00,Real Madrid,Ath Bilbao,Home,0.7625301587301586
-Inglaterra - Premiere League,24/05/2026,12:00,Man City,Aston Villa,Home,0.8524896825396826
-Inglaterra - Premiere League,24/05/2026,12:00,Liverpool,Brentford,Home,0.8535888888888886
-Inglaterra - Premiere League,24/05/2026,12:00,Tottenham,Everton,Home,0.5864555555555557
-Inglaterra - Premiere League,24/05/2026,12:00,Fulham,Newcastle,Away,0.6933333333333334
-Itália - Serie A,24/05/2026,13:00,Napoli,Udinese,Home,0.7475642857142859
-Bélgica,24/05/2026,13:30,St Truiden,Mechelen,Home,0.7237000000000001
-Bélgica,24/05/2026,13:30,Club Brugge,Gent,Home,0.7717722222222219
-Itália - Serie A,24/05/2026,15:45,Verona,Roma,Away,0.7666666666666667
-Itália - Serie A,24/05/2026,15:45,Milan,Cagliari,Home,0.7263158730158734
-Itália - Serie A,24/05/2026,15:45,Cremonese,Como,Away,0.6533333333333333
-Noruega,29/05/2026,14:00,Rosenborg,Bodo/Glimt,Away,0.66
-Noruega,29/05/2026,14:00,Valerenga,Kristiansund,Home,0.6475944444444443
 Noruega,29/05/2026,14:00,Brann,Sarpsborg 08,Home,0.7826611111111109
+Noruega,29/05/2026,14:00,Valerenga,Kristiansund,Home,0.6475944444444443
+Noruega,29/05/2026,14:00,Rosenborg,Bodo/Glimt,Away,0.66
 Noruega,29/05/2026,14:00,Fredrikstad,Start,Home,0.7437555555555557
 Irlanda,29/05/2026,15:45,Shelbourne,Galway,Home,0.6051285714285712
 China,30/05/2026,08:35,Chengdu Rongcheng,Shandong Taishan,Home,0.7363730158730161
