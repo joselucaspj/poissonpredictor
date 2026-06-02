@@ -1,19 +1,19 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Noruega,29/05/2026,14:00,Brann,Sarpsborg 08,Home,0.7826611111111109
-Noruega,29/05/2026,14:00,Valerenga,Kristiansund,Home,0.6475944444444443
-Noruega,29/05/2026,14:00,Rosenborg,Bodo/Glimt,Away,0.66
-Noruega,29/05/2026,14:00,Fredrikstad,Start,Home,0.7437555555555557
-Irlanda,29/05/2026,15:45,Shelbourne,Galway,Home,0.6051285714285712
-China,30/05/2026,08:35,Chengdu Rongcheng,Shandong Taishan,Home,0.7363730158730161
-China,30/05/2026,09:00,Shenzhen Xinpengcheng,Qingdao Hainiu,Away,0.6466666666666666
-Finlândia,30/05/2026,09:00,HJK,Mariehamn,Home,0.8159658730158731
-Suecia,30/05/2026,10:00,Malmo FF,Halmstad,Home,0.7213634920634922
-Noruega,30/05/2026,11:00,Molde,Sandefjord,Home,0.7901634920634921
-Brasil,30/05/2026,16:00,Flamengo RJ,Coritiba,Home,0.7960809523809529
-Brasil,30/05/2026,17:30,Gremio,Corinthians,Home,0.6976817460317459
-China,31/05/2026,08:00,Tianjin Jinmen Tiger,Dalian Yingbo,Home,0.603798412698413
-Suecia,31/05/2026,09:00,Hacken,Hammarby,Home,0.6842769841269845
-Suecia,31/05/2026,09:00,Degerfors,Brommapojkarna,Away,0.6533333333333333
-Finlândia,31/05/2026,10:00,AC Oulu,Jaro,Home,0.7534396825396827
-Romenia,31/05/2026,14:30,Farul Constanta,Chindia Targoviste,Home,0.7358706349206346
-Brasil,31/05/2026,16:00,Palmeiras,Chapecoense-SC,Home,0.8145349206349207
+Noruega,29/05/2026,14:00,Brann,Sarpsborg 08,Home,0.7791785714285715
+Noruega,29/05/2026,14:00,Fredrikstad,Start,Home,0.7332714285714286
+Irlanda,29/05/2026,15:45,Shelbourne,Galway,Home,0.5983079365079362
+Irlanda,29/05/2026,16:00,Shamrock Rovers,St. Patricks,Home,0.6987849206349206
+China,30/05/2026,08:35,Chengdu Rongcheng,Shandong Taishan,Home,0.7356087301587303
+Finlândia,30/05/2026,09:00,HJK,Mariehamn,Home,0.8376595238095239
+China,30/05/2026,09:00,Shenzhen Xinpengcheng,Qingdao Hainiu,Away,0.6533333333333333
+Suecia,30/05/2026,10:00,Malmo FF,Halmstad,Home,0.727368253968254
+Suecia,30/05/2026,10:00,GAIS,Kalmar,Home,0.6448309523809523
+Noruega,30/05/2026,11:00,Molde,Sandefjord,Home,0.782397619047619
+Brasil,30/05/2026,16:00,Flamengo RJ,Coritiba,Home,0.7959111111111116
+China,31/05/2026,08:00,Tianjin Jinmen Tiger,Dalian Yingbo,Home,0.6077730158730158
+Suecia,31/05/2026,09:00,Hacken,Hammarby,Home,0.6954730158730159
+Suecia,31/05/2026,09:00,Degerfors,Brommapojkarna,Away,0.6766666666666666
+Finlândia,31/05/2026,10:00,AC Oulu,Jaro,Home,0.7770769841269844
+Romenia,31/05/2026,14:30,Farul Constanta,Chindia Targoviste,Home,0.7353880952380949
+Brasil,31/05/2026,16:00,Palmeiras,Chapecoense-SC,Home,0.8155587301587301
+Romenia,01/06/2026,14:30,FC Voluntari,FC Hermannstadt,Home,0.6121444444444446
