@@ -1,6 +1,7 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Irlanda,12/06/2026,15:45,St. Patricks,Drogheda,Home,0.7537706349206349
-Irlanda,12/06/2026,16:00,Shelbourne,Shamrock Rovers,Home,0.6409452380952381
-Finlândia,13/06/2026,09:00,Ilves,TPS,Home,0.7327055555555554
-Finlândia,13/06/2026,09:00,Inter Turku,AC Oulu,Home,0.8411015873015871
-Finlândia,13/06/2026,11:00,Jaro,HJK,Away,0.6466666666666666
+Irlanda,12/06/2026,15:45,St. Patricks,Drogheda,Home,0.8716055555555556
+Irlanda,12/06/2026,15:45,Waterford,Sligo Rovers,Home,0.706415873015873
+Irlanda,12/06/2026,16:00,Shelbourne,Shamrock Rovers,Home,0.8111484126984132
+Finlândia,13/06/2026,09:00,Ilves,TPS,Home,0.725345238095238
+Finlândia,13/06/2026,09:00,Inter Turku,AC Oulu,Home,0.8582476190476187
+Finlândia,13/06/2026,11:00,Jaro,HJK,Away,0.6433333333333333
