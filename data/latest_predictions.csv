@@ -1,11 +1,9 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Irlanda,26/06/2026,15:30,Shamrock Rovers,Galway,Home,0.7430698412698413
-Irlanda,26/06/2026,15:45,Derry City,Drogheda,Home,0.7995785714285714
-Irlanda,26/06/2026,16:00,Bohemians,St. Patricks,Home,0.7271968253968255
-Finlândia,27/06/2026,08:00,Ilves,SJK,Home,0.7857809523809527
+Irlanda,26/06/2026,15:30,Shamrock Rovers,Galway,Home,0.7539222222222225
+Irlanda,26/06/2026,15:45,Derry City,Drogheda,Home,0.8142626984126987
+Irlanda,26/06/2026,16:00,Bohemians,St. Patricks,Home,0.7123111111111113
+Finlândia,27/06/2026,08:00,Ilves,SJK,Home,0.7899833333333337
 China,27/06/2026,08:35,Shenzhen Xinpengcheng,Chengdu Rongcheng,Away,0.5533333333333333
-China,27/06/2026,09:00,Beijing Guoan,Wuhan Three Towns,Home,0.7257055555555552
-Finlândia,27/06/2026,11:00,HJK,KuPS,Home,0.597497619047619
-Finlândia,27/06/2026,13:00,TPS,Jaro,Home,0.6079134920634923
-Irlanda,27/06/2026,15:45,Sligo Rovers,Shelbourne,Away,0.6166666666666667
-China,28/06/2026,07:00,Qingdao West Coast,Zhejiang Professional,Away,0.6333333333333333
+China,27/06/2026,09:00,Beijing Guoan,Wuhan Three Towns,Home,0.7328071428571422
+Finlândia,27/06/2026,13:00,TPS,Jaro,Home,0.6076198412698416
+Irlanda,27/06/2026,15:45,Sligo Rovers,Shelbourne,Away,0.6233333333333333
