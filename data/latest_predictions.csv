@@ -1,18 +1,20 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-China,10/07/2026,08:35,Shandong Taishan,Yunnan Yukun,Home,0.7354222222222221
-Finlândia,10/07/2026,13:00,VPS,SJK,Home,0.8068944444444441
-Irlanda,10/07/2026,15:45,Dundalk,Drogheda,Home,0.6748071428571426
-Irlanda,10/07/2026,16:00,Waterford,St. Patricks,Away,0.6
-China,11/07/2026,08:00,Zhejiang Professional,Qingdao Hainiu,Home,0.6477753968253969
+China,10/07/2026,08:35,Shandong Taishan,Yunnan Yukun,Home,0.7342007936507937
+Finlândia,10/07/2026,13:00,VPS,SJK,Home,0.8204619047619052
+Irlanda,10/07/2026,15:45,Dundalk,Drogheda,Home,0.7317285714285714
+China,11/07/2026,08:00,Zhejiang Professional,Qingdao Hainiu,Home,0.7960865079365079
 China,11/07/2026,08:35,Shanghai Shenhua,Beijing Guoan,Home,0.6736936507936508
-China,11/07/2026,08:35,Shenzhen Xinpengcheng,Qingdao West Coast,Home,0.5969563492063493
-Suecia,11/07/2026,10:00,Mjallby,AIK,Home,0.8173404761904761
-Finlândia,11/07/2026,11:00,Gnistan,Mariehamn,Home,0.7534642857142861
-Noruega,11/07/2026,11:00,Aalesund,Molde,Away,0.5666666666666667
-Suecia,12/07/2026,09:00,Hammarby,Kalmar,Home,0.8292936507936508
-Noruega,12/07/2026,09:30,KFUM Oslo,Bodo/Glimt,Away,0.8366666666666667
-Suecia,12/07/2026,11:30,GAIS,Elfsborg,Home,0.6757499999999997
-Suecia,12/07/2026,11:30,Brommapojkarna,Sirius,Away,0.5666666666666667
-Noruega,12/07/2026,12:00,Brann,Start,Home,0.7506944444444444
-Noruega,12/07/2026,14:15,Sarpsborg 08,Viking,Away,0.8133333333333334
-Suecia,13/07/2026,14:00,Djurgarden,Halmstad,Home,0.8698873015873013
+China,11/07/2026,08:35,Shenzhen Xinpengcheng,Qingdao West Coast,Home,0.6432158730158729
+Finlândia,11/07/2026,09:00,Lahti,HJK,Away,0.65
+Suecia,11/07/2026,10:00,Mjallby,AIK,Home,0.7577349206349209
+Finlândia,11/07/2026,11:00,TPS,AC Oulu,Home,0.7479555555555558
+Noruega,11/07/2026,13:00,Tromso,Valerenga,Home,0.8098126984126989
+Suecia,12/07/2026,09:00,Hammarby,Kalmar,Home,0.7128611111111112
+Suecia,12/07/2026,09:00,Malmo FF,Goteborg,Home,0.8802555555555558
+Noruega,12/07/2026,09:30,KFUM Oslo,Bodo/Glimt,Away,0.8233333333333334
+Suecia,12/07/2026,11:30,GAIS,Elfsborg,Home,0.7220285714285717
+Suecia,12/07/2026,11:30,Brommapojkarna,Sirius,Away,0.5333333333333333
+Noruega,12/07/2026,12:00,Brann,Start,Home,0.7441174603174604
+Noruega,12/07/2026,12:00,Sandefjord,HamKam,Home,0.7748825396825402
+Noruega,12/07/2026,12:00,Rosenborg,Kristiansund,Home,0.7903753968253971
+Suecia,13/07/2026,14:00,Djurgarden,Halmstad,Home,0.8805999999999998
