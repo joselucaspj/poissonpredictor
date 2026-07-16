@@ -1,20 +1,27 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-China,10/07/2026,08:35,Shandong Taishan,Yunnan Yukun,Home,0.7342007936507937
-Finlândia,10/07/2026,13:00,VPS,SJK,Home,0.8204619047619052
-Irlanda,10/07/2026,15:45,Dundalk,Drogheda,Home,0.7317285714285714
-China,11/07/2026,08:00,Zhejiang Professional,Qingdao Hainiu,Home,0.7960865079365079
-China,11/07/2026,08:35,Shanghai Shenhua,Beijing Guoan,Home,0.6736936507936508
-China,11/07/2026,08:35,Shenzhen Xinpengcheng,Qingdao West Coast,Home,0.6432158730158729
-Finlândia,11/07/2026,09:00,Lahti,HJK,Away,0.65
-Suecia,11/07/2026,10:00,Mjallby,AIK,Home,0.7577349206349209
-Finlândia,11/07/2026,11:00,TPS,AC Oulu,Home,0.7479555555555558
-Noruega,11/07/2026,13:00,Tromso,Valerenga,Home,0.8098126984126989
-Suecia,12/07/2026,09:00,Hammarby,Kalmar,Home,0.7128611111111112
-Suecia,12/07/2026,09:00,Malmo FF,Goteborg,Home,0.8802555555555558
-Noruega,12/07/2026,09:30,KFUM Oslo,Bodo/Glimt,Away,0.8233333333333334
-Suecia,12/07/2026,11:30,GAIS,Elfsborg,Home,0.7220285714285717
-Suecia,12/07/2026,11:30,Brommapojkarna,Sirius,Away,0.5333333333333333
-Noruega,12/07/2026,12:00,Brann,Start,Home,0.7441174603174604
-Noruega,12/07/2026,12:00,Sandefjord,HamKam,Home,0.7748825396825402
-Noruega,12/07/2026,12:00,Rosenborg,Kristiansund,Home,0.7903753968253971
-Suecia,13/07/2026,14:00,Djurgarden,Halmstad,Home,0.8805999999999998
+Brasil,16/07/2026,19:30,Botafogo RJ,Santos,Home,0.8206769841269843
+EUA,16/07/2026,20:30,CF Montreal,Toronto FC,Home,0.6966357142857145
+EUA,16/07/2026,21:30,St. Louis City,Sporting Kansas City,Home,0.6523650793650797
+EUA,16/07/2026,21:30,Chicago Fire,Vancouver Whitecaps,Home,0.6511777777777776
+EUA,16/07/2026,23:30,Seattle Sounders,Portland Timbers,Home,0.7482619047619045
+China,17/07/2026,08:35,Henan Songshan Longmen,Qingdao Hainiu,Home,0.6785000000000001
+Romenia,17/07/2026,12:30,FC Voluntari,FC Botosani,Home,0.6724373015873015
+Suecia,17/07/2026,14:00,Mjallby,Vasteras SK,Home,0.6580571428571428
+Noruega,17/07/2026,14:15,Bodo/Glimt,Fredrikstad,Home,0.8546317460317461
+Romenia,17/07/2026,15:30,FCSB,FC Arges,Home,0.7303214285714291
+Brasil,17/07/2026,19:30,Bahia,Chapecoense-SC,Home,0.7811436507936513
+EUA,17/07/2026,21:10,Nashville SC,Atlanta Utd,Home,0.8148214285714284
+China,18/07/2026,08:35,Shanghai Shenhua,Tianjin Jinmen Tiger,Home,0.8018460317460318
+China,18/07/2026,09:00,Wuhan Three Towns,Shenzhen Xinpengcheng,Home,0.6782841269841271
+Finlândia,18/07/2026,09:00,HJK,VPS,Away,0.56
+Noruega,18/07/2026,11:00,Lillestrom,KFUM Oslo,Home,0.795523015873016
+Noruega,18/07/2026,11:00,Kristiansund,Sarpsborg 08,Home,0.701484126984127
+Romenia,18/07/2026,12:30,Otelul,CFR Cluj,Away,0.63
+Noruega,18/07/2026,13:00,Viking,Sandefjord,Home,0.825849206349206
+Noruega,18/07/2026,13:00,Molde,Brann,Home,0.6994325396825398
+Suecia,19/07/2026,11:30,Hammarby,Degerfors,Home,0.7604626984126989
+Suecia,19/07/2026,11:30,Halmstad,Hacken,Away,0.6466666666666666
+Finlândia,19/07/2026,12:30,Jaro,Inter Turku,Away,0.6766666666666666
+Finlândia,20/07/2026,12:00,TPS,Ilves,Home,0.6376658730158732
+Finlândia,20/07/2026,13:00,Mariehamn,Lahti,Away,0.68
+Romenia,20/07/2026,15:30,FC Rapid Bucuresti,Sepsi Sf. Gheorghe,Home,0.61660873015873
