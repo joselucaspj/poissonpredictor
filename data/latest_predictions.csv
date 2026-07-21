@@ -1,27 +1,11 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Brasil,16/07/2026,19:30,Botafogo RJ,Santos,Home,0.8206769841269843
-EUA,16/07/2026,20:30,CF Montreal,Toronto FC,Home,0.6966357142857145
-EUA,16/07/2026,21:30,St. Louis City,Sporting Kansas City,Home,0.6523650793650797
-EUA,16/07/2026,21:30,Chicago Fire,Vancouver Whitecaps,Home,0.6511777777777776
-EUA,16/07/2026,23:30,Seattle Sounders,Portland Timbers,Home,0.7482619047619045
-China,17/07/2026,08:35,Henan Songshan Longmen,Qingdao Hainiu,Home,0.6785000000000001
-Romenia,17/07/2026,12:30,FC Voluntari,FC Botosani,Home,0.6724373015873015
-Suecia,17/07/2026,14:00,Mjallby,Vasteras SK,Home,0.6580571428571428
-Noruega,17/07/2026,14:15,Bodo/Glimt,Fredrikstad,Home,0.8546317460317461
-Romenia,17/07/2026,15:30,FCSB,FC Arges,Home,0.7303214285714291
-Brasil,17/07/2026,19:30,Bahia,Chapecoense-SC,Home,0.7811436507936513
-EUA,17/07/2026,21:10,Nashville SC,Atlanta Utd,Home,0.8148214285714284
-China,18/07/2026,08:35,Shanghai Shenhua,Tianjin Jinmen Tiger,Home,0.8018460317460318
-China,18/07/2026,09:00,Wuhan Three Towns,Shenzhen Xinpengcheng,Home,0.6782841269841271
-Finlândia,18/07/2026,09:00,HJK,VPS,Away,0.56
-Noruega,18/07/2026,11:00,Lillestrom,KFUM Oslo,Home,0.795523015873016
-Noruega,18/07/2026,11:00,Kristiansund,Sarpsborg 08,Home,0.701484126984127
-Romenia,18/07/2026,12:30,Otelul,CFR Cluj,Away,0.63
-Noruega,18/07/2026,13:00,Viking,Sandefjord,Home,0.825849206349206
-Noruega,18/07/2026,13:00,Molde,Brann,Home,0.6994325396825398
-Suecia,19/07/2026,11:30,Hammarby,Degerfors,Home,0.7604626984126989
-Suecia,19/07/2026,11:30,Halmstad,Hacken,Away,0.6466666666666666
-Finlândia,19/07/2026,12:30,Jaro,Inter Turku,Away,0.6766666666666666
-Finlândia,20/07/2026,12:00,TPS,Ilves,Home,0.6376658730158732
-Finlândia,20/07/2026,13:00,Mariehamn,Lahti,Away,0.68
-Romenia,20/07/2026,15:30,FC Rapid Bucuresti,Sepsi Sf. Gheorghe,Home,0.61660873015873
+Noruega,22/07/2026,14:00,Bodo/Glimt,HamKam,Home,0.8967690476190474
+Brasil,22/07/2026,19:30,Coritiba,Palmeiras,Away,0.6933333333333334
+EUA,22/07/2026,20:30,Columbus Crew,New York City,Home,0.7557285714285714
+EUA,22/07/2026,21:15,Charlotte,Atlanta Utd,Home,0.7522944444444449
+Brasil,22/07/2026,21:30,Internacional,Cruzeiro,Home,0.8274277777777777
+Brasil,22/07/2026,21:30,Sao Paulo,Athletico-PR,Home,0.6657968253968255
+EUA,22/07/2026,21:30,Houston Dynamo,DC United,Home,0.6887373015873015
+EUA,22/07/2026,21:30,Nashville SC,CF Montreal,Home,0.793175396825397
+Brasil,23/07/2026,19:30,Botafogo RJ,Vitoria,Home,0.6694944444444444
+Argentina,23/07/2026,21:45,Defensa y Justicia,Aldosivi,Home,0.7396079365079363
