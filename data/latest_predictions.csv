@@ -1,11 +1,62 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Noruega,22/07/2026,14:00,Bodo/Glimt,HamKam,Home,0.8967690476190474
-Brasil,22/07/2026,19:30,Coritiba,Palmeiras,Away,0.6933333333333334
-EUA,22/07/2026,20:30,Columbus Crew,New York City,Home,0.7557285714285714
-EUA,22/07/2026,21:15,Charlotte,Atlanta Utd,Home,0.7522944444444449
-Brasil,22/07/2026,21:30,Internacional,Cruzeiro,Home,0.8274277777777777
-Brasil,22/07/2026,21:30,Sao Paulo,Athletico-PR,Home,0.6657968253968255
-EUA,22/07/2026,21:30,Houston Dynamo,DC United,Home,0.6887373015873015
-EUA,22/07/2026,21:30,Nashville SC,CF Montreal,Home,0.793175396825397
-Brasil,23/07/2026,19:30,Botafogo RJ,Vitoria,Home,0.6694944444444444
-Argentina,23/07/2026,21:45,Defensa y Justicia,Aldosivi,Home,0.7396079365079363
+Dinamarca,24/07/2026,14:00,Viborg,Odense,Home,0.6917968253968253
+Polonia,24/07/2026,15:30,Pogon Szczecin,Legia,Home,0.6481611111111106
+Romenia,24/07/2026,15:30,FC Arges,Petrolul,Home,0.6547388888888889
+Irlanda,24/07/2026,16:00,St. Patricks,Dundalk,Home,0.8187063492063497
+Argentina,24/07/2026,19:00,Racing Club,Gimnasia L.P.,Home,0.680326984126984
+Argentina,24/07/2026,19:00,Velez Sarsfield,Instituto,Home,0.8082500000000001
+Argentina,24/07/2026,21:15,Platense,Union de Santa Fe,Home,0.6424500000000003
+Argentina,24/07/2026,21:15,Huracan,Banfield,Home,0.7888436507936509
+China,25/07/2026,08:35,Shanghai Port,Shanghai Shenhua,Home,0.6832833333333332
+Polonia,25/07/2026,09:45,Jagiellonia,Korona Kielce,Home,0.8147214285714285
+Suecia,25/07/2026,10:00,Degerfors,Djurgarden,Away,0.8
+Finlândia,25/07/2026,10:30,Mariehamn,AC Oulu,Home,0.6652888888888892
+Polonia,25/07/2026,12:30,Gornik Zabrze,Slask Wroclaw,Home,0.7346944444444442
+Suecia,25/07/2026,12:30,Kalmar,Mjallby,Away,0.73
+Dinamarca,25/07/2026,13:00,Aarhus,Brondby,Home,0.7517007936507932
+Suíça,25/07/2026,13:00,Servette,Basel,Home,0.7161349206349206
+Irlanda,25/07/2026,13:00,Galway,Waterford,Home,0.6878325396825395
+Polonia,25/07/2026,15:15,Lech Poznan,Cracovia,Home,0.834748412698413
+Suíça,25/07/2026,15:30,Luzern,Thun,Home,0.6832087301587302
+Brasil,25/07/2026,18:30,Santos,Chapecoense-SC,Home,0.7464761904761907
+Brasil,25/07/2026,18:30,Athletico-PR,Internacional,Home,0.7071555555555556
+Argentina,25/07/2026,19:15,River Plate,Barracas Central,Home,0.7925150793650789
+EUA,25/07/2026,19:30,New York Red Bulls,Charlotte,Home,0.7401698412698413
+EUA,25/07/2026,20:15,Columbus Crew,FC Cincinnati,Home,0.700197619047619
+EUA,25/07/2026,20:30,New York City,Chicago Fire,Home,0.7243063492063492
+EUA,25/07/2026,20:30,Orlando City,Nashville SC,Home,0.6771142857142853
+EUA,25/07/2026,20:30,New England Revolution,Atlanta Utd,Home,0.6489341269841271
+EUA,25/07/2026,20:30,CF Montreal,Inter Miami,Away,0.6666666666666666
+Argentina,25/07/2026,21:30,Lanus,San Lorenzo,Home,0.7161420634920639
+EUA,25/07/2026,21:30,St. Louis City,Colorado Rapids,Home,0.7044722222222222
+EUA,25/07/2026,21:30,Houston Dynamo,Austin FC,Home,0.7128833333333333
+EUA,25/07/2026,23:30,San Jose Earthquakes,Los Angeles Galaxy,Home,0.7338833333333334
+EUA,25/07/2026,23:30,Portland Timbers,Real Salt Lake,Home,0.7459380952380956
+EUA,25/07/2026,23:30,Los Angeles FC,Sporting Kansas City,Home,0.7172158730158735
+China,26/07/2026,08:00,Yunnan Yukun,Shenzhen Xinpengcheng,Home,0.6578349206349204
+China,26/07/2026,08:35,Shandong Taishan,Henan Songshan Longmen,Home,0.7021222222222223
+Suecia,26/07/2026,09:00,Brommapojkarna,Hammarby,Away,0.72
+Finlândia,26/07/2026,09:00,Inter Turku,Gnistan,Home,0.6602095238095236
+Dinamarca,26/07/2026,09:00,Sonderjyske,Midtjylland,Away,0.74
+Suecia,26/07/2026,09:00,Sirius,Goteborg,Home,0.7938261904761903
+Finlândia,26/07/2026,09:00,Ilves,Lahti,Home,0.7382476190476195
+Suíça,26/07/2026,09:00,Young Boys,Sion,Home,0.6299706349206342
+China,26/07/2026,09:00,Zhejiang Professional,Dalian Yingbo,Home,0.7980444444444444
+Noruega,26/07/2026,09:30,Brann,Valerenga,Home,0.6970198412698415
+Polonia,26/07/2026,09:45,Rakow,Wisla Plock,Home,0.7054809523809523
+Finlândia,26/07/2026,11:00,HJK,TPS,Home,0.7889063492063487
+Dinamarca,26/07/2026,11:00,FC Copenhagen,Lyngby,Home,0.8206309523809523
+Suíça,26/07/2026,11:30,Lugano,Vaduz,Home,0.7049706349206349
+Suecia,26/07/2026,11:30,Malmo FF,Elfsborg,Home,0.6821317460317458
+Suecia,26/07/2026,11:30,GAIS,Halmstad,Home,0.8359420634920639
+Suíça,26/07/2026,11:30,St. Gallen,Zurich,Home,0.7842531746031747
+Noruega,26/07/2026,12:00,Sandefjord,Bodo/Glimt,Away,0.65
+Polonia,26/07/2026,15:15,Wisla,GKS Katowice,Away,0.59
+Brasil,26/07/2026,16:00,Cruzeiro,Botafogo RJ,Home,0.6796119047619047
+Brasil,26/07/2026,18:30,Bragantino,Coritiba,Home,0.8104714285714286
+Argentina,26/07/2026,19:30,Dep. Riestra,Boca Juniors,Away,0.7333333333333333
+Brasil,26/07/2026,19:30,Palmeiras,Atletico-MG,Home,0.8467746031746034
+Romenia,27/07/2026,12:30,CFR Cluj,FC Voluntari,Home,0.6766269841269843
+Suecia,27/07/2026,14:00,Hacken,AIK,Home,0.7121277777777777
+Dinamarca,27/07/2026,14:00,Randers FC,Silkeborg,Away,0.5466666666666666
+Noruega,27/07/2026,14:00,Rosenborg,Fredrikstad,Home,0.6376523809523807
