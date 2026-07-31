@@ -1,7 +1,54 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Argentina,28/07/2026,21:15,Rosario Central,Racing Club,Home,0.7419539682539684
-Argentina,29/07/2026,21:30,Instituto,Platense,Home,0.7029460317460321
-Brasil,29/07/2026,21:30,Fluminense,Bahia,Home,0.8191944444444447
-Argentina,30/07/2026,19:00,Talleres Cordoba,Velez Sarsfield,Home,0.642027777777778
-Brasil,30/07/2026,19:30,Corinthians,Athletico-PR,Home,0.7009039682539681
-Argentina,30/07/2026,21:15,Independiente,Newells Old Boys,Home,0.7642960317460319
+China,31/07/2026,08:35,Henan Songshan Longmen,Dalian Yingbo,Home,0.7177150793650795
+Polonia,31/07/2026,13:00,Wisla Plock,Widzew Lodz,Home,0.6697031746031743
+Noruega,31/07/2026,14:00,Valerenga,HamKam,Home,0.761097619047619
+Austria,31/07/2026,14:30,LASK,Grazer AK,Home,0.7465936507936509
+Noruega,31/07/2026,16:00,Bodo/Glimt,Lillestrom,Home,0.8167698412698412
+EUA,31/07/2026,20:30,New York City,Toronto FC,Home,0.7913301587301587
+China,01/08/2026,08:35,Shanghai Port,Shandong Taishan,Home,0.640720634920635
+China,01/08/2026,08:35,Beijing Guoan,Zhejiang Professional,Home,0.7652103174603176
+China,01/08/2026,09:00,Chengdu Rongcheng,Wuhan Three Towns,Home,0.7843666666666667
+Polonia,01/08/2026,09:45,Piast Gliwice,Wisla,Home,0.7325738095238095
+Suecia,01/08/2026,10:00,Hacken,Kalmar,Home,0.7690547619047616
+Noruega,01/08/2026,11:00,Fredrikstad,Sandefjord,Home,0.6986603174603179
+Finlândia,01/08/2026,13:00,Gnistan,KuPS,Away,0.6666666666666666
+Noruega,01/08/2026,13:00,Start,Viking,Away,0.76
+Suíça,01/08/2026,13:00,Basel,Lausanne,Home,0.6997452380952379
+Austria,01/08/2026,14:30,Salzburg,Hartberg,Home,0.7095682539682538
+Suíça,01/08/2026,15:30,Thun,Young Boys,Home,0.6983563492063496
+Romenia,01/08/2026,15:30,Univ. Craiova,Petrolul,Home,0.8211357142857145
+EUA,01/08/2026,20:30,Inter Miami,Columbus Crew,Home,0.7265880952380952
+EUA,01/08/2026,20:30,Philadelphia Union,Atlanta Utd,Home,0.6987301587301588
+Argentina,01/08/2026,20:30,Racing Club,Tigre,Home,0.7697555555555556
+EUA,01/08/2026,20:30,FC Cincinnati,San Jose Earthquakes,Home,0.6957460317460317
+EUA,01/08/2026,22:30,Colorado Rapids,Austin FC,Home,0.7196150793650788
+EUA,01/08/2026,23:45,Portland Timbers,Seattle Sounders,Home,0.6412634920634916
+Dinamarca,02/08/2026,09:00,Midtjylland,Horsens,Home,0.7027595238095238
+Dinamarca,02/08/2026,09:00,Nordsjaelland,Randers FC,Home,0.7727015873015872
+Polonia,02/08/2026,09:45,Legia,Zaglebie,Home,0.7223238095238091
+Escócia - Premiere League,02/08/2026,10:00,St Johnstone,Kilmarnock,Home,0.6903079365079369
+Dinamarca,02/08/2026,11:00,Brondby,Viborg,Home,0.7936452380952381
+Irlanda,02/08/2026,11:00,Waterford,Shelbourne,Away,0.6466666666666666
+Noruega,02/08/2026,12:00,KFUM Oslo,Kristiansund,Home,0.8173269841269846
+Noruega,02/08/2026,12:00,Molde,Sarpsborg 08,Home,0.768375396825397
+Noruega,02/08/2026,12:00,Aalesund,Tromso,Away,0.5766666666666667
+Escócia - Premiere League,02/08/2026,12:30,Hibernian,Motherwell,Home,0.7692126984126986
+Polonia,02/08/2026,12:30,Slask Wroclaw,Rakow,Away,0.56
+Austria,02/08/2026,14:00,SK Rapid,Altach,Home,0.7808015873015871
+Argentina,02/08/2026,14:30,Dep. Riestra,Barracas Central,Home,0.6512626984126987
+Irlanda,02/08/2026,15:00,Bohemians,Galway,Home,0.7627865079365077
+Polonia,02/08/2026,15:15,GKS Katowice,Radomiak Radom,Home,0.7386063492063492
+Argentina,02/08/2026,19:15,River Plate,Rosario Central,Home,0.761771428571429
+Argentina,02/08/2026,21:30,Lanus,Instituto,Home,0.7350198412698411
+Romenia,03/08/2026,12:30,U. Cluj,FC Botosani,Home,0.790118253968254
+Finlândia,03/08/2026,13:00,SJK,HJK,Home,0.6761642857142858
+Suecia,03/08/2026,14:00,Halmstad,Sirius,Away,0.7666666666666667
+Suecia,03/08/2026,14:00,Djurgarden,Vasteras SK,Home,0.790913492063492
+Romenia,03/08/2026,15:30,FCSB,Farul Constanta,Home,0.7122801587301584
+Argentina,03/08/2026,19:00,Velez Sarsfield,Independiente,Home,0.6241238095238094
+Argentina,03/08/2026,21:15,Huracan,Atl. Tucuman,Home,0.7157761904761905
+Brasil,08/08/2026,21:00,Botafogo RJ,Fluminense,Home,0.7143238095238095
+Brasil,09/08/2026,16:00,Palmeiras,Internacional,Home,0.7695642857142855
+Brasil,09/08/2026,16:00,Bahia,Vasco,Home,0.7235523809523812
+Brasil,09/08/2026,18:30,Bragantino,Corinthians,Home,0.8117134920634926
+Brasil,09/08/2026,19:30,Flamengo RJ,Vitoria,Home,0.7576341269841271
