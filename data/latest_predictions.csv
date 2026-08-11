@@ -1,67 +1,70 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
 Japao,07/08/2026,07:30,Gamba Osaka,Urawa Reds,Home,0.6829285714285716
-China,07/08/2026,08:35,Beijing Guoan,Shenzhen Xinpengcheng,Home,0.747034126984127
-Finlândia,07/08/2026,13:00,SJK,Gnistan,Home,0.7143230158730159
+China,07/08/2026,08:35,Beijing Guoan,Shenzhen Xinpengcheng,Home,0.7498301587301586
+Finlândia,07/08/2026,13:00,SJK,Gnistan,Home,0.7072849206349204
 Holanda,07/08/2026,15:00,Cambuur,Excelsior,Away,0.67
+Irlanda,07/08/2026,15:45,Derry City,Sligo Rovers,Home,0.7655158730158733
 Bélgica,07/08/2026,15:45,Club Brugge,Kortrijk,Home,0.7161428571428566
-Irlanda,07/08/2026,15:45,Derry City,Sligo Rovers,Home,0.7631071428571431
-Irlanda,07/08/2026,16:00,Shamrock Rovers,Dundalk,Home,0.7529944444444443
-Argentina,07/08/2026,19:30,Rosario Central,Aldosivi,Home,0.8103563492063489
+Irlanda,07/08/2026,16:00,Shamrock Rovers,Dundalk,Home,0.7616809523809523
+Argentina,07/08/2026,19:30,Rosario Central,Aldosivi,Home,0.8110634920634918
 Japao,08/08/2026,07:00,FC Tokyo,Machida,Home,0.7576531746031743
 Japao,08/08/2026,07:00,Cerezo Osaka,Okayama,Home,0.7364499999999999
 China,08/08/2026,08:35,Zhejiang Professional,Wuhan Three Towns,Home,0.7603214285714288
-Noruega,08/08/2026,09:00,Valerenga,Bodo/Glimt,Away,0.59
-China,08/08/2026,09:00,Yunnan Yukun,Chengdu Rongcheng,Home,0.6204888888888886
-Noruega,08/08/2026,11:00,Viking,Sarpsborg 08,Home,0.7013587301587302
-Suecia,08/08/2026,12:30,Mjallby,Elfsborg,Home,0.6838619047619046
-Polonia,08/08/2026,12:30,Pogon Szczecin,Motor Lublin,Home,0.758765873015873
-Finlândia,08/08/2026,13:00,Jaro,VPS,Away,0.74
-Suíça,08/08/2026,13:00,Lausanne,Young Boys,Away,0.6766666666666666
+Noruega,08/08/2026,09:00,Valerenga,Bodo/Glimt,Away,0.6033333333333334
+China,08/08/2026,09:00,Yunnan Yukun,Chengdu Rongcheng,Home,0.6279984126984125
+Noruega,08/08/2026,11:00,Viking,Sarpsborg 08,Home,0.6969674603174604
+Suecia,08/08/2026,12:30,Mjallby,Elfsborg,Home,0.6911301587301586
+Romenia,08/08/2026,12:30,Farul Constanta,Csikszereda M. Ciuc,Home,0.7292190476190474
+Polonia,08/08/2026,12:30,Pogon Szczecin,Motor Lublin,Home,0.7725253968253968
+Finlândia,08/08/2026,13:00,Jaro,VPS,Away,0.7366666666666667
+Noruega,08/08/2026,13:00,Start,Fredrikstad,Home,0.6719976190476191
+Suíça,08/08/2026,13:00,Lausanne,Young Boys,Away,0.6966666666666667
 Holanda,08/08/2026,13:45,Go Ahead Eagles,Willem II,Home,0.7423412698412694
-Austria,08/08/2026,14:30,Hartberg,Sturm Graz,Away,0.73
-Argentina,08/08/2026,14:45,Atl. Tucuman,Sarmiento Junin,Home,0.6754952380952381
+Austria,08/08/2026,14:30,Hartberg,Sturm Graz,Away,0.7433333333333333
+Argentina,08/08/2026,14:45,Dep. Riestra,Estudiantes L.P.,Home,0.7400944444444446
+Argentina,08/08/2026,14:45,Atl. Tucuman,Sarmiento Junin,Home,0.6810039682539685
 Holanda,08/08/2026,15:00,PSV Eindhoven,For Sittard,Home,0.8373849206349209
-Polonia,08/08/2026,15:15,Korona Kielce,Legia,Away,0.74
-Suíça,08/08/2026,15:30,Servette,Grasshoppers,Home,0.74768253968254
+Suíça,08/08/2026,15:30,Servette,Grasshoppers,Home,0.741496031746032
 Holanda,08/08/2026,16:00,AZ Alkmaar,Den Haag,Home,0.7355873015873019
 Portugal - Liga 1,08/08/2026,16:30,Estrela,Sp Lisbon,Away,0.7766666666666666
-Argentina,08/08/2026,17:00,Tigre,River Plate,Home,0.6400095238095236
-Brasil,08/08/2026,21:00,Botafogo RJ,Fluminense,Home,0.7143238095238095
-Argentina,08/08/2026,21:30,Independiente,Platense,Home,0.7420396825396826
+Argentina,08/08/2026,17:00,Tigre,River Plate,Home,0.6432325396825396
+Brasil,08/08/2026,21:00,Botafogo RJ,Fluminense,Home,0.7139738095238095
+Argentina,08/08/2026,21:30,Independiente,Platense,Home,0.7428650793650793
 Holanda,09/08/2026,07:15,Sparta Rotterdam,Feyenoord,Away,0.75
-China,09/08/2026,08:00,Henan Songshan Longmen,Qingdao West Coast,Home,0.785135714285714
+China,09/08/2026,08:00,Henan Songshan Longmen,Qingdao West Coast,Home,0.8274277777777779
 Bélgica,09/08/2026,08:30,Gent,Mechelen,Home,0.724230158730159
-Suecia,09/08/2026,09:00,Malmo FF,Degerfors,Home,0.7848801587301589
-Suíça,09/08/2026,09:00,Lugano,Zurich,Home,0.7784626984126981
-Finlândia,09/08/2026,09:00,KuPS,TPS,Home,0.8418523809523812
+Suecia,09/08/2026,09:00,Hammarby,Hacken,Home,0.7033444444444447
+Suecia,09/08/2026,09:00,Malmo FF,Degerfors,Home,0.7637714285714282
+Suíça,09/08/2026,09:00,Lugano,Zurich,Home,0.8734587301587299
+Finlândia,09/08/2026,09:00,KuPS,TPS,Home,0.8677460317460319
 Holanda,09/08/2026,09:30,Zwolle,Ajax,Away,0.6466666666666666
 Polonia,09/08/2026,09:45,Rakow,Zaglebie,Home,0.7574158730158729
-Bélgica,09/08/2026,11:00,Charleroi,Oud-Heverlee Leuven,Home,0.7102793650793652
-Irlanda,09/08/2026,11:00,Waterford,Bohemians,Away,0.7166666666666667
 Escócia - Premiere League,09/08/2026,11:00,Hearts,Dundee United,Home,0.71435
-Suíça,09/08/2026,11:30,St. Gallen,Luzern,Home,0.8175992063492061
-Suíça,09/08/2026,11:30,Sion,Vaduz,Home,0.7677738095238097
+Finlândia,09/08/2026,11:00,Inter Turku,Lahti,Home,0.7923142857142855
+Bélgica,09/08/2026,11:00,Charleroi,Oud-Heverlee Leuven,Home,0.7102793650793652
+Suíça,09/08/2026,11:30,St. Gallen,Luzern,Home,0.7165182539682543
+Suecia,09/08/2026,11:30,Goteborg,Kalmar,Home,0.6252761904761908
+Suíça,09/08/2026,11:30,Sion,Vaduz,Home,0.7770539682539681
+Suíça,09/08/2026,11:30,Basel,Thun,Home,0.6847174603174605
 Holanda,09/08/2026,11:45,Heerenveen,Twente,Away,0.6433333333333333
-Finlândia,09/08/2026,12:00,Ilves,Mariehamn,Home,0.6370571428571428
+Finlândia,09/08/2026,12:00,Ilves,Mariehamn,Home,0.7604666666666665
 Escócia - Premiere League,09/08/2026,12:00,Rangers,Hibernian,Home,0.8282722222222222
-Polonia,09/08/2026,12:30,Lech Poznan,Piast Gliwice,Home,0.772223015873016
-Austria,09/08/2026,14:00,Austria Vienna,LASK,Away,0.67
-Noruega,09/08/2026,14:15,Kristiansund,Molde,Away,0.6
-Argentina,09/08/2026,15:00,San Lorenzo,Huracan,Home,0.6715785714285709
-Polonia,09/08/2026,15:15,Jagiellonia,Widzew Lodz,Home,0.7475190476190471
-Romenia,09/08/2026,15:30,Univ. Craiova,FC Arges,Home,0.7458357142857144
-Brasil,09/08/2026,16:00,Palmeiras,Internacional,Home,0.7695642857142855
-Brasil,09/08/2026,16:00,Bahia,Vasco,Home,0.7235523809523812
+Polonia,09/08/2026,12:30,Lech Poznan,Piast Gliwice,Home,0.8384047619047617
+Romenia,09/08/2026,12:30,Petrolul,Otelul,Away,0.6533333333333333
+Austria,09/08/2026,14:00,Austria Vienna,LASK,Away,0.6233333333333333
+Romenia,09/08/2026,15:30,Univ. Craiova,FC Arges,Home,0.8489198412698414
+Brasil,09/08/2026,16:00,Bahia,Vasco,Home,0.775115873015873
+Brasil,09/08/2026,16:00,Palmeiras,Internacional,Home,0.6474055555555558
 Portugal - Liga 1,09/08/2026,16:30,Moreirense,Sp Braga,Away,0.7466666666666667
 Portugal - Liga 1,09/08/2026,16:30,Gil Vicente,Rio Ave,Home,0.7467420634920634
-Argentina,09/08/2026,17:45,Defensa y Justicia,Newells Old Boys,Home,0.7116960317460319
-Brasil,09/08/2026,18:30,Bragantino,Corinthians,Home,0.8117134920634926
-Brasil,09/08/2026,19:30,Flamengo RJ,Vitoria,Home,0.7576341269841271
-Argentina,09/08/2026,20:15,Argentinos Jrs,Racing Club,Home,0.8384984126984131
-Suecia,10/08/2026,14:00,Vasteras SK,Djurgarden,Away,0.8366666666666667
-Suecia,10/08/2026,14:00,Sirius,Brommapojkarna,Home,0.719261111111111
+Argentina,09/08/2026,17:45,Gimnasia L.P.,Barracas Central,Home,0.563813492063492
+Brasil,09/08/2026,19:30,Flamengo RJ,Vitoria,Home,0.8355396825396827
+Argentina,09/08/2026,20:15,Argentinos Jrs,Racing Club,Home,0.7652809523809524
+Suecia,10/08/2026,14:00,Vasteras SK,Djurgarden,Away,0.7333333333333333
+Dinamarca,10/08/2026,14:00,Silkeborg,Odense,Home,0.7755261904761908
+Suecia,10/08/2026,14:00,Sirius,Brommapojkarna,Home,0.7819865079365075
+Romenia,10/08/2026,15:30,Sepsi Sf. Gheorghe,FCSB,Home,0.5121849206349205
 Romenia,10/08/2026,15:30,CFR Cluj,U. Cluj,Home,0.8080190476190477
 Portugal - Liga 1,10/08/2026,16:15,Santa Clara,Nacional,Home,0.6944809523809523
-Argentina,10/08/2026,19:00,Banfield,Belgrano,Away,0.52
-Argentina,10/08/2026,21:15,Union de Santa Fe,Central Cordoba,Home,0.6757603174603178
+Argentina,10/08/2026,21:15,Union de Santa Fe,Central Cordoba,Home,0.6128007936507933
 Argentina,11/08/2026,21:00,Talleres Cordoba,Lanus,Home,0.811990476190476
