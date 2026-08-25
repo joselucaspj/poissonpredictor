@@ -1,77 +1,48 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Finlândia,21/08/2026,13:00,SJK,Lahti,Home,0.7734087301587301
-Romenia,21/08/2026,14:30,Petrolul,FC Rapid Bucuresti,Away,0.7966666666666666
-Austria,21/08/2026,14:30,Ried,Grazer AK,Home,0.6698396825396825
-Irlanda,21/08/2026,15:45,Dundalk,Galway,Home,0.770892063492064
-Espanha - La Liga,21/08/2026,16:00,Betis,Sociedad,Home,0.7933198412698415
-Japao,22/08/2026,06:00,Kashima Antlers,Avispa Fukuoka,Home,0.8133626984126983
-Japao,22/08/2026,07:00,Nagoya Grampus,Gamba Osaka,Home,0.6420412698412699
-Japao,22/08/2026,07:15,Sanfrecce Hiroshima,Kawasaki Frontale,Home,0.6934269841269842
-China,22/08/2026,09:00,Beijing Guoan,Yunnan Yukun,Home,0.7586380952380951
-Polonia,22/08/2026,09:45,Korona Kielce,Motor Lublin,Home,0.7082246031746038
-Finlândia,22/08/2026,11:00,Ilves,VPS,Home,0.8171547619047621
-Inglaterra - Premiere League,22/08/2026,11:00,Nott'm Forest,Leeds,Home,0.7584063492063492
-Holanda,22/08/2026,11:30,For Sittard,AZ Alkmaar,Away,0.63
-Austria,22/08/2026,12:00,Altach,Hartberg,Home,0.6935690476190474
-Espanha - La Liga,22/08/2026,12:00,Ath Bilbao,Sevilla,Home,0.7632039682539679
-França - Primeira divisão,22/08/2026,12:15,Lens,Auxerre,Home,0.8341738095238097
-Polonia,22/08/2026,12:30,Piast Gliwice,Legia,Away,0.6533333333333333
-Suíça,22/08/2026,13:00,Luzern,Lausanne,Home,0.7236777777777778
-Bélgica,22/08/2026,13:15,Charleroi,Mechelen,Home,0.7425357142857143
-Itália - Serie A,22/08/2026,13:30,Inter,Monza,Home,0.8979531746031747
-Portugal - Liga 1,22/08/2026,14:00,Estoril,Rio Ave,Home,0.6715015873015877
-Austria,22/08/2026,14:30,Sturm Graz,A. Lustenau,Home,0.759907142857143
-Turquia - Liga 1,22/08/2026,15:30,Fenerbahce,Konyaspor,Home,0.8107896825396831
-Argentina,22/08/2026,18:30,Independiente,Ind. Rivadavia,Home,0.7290817460317464
-EUA,22/08/2026,20:30,CF Montreal,Los Angeles Galaxy,Home,0.7855452380952381
-EUA,22/08/2026,20:30,Charlotte,DC United,Home,0.6985365079365079
-EUA,22/08/2026,20:30,FC Cincinnati,Seattle Sounders,Home,0.7079412698412698
-EUA,22/08/2026,20:30,Inter Miami,Toronto FC,Home,0.7052365079365079
-EUA,22/08/2026,20:30,New York Red Bulls,Chicago Fire,Home,0.6257111111111112
-EUA,22/08/2026,20:30,Orlando City,Real Salt Lake,Home,0.7642849206349209
-Argentina,22/08/2026,21:00,Huracan,Dep. Riestra,Home,0.761286507936508
-EUA,22/08/2026,21:30,Nashville SC,Columbus Crew,Home,0.7964222222222227
-EUA,22/08/2026,21:30,St. Louis City,Houston Dynamo,Away,0.6466666666666666
-EUA,22/08/2026,22:30,Vancouver Whitecaps,FC Dallas,Home,0.8031214285714288
-EUA,22/08/2026,23:30,Los Angeles FC,Portland Timbers,Home,0.7663269841269841
-Holanda,23/08/2026,07:15,Go Ahead Eagles,Den Haag,Home,0.8063198412698412
-Japao,23/08/2026,07:30,Machida,Urawa Reds,Home,0.7570809523809524
-China,23/08/2026,08:35,Shanghai Port,Qingdao Hainiu,Home,0.843702380952381
-Finlândia,23/08/2026,09:00,HJK,Gnistan,Home,0.7159071428571431
-Suíça,23/08/2026,09:00,Young Boys,Vaduz,Home,0.713456349206349
-Finlândia,23/08/2026,09:00,KuPS,Mariehamn,Home,0.8268373015873016
-Dinamarca,23/08/2026,09:00,Aarhus,Odense,Home,0.6467444444444443
-Dinamarca,23/08/2026,09:00,Midtjylland,Randers FC,Home,0.737115873015873
-Holanda,23/08/2026,09:30,PSV Eindhoven,Groningen,Home,0.8509230158730159
-França - Primeira divisão,23/08/2026,10:00,Angers,Lille,Away,0.6766666666666666
-Romenia,23/08/2026,10:00,Sepsi Sf. Gheorghe,Farul Constanta,Home,0.675530158730159
-Inglaterra - Premiere League,23/08/2026,10:00,Man City,Bournemouth,Home,0.9047174603174603
-Suecia,23/08/2026,11:30,Hammarby,GAIS,Home,0.7729190476190481
-Holanda,23/08/2026,11:45,Cambuur,Feyenoord,Away,0.7166666666666667
-Polonia,23/08/2026,12:30,GKS Katowice,Wisla Plock,Home,0.7212698412698407
-Romenia,23/08/2026,12:30,Univ. Craiova,FC Voluntari,Home,0.8030063492063495
-Inglaterra - Premiere League,23/08/2026,12:30,Newcastle,Liverpool,Home,0.6523801587301588
-Dinamarca,23/08/2026,13:00,Viborg,FC Copenhagen,Away,0.6466666666666666
-Itália - Serie A,23/08/2026,13:30,Frosinone,Juventus,Away,0.7166666666666667
-Itália - Serie A,23/08/2026,13:30,Venezia,Lecce,Home,0.6842190476190477
-Bélgica,23/08/2026,13:30,Club Brugge,Cercle Brugge,Home,0.8171730158730159
-Grecia,23/08/2026,13:30,OFI Crete,Volos NFC,Home,0.6989579365079365
-Grecia,23/08/2026,15:00,PAOK,Levadeiakos,Home,0.7469753968253967
-Polonia,23/08/2026,15:15,Pogon Szczecin,Wisla,Home,0.770645238095238
-Romenia,23/08/2026,15:30,CFR Cluj,FCSB,Home,0.6225841269841268
-Itália - Serie A,23/08/2026,15:45,Atalanta,Sassuolo,Home,0.585847619047619
-França - Primeira divisão,23/08/2026,15:45,Paris SG,Rennes,Home,0.7767174603174598
-Brasil,23/08/2026,16:00,Palmeiras,Vasco,Home,0.822315873015873
-Brasil,23/08/2026,16:00,Vitoria,Bahia,Home,0.7007666666666668
-Espanha - La Liga,23/08/2026,16:30,Elche,Barcelona,Away,0.7366666666666667
-Portugal - Liga 1,23/08/2026,16:30,Porto,Arouca,Home,0.8031849206349205
-Brasil,23/08/2026,18:30,Chapecoense-SC,Sao Paulo,Away,0.61
-EUA,23/08/2026,20:00,Atlanta Utd,Sporting Kansas City,Home,0.5880841269841272
-Argentina,23/08/2026,21:30,Racing Club,Boca Juniors,Home,0.6768293650793651
-Dinamarca,24/08/2026,14:00,Brondby,Silkeborg,Home,0.7955626984126987
-Espanha - La Liga,24/08/2026,14:30,Osasuna,Levante,Home,0.7393706349206346
-Itália - Serie A,24/08/2026,15:45,Roma,Fiorentina,Home,0.7895103174603174
-Inglaterra - Premiere League,24/08/2026,16:00,Fulham,Chelsea,Away,0.86
-Portugal - Liga 1,24/08/2026,16:15,Gil Vicente,Casa Pia,Home,0.7891015873015874
-Argentina,24/08/2026,19:00,Tigre,Central Cordoba,Home,0.6174515873015871
-Argentina,24/08/2026,21:15,Talleres Cordoba,Rosario Central,Home,0.7065841269841266
+Austria,21/08/2026,14:30,Ried,Grazer AK,Home,0.6691246031746033
+Romenia,21/08/2026,14:30,Petrolul,FC Rapid Bucuresti,Away,0.7833333333333333
+Irlanda,21/08/2026,15:45,Dundalk,Galway,Home,0.7539492063492066
+Japao,22/08/2026,06:00,Kashima Antlers,Avispa Fukuoka,Home,0.8179095238095239
+Japao,22/08/2026,07:00,Cerezo Osaka,Shimizu S-Pulse,Home,0.8167650793650796
+Japao,22/08/2026,07:00,Nagoya Grampus,Gamba Osaka,Home,0.667390476190476
+Japao,22/08/2026,07:15,Sanfrecce Hiroshima,Kawasaki Frontale,Home,0.6939230158730161
+China,22/08/2026,09:00,Beijing Guoan,Yunnan Yukun,Home,0.7615674603174603
+Polonia,22/08/2026,09:45,Korona Kielce,Motor Lublin,Home,0.7124746031746038
+Polonia,22/08/2026,12:30,Piast Gliwice,Legia,Away,0.63
+Suíça,22/08/2026,13:00,Luzern,Lausanne,Home,0.7294666666666667
+Austria,22/08/2026,14:30,Sturm Graz,A. Lustenau,Home,0.7689682539682542
+Argentina,22/08/2026,18:30,Independiente,Ind. Rivadavia,Home,0.7335222222222222
+EUA,22/08/2026,20:30,Orlando City,Real Salt Lake,Home,0.7730952380952381
+EUA,22/08/2026,20:30,FC Cincinnati,Seattle Sounders,Home,0.6945142857142856
+EUA,22/08/2026,20:30,Charlotte,DC United,Home,0.7170007936507935
+Argentina,22/08/2026,21:00,Huracan,Dep. Riestra,Home,0.7614674603174604
+EUA,22/08/2026,21:30,Nashville SC,Columbus Crew,Home,0.800398412698413
+EUA,22/08/2026,21:30,St. Louis City,Houston Dynamo,Away,0.6266666666666667
+EUA,22/08/2026,22:30,Vancouver Whitecaps,FC Dallas,Home,0.7970230158730162
+EUA,22/08/2026,23:30,Los Angeles FC,Portland Timbers,Home,0.7636063492063493
+Japao,23/08/2026,07:30,Machida,Urawa Reds,Home,0.759168253968254
+China,23/08/2026,08:35,Shanghai Port,Qingdao Hainiu,Home,0.8466134920634919
+Finlândia,23/08/2026,09:00,KuPS,Mariehamn,Home,0.7657698412698415
+Dinamarca,23/08/2026,09:00,Midtjylland,Randers FC,Home,0.7355222222222221
+Dinamarca,23/08/2026,09:00,Aarhus,Odense,Home,0.6391722222222219
+Suíça,23/08/2026,09:00,Young Boys,Vaduz,Home,0.7262587301587298
+Finlândia,23/08/2026,09:00,HJK,Gnistan,Home,0.7168960317460318
+Romenia,23/08/2026,10:00,Sepsi Sf. Gheorghe,Farul Constanta,Home,0.6608380952380954
+Suecia,23/08/2026,11:30,Hammarby,GAIS,Home,0.7814087301587306
+Romenia,23/08/2026,12:30,Univ. Craiova,FC Voluntari,Home,0.7940166666666669
+Polonia,23/08/2026,12:30,GKS Katowice,Wisla Plock,Home,0.7435865079365076
+Dinamarca,23/08/2026,13:00,Viborg,FC Copenhagen,Away,0.66
+Polonia,23/08/2026,15:15,Pogon Szczecin,Wisla,Home,0.773515873015873
+Brasil,23/08/2026,16:00,Bragantino,Gremio,Home,0.6672388888888894
+Brasil,23/08/2026,16:00,Palmeiras,Vasco,Home,0.8283444444444442
+Brasil,23/08/2026,16:00,Vitoria,Bahia,Home,0.7114095238095238
+Brasil,23/08/2026,18:30,Chapecoense-SC,Sao Paulo,Away,0.5966666666666667
+EUA,23/08/2026,20:00,Atlanta Utd,Sporting Kansas City,Home,0.5779063492063494
+Argentina,23/08/2026,21:30,Racing Club,Boca Juniors,Home,0.700456349206349
+Dinamarca,24/08/2026,14:00,Brondby,Silkeborg,Home,0.7613492063492064
+Romenia,24/08/2026,15:30,Otelul,FC Arges,Home,0.736205555555556
+Argentina,24/08/2026,19:00,Tigre,Central Cordoba,Home,0.6278579365079364
+Argentina,24/08/2026,21:15,Talleres Cordoba,Rosario Central,Home,0.7035341269841267
+Espanha - La Liga,26/08/2026,16:00,Real Madrid,Sociedad,Home,0.7919341269841269
+Espanha - La Liga,27/08/2026,15:30,Celta,Osasuna,Home,0.8219555555555553
+Espanha - La Liga,27/08/2026,16:00,Barcelona,Ath Bilbao,Home,0.757068253968254
