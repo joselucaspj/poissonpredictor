@@ -1,92 +1,14 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Japao,11/09/2026,07:00,Kyoto,Kashiwa Reysol,Away,0.6233333333333333
-Romenia,11/09/2026,12:00,Farul Constanta,UTA Arad,Home,0.6162182539682542
-Polonia,11/09/2026,13:00,Rakow,Motor Lublin,Home,0.6158142857142856
-Suecia,11/09/2026,14:00,Hacken,Mjallby,Home,0.7661198412698411
-Dinamarca,11/09/2026,14:00,FC Copenhagen,Horsens,Home,0.7648793650793646
-Austria,11/09/2026,14:30,Ried,Salzburg,Away,0.7766666666666666
-Holanda,11/09/2026,15:00,AZ Alkmaar,Willem II,Home,0.8134706349206349
-Alemanha - Bundesliga 1,11/09/2026,15:30,Union Berlin,Schalke 04,Home,0.69405873015873
-França - Primeira divisão,11/09/2026,15:45,Rennes,Marseille,Home,0.7540373015873016
-Irlanda,11/09/2026,15:45,Galway,Bohemians,Away,0.8233333333333334
-Itália - Serie A,11/09/2026,15:45,Venezia,Fiorentina,Away,0.7366666666666667
-Irlanda,11/09/2026,15:45,Shelbourne,Derry City,Home,0.6218150793650792
-Irlanda,11/09/2026,15:45,Drogheda,Sligo Rovers,Home,0.740834920634921
-Irlanda,11/09/2026,16:00,St. Patricks,Shamrock Rovers,Home,0.6716365079365079
-Japao,12/09/2026,06:30,Shimizu S-Pulse,Avispa Fukuoka,Home,0.6411325396825401
-Japao,12/09/2026,07:00,Sanfrecce Hiroshima,Cerezo Osaka,Home,0.840464285714286
-China,12/09/2026,08:35,Wuhan Three Towns,Henan Songshan Longmen,Home,0.7228690476190474
-Suecia,12/09/2026,10:00,AIK,Vasteras SK,Home,0.7601531746031744
-Alemanha - Bundesliga 1,12/09/2026,10:30,Augsburg,Leverkusen,Away,0.7233333333333334
-Inglaterra - Premiere League,12/09/2026,11:00,Crystal Palace,Ipswich,Home,0.7593365079365084
-Turquia - Liga 1,12/09/2026,11:00,Eyupspor,Rizespor,Home,0.7548928571428573
-Inglaterra - Premiere League,12/09/2026,11:00,Liverpool,Fulham,Home,0.7134373015873017
-Inglaterra - Premiere League,12/09/2026,11:00,Aston Villa,Nott'm Forest,Home,0.7534190476190478
-Holanda,12/09/2026,11:30,Twente,Den Haag,Home,0.731430158730159
-Suecia,12/09/2026,12:30,Goteborg,Halmstad,Home,0.7330500000000001
-Finlândia,12/09/2026,13:00,AC Oulu,Gnistan,Away,0.64
-Suíça,12/09/2026,13:00,St. Gallen,Sion,Home,0.6962531746031746
-Noruega,12/09/2026,13:00,Rosenborg,Tromso,Home,0.7189079365079365
-Grecia,12/09/2026,13:00,Olympiakos,OFI Crete,Home,0.7624174603174604
-Suíça,12/09/2026,13:00,Thun,Grasshoppers,Home,0.6049134920634923
-Inglaterra - Premiere League,12/09/2026,13:30,Tottenham,Everton,Home,0.5864555555555557
-Turquia - Liga 1,12/09/2026,14:00,Konyaspor,Trabzonspor,Home,0.713407936507936
-Austria,12/09/2026,14:30,Wolfsberger AC,SK Rapid,Home,0.6886119047619047
-Argentina,12/09/2026,14:45,Ind. Rivadavia,Aldosivi,Home,0.6277063492063495
-Argentina,12/09/2026,14:45,Estudiantes L.P.,Platense,Home,0.7694436507936511
-Holanda,12/09/2026,15:00,For Sittard,Ajax,Away,0.67
-Romenia,12/09/2026,15:30,FC Rapid Bucuresti,FC Voluntari,Home,0.7486873015873015
-Bélgica,12/09/2026,15:45,Oud-Heverlee Leuven,Cercle Brugge,Home,0.6147896825396827
-Itália - Serie A,12/09/2026,15:45,Atalanta,Cagliari,Home,0.8229079365079364
-França - Primeira divisão,12/09/2026,15:45,Le Havre,Angers,Home,0.6440309523809525
-Brasil,12/09/2026,16:00,Atletico-MG,Fluminense,Home,0.7033761904761908
-Brasil,12/09/2026,16:00,Gremio,Vasco,Home,0.7597174603174608
-Holanda,12/09/2026,16:00,Cambuur,Nijmegen,Away,0.6833333333333333
-Espanha - La Liga,12/09/2026,16:00,Real Madrid,Vallecano,Home,0.8078055555555553
-Brasil,12/09/2026,18:30,Palmeiras,Sao Paulo,Home,0.8134222222222222
-Argentina,12/09/2026,20:00,Talleres Cordoba,Union de Santa Fe,Home,0.7517023809523806
-EUA,12/09/2026,20:30,Columbus Crew,New York Red Bulls,Home,0.6862492063492063
-EUA,12/09/2026,20:30,DC United,Atlanta Utd,Home,0.6644190476190475
-EUA,12/09/2026,20:30,Orlando City,Toronto FC,Home,0.7262753968253963
-Brasil,12/09/2026,20:30,Botafogo RJ,Bragantino,Home,0.715196825396825
-EUA,12/09/2026,23:30,Los Angeles Galaxy,Seattle Sounders,Home,0.7009412698412697
-Japao,13/09/2026,06:30,Urawa Reds,Okayama,Home,0.6896460317460321
-Bélgica,13/09/2026,08:30,Club Brugge,Antwerp,Home,0.7890896825396818
-Romenia,13/09/2026,09:00,FC Arges,FC Botosani,Home,0.7555936507936513
-Suecia,13/09/2026,09:00,Elfsborg,Kalmar,Home,0.8216460317460319
-Suecia,13/09/2026,09:00,Hammarby,Brommapojkarna,Home,0.7925023809523812
-Suíça,13/09/2026,09:00,Zurich,Vaduz,Home,0.6838531746031746
-Noruega,13/09/2026,09:30,Viking,Kristiansund,Home,0.752142857142857
-Austria,13/09/2026,09:30,Austria Vienna,A. Lustenau,Home,0.7922666666666668
-Itália - Serie A,13/09/2026,10:00,Lecce,Monza,Home,0.6658841269841275
-França - Primeira divisão,13/09/2026,10:00,Lille,Troyes,Home,0.8322626984126986
-Dinamarca,13/09/2026,11:00,Randers FC,Odense,Home,0.7029563492063491
-Suíça,13/09/2026,11:30,Luzern,Basel,Home,0.658663492063492
-Holanda,13/09/2026,11:45,Zwolle,Feyenoord,Away,0.74
-Noruega,13/09/2026,12:00,HamKam,Molde,Away,0.6766666666666666
-Austria,13/09/2026,12:00,Sturm Graz,LASK,Away,0.61
-Inglaterra - Premiere League,13/09/2026,12:30,Man United,Man City,Away,0.6133333333333333
-Polonia,13/09/2026,12:30,Legia,Widzew Lodz,Home,0.8689476190476189
-Itália - Serie A,13/09/2026,13:00,Napoli,Bologna,Home,0.7930476190476191
-Dinamarca,13/09/2026,13:00,Nordsjaelland,Aarhus,Home,0.6541936507936509
-Grecia,13/09/2026,13:00,Asteras Tripolis,AEK,Away,0.6633333333333333
-Bélgica,13/09/2026,13:30,Waregem,Charleroi,Away,0.6466666666666666
-Portugal - Liga 1,13/09/2026,14:00,Benfica,Gil Vicente,Home,0.8141714285714287
-Noruega,13/09/2026,14:15,Fredrikstad,Sarpsborg 08,Home,0.7026055555555558
-Holanda,13/09/2026,15:00,PSV Eindhoven,Sparta Rotterdam,Home,0.8732690476190473
-Argentina,13/09/2026,17:00,Argentinos Jrs,Gimnasia L.P.,Home,0.7365936507936506
-Brasil,13/09/2026,17:30,Flamengo RJ,Corinthians,Home,0.8557349206349211
-EUA,13/09/2026,18:30,Chicago Fire,New England Revolution,Home,0.6696507936507938
-Argentina,13/09/2026,19:15,Independiente,San Lorenzo,Home,0.690572222222222
-EUA,13/09/2026,19:30,Vancouver Whitecaps,Austin FC,Home,0.7443063492063492
-Argentina,13/09/2026,21:30,Huracan,Racing Club,Home,0.6724793650793647
-Romenia,14/09/2026,12:00,U. Cluj,Otelul,Away,0.5133333333333333
-Itália - Serie A,14/09/2026,13:30,Como,Parma,Home,0.802807936507937
-Turquia - Liga 1,14/09/2026,14:00,Gaziantep,Fenerbahce,Away,0.77
-Noruega,14/09/2026,14:00,Bodo/Glimt,Sandefjord,Home,0.813905555555556
-Suecia,14/09/2026,14:00,Sirius,Degerfors,Home,0.7706095238095241
-Suecia,14/09/2026,14:00,Djurgarden,GAIS,Home,0.7912880952380956
-Itália - Serie A,14/09/2026,15:45,Inter,Udinese,Home,0.6440730158730159
-Espanha - La Liga,14/09/2026,16:00,Villarreal,Betis,Home,0.7919682539682534
-Inglaterra - Premiere League,14/09/2026,16:00,Leeds,Newcastle,Away,0.7866666666666666
-Portugal - Liga 1,14/09/2026,16:45,Sp Braga,Estoril,Home,0.793311111111111
+Polonia,15/09/2026,13:00,Rakow,Zaglebie,Home,0.7576674603174604
+Espanha - La Liga,15/09/2026,14:00,Vallecano,Espanol,Home,0.77720873015873
+Suíça,15/09/2026,14:00,Grasshoppers,Sion,Home,0.5328722222222223
+Holanda,15/09/2026,15:00,Ajax,Willem II,Home,0.8754809523809525
+Escócia - Premiere League,15/09/2026,15:45,Motherwell,Aberdeen,Home,0.6863246031746031
+Escócia - Premiere League,15/09/2026,15:45,Hibernian,Kilmarnock,Away,0.6033333333333334
+Espanha - La Liga,15/09/2026,16:30,Elche,Real Madrid,Away,0.7366666666666667
+Espanha - La Liga,16/09/2026,14:00,Ath Madrid,Osasuna,Home,0.765495238095238
+Suecia,16/09/2026,14:00,AIK,Mjallby,Home,0.7578722222222223
+Suíça,16/09/2026,14:00,Lugano,St. Gallen,Home,0.8048730158730155
+Suíça,16/09/2026,14:00,Thun,Servette,Home,0.5865587301587301
+Brasil,16/09/2026,19:30,Botafogo RJ,Gremio,Home,0.650299206349206
+Espanha - La Liga,17/09/2026,14:00,Betis,Getafe,Home,0.7427031746031744
