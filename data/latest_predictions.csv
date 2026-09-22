@@ -1,82 +1,86 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-China,18/09/2026,08:35,Zhejiang Professional,Wuhan Three Towns,Home,0.6239349206349202
-Finlândia,18/09/2026,12:00,Lahti,Jaro,Home,0.7539111111111113
-Austria,18/09/2026,14:30,SK Rapid,Tirol,Home,0.8228666666666664
+China,18/09/2026,08:35,Zhejiang Professional,Wuhan Three Towns,Home,0.6343793650793648
+Finlândia,18/09/2026,12:00,Lahti,Jaro,Home,0.7519484126984126
+Austria,18/09/2026,14:30,SK Rapid,Tirol,Home,0.8233571428571427
 Holanda,18/09/2026,15:00,Groningen,Zwolle,Home,0.6714261904761905
+Polonia,18/09/2026,15:30,Wisla,Slask Wroclaw,Home,0.6098158730158729
 Alemanha - Bundesliga 1,18/09/2026,15:30,Bayern Munich,Union Berlin,Home,0.7098833333333332
-Polonia,18/09/2026,15:30,Wisla,Slask Wroclaw,Home,0.589679365079365
+Irlanda,18/09/2026,15:45,Derry City,Galway,Home,0.8634539682539677
 França - Primeira divisão,18/09/2026,15:45,Monaco,Lens,Home,0.6956841269841271
-Irlanda,18/09/2026,15:45,Derry City,Galway,Home,0.860657936507936
-Irlanda,18/09/2026,16:00,Bohemians,Drogheda,Home,0.8290023809523809
+Irlanda,18/09/2026,16:00,Bohemians,Drogheda,Home,0.8204285714285714
+Irlanda,18/09/2026,16:00,Shamrock Rovers,Waterford,Home,0.7296444444444444
 Inglaterra - Premiere League,18/09/2026,16:00,Brentford,Chelsea,Away,0.6633333333333333
-Irlanda,18/09/2026,16:00,Shamrock Rovers,Waterford,Home,0.7002349206349203
-EUA,18/09/2026,20:30,New York City,New York Red Bulls,Home,0.68125
-Japao,19/09/2026,06:00,Avispa Fukuoka,Sanfrecce Hiroshima,Away,0.7566666666666667
-Japao,19/09/2026,06:30,Urawa Reds,Verdy,Home,0.7400920634920636
-Japao,19/09/2026,07:00,FC Tokyo,Nagoya Grampus,Home,0.7621904761904762
-Japao,19/09/2026,07:00,Okayama,Kyoto,Away,0.63
+EUA,18/09/2026,20:30,New York City,New York Red Bulls,Home,0.6690746031746032
+Japao,19/09/2026,06:00,Avispa Fukuoka,Sanfrecce Hiroshima,Away,0.76
+Japao,19/09/2026,06:30,Urawa Reds,Verdy,Home,0.7568253968253971
+Japao,19/09/2026,07:00,FC Tokyo,Nagoya Grampus,Home,0.7621063492063491
+Japao,19/09/2026,07:00,Okayama,Kyoto,Away,0.6266666666666667
 Inglaterra - Premiere League,19/09/2026,08:30,Tottenham,Aston Villa,Home,0.8127611111111114
-Suecia,19/09/2026,10:00,Brommapojkarna,Goteborg,Home,0.5144722222222221
+Finlândia,19/09/2026,09:00,TPS,Ilves,Away,0.7066666666666667
+Suecia,19/09/2026,10:00,Brommapojkarna,Goteborg,Home,0.5091492063492062
 Alemanha - Bundesliga 1,19/09/2026,10:30,Werder Bremen,Augsburg,Home,0.6210492063492062
-Escócia - Premiere League,19/09/2026,11:00,Hibernian,Aberdeen,Home,0.6760119047619046
 Inglaterra - Premiere League,19/09/2026,11:00,Brighton,Arsenal,Away,0.82
+Escócia - Premiere League,19/09/2026,11:00,Hibernian,Aberdeen,Home,0.6760119047619046
 Espanha - La Liga,19/09/2026,11:15,Ath Bilbao,Alaves,Home,0.7065492063492067
-Romenia,19/09/2026,11:30,CFR Cluj,FC Botosani,Home,0.7153793650793651
-Polonia,19/09/2026,12:30,GKS Katowice,Cracovia,Home,0.6896944444444447
+Romenia,19/09/2026,11:30,CFR Cluj,FC Botosani,Home,0.7286126984126984
+Polonia,19/09/2026,12:30,GKS Katowice,Cracovia,Home,0.6816928571428577
 Dinamarca,19/09/2026,13:00,Odense,Midtjylland,Away,0.7
+Noruega,19/09/2026,13:00,Molde,Aalesund,Home,0.8059142857142855
+Suíça,19/09/2026,13:00,Luzern,Grasshoppers,Home,0.7213531746031747
 Itália - Serie A,19/09/2026,13:00,Roma,Inter,Home,0.7271992063492061
-Suíça,19/09/2026,13:00,Young Boys,Servette,Home,0.7101738095238095
-Noruega,19/09/2026,13:00,Molde,Aalesund,Home,0.8195888888888886
 Grecia,19/09/2026,13:00,Atromitos,Kifisia,Home,0.6589261904761907
+Suíça,19/09/2026,13:00,Young Boys,Servette,Home,0.7213285714285715
 Escócia - Premiere League,19/09/2026,13:45,Kilmarnock,Hearts,Home,0.7510896825396822
 Turquia - Liga 1,19/09/2026,14:00,Buyuksehyr,Genclerbirligi,Home,0.914352380952381
-Romenia,19/09/2026,14:30,Univ. Craiova,FCSB,Home,0.6484563492063489
+Romenia,19/09/2026,14:30,Univ. Craiova,FCSB,Home,0.6303531746031745
 Holanda,19/09/2026,15:00,Ajax,Excelsior,Home,0.6743825396825397
-Suíça,19/09/2026,15:30,Sion,Zurich,Home,0.6800769841269844
+Suíça,19/09/2026,15:30,Sion,Zurich,Home,0.6785341269841274
 Itália - Serie A,19/09/2026,15:45,Venezia,Lazio,Away,0.7266666666666667
-França - Primeira divisão,19/09/2026,15:45,Lyon,Rennes,Home,0.5435650793650793
+Irlanda,19/09/2026,15:45,Sligo Rovers,St. Patricks,Away,0.7533333333333333
 Bélgica,19/09/2026,15:45,Anderlecht,Waregem,Home,0.6931706349206351
-Brasil,19/09/2026,16:00,Atletico-MG,Chapecoense-SC,Home,0.6719539682539682
+França - Primeira divisão,19/09/2026,15:45,Lyon,Rennes,Home,0.5435650793650793
+Brasil,19/09/2026,16:00,Atletico-MG,Chapecoense-SC,Home,0.6614468253968254
 Portugal - Liga 1,19/09/2026,16:30,Sp Lisbon,Arouca,Home,0.8334896825396826
-Argentina,19/09/2026,19:00,River Plate,Huracan,Home,0.7596317460317459
-EUA,19/09/2026,21:30,Houston Dynamo,FC Cincinnati,Home,0.6992404761904758
-EUA,19/09/2026,21:30,FC Dallas,Austin FC,Home,0.7531674603174604
-EUA,19/09/2026,21:30,Sporting Kansas City,Philadelphia Union,Away,0.6933333333333334
-EUA,19/09/2026,21:30,St. Louis City,Toronto FC,Home,0.718109523809524
-EUA,19/09/2026,22:30,Nashville SC,Chicago Fire,Home,0.7440841269841265
-EUA,19/09/2026,22:30,Real Salt Lake,Vancouver Whitecaps,Away,0.7033333333333334
-EUA,19/09/2026,23:30,Portland Timbers,Atlanta Utd,Home,0.713390476190476
+Argentina,19/09/2026,19:00,River Plate,Huracan,Home,0.7673246031746032
+Brasil,19/09/2026,20:30,Vasco,Coritiba,Home,0.7475484126984125
+EUA,19/09/2026,21:30,St. Louis City,Toronto FC,Home,0.7216611111111112
+EUA,19/09/2026,21:30,Sporting Kansas City,Philadelphia Union,Away,0.69
+EUA,19/09/2026,21:30,FC Dallas,Austin FC,Home,0.7337198412698416
+EUA,19/09/2026,21:30,Houston Dynamo,FC Cincinnati,Home,0.6909880952380947
+EUA,19/09/2026,22:30,Nashville SC,Chicago Fire,Home,0.7463626984126979
+EUA,19/09/2026,22:30,Real Salt Lake,Vancouver Whitecaps,Away,0.7
+EUA,19/09/2026,23:30,Portland Timbers,Atlanta Utd,Home,0.6992841269841271
+Polonia,20/09/2026,07:15,Piast Gliwice,Pogon Szczecin,Home,0.7018158730158728
 Holanda,20/09/2026,07:15,Feyenoord,Utrecht,Home,0.7849547619047617
 Escócia - Premiere League,20/09/2026,08:00,Celtic,Rangers,Home,0.815023015873016
-Suecia,20/09/2026,09:00,Halmstad,AIK,Away,0.6433333333333333
-Suecia,20/09/2026,09:00,Djurgarden,Elfsborg,Home,0.6273809523809526
-Dinamarca,20/09/2026,09:00,Brondby,FC Copenhagen,Away,0.66
-Austria,20/09/2026,09:30,Hartberg,LASK,Away,0.69
+Suecia,20/09/2026,09:00,Djurgarden,Elfsborg,Home,0.6181174603174605
+Suecia,20/09/2026,09:00,Halmstad,AIK,Away,0.6533333333333333
+Dinamarca,20/09/2026,09:00,Sonderjyske,Randers FC,Home,0.621920634920635
+Dinamarca,20/09/2026,09:00,Brondby,FC Copenhagen,Away,0.6433333333333333
+Austria,20/09/2026,09:30,Hartberg,LASK,Away,0.6766666666666666
 Holanda,20/09/2026,09:30,Twente,PSV Eindhoven,Away,0.62
-Polonia,20/09/2026,09:45,Zaglebie,Wisla Plock,Home,0.7210396825396824
+Polonia,20/09/2026,09:45,Zaglebie,Wisla Plock,Home,0.6976896825396826
 França - Primeira divisão,20/09/2026,10:00,Auxerre,Brest,Home,0.6879198412698415
 Inglaterra - Premiere League,20/09/2026,10:00,Leeds,Crystal Palace,Away,0.69
 Inglaterra - Premiere League,20/09/2026,10:00,Bournemouth,Liverpool,Away,0.6966666666666667
 Alemanha - Bundesliga 1,20/09/2026,10:30,Leverkusen,RB Leipzig,Home,0.7114595238095238
 Turquia - Liga 1,20/09/2026,11:00,Fenerbahce,Eyupspor,Home,0.68332619047619
-Suíça,20/09/2026,11:30,Lausanne,Lugano,Away,0.7033333333333334
-Suecia,20/09/2026,11:30,Degerfors,Hammarby,Away,0.7533333333333333
-Suíça,20/09/2026,11:30,Basel,St. Gallen,Home,0.6292341269841268
+Suíça,20/09/2026,11:30,Lausanne,Lugano,Away,0.7266666666666667
+Suecia,20/09/2026,11:30,Degerfors,Hammarby,Away,0.75
+Suíça,20/09/2026,11:30,Basel,St. Gallen,Home,0.6217396825396824
 Holanda,20/09/2026,11:45,Nijmegen,Go Ahead Eagles,Home,0.7965880952380954
-Noruega,20/09/2026,12:00,Tromso,HamKam,Home,0.8812817460317461
-Noruega,20/09/2026,12:00,Viking,Lillestrom,Home,0.7910396825396823
-Austria,20/09/2026,12:00,Salzburg,Sturm Graz,Home,0.6853103174603177
+Noruega,20/09/2026,12:00,Viking,Lillestrom,Home,0.8056499999999999
 Grecia,20/09/2026,12:00,Volos NFC,AEK,Away,0.7566666666666667
+Noruega,20/09/2026,12:00,Tromso,HamKam,Home,0.8937873015873016
 Inglaterra - Premiere League,20/09/2026,12:30,Fulham,Man United,Away,0.7533333333333333
 Grecia,20/09/2026,13:00,OFI Crete,Asteras Tripolis,Away,0.58
 Bélgica,20/09/2026,13:30,Club Brugge,Genk,Home,0.7017547619047616
 Espanha - La Liga,20/09/2026,13:30,Villarreal,Levante,Home,0.7040555555555553
 Turquia - Liga 1,20/09/2026,14:00,Goztep,Rizespor,Home,0.7863309523809523
-Polonia,20/09/2026,15:15,Lech Poznan,Radomiak Radom,Home,0.7544198412698417
+Polonia,20/09/2026,15:15,Lech Poznan,Radomiak Radom,Home,0.7461134920634925
 França - Primeira divisão,20/09/2026,15:45,Marseille,Paris SG,Away,0.6933333333333334
-Argentina,20/09/2026,17:00,Rosario Central,Argentinos Jrs,Home,0.7634055555555552
-Brasil,20/09/2026,18:30,Flamengo RJ,Bragantino,Home,0.7725047619047616
-EUA,20/09/2026,20:00,Inter Miami,San Diego FC,Home,0.6525801587301586
-Argentina,20/09/2026,21:30,Velez Sarsfield,Tigre,Home,0.7808333333333337
-Romenia,21/09/2026,15:00,Petrolul,Csikszereda M. Ciuc,Home,0.6771785714285713
-Argentina,21/09/2026,21:15,Lanus,Estudiantes L.P.,Home,0.7665642857142857
+Brasil,20/09/2026,18:30,Flamengo RJ,Bragantino,Home,0.787079365079365
+EUA,20/09/2026,20:00,Inter Miami,San Diego FC,Home,0.6372626984126981
+Argentina,20/09/2026,21:30,Velez Sarsfield,Tigre,Home,0.7888603174603177
+Romenia,21/09/2026,15:00,Petrolul,Csikszereda M. Ciuc,Home,0.6712174603174602
+Argentina,21/09/2026,21:15,Lanus,Estudiantes L.P.,Home,0.7759158730158733
