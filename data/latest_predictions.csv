@@ -1,10 +1,11 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Argentina,02/10/2026,19:15,Independiente,Instituto,Home,0.7271523809523808
-Argentina,02/10/2026,21:30,Boca Juniors,Union de Santa Fe,Home,0.780429365079365
-Argentina,02/10/2026,21:30,Ind. Rivadavia,Gimnasia L.P.,Home,0.7925738095238097
-Argentina,03/10/2026,14:45,Defensa y Justicia,San Lorenzo,Home,0.552401587301587
-Brasil,03/10/2026,18:30,Atletico-MG,Bragantino,Home,0.7952150793650791
-Argentina,04/10/2026,14:45,Huracan,Aldosivi,Home,0.75670873015873
-Argentina,04/10/2026,17:00,Talleres Cordoba,Belgrano,Home,0.7985579365079365
-Argentina,04/10/2026,19:15,Argentinos Jrs,Tigre,Home,0.7149817460317459
-Argentina,05/10/2026,19:00,Velez Sarsfield,Platense,Home,0.7893142857142861
+Brasil,07/10/2026,19:30,Internacional,Corinthians,Home,0.6499857142857146
+Brasil,07/10/2026,20:30,Botafogo RJ,Vasco,Home,0.7015277777777775
+Brasil,07/10/2026,21:30,Cruzeiro,Sao Paulo,Home,0.7859277777777779
+Finlândia,08/10/2026,13:00,KuPS,AC Oulu,Home,0.7732873015873021
+Romenia,08/10/2026,14:30,CFR Cluj,U. Cluj,Home,0.8235230158730158
+Irlanda,08/10/2026,16:00,Shamrock Rovers,Drogheda,Home,0.8266730158730161
+Brasil,08/10/2026,19:30,Santos,Flamengo RJ,Away,0.7066666666666667
+Brasil,08/10/2026,20:00,Athletico-PR,Atletico-MG,Home,0.7786000000000001
+Brasil,08/10/2026,21:30,Fluminense,Coritiba,Home,0.7198158730158732
+Brasil,08/10/2026,21:30,Palmeiras,Bahia,Home,0.8110468253968252
