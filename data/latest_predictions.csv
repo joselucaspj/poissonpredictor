@@ -1,51 +1,50 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
 China,16/10/2026,08:35,Henan Songshan Longmen,Tianjin Jinmen Tiger,Home,0.7283674603174607
-Dinamarca,16/10/2026,14:00,Horsens,Randers FC,Home,0.744166666666667
 Suecia,16/10/2026,14:00,Brommapojkarna,Djurgarden,Away,0.7766666666666666
+Dinamarca,16/10/2026,14:00,Horsens,Randers FC,Home,0.744166666666667
 Holanda,16/10/2026,15:00,Heerenveen,Excelsior,Home,0.6107468253968252
 Alemanha - Bundesliga 1,16/10/2026,15:30,Ein Frankfurt,FC Koln,Home,0.8197555555555555
 Irlanda,16/10/2026,15:45,Bohemians,Waterford,Home,0.831146031746032
 Irlanda,16/10/2026,16:00,St. Patricks,Shelbourne,Home,0.7735865079365081
-Argentina,16/10/2026,19:00,Defensa y Justicia,Instituto,Home,0.771730158730159
-Argentina,16/10/2026,21:30,Boca Juniors,Talleres Cordoba,Home,0.7418119047619046
+Argentina,16/10/2026,21:30,Boca Juniors,Talleres Cordoba,Home,0.7900087301587301
 Japao,17/10/2026,02:00,Sanfrecce Hiroshima,Kyoto,Home,0.766759523809524
-China,17/10/2026,08:00,Dalian Yingbo,Shenzhen Xinpengcheng,Home,0.7509873015873015
 Finlândia,17/10/2026,08:00,Ilves,SJK,Home,0.7820992063492062
-Inglaterra - Premiere League,17/10/2026,08:30,Everton,Chelsea,Away,0.6633333333333333
-China,17/10/2026,09:00,Shandong Taishan,Zhejiang Professional,Home,0.6611785714285711
+China,17/10/2026,08:00,Dalian Yingbo,Shenzhen Xinpengcheng,Home,0.7509873015873015
+Inglaterra - Premiere League,17/10/2026,08:30,Everton,Chelsea,Away,0.61
 Noruega,17/10/2026,09:00,HamKam,Bodo/Glimt,Away,0.7833333333333333
+China,17/10/2026,09:00,Shandong Taishan,Zhejiang Professional,Home,0.6611785714285711
 Itália - Serie A,17/10/2026,10:00,Venezia,Napoli,Away,0.71
 Finlândia,17/10/2026,10:00,HJK,Gnistan,Home,0.7728904761904763
 Alemanha - Bundesliga 1,17/10/2026,10:30,Union Berlin,Dortmund,Away,0.6933333333333334
-Grecia,17/10/2026,11:00,Levadeiakos,Volos NFC,Home,0.8077158730158728
-Escócia - Premiere League,17/10/2026,11:00,Aberdeen,St Mirren,Home,0.7070531746031747
 Escócia - Premiere League,17/10/2026,11:00,Kilmarnock,Motherwell,Home,0.7509936507936504
+Grecia,17/10/2026,11:00,Levadeiakos,Volos NFC,Home,0.8077158730158728
 Inglaterra - Premiere League,17/10/2026,11:00,Man City,Ipswich,Home,0.7977809523809526
+Escócia - Premiere League,17/10/2026,11:00,Aberdeen,St Mirren,Home,0.7070531746031747
 Espanha - La Liga,17/10/2026,11:15,Villarreal,Elche,Home,0.8451571428571424
 Holanda,17/10/2026,11:30,Den Haag,PSV Eindhoven,Away,0.76
 Austria,17/10/2026,12:00,A. Lustenau,LASK,Away,0.73
 Finlândia,17/10/2026,12:00,Inter Turku,AC Oulu,Home,0.8356650793650792
 França - Primeira divisão,17/10/2026,12:15,Strasbourg,Paris SG,Away,0.6033333333333334
 Polonia,17/10/2026,12:30,GKS Katowice,Pogon Szczecin,Home,0.7359190476190479
-Turquia - Liga 1,17/10/2026,13:00,Fenerbahce,Alanyaspor,Home,0.7899650793650796
 Noruega,17/10/2026,13:00,Viking,Fredrikstad,Home,0.8514174603174601
+Turquia - Liga 1,17/10/2026,13:00,Fenerbahce,Alanyaspor,Home,0.7899650793650796
 Itália - Serie A,17/10/2026,13:00,Bologna,Inter,Away,0.68
-Inglaterra - Premiere League,17/10/2026,13:30,Newcastle,Aston Villa,Home,0.8694492063492062
 Alemanha - Bundesliga 1,17/10/2026,13:30,Bayern Munich,RB Leipzig,Home,0.7292341269841272
-Argentina,17/10/2026,15:00,Banfield,Argentinos Jrs,Away,0.6166666666666667
+Inglaterra - Premiere League,17/10/2026,13:30,Newcastle,Aston Villa,Home,0.8624706349206347
+Argentina,17/10/2026,15:00,Banfield,Argentinos Jrs,Home,0.7862642857142856
 EUA,17/10/2026,15:30,Philadelphia Union,Charlotte,Home,0.6871793650793653
-França - Primeira divisão,17/10/2026,15:45,Lille,Brest,Home,0.771452380952381
-Itália - Serie A,17/10/2026,15:45,Roma,Genoa,Home,0.8883404761904761
 França - Primeira divisão,17/10/2026,15:45,Troyes,Lens,Away,0.8366666666666667
+França - Primeira divisão,17/10/2026,15:45,Lille,Brest,Home,0.771452380952381
 Irlanda,17/10/2026,15:45,Sligo Rovers,Dundalk,Home,0.6708746031746033
+Itália - Serie A,17/10/2026,15:45,Roma,Genoa,Home,0.8883404761904761
 Espanha - La Liga,17/10/2026,16:00,Valencia,Ath Bilbao,Home,0.708261904761905
 EUA,17/10/2026,17:30,Minnesota United,St. Louis City,Away,0.65
-Argentina,17/10/2026,17:30,Platense,Lanus,Away,0.7066666666666667
 Brasil,17/10/2026,18:00,Botafogo RJ,Chapecoense-SC,Home,0.785574603174603
 Brasil,17/10/2026,18:30,Atletico-MG,Coritiba,Home,0.8113761904761907
 Brasil,17/10/2026,19:30,Athletico-PR,Palmeiras,Away,0.6233333333333333
-EUA,17/10/2026,20:30,New England Revolution,Chicago Fire,Home,0.7483357142857151
+Argentina,17/10/2026,20:00,Atl. Tucuman,Rosario Central,Home,0.7456452380952382
 EUA,17/10/2026,20:30,New York Red Bulls,Toronto FC,Home,0.6140682539682543
+EUA,17/10/2026,20:30,New England Revolution,Chicago Fire,Home,0.7483357142857151
 EUA,17/10/2026,20:30,Orlando City,DC United,Home,0.7070230158730162
 EUA,17/10/2026,23:30,Seattle Sounders,CF Montreal,Home,0.782351587301587
 EUA,17/10/2026,23:30,Portland Timbers,Colorado Rapids,Home,0.7028873015873016
@@ -55,33 +54,33 @@ Turquia - Liga 1,18/10/2026,07:30,Kasimpasa,Samsunspor,Home,0.6511079365079364
 China,18/10/2026,08:00,Beijing Guoan,Qingdao West Coast,Home,0.7977293650793654
 China,18/10/2026,09:00,Shanghai Port,Chengdu Rongcheng,Home,0.754
 Finlândia,18/10/2026,09:00,KuPS,VPS,Home,0.761638888888889
-Holanda,18/10/2026,09:30,Cambuur,AZ Alkmaar,Away,0.6433333333333333
 Austria,18/10/2026,09:30,Salzburg,Altach,Away,0.52
+Holanda,18/10/2026,09:30,Cambuur,AZ Alkmaar,Away,0.6433333333333333
 França - Primeira divisão,18/10/2026,10:00,Angers,Marseille,Away,0.6766666666666666
 Grecia,18/10/2026,11:00,Panetolikos,Olympiakos,Away,0.63
 Espanha - La Liga,18/10/2026,11:15,Celta,Alaves,Home,0.7513206349206347
 Holanda,18/10/2026,11:45,Groningen,Ajax,Away,0.8033333333333333
-Noruega,18/10/2026,12:00,Molde,Start,Home,0.769249206349206
 Austria,18/10/2026,12:00,Sturm Graz,Grazer AK,Home,0.7197603174603174
+Noruega,18/10/2026,12:00,Molde,Start,Home,0.769249206349206
 Noruega,18/10/2026,12:00,Sandefjord,Lillestrom,Home,0.6343888888888884
 Inglaterra - Premiere League,18/10/2026,12:30,Nott'm Forest,Arsenal,Away,0.7366666666666667
-Polonia,18/10/2026,12:30,Lech Poznan,Korona Kielce,Home,0.8089015873015876
 Alemanha - Bundesliga 1,18/10/2026,12:30,M'gladbach,Hoffenheim,Home,0.5393158730158728
+Polonia,18/10/2026,12:30,Lech Poznan,Korona Kielce,Home,0.8089015873015876
 Dinamarca,18/10/2026,13:00,FC Copenhagen,Aarhus,Home,0.6460198412698411
 Turquia - Liga 1,18/10/2026,13:00,Buyuksehyr,Gaziantep,Home,0.749479365079365
-Grecia,18/10/2026,14:00,Kifisia,Aris,Away,0.7833333333333333
+Grecia,18/10/2026,14:00,Kifisia,Aris,Away,0.7766666666666666
+Argentina,18/10/2026,14:45,Racing Club,Independiente,Home,0.7633674603174602
+Romenia,18/10/2026,15:00,Univ. Craiova,Farul Constanta,Home,0.6696071428571424
 Holanda,18/10/2026,15:00,Nijmegen,For Sittard,Home,0.8421611111111114
 Holanda,18/10/2026,15:00,Twente,Utrecht,Home,0.673861904761905
-Romenia,18/10/2026,15:00,Univ. Craiova,Farul Constanta,Home,0.6696071428571424
-França - Primeira divisão,18/10/2026,15:45,Lyon,Nice,Home,0.7449349206349207
 Itália - Serie A,18/10/2026,15:45,Juventus,Lazio,Home,0.7969793650793651
+França - Primeira divisão,18/10/2026,15:45,Lyon,Nice,Home,0.7449349206349207
 Espanha - La Liga,18/10/2026,16:00,Real Madrid,Sevilla,Home,0.8476436507936509
 Brasil,18/10/2026,16:00,Fluminense,Santos,Home,0.8243968253968256
-Argentina,18/10/2026,18:00,Estudiantes L.P.,San Lorenzo,Home,0.773218253968254
+Argentina,18/10/2026,18:00,Estudiantes L.P.,San Lorenzo,Home,0.7777698412698413
+Argentina,18/10/2026,20:15,Belgrano,River Plate,Home,0.7824222222222224
 Romenia,19/10/2026,12:00,U. Cluj,FC Arges,Home,0.7446166666666664
 Itália - Serie A,19/10/2026,15:45,Parma,Torino,Home,0.7248896825396826
 Irlanda,19/10/2026,15:45,Waterford,Galway,Home,0.5617047619047618
 Irlanda,19/10/2026,16:00,Derry City,St. Patricks,Home,0.7384515873015873
-Portugal - Liga 1,19/10/2026,16:15,Sp Braga,Gil Vicente,Home,0.8008555555555554
-Argentina,19/10/2026,19:00,Sarmiento Junin,Barracas Central,Home,0.6785404761904759
-Argentina,19/10/2026,19:00,Newells Old Boys,Central Cordoba,Home,0.6448468253968258
+Argentina,19/10/2026,19:00,Newells Old Boys,Central Cordoba,Home,0.7916738095238095
