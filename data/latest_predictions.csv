@@ -1,6 +1,98 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Japao,21/10/2026,07:00,FC Tokyo,Kashiwa Reysol,Home,0.5930388888888888
-Japao,21/10/2026,07:00,Kawasaki Frontale,Vissel Kobe,Home,0.6754960317460317
-Japao,21/10/2026,07:00,Kawasaki Frontale,Vissel Kobe,Home,0.6754960317460317
-Japao,21/10/2026,07:00,Yokohama F. Marinos,Verdy,Home,0.7841968253968256
-EUA,21/10/2026,20:00,FC Cincinnati,DC United,Home,0.6848936507936506
+Romenia,23/10/2026,12:00,FC Botosani,Petrolul,Home,0.7415174603174605
+Polonia,23/10/2026,13:00,Motor Lublin,Zaglebie,Away,0.5366666666666666
+Suecia,23/10/2026,14:00,Vasteras SK,Halmstad,Home,0.7066682539682545
+Suecia,23/10/2026,14:00,Elfsborg,Malmo FF,Home,0.754599206349206
+Alemanha - Bundesliga 1,23/10/2026,15:30,Stuttgart,M'gladbach,Home,0.7317571428571428
+Polonia,23/10/2026,15:30,Widzew Lodz,Gornik Zabrze,Away,0.6933333333333334
+Irlanda,23/10/2026,15:45,Derry City,Dundalk,Home,0.7122031746031748
+Irlanda,23/10/2026,15:45,Bohemians,Shelbourne,Home,0.7795674603174604
+Bélgica,23/10/2026,15:45,Kortrijk,Mechelen,Home,0.7325769841269842
+Irlanda,23/10/2026,16:00,Shamrock Rovers,Sligo Rovers,Home,0.7499992063492065
+Japao,24/10/2026,02:00,Sanfrecce Hiroshima,Shimizu S-Pulse,Home,0.849101587301587
+Japao,24/10/2026,03:00,Kashima Antlers,Kashiwa Reysol,Home,0.5566214285714286
+Japao,24/10/2026,03:00,Verdy,Avispa Fukuoka,Home,0.6130928571428571
+Japao,24/10/2026,03:00,Vissel Kobe,Machida,Home,0.5858357142857139
+China,24/10/2026,04:30,Qingdao West Coast,Yunnan Yukun,Home,0.6972928571428573
+China,24/10/2026,04:30,Chengdu Rongcheng,Dalian Yingbo,Home,0.6278698412698412
+China,24/10/2026,04:30,Henan Songshan Longmen,Beijing Guoan,Away,0.6633333333333333
+China,24/10/2026,04:30,Shenzhen Xinpengcheng,Shanghai Shenhua,Away,0.68
+Polonia,24/10/2026,07:15,Piast Gliwice,Cracovia,Home,0.8569126984126985
+Turquia - Liga 1,24/10/2026,07:30,Eyupspor,Kasimpasa,Home,0.8280579365079364
+Inglaterra - Premiere League,24/10/2026,08:30,Aston Villa,Man City,Away,0.52
+Suecia,24/10/2026,10:00,Sirius,AIK,Home,0.7710992063492063
+Itália - Serie A,24/10/2026,10:00,Como,Sassuolo,Home,0.7770079365079375
+Alemanha - Bundesliga 1,24/10/2026,10:30,Mainz,Werder Bremen,Home,0.7742833333333333
+Noruega,24/10/2026,11:00,Bodo/Glimt,Valerenga,Home,0.8288547619047616
+Escócia - Premiere League,24/10/2026,11:00,Rangers,St Johnstone,Home,0.8229555555555554
+Inglaterra - Premiere League,24/10/2026,11:00,Arsenal,Everton,Home,0.8042230158730159
+Holanda,24/10/2026,11:30,Utrecht,Zwolle,Home,0.8129103174603176
+Polonia,24/10/2026,12:30,Pogon Szczecin,Radomiak Radom,Home,0.7907634920634922
+Itália - Serie A,24/10/2026,13:00,Napoli,Roma,Away,0.6966666666666667
+Noruega,24/10/2026,13:00,HamKam,Rosenborg,Away,0.79
+Suíça,24/10/2026,13:00,Servette,Vaduz,Home,0.7435190476190477
+Alemanha - Bundesliga 1,24/10/2026,13:30,Dortmund,Ein Frankfurt,Home,0.7762650793650797
+Grecia,24/10/2026,13:30,Asteras Tripolis,Levadeiakos,Home,0.7448238095238101
+Inglaterra - Premiere League,24/10/2026,13:30,Chelsea,Tottenham,Home,0.7847976190476187
+Grecia,24/10/2026,14:00,AEK,Panetolikos,Home,0.9096246031746033
+EUA,24/10/2026,14:30,CF Montreal,Nashville SC,Away,0.75
+Austria,24/10/2026,14:30,SK Rapid,A. Lustenau,Home,0.8124031746031743
+Argentina,24/10/2026,14:45,Banfield,Lanus,Away,0.6166666666666667
+Romenia,24/10/2026,15:00,FCSB,FC Rapid Bucuresti,Home,0.6355460317460322
+Suíça,24/10/2026,15:30,Young Boys,St. Gallen,Home,0.6037722222222224
+Itália - Serie A,24/10/2026,15:45,Lazio,Parma,Home,0.7516507936507939
+Portugal - Liga 1,24/10/2026,16:30,Gil Vicente,Porto,Away,0.6633333333333333
+EUA,24/10/2026,16:30,Columbus Crew,Toronto FC,Home,0.7652103174603172
+Brasil,24/10/2026,18:30,Vasco,Corinthians,Home,0.7417079365079362
+Brasil,24/10/2026,18:30,Palmeiras,Bragantino,Home,0.6601182539682541
+Brasil,24/10/2026,19:30,Chapecoense-SC,Fluminense,Away,0.7333333333333333
+EUA,24/10/2026,20:30,Philadelphia Union,New England Revolution,Home,0.7014182539682536
+Japao,25/10/2026,03:00,Nagoya Grampus,Yokohama F. Marinos,Home,0.6937484126984125
+Japao,25/10/2026,05:00,Kawasaki Frontale,Okayama,Home,0.712380158730159
+Itália - Serie A,25/10/2026,08:30,Inter,Fiorentina,Home,0.8170277777777777
+Turquia - Liga 1,25/10/2026,10:00,Konyaspor,Genclerbirligi,Home,0.7826063492063491
+Espanha - La Liga,25/10/2026,10:00,Ath Bilbao,Getafe,Home,0.7553523809523808
+Holanda,25/10/2026,10:30,PSV Eindhoven,Feyenoord,Home,0.7465047619047616
+Holanda,25/10/2026,10:30,Nijmegen,Groningen,Home,0.8128023809523811
+Itália - Serie A,25/10/2026,11:00,Atalanta,Frosinone,Home,0.75785
+Dinamarca,25/10/2026,11:00,Midtjylland,Lyngby,Home,0.7414373015873014
+Inglaterra - Premiere League,25/10/2026,11:00,Liverpool,Brighton,Home,0.830623015873016
+Inglaterra - Premiere League,25/10/2026,11:00,Man United,Bournemouth,Home,0.7648325396825397
+Dinamarca,25/10/2026,11:00,Silkeborg,Nordsjaelland,Home,0.619316666666667
+Noruega,25/10/2026,11:30,Viking,Tromso,Home,0.7108261904761907
+Austria,25/10/2026,11:30,Sturm Graz,Ried,Home,0.7061063492063493
+Austria,25/10/2026,11:30,Sturm Graz,Ried,Home,0.7061063492063493
+Bélgica,25/10/2026,12:00,Club Brugge,St Truiden,Home,0.7712150793650789
+Romenia,25/10/2026,12:00,Farul Constanta,Otelul,Home,0.793492857142857
+Portugal - Liga 1,25/10/2026,12:30,Estoril,Moreirense,Home,0.6580190476190478
+Dinamarca,25/10/2026,13:00,Horsens,Sonderjyske,Home,0.7230960317460319
+França - Primeira divisão,25/10/2026,13:15,Rennes,Strasbourg,Home,0.6730563492063496
+França - Primeira divisão,25/10/2026,13:15,Marseille,Le Havre,Home,0.6968214285714288
+Suíça,25/10/2026,13:30,Basel,Grasshoppers,Home,0.7205904761904759
+Suíça,25/10/2026,13:30,Sion,Lausanne,Home,0.6773841269841268
+Alemanha - Bundesliga 1,25/10/2026,13:30,Freiburg,Bayern Munich,Away,0.71
+Suecia,25/10/2026,13:30,Mjallby,Hammarby,Home,0.6834444444444445
+Noruega,25/10/2026,14:00,Kristiansund,KFUM Oslo,Away,0.75
+Polonia,25/10/2026,14:30,Legia,Lech Poznan,Home,0.6465047619047617
+Espanha - La Liga,25/10/2026,14:30,Sociedad,Levante,Home,0.6608912698412701
+Grecia,25/10/2026,14:30,Aris,Atromitos,Home,0.6082682539682539
+Grecia,25/10/2026,15:00,OFI Crete,PAOK,Away,0.69
+Portugal - Liga 1,25/10/2026,15:00,Nacional,Sp Braga,Away,0.7033333333333334
+Dinamarca,25/10/2026,15:00,Aarhus,Viborg,Home,0.7614238095238088
+Bélgica,25/10/2026,15:15,St. Gilloise,Cercle Brugge,Home,0.6280936507936503
+Argentina,25/10/2026,15:45,Aldosivi,Belgrano,Away,0.5766666666666667
+Holanda,25/10/2026,16:00,AZ Alkmaar,Twente,Home,0.7347619047619051
+Noruega,25/10/2026,16:15,Molde,Fredrikstad,Home,0.8214634920634921
+Espanha - La Liga,25/10/2026,17:00,Barcelona,Real Madrid,Home,0.7196023809523807
+Argentina,25/10/2026,18:00,Independiente,Boca Juniors,Away,0.5766666666666667
+Argentina,25/10/2026,20:15,River Plate,Racing Club,Home,0.7462849206349206
+EUA,25/10/2026,23:00,Los Angeles FC,Los Angeles Galaxy,Home,0.7549611111111112
+Turquia - Liga 1,26/10/2026,13:00,Rizespor,Trabzonspor,Away,0.57
+Turquia - Liga 1,26/10/2026,13:00,Besiktas,Buyuksehyr,Away,0.5766666666666667
+Turquia - Liga 1,26/10/2026,15:30,Galatasaray,Fenerbahce,Home,0.6377301587301589
+Portugal - Liga 1,26/10/2026,15:45,Santa Clara,Benfica,Away,0.72
+Dinamarca,26/10/2026,16:00,FC Copenhagen,Odense,Home,0.7691706349206346
+França - Primeira divisão,26/10/2026,16:30,Paris SG,Lyon,Home,0.8130880952380953
+Argentina,26/10/2026,20:00,Union de Santa Fe,Estudiantes L.P.,Home,0.602774603174603
+Argentina,26/10/2026,22:15,Instituto,Dep. Riestra,Home,0.7544492063492059
+Argentina,27/10/2026,20:00,Argentinos Jrs,Ind. Rivadavia,Home,0.7079174603174605
