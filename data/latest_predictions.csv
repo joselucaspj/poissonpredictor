@@ -1,7 +1,74 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Suecia,03/11/2026,15:00,Sirius,Halmstad,Home,0.7623246031746024
-Brasil,03/11/2026,21:30,Internacional,Coritiba,Home,0.7442992063492063
-Brasil,04/11/2026,19:30,Athletico-PR,Vasco,Home,0.6791023809523811
-Brasil,04/11/2026,19:30,Flamengo RJ,Gremio,Home,0.7772984126984125
-Brasil,04/11/2026,21:30,Botafogo RJ,Atletico-MG,Home,0.6697126984126988
-Brasil,04/11/2026,21:30,Sao Paulo,Corinthians,Home,0.734031746031746
+Suecia,06/11/2026,15:00,Hammarby,Elfsborg,Home,0.7091039682539682
+Dinamarca,06/11/2026,15:00,Silkeborg,Lyngby,Home,0.6980007936507938
+Itália - Serie A,06/11/2026,16:45,Venezia,Udinese,Away,0.6033333333333334
+Argentina,06/11/2026,19:15,Independiente,Dep. Riestra,Home,0.8476214285714284
+Argentina,06/11/2026,22:00,Tigre,Sarmiento Junin,Home,0.7676277777777778
+Japao,07/11/2026,02:00,Yokohama F. Marinos,Okayama,Home,0.7702111111111107
+Japao,07/11/2026,03:00,FC Tokyo,Kashima Antlers,Home,0.6149857142857144
+Inglaterra - Premiere League,07/11/2026,09:30,Leeds,Tottenham,Away,0.58
+Turquia - Liga 1,07/11/2026,10:00,Samsunspor,Konyaspor,Home,0.7486753968253969
+Itália - Serie A,07/11/2026,11:00,Cagliari,Frosinone,Home,0.7401793650793651
+Alemanha - Bundesliga 1,07/11/2026,11:30,Mainz,Bayern Munich,Away,0.7666666666666667
+Alemanha - Bundesliga 1,07/11/2026,11:30,RB Leipzig,Augsburg,Home,0.6846626984126983
+Inglaterra - Premiere League,07/11/2026,12:00,Fulham,Newcastle,Away,0.6933333333333334
+Romenia,07/11/2026,12:30,Farul Constanta,FC Rapid Bucuresti,Home,0.6854936507936508
+Austria,07/11/2026,13:00,A. Lustenau,Grazer AK,Home,0.5326722222222221
+Turquia - Liga 1,07/11/2026,13:00,Goztep,Buyuksehyr,Away,0.74
+Noruega,07/11/2026,14:00,Rosenborg,Start,Home,0.7242269841269843
+Grecia,07/11/2026,14:30,Aris,Panetolikos,Home,0.7950182539682541
+Alemanha - Bundesliga 1,07/11/2026,14:30,Stuttgart,Werder Bremen,Home,0.7790301587301588
+Inglaterra - Premiere League,07/11/2026,14:30,Nott'm Forest,Man City,Away,0.7333333333333333
+Austria,07/11/2026,15:30,Ried,LASK,Away,0.71
+Itália - Serie A,07/11/2026,16:45,Roma,Sassuolo,Home,0.7412182539682542
+França - Primeira divisão,07/11/2026,17:05,Paris SG,Troyes,Home,0.8285126984126984
+Argentina,07/11/2026,17:30,Boca Juniors,Defensa y Justicia,Home,0.6652626984126985
+Portugal - Liga 1,07/11/2026,17:30,Sp Lisbon,Moreirense,Home,0.8262999999999999
+EUA,07/11/2026,18:00,Chicago Fire,Columbus Crew,Away,0.5833333333333334
+EUA,07/11/2026,18:00,Philadelphia Union,Toronto FC,Home,0.8024888888888887
+EUA,07/11/2026,21:00,Minnesota United,San Jose Earthquakes,Home,0.7071634920634922
+EUA,07/11/2026,21:00,San Diego FC,Sporting Kansas City,Home,0.7387595238095239
+EUA,07/11/2026,21:00,FC Dallas,Colorado Rapids,Home,0.7327611111111109
+Japao,08/11/2026,03:00,Gamba Osaka,Cerezo Osaka,Home,0.6211357142857147
+China,08/11/2026,04:30,Shandong Taishan,Chengdu Rongcheng,Home,0.8295619047619048
+China,08/11/2026,04:30,Shanghai Shenhua,Qingdao West Coast,Home,0.731839682539682
+China,08/11/2026,04:30,Yunnan Yukun,Wuhan Three Towns,Home,0.687642857142857
+Dinamarca,08/11/2026,08:00,FC Copenhagen,Brondby,Home,0.6493825396825396
+Itália - Serie A,08/11/2026,08:30,Napoli,Lazio,Home,0.7123150793650792
+Bélgica,08/11/2026,09:30,Club Brugge,Anderlecht,Home,0.7859103174603173
+Finlândia,08/11/2026,10:00,HJK,AC Oulu,Home,0.7701071428571425
+Suecia,08/11/2026,10:00,Halmstad,Djurgarden,Away,0.79
+Suíça,08/11/2026,10:00,St. Gallen,Lugano,Away,0.5566666666666666
+Noruega,08/11/2026,10:30,Tromso,Bodo/Glimt,Away,0.6466666666666666
+França - Primeira divisão,08/11/2026,11:00,Rennes,Lille,Home,0.6904436507936499
+Inglaterra - Premiere League,08/11/2026,11:00,Ipswich,Bournemouth,Away,0.6166666666666667
+Romenia,08/11/2026,11:00,Sepsi Sf. Gheorghe,FC Voluntari,Home,0.7433579365079367
+Itália - Serie A,08/11/2026,11:00,Monza,Atalanta,Away,0.71
+Alemanha - Bundesliga 1,08/11/2026,11:30,FC Koln,Leverkusen,Away,0.6733333333333333
+Grecia,08/11/2026,12:00,AEK,Levadeiakos,Home,0.7644261904761905
+Suíça,08/11/2026,12:30,Servette,Zurich,Home,0.773172222222222
+Suíça,08/11/2026,12:30,Thun,Basel,Home,0.6846055555555552
+Holanda,08/11/2026,12:45,Cambuur,PSV Eindhoven,Away,0.8
+Holanda,08/11/2026,12:45,AZ Alkmaar,Groningen,Home,0.7474801587301586
+Noruega,08/11/2026,13:00,Sandefjord,Molde,Away,0.7133333333333334
+Noruega,08/11/2026,13:00,Lillestrom,Aalesund,Home,0.6044198412698415
+Noruega,08/11/2026,13:00,HamKam,Sarpsborg 08,Home,0.7000817460317458
+Noruega,08/11/2026,13:00,Viking,KFUM Oslo,Home,0.7108793650793651
+Grecia,08/11/2026,13:30,OFI Crete,Atromitos,Home,0.6125706349206347
+Inglaterra - Premiere League,08/11/2026,13:30,Man United,Aston Villa,Home,0.6937928571428574
+Polonia,08/11/2026,13:30,Legia,Rakow,Home,0.7264809523809519
+Dinamarca,08/11/2026,14:00,Midtjylland,Sonderjyske,Home,0.7278619047619044
+Itália - Serie A,08/11/2026,14:00,Inter,Como,Home,0.57480873015873
+Espanha - La Liga,08/11/2026,14:30,Villarreal,Getafe,Home,0.8330380952380954
+Bélgica,08/11/2026,14:30,St. Gilloise,Genk,Home,0.7496515873015874
+Espanha - La Liga,08/11/2026,14:30,Celta,Levante,Home,0.6805706349206345
+Portugal - Liga 1,08/11/2026,15:00,Guimaraes,Porto,Away,0.6333333333333333
+Turquia - Liga 1,08/11/2026,15:00,Besiktas,Genclerbirligi,Home,0.7230460317460318
+Bélgica,08/11/2026,15:15,St Truiden,Waregem,Home,0.7065341269841271
+Holanda,08/11/2026,16:00,Utrecht,Nijmegen,Home,0.7801261904761906
+Grecia,08/11/2026,16:00,Olympiakos,PAOK,Home,0.7233595238095238
+Polonia,08/11/2026,16:15,Lech Poznan,Zaglebie,Home,0.8166563492063494
+França - Primeira divisão,08/11/2026,16:45,Lens,Marseille,Home,0.7866857142857141
+Espanha - La Liga,08/11/2026,17:00,Ath Madrid,Barcelona,Away,0.6
+Portugal - Liga 1,08/11/2026,17:30,Estrela,Benfica,Away,0.6833333333333333
+Romenia,09/11/2026,15:00,FC Botosani,Otelul,Home,0.8145801587301588
