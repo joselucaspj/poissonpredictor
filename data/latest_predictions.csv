@@ -1,1 +1,4 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
+Brasil,18/11/2026,20:30,Flamengo RJ,Athletico-PR,Home,0.7894277777777778
+Brasil,19/11/2026,19:30,Vitoria,Bragantino,Away,0.7033333333333334
+Brasil,19/11/2026,21:30,Sao Paulo,Fluminense,Home,0.7132396825396825
