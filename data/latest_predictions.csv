@@ -1,4 +1,73 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Brasil,18/11/2026,20:30,Flamengo RJ,Athletico-PR,Home,0.7894277777777778
-Brasil,19/11/2026,19:30,Vitoria,Bragantino,Away,0.7033333333333334
-Brasil,19/11/2026,21:30,Sao Paulo,Fluminense,Home,0.7132396825396825
+Japao,20/11/2026,07:00,Kashima Antlers,Shimizu S-Pulse,Home,0.8260674603174601
+Romenia,20/11/2026,12:30,FC Botosani,FC Voluntari,Home,0.7411666666666666
+Polonia,20/11/2026,14:00,Piast Gliwice,Korona Kielce,Home,0.7790579365079366
+Dinamarca,20/11/2026,15:00,Aarhus,Lyngby,Home,0.7479039682539689
+Romenia,20/11/2026,15:30,Farul Constanta,U. Cluj,Home,0.7581277777777778
+Polonia,20/11/2026,16:30,Pogon Szczecin,Slask Wroclaw,Home,0.6978452380952378
+Alemanha - Bundesliga 1,20/11/2026,16:30,Bayern Munich,FC Koln,Home,0.8229865079365077
+Bélgica,20/11/2026,16:45,Cercle Brugge,Westerlo,Home,0.6963690476190478
+França - Primeira divisão,20/11/2026,16:45,Troyes,Le Havre,Home,0.6008269841269841
+Espanha - La Liga,20/11/2026,17:00,Ath Bilbao,Espanol,Home,0.7471500000000004
+Argentina,20/11/2026,20:00,Velez Sarsfield,Belgrano,Home,0.7715785714285714
+Japao,21/11/2026,03:00,Cerezo Osaka,FC Tokyo,Away,0.69
+Japao,21/11/2026,03:00,Kawasaki Frontale,Avispa Fukuoka,Home,0.68365
+Turquia - Liga 1,21/11/2026,07:30,Genclerbirligi,Gaziantep,Home,0.6736928571428572
+Inglaterra - Premiere League,21/11/2026,09:30,Man City,Fulham,Home,0.8362214285714284
+Noruega,21/11/2026,10:00,Tromso,Viking,Away,0.7666666666666667
+Turquia - Liga 1,21/11/2026,10:00,Galatasaray,Samsunspor,Home,0.6467269841269838
+Itália - Serie A,21/11/2026,11:00,Como,Cagliari,Home,0.8609190476190478
+Suecia,21/11/2026,11:00,AIK,Degerfors,Home,0.8492499999999998
+Alemanha - Bundesliga 1,21/11/2026,11:30,Ein Frankfurt,Hoffenheim,Home,0.7191968253968253
+Escócia - Premiere League,21/11/2026,12:00,Kilmarnock,Aberdeen,Home,0.697792857142857
+Inglaterra - Premiere League,21/11/2026,12:00,Chelsea,Leeds,Home,0.9086317460317462
+Escócia - Premiere League,21/11/2026,12:00,Hibernian,Dundee United,Home,0.8084769841269842
+Escócia - Premiere League,21/11/2026,12:00,Celtic,St Mirren,Home,0.7555777777777779
+Inglaterra - Premiere League,21/11/2026,12:00,Tottenham,Ipswich,Home,0.7560190476190477
+Romenia,21/11/2026,12:30,CFR Cluj,Otelul,Home,0.7363246031746037
+Austria,21/11/2026,13:00,LASK,Hartberg,Home,0.6520769841269839
+Suecia,21/11/2026,13:30,GAIS,Vasteras SK,Home,0.7151444444444444
+Polonia,21/11/2026,13:30,Zaglebie,Gornik Zabrze,Away,0.67
+Noruega,21/11/2026,14:00,Valerenga,Start,Home,0.7662531746031748
+Suíça,21/11/2026,14:00,Lugano,Grasshoppers,Home,0.8235285714285716
+Suíça,21/11/2026,14:00,Young Boys,Thun,Home,0.7457841269841267
+Holanda,21/11/2026,14:45,Feyenoord,Excelsior,Home,0.6737849206349203
+Holanda,21/11/2026,14:45,Utrecht,Cambuur,Home,0.8173301587301587
+Austria,21/11/2026,15:30,Grazer AK,SK Rapid,Away,0.6566666666666666
+Polonia,21/11/2026,16:15,Radomiak Radom,Wisla,Home,0.6439674603174608
+França - Primeira divisão,21/11/2026,16:45,Monaco,Auxerre,Home,0.6228007936507938
+França - Primeira divisão,21/11/2026,16:45,Strasbourg,Brest,Home,0.795312698412698
+Itália - Serie A,21/11/2026,16:45,Napoli,Torino,Home,0.7970936507936508
+França - Primeira divisão,21/11/2026,16:45,Lens,Toulouse,Home,0.8456634920634916
+Bélgica,21/11/2026,16:45,Mechelen,Club Brugge,Away,0.7033333333333334
+Holanda,21/11/2026,17:00,Groningen,Heerenveen,Home,0.6459436507936509
+Espanha - La Liga,21/11/2026,17:00,Real Madrid,Celta,Home,0.849420634920635
+Brasil,21/11/2026,17:30,Bahia,Coritiba,Home,0.7631198412698413
+Brasil,21/11/2026,21:00,Chapecoense-SC,Cruzeiro,Away,0.7366666666666667
+Polonia,22/11/2026,08:15,Rakow,Widzew Lodz,Home,0.752545238095238
+Holanda,22/11/2026,08:15,Twente,Willem II,Home,0.7801880952380954
+Itália - Serie A,22/11/2026,08:30,Juventus,Venezia,Home,0.7871031746031747
+Espanha - La Liga,22/11/2026,10:00,Barcelona,Villarreal,Home,0.5922579365079362
+Suecia,22/11/2026,10:00,Hacken,Elfsborg,Home,0.7012960317460317
+Dinamarca,22/11/2026,10:00,Viborg,Randers FC,Home,0.7700746031746034
+Holanda,22/11/2026,10:30,Ajax,Den Haag,Home,0.8338825396825397
+Grecia,22/11/2026,11:00,Levadeiakos,Atromitos,Away,0.58
+Grecia,22/11/2026,12:00,Panetolikos,Volos NFC,Home,0.7312095238095239
+Romenia,22/11/2026,12:30,UTA Arad,Univ. Craiova,Away,0.69
+Grecia,22/11/2026,12:30,Panathinaikos,OFI Crete,Home,0.750580158730159
+Holanda,22/11/2026,12:45,Go Ahead Eagles,For Sittard,Home,0.7899436507936509
+Noruega,22/11/2026,13:00,Aalesund,Rosenborg,Away,0.7
+Austria,22/11/2026,13:00,Austria Vienna,Salzburg,Away,0.63
+França - Primeira divisão,22/11/2026,13:15,Lorient,Rennes,Home,0.63817380952381
+Inglaterra - Premiere League,22/11/2026,13:30,Liverpool,Man United,Home,0.8535738095238097
+Itália - Serie A,22/11/2026,14:00,Milan,Frosinone,Home,0.777125396825397
+Grecia,22/11/2026,14:30,PAOK,Kifisia,Home,0.8206595238095238
+Noruega,22/11/2026,15:15,Sarpsborg 08,Lillestrom,Home,0.6229833333333333
+EUA,22/11/2026,18:00,Nashville SC,FC Cincinnati,Home,0.8321428571428572
+Argentina,22/11/2026,22:00,Instituto,Huracan,Home,0.7229833333333335
+Grecia,23/11/2026,12:00,Asteras Tripolis,Aris,Away,0.6066666666666667
+Suecia,23/11/2026,15:00,Hammarby,Goteborg,Home,0.7055753968253968
+Dinamarca,23/11/2026,15:00,Brondby,Midtjylland,Home,0.6332007936507934
+Argentina,23/11/2026,17:00,Gimnasia L.P.,Newells Old Boys,Home,0.6864944444444447
+Espanha - La Liga,23/11/2026,17:00,Levante,Elche,Home,0.6316325396825399
+Brasil,23/11/2026,19:30,Internacional,Vitoria,Home,0.7231595238095241
