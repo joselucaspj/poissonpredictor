@@ -1,6 +1,66 @@
 League,Date,TIME,HomeTeam,AwayTeam,Predict_winner,prediction_confidence
-Escócia - Premiere League,24/11/2026,16:45,Hibernian,Dundee,Home,0.7671182539682538
-Escócia - Premiere League,24/11/2026,17:00,Rangers,Aberdeen,Home,0.8062722222222224
-Brasil,24/11/2026,18:00,Chapecoense-SC,Palmeiras,Away,0.7266666666666667
-Brasil,25/11/2026,20:00,Atletico-MG,Corinthians,Home,0.7974150793650789
-Argentina,25/11/2026,21:00,Boca Juniors,Ind. Rivadavia,Home,0.8618920634920636
+Romenia,27/11/2026,12:30,U. Cluj,Sepsi Sf. Gheorghe,Home,0.7865111111111112
+Austria,27/11/2026,15:30,Grazer AK,Altach,Home,0.6672166666666667
+Holanda,27/11/2026,16:00,Groningen,Willem II,Home,0.6889634920634924
+Alemanha - Bundesliga 1,27/11/2026,16:30,Werder Bremen,M'gladbach,Home,0.5143499999999996
+Polonia,27/11/2026,16:30,Gornik Zabrze,Wisla Plock,Home,0.7949515873015873
+Polonia,27/11/2026,16:30,Gornik Zabrze,Wisla Plock,Home,0.7949515873015873
+Itália - Serie A,27/11/2026,16:45,Venezia,Bologna,Away,0.7433333333333333
+Inglaterra - Premiere League,27/11/2026,17:00,Nott'm Forest,Chelsea,Away,0.81
+EUA,27/11/2026,22:00,Columbus Crew,Inter Miami,Home,0.7632452380952378
+Japao,28/11/2026,03:00,Kashima Antlers,Okayama,Home,0.8699063492063491
+Japao,28/11/2026,04:00,Kashiwa Reysol,Sanfrecce Hiroshima,Away,0.6333333333333333
+Espanha - La Liga,28/11/2026,10:00,Betis,Vallecano,Home,0.7343976190476189
+Turquia - Liga 1,28/11/2026,10:00,Samsunspor,Genclerbirligi,Home,0.8095103174603178
+Inglaterra - Premiere League,28/11/2026,12:00,Man United,Brentford,Home,0.650049206349206
+Escócia - Premiere League,28/11/2026,12:00,St Mirren,Kilmarnock,Away,0.6866666666666666
+Noruega,28/11/2026,12:00,Bodo/Glimt,KFUM Oslo,Home,0.8481484126984123
+Portugal - Liga 1,28/11/2026,12:30,Arouca,Rio Ave,Home,0.6043261904761904
+Austria,28/11/2026,13:00,Austria Vienna,Wolfsberger AC,Home,0.7648238095238094
+França - Primeira divisão,28/11/2026,13:15,Angers,Lens,Away,0.79
+Suíça,28/11/2026,14:00,Grasshoppers,Basel,Away,0.6433333333333333
+Alemanha - Bundesliga 1,28/11/2026,14:30,Stuttgart,Ein Frankfurt,Home,0.7066222222222222
+Holanda,28/11/2026,14:45,PSV Eindhoven,Go Ahead Eagles,Home,0.8840928571428571
+Romenia,28/11/2026,15:00,FCSB,Csikszereda M. Ciuc,Home,0.7716373015873016
+Austria,28/11/2026,15:30,A. Lustenau,SK Rapid,Away,0.6566666666666666
+Polonia,28/11/2026,16:15,Wisla,Motor Lublin,Home,0.7013888888888892
+Suíça,28/11/2026,16:30,Servette,Lausanne,Home,0.7199174603174604
+Itália - Serie A,28/11/2026,16:45,Inter,Genoa,Home,0.8538976190476192
+França - Primeira divisão,28/11/2026,16:45,Paris SG,Lorient,Home,0.7568539682539683
+França - Primeira divisão,28/11/2026,16:45,Nice,Troyes,Home,0.76628492063492
+Espanha - La Liga,28/11/2026,17:00,Real Madrid,Alaves,Home,0.8055896825396823
+Argentina,28/11/2026,20:00,Velez Sarsfield,Independiente,Home,0.7715436507936508
+Brasil,28/11/2026,21:00,Botafogo RJ,Bahia,Home,0.5570341269841271
+EUA,28/11/2026,22:30,Los Angeles FC,St. Louis City,Home,0.7749547619047623
+Japao,29/11/2026,02:00,Yokohama F. Marinos,FC Tokyo,Home,0.677546031746032
+Japao,29/11/2026,03:00,Kawasaki Frontale,Gamba Osaka,Home,0.7545706349206348
+Japao,29/11/2026,03:00,Nagoya Grampus,Avispa Fukuoka,Home,0.7091468253968253
+Japao,29/11/2026,04:00,Machida,Verdy,Home,0.7278095238095242
+Holanda,29/11/2026,08:15,Den Haag,Utrecht,Away,0.5833333333333334
+Dinamarca,29/11/2026,10:00,Randers FC,Horsens,Away,0.6333333333333333
+Holanda,29/11/2026,10:30,Feyenoord,Ajax,Home,0.792866666666667
+Polonia,29/11/2026,10:45,Lech Poznan,Pogon Szczecin,Home,0.6765031746031747
+Suecia,29/11/2026,11:00,Malmo FF,Brommapojkarna,Home,0.7637968253968254
+Suecia,29/11/2026,11:00,Vasteras SK,Hammarby,Away,0.7966666666666666
+Itália - Serie A,29/11/2026,11:00,Sassuolo,Napoli,Away,0.68
+Austria,29/11/2026,13:00,Salzburg,LASK,Home,0.6216531746031746
+Noruega,29/11/2026,13:00,Start,Sarpsborg 08,Home,0.621584126984127
+França - Primeira divisão,29/11/2026,13:15,Toulouse,Rennes,Away,0.6333333333333333
+Alemanha - Bundesliga 1,29/11/2026,13:30,Hoffenheim,Augsburg,Home,0.7512126984126983
+Inglaterra - Premiere League,29/11/2026,13:30,Arsenal,Man City,Home,0.6586119047619042
+Dinamarca,29/11/2026,14:00,Silkeborg,Aarhus,Away,0.69
+Grecia,29/11/2026,14:00,Aris,Olympiakos,Home,0.7295690476190477
+Itália - Serie A,29/11/2026,14:00,Roma,Monza,Home,0.7486857142857143
+Bélgica,29/11/2026,14:30,Standard,Club Brugge,Away,0.6466666666666666
+Romenia,29/11/2026,15:00,FC Rapid Bucuresti,FC Botosani,Home,0.730701587301587
+Noruega,29/11/2026,15:15,Viking,Valerenga,Home,0.8421920634920637
+Grecia,29/11/2026,16:00,AEK,PAOK,Home,0.7885396825396825
+Polonia,29/11/2026,16:15,Jagiellonia,Radomiak Radom,Home,0.6847761904761902
+França - Primeira divisão,29/11/2026,16:45,Lyon,Monaco,Home,0.735243650793651
+Argentina,29/11/2026,17:00,Rosario Central,Barracas Central,Home,0.7576976190476191
+Espanha - La Liga,29/11/2026,17:00,Sociedad,Sevilla,Home,0.7457412698412698
+Argentina,29/11/2026,20:30,Boca Juniors,Gimnasia L.P.,Home,0.7591174603174603
+Itália - Serie A,30/11/2026,14:30,Lecce,Atalanta,Away,0.5733333333333334
+Polonia,30/11/2026,15:00,Korona Kielce,Cracovia,Home,0.6370309523809522
+Portugal - Liga 1,30/11/2026,17:15,Casa Pia,Sp Braga,Away,0.7666666666666667
+Portugal - Liga 1,30/11/2026,17:15,Benfica,Famalicao,Home,0.781153968253968
